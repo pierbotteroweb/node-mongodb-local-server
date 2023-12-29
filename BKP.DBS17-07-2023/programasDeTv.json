@@ -1,0 +1,4455 @@
+[{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccefc"
+  },
+  "titulo": "Video Clube",
+  "tipo": "movies",
+  "value": "VideoClube",
+  "canal": "Bandeirantes"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccefd"
+  },
+  "titulo": "A Bela e a Fera",
+  "tipo": "dublado",
+  "value": "aBelaEAFera",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccefe"
+  },
+  "titulo": "A Coisa 1979",
+  "tipo": "dublado",
+  "value": "aCoisa1979",
+  "canal": "Manchete"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcceff"
+  },
+  "titulo": "A Comédia Da Vida Privada",
+  "tipo": "originais",
+  "value": "aComediaDaVidaPrivada",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf01"
+  },
+  "titulo": "A Familia Addams",
+  "tipo": "dublado",
+  "value": "aFamiliaAddams",
+  "canal": "Manchete"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf02"
+  },
+  "titulo": "A Familia Dracula",
+  "tipo": "dublado",
+  "value": "aFamiliaDracula",
+  "canal": "Manchete"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf03"
+  },
+  "titulo": "A Gata E O Rato",
+  "tipo": "dublado",
+  "value": "aGataEORato",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf04"
+  },
+  "titulo": "A Hora Do Pesadelo",
+  "tipo": "dublado",
+  "value": "aHoraDoPesadelo",
+  "canal": "Sbt"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf05"
+  },
+  "titulo": "A Praça E Nossa",
+  "tipo": "originais",
+  "value": "aPracaENossa",
+  "canal": "Sbt"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf06"
+  },
+  "titulo": "Acredite se Quiser",
+  "tipo": "dublado",
+  "value": "acrediteSeQuiser",
+  "canal": "Manchete"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf07"
+  },
+  "titulo": "Aeon Flux",
+  "tipo": "originais",
+  "value": "aeonFlux",
+  "canal": "Mtv"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf08"
+  },
+  "titulo": "Aguia de Fogo",
+  "tipo": "dublado",
+  "value": "aguiaDeFogo",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf09"
+  },
+  "titulo": "Alf Eteimoso Serie",
+  "tipo": "dublado",
+  "value": "alfEteimosoSerie",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf0a"
+  },
+  "titulo": "Alf o Eteimoso",
+  "tipo": "dublado",
+  "value": "alfOEteimoso",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf0b"
+  },
+  "titulo": "Anadsm",
+  "tipo": "dublado",
+  "value": "anadsm",
+  "canal": "Sbt"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf0c"
+  },
+  "titulo": "Anjos da Lei",
+  "tipo": "dublado",
+  "value": "anjosDaLei",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf0d"
+  },
+  "titulo": "Aquaman",
+  "tipo": "dublado",
+  "value": "aquaman",
+  "canal": "Sbt"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf0e"
+  },
+  "titulo": "Aqui Agora",
+  "tipo": "originais",
+  "value": "aquiAgora",
+  "canal": "Sbt"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf0f"
+  },
+  "titulo": "Araponga",
+  "tipo": "novelas",
+  "value": "araponga",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf10"
+  },
+  "titulo": "Armação Ilimitada",
+  "tipo": "originais",
+  "value": "armacaoIlimitada",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf11"
+  },
+  "titulo": "Arquivo X",
+  "tipo": "dublado",
+  "value": "arquivoX",
+  "canal": "Record"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf12"
+  },
+  "titulo": "As Aventuras Da Blitz Contra O Gênio Do Mal",
+  "tipo": "originais",
+  "value": "asAventurasDaBlitzContraOGenioDoMal",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf13"
+  },
+  "titulo": "As Aventuras De Bj Mckay",
+  "tipo": "dublado",
+  "value": "asAventurasDeBjMckay",
+  "canal": "Sbt"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf14"
+  },
+  "titulo": "As Aventuras De Charlie Chan",
+  "tipo": "dublado",
+  "value": "asAventurasDeCharlieChan",
+  "canal": "Manchete"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf15"
+  },
+  "titulo": "Balão Magico",
+  "tipo": "originais",
+  "value": "balaoMagico",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf16"
+  },
+  "titulo": "Barraco MTV",
+  "tipo": "originais",
+  "value": "barracoMTV",
+  "canal": "MTV"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf18"
+  },
+  "titulo": "Batman",
+  "tipo": "dublado",
+  "value": "batman",
+  "canal": "Sbt"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf19"
+  },
+  "titulo": "Batman e Robin",
+  "tipo": "dublado",
+  "value": "batmanERobin",
+  "canal": "Sbt"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf1a"
+  },
+  "titulo": "Beakman",
+  "tipo": "dublado",
+  "value": "beakman",
+  "canal": "Cultura"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf1b"
+  },
+  "titulo": "Beavis And Butthead",
+  "tipo": "originais",
+  "value": "beavisAndButthead",
+  "canal": "Mtv"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf1c"
+  },
+  "titulo": "Bicudo",
+  "tipo": "dublado",
+  "value": "bicudo",
+  "canal": "Manchete"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf1d"
+  },
+  "titulo": "Bom Dia Brasil",
+  "tipo": "originais",
+  "value": "bomdiaBrasil",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf1e"
+  },
+  "titulo": "Bom Dia São Paulo",
+  "tipo": "originais",
+  "value": "bomdiaSaoPaulo",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf1f"
+  },
+  "titulo": "Bozo",
+  "tipo": "originais",
+  "value": "bozo",
+  "canal": "Sbt"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf20"
+  },
+  "titulo": "Brincando na Paulista",
+  "tipo": "originais",
+  "value": "brincandoNaPaulista",
+  "canal": "Gazeta"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf21"
+  },
+  "titulo": "Bronco",
+  "tipo": "originais",
+  "value": "bronco",
+  "canal": "Bandeirantes"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf22"
+  },
+  "titulo": "CEP MTV",
+  "tipo": "originais",
+  "value": "cEPMTV",
+  "canal": "Mtv"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf23"
+  },
+  "titulo": "Cabaré do Barata",
+  "tipo": "originais",
+  "value": "cabareDoBarata",
+  "canal": "Manchete"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf24"
+  },
+  "titulo": "Campeões de Bilheteria",
+  "tipo": "madrugada",
+  "value": "campeoesDeBilheteria",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf25"
+  },
+  "titulo": "Canal Livre",
+  "tipo": "originais",
+  "value": "canalLivre",
+  "canal": "Bandeirantes"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf26"
+  },
+  "titulo": "Cara a Cara",
+  "tipo": "originais",
+  "value": "caraACara",
+  "canal": "Bandeirantes"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf27"
+  },
+  "titulo": "Carro Comando",
+  "tipo": "dublado",
+  "value": "carroComando",
+  "canal": "Record"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf28"
+  },
+  "titulo": "Carrossel",
+  "tipo": "novelas",
+  "value": "carrossel",
+  "canal": "Sbt"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf29"
+  },
+  "titulo": "Cassino do Chacrinha",
+  "tipo": "originais",
+  "value": "cassinoDoChacrinha",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf2a"
+  },
+  "titulo": "Cavalo de Fogo",
+  "tipo": "dublado",
+  "value": "cavaloDeFogo",
+  "canal": "Sbt"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf2b"
+  },
+  "titulo": "Chapolin",
+  "tipo": "dublado",
+  "value": "chapolin",
+  "canal": "Sbt"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf2c"
+  },
+  "titulo": "Chaves",
+  "tipo": "dublado",
+  "value": "chaves",
+  "canal": "Sbt"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf2f"
+  },
+  "titulo": "Chico Anisio Show",
+  "tipo": "originais",
+  "value": "chicoAnisioShow",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf30"
+  },
+  "titulo": "Chips",
+  "tipo": "dublado",
+  "value": "chips",
+  "canal": "Sbt"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf31"
+  },
+  "titulo": "Cine Cultura",
+  "tipo": "movies",
+  "value": "cineCultura",
+  "canal": "Cultura"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf32"
+  },
+  "titulo": "Cine Gazeta",
+  "tipo": "madrugada",
+  "value": "cineGazeta",
+  "canal": "Gazeta"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf33"
+  },
+  "titulo": "Cine MTV",
+  "tipo": "originais",
+  "value": "cineMTV",
+  "canal": "Mtv"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf34"
+  },
+  "titulo": "Cinema em Casa",
+  "tipo": "noite",
+  "value": "cinemaEmCasa",
+  "canal": "Sbt"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf35"
+  },
+  "titulo": "Cinema na Madrugada",
+  "tipo": "madrugada",
+  "value": "cinemaNaMadrugada",
+  "canal": "Bandeirantes"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf36"
+  },
+  "titulo": "Cinemania",
+  "tipo": "originais",
+  "value": "cinemania",
+  "canal": "Manchete"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf37"
+  },
+  "titulo": "Cinemax",
+  "tipo": "noite",
+  "value": "cinemax",
+  "canal": "Bandeirantes"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf38"
+  },
+  "titulo": "Circuito Night and Day",
+  "tipo": "originais",
+  "value": "circuitoNightAndDay",
+  "canal": "Gazeta"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf39"
+  },
+  "titulo": "Classe A",
+  "tipo": "madrugada",
+  "value": "classeA",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf3a"
+  },
+  "titulo": "Clip Trip",
+  "tipo": "originais",
+  "value": "clipTrip",
+  "canal": "Gazeta"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf3b"
+  },
+  "titulo": "Clube do Bolinha",
+  "tipo": "originais",
+  "value": "clubeDoBolinha",
+  "canal": "Bandeirantes"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf3c"
+  },
+  "titulo": "Clube do Mickey",
+  "tipo": "dublado",
+  "value": "clubeDoMickey",
+  "canal": "Sbt"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf3d"
+  },
+  "titulo": "Comando Da Madrugada",
+  "tipo": "originais",
+  "value": "comandoDaMadrugada",
+  "canal": "Sbt"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf3e"
+  },
+  "titulo": "Combate No Vietnã",
+  "tipo": "dublado",
+  "value": "combateNoVietna",
+  "canal": "Sbt"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf3f"
+  },
+  "titulo": "Cometa Alegria",
+  "tipo": "originais",
+  "value": "cometaAlegria",
+  "canal": "Manchete"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf40"
+  },
+  "titulo": "Concertos Internacionais",
+  "tipo": "originais",
+  "value": "concertosInternacionais",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf41"
+  },
+  "titulo": "Confissões de Adolescente",
+  "tipo": "originais",
+  "value": "confissoesDeAdolescente",
+  "canal": "Cultura"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf42"
+  },
+  "titulo": "Contos de Fadas",
+  "tipo": "dublado",
+  "value": "contosDeFadas",
+  "canal": "Cultura"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf43"
+  },
+  "titulo": "Copa Total",
+  "tipo": "originais",
+  "value": "copaTotal",
+  "canal": "Manchete"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf44"
+  },
+  "titulo": "Corujão Dois",
+  "tipo": "madrugada",
+  "value": "corujaoDois",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf45"
+  },
+  "titulo": "Corujão Um",
+  "tipo": "madrugada",
+  "value": "corujaoUm",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf46"
+  },
+  "titulo": "Cozinha Maravilhosa da Ofélia",
+  "tipo": "originais",
+  "value": "cozinhaMaravilhosaDaOfelia",
+  "canal": "Bandeirantes"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf47"
+  },
+  "titulo": "Denis O Pimentinha",
+  "tipo": "dublado",
+  "value": "denisOPimentinha",
+  "canal": "Sbt"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf48"
+  },
+  "titulo": "Desenho Matinal 2",
+  "tipo": "dublado",
+  "value": "desenhoMatinal2",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf49"
+  },
+  "titulo": "Desenho Matinal 3",
+  "tipo": "dublado",
+  "value": "desenhoMatinal3",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf4a"
+  },
+  "titulo": "Desenhos Madrugada 1",
+  "tipo": "dublado",
+  "value": "desenhosMadrugada1",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf4b"
+  },
+  "titulo": "Desenhos Madrugada 2",
+  "tipo": "dublado",
+  "value": "desenhosMadrugada2",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf4c"
+  },
+  "titulo": "Desenhos Matinais 1",
+  "tipo": "dublado",
+  "value": "desenhosMatinais1",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf4d"
+  },
+  "titulo": "Desenhos Matinais 10",
+  "tipo": "dublado",
+  "value": "desenhosMatinais10",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf4e"
+  },
+  "titulo": "Desenhos Matinais 11",
+  "tipo": "dublado",
+  "value": "desenhosMatinais11",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf4f"
+  },
+  "titulo": "Desenhos Matinais 2",
+  "tipo": "dublado",
+  "value": "desenhosMatinais2",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf50"
+  },
+  "titulo": "Desenhos Matinais 3",
+  "tipo": "dublado",
+  "value": "desenhosMatinais3",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf51"
+  },
+  "titulo": "Desenhos Matinais 4",
+  "tipo": "dublado",
+  "value": "desenhosMatinais4",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf52"
+  },
+  "titulo": "Desenhos Matinais 5",
+  "tipo": "dublado",
+  "value": "desenhosMatinais5",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf53"
+  },
+  "titulo": "Desenhos Matinais 6",
+  "tipo": "dublado",
+  "value": "desenhosMatinais6",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf54"
+  },
+  "titulo": "Desenhos Matinais 7",
+  "tipo": "dublado",
+  "value": "desenhosMatinais7",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf55"
+  },
+  "titulo": "Desenhos Matinais 8",
+  "tipo": "dublado",
+  "value": "desenhosMatinais8",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf56"
+  },
+  "titulo": "Desenhos Matinais 9",
+  "tipo": "dublado",
+  "value": "desenhosMatinais9",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf57"
+  },
+  "titulo": "Despertar da Fe",
+  "tipo": "originais",
+  "value": "despertarDaFe",
+  "canal": "Record"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf58"
+  },
+  "titulo": "Disk MTV",
+  "tipo": "originais",
+  "value": "diskMTV",
+  "canal": "Mtv"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf59"
+  },
+  "titulo": "Disneylandia",
+  "tipo": "dublado",
+  "value": "disneylandia",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf5a"
+  },
+  "titulo": "Documento Especial",
+  "tipo": "originais",
+  "value": "documentoEspecial",
+  "canal": "Manchete"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf5b"
+  },
+  "titulo": "Domingo Maior",
+  "tipo": "madrugada",
+  "value": "domingoMaior",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf5c"
+  },
+  "titulo": "Domingão do Faustão",
+  "tipo": "originais",
+  "value": "domingaoDoFaustao",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf5d"
+  },
+  "titulo": "Ducktales",
+  "tipo": "dublado",
+  "value": "ducktales",
+  "canal": "Sbt"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf5e"
+  },
+  "titulo": "Duro na Queda",
+  "tipo": "dublado",
+  "value": "duroNaQueda",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf5f"
+  },
+  "titulo": "Décimo Andar",
+  "tipo": "originais",
+  "value": "decimoAndar",
+  "canal": "Mtv"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf60"
+  },
+  "titulo": "Enigma",
+  "tipo": "originais",
+  "value": "enigma",
+  "canal": "Cultura"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf61"
+  },
+  "titulo": "Ensaio",
+  "tipo": "originais",
+  "value": "ensaio",
+  "canal": "Cultura"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf62"
+  },
+  "titulo": "Escolinha Do Prof Raimundo",
+  "tipo": "originais",
+  "value": "escolinhaDoProfRaimundo",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf63"
+  },
+  "titulo": "Esporte E Ação",
+  "tipo": "originais",
+  "value": "esporteEAcao",
+  "canal": "Manchete"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf64"
+  },
+  "titulo": "Esporte Espetacular",
+  "tipo": "originais",
+  "value": "esporteespetacular",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf65"
+  },
+  "titulo": "Esquadrão Classe A",
+  "tipo": "dublado",
+  "value": "esquadraoClasseA",
+  "canal": "Sbt"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf66"
+  },
+  "titulo": "Fabrica de Som",
+  "tipo": "originais",
+  "value": "fabricaDeSom",
+  "canal": "Cultura"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf67"
+  },
+  "titulo": "Fantastico",
+  "tipo": "originais",
+  "value": "fantastico",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf68"
+  },
+  "titulo": "Flash Amaury Jr ",
+  "tipo": "originais",
+  "value": "flashAmauryJr",
+  "canal": "Bandeirantes"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf69"
+  },
+  "titulo": "Formula 1",
+  "tipo": "originais",
+  "value": "formula1",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf6a"
+  },
+  "titulo": "Forno fogão e Cia",
+  "tipo": "originais",
+  "value": "fornoFogaoECia",
+  "canal": "Gazeta"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf6b"
+  },
+  "titulo": "Furia Metal",
+  "tipo": "originais",
+  "value": "furiaMetal",
+  "canal": "Mtv"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf6c"
+  },
+  "titulo": "Galeria Do Terror",
+  "tipo": "dublado",
+  "value": "galeriaDoTerror",
+  "canal": "Bandeirantes"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf6d"
+  },
+  "titulo": "Gazeta Paulista",
+  "tipo": "originais",
+  "value": "gazetaPaulista",
+  "canal": "Gazeta"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf6e"
+  },
+  "titulo": "Gente de Expressão",
+  "tipo": "originais",
+  "value": "genteDeExpressao",
+  "canal": "Manchete"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf6f"
+  },
+  "titulo": "Globo Ciencia",
+  "tipo": "originais",
+  "value": "globociencia",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf70"
+  },
+  "titulo": "Globo Esporte",
+  "tipo": "originais",
+  "value": "globoesporte",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf71"
+  },
+  "titulo": "Globo Reporter",
+  "tipo": "originais",
+  "value": "globoreporter",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf72"
+  },
+  "titulo": "Globo Rural",
+  "tipo": "originais",
+  "value": "globoRural",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf73"
+  },
+  "titulo": "Goggle Five",
+  "tipo": "dublado",
+  "value": "goggleFive",
+  "canal": "Bandeirantes"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf74"
+  },
+  "titulo": "Gols do Fantástico",
+  "tipo": "originais",
+  "value": "golsDoFantastico",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf75"
+  },
+  "titulo": "Gás Total",
+  "tipo": "originais",
+  "value": "gasTotal",
+  "canal": "Mtv"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf76"
+  },
+  "titulo": "Hermes e Renato",
+  "tipo": "originais",
+  "value": "hermesERenato",
+  "canal": "Mtv"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf77"
+  },
+  "titulo": "Heroi Por Acaso",
+  "tipo": "dublado",
+  "value": "heroiPorAcaso",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf78"
+  },
+  "titulo": "Historias Maravilhosas",
+  "tipo": "dublado",
+  "value": "historiasMaravilhosas",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf79"
+  },
+  "titulo": "Homem Aranha 1978",
+  "tipo": "dublado",
+  "value": "homemAranha1978",
+  "canal": "Manchete"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf7a"
+  },
+  "titulo": "Hugo",
+  "tipo": "originais",
+  "value": "hugo",
+  "canal": "Gazeta"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf7b"
+  },
+  "titulo": "Int A Bela e a Fera",
+  "tipo": "intervalos",
+  "value": "intABelaEAFera",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf7c"
+  },
+  "titulo": "Int Acredite se Quiser",
+  "tipo": "intervalos",
+  "value": "intAcrediteSeQuiser",
+  "canal": "Manchete"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf7d"
+  },
+  "titulo": "Int Alf Eteimoso Serie",
+  "tipo": "intervalos",
+  "value": "intAlfEteimosoSerie",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf7e"
+  },
+  "titulo": "Int Araponga",
+  "tipo": "intervalos",
+  "value": "intAraponga",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf7f"
+  },
+  "titulo": "Int Armacao Ilimitada",
+  "tipo": "intervalos",
+  "value": "intArmacaoIlimitada",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf80"
+  },
+  "titulo": "Int Balão Magico",
+  "tipo": "intervalos",
+  "value": "intBalaoMagico",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf81"
+  },
+  "titulo": "Int Bom Dia Brasil",
+  "tipo": "intervalos",
+  "value": "intbomdiaBrasil",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf82"
+  },
+  "titulo": "Int Bozo",
+  "tipo": "intervalos",
+  "value": "intBozo",
+  "canal": "Sbt"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf83"
+  },
+  "titulo": "Int Campeões de Bilheteria",
+  "tipo": "intervalos",
+  "value": "intCampeoesDeBilheteria",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf84"
+  },
+  "titulo": "Int Carrossel",
+  "tipo": "intervalos",
+  "value": "intCarrossel",
+  "canal": "Sbt"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf85"
+  },
+  "titulo": "Int Cassino do Chacrinha",
+  "tipo": "intervalos",
+  "value": "intCassinoDoChacrinha",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf86"
+  },
+  "titulo": "Int Chico Anisio Show",
+  "tipo": "intervalos",
+  "value": "intChicoAnisioShow",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf87"
+  },
+  "titulo": "Int Cine Gazeta",
+  "tipo": "intervalos",
+  "value": "intCineGazeta",
+  "canal": "Gazeta"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf88"
+  },
+  "titulo": "Int Classe A",
+  "tipo": "intervalos",
+  "value": "intClasseA",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf89"
+  },
+  "titulo": "Int Corujao",
+  "tipo": "intervalos",
+  "value": "intCorujao",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf8a"
+  },
+  "titulo": "Int Corujão Dois",
+  "tipo": "intervalos",
+  "value": "intCorujaoDois",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf8b"
+  },
+  "titulo": "Int Corujão Um",
+  "tipo": "intervalos",
+  "value": "intCorujaoUm",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf8c"
+  },
+  "titulo": "Int Disneylandia",
+  "tipo": "intervalos",
+  "value": "intDisneylandia",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf8d"
+  },
+  "titulo": "Int Domingo",
+  "tipo": "intervalos",
+  "value": "intDomingo",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf8e"
+  },
+  "titulo": "Int Domingo Maior",
+  "tipo": "intervalos",
+  "value": "intDomingoMaior",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf8f"
+  },
+  "titulo": "Int Duro na Queda",
+  "tipo": "intervalos",
+  "value": "intDuroNaQueda",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf90"
+  },
+  "titulo": "Int Escolinha Do Prof Raimundo",
+  "tipo": "intervalos",
+  "value": "intEscolinhaDoProfRaimundo",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf91"
+  },
+  "titulo": "Int Formula 1",
+  "tipo": "intervalos",
+  "value": "intFormula1",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf92"
+  },
+  "titulo": "Int Heroi Por Acaso",
+  "tipo": "intervalos",
+  "value": "intHeroiPorAcaso",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf93"
+  },
+  "titulo": "Int Jô Soares Onze e Meia",
+  "tipo": "intervalos",
+  "value": "intJoSoaresOnzeEMeia",
+  "canal": "Sbt"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf94"
+  },
+  "titulo": "Int Linha Direta",
+  "tipo": "intervalos",
+  "value": "intLinhaDireta",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf95"
+  },
+  "titulo": "Int Missa De Domingo",
+  "tipo": "intervalos",
+  "value": "intmissaDeDomingo",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf96"
+  },
+  "titulo": "Int Na Mira do Tira",
+  "tipo": "intervalos",
+  "value": "intNaMiraDoTira",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf97"
+  },
+  "titulo": "Int Novela VPVN",
+  "tipo": "intervalos",
+  "value": "intNovelaVPVN",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf9c"
+  },
+  "titulo": "Int Sabado",
+  "tipo": "intervalos",
+  "value": "intSabado",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf9d"
+  },
+  "titulo": "Int Sessão Aventura",
+  "tipo": "intervalos",
+  "value": "intSessaoAventura",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf9e"
+  },
+  "titulo": "Int Sessão Comedia",
+  "tipo": "intervalos",
+  "value": "intSessaoComedia",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccf9f"
+  },
+  "titulo": "Int Sessão da Tarde",
+  "tipo": "intervalos",
+  "value": "intSessaoDaTarde",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccfa0"
+  },
+  "titulo": "Int Sessão de Gala",
+  "tipo": "intervalos",
+  "value": "intSessaoDeGala",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccfa1"
+  },
+  "titulo": "Int Simpsons",
+  "tipo": "intervalos",
+  "value": "intSimpsons",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccfa2"
+  },
+  "titulo": "Int Supercine",
+  "tipo": "intervalos",
+  "value": "intSupercine",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccfa3"
+  },
+  "titulo": "Int Suspense",
+  "tipo": "intervalos",
+  "value": "intSuspense",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccfa4"
+  },
+  "titulo": "Int Swat",
+  "tipo": "intervalos",
+  "value": "intSwat",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccfa5"
+  },
+  "titulo": "Int TV Colosso",
+  "tipo": "intervalos",
+  "value": "intTVColosso",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccfa6"
+  },
+  "titulo": "Int TV Pirata",
+  "tipo": "intervalos",
+  "value": "intTVPirata",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccfa7"
+  },
+  "titulo": "Int Tela Quente",
+  "tipo": "intervalos",
+  "value": "intTelaQuente",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccfa8"
+  },
+  "titulo": "Int Temperatura Máxima",
+  "tipo": "intervalos",
+  "value": "intTemperaturaMaxima",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccfa9"
+  },
+  "titulo": "Int Trapalhões",
+  "tipo": "intervalos",
+  "value": "intTrapalhoes",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccfaa"
+  },
+  "titulo": "Int Twin Peaks",
+  "tipo": "intervalos",
+  "value": "intTwinPeaks",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccfab"
+  },
+  "titulo": "Int Xou da Xuxa",
+  "tipo": "intervalos",
+  "value": "intXouDaXuxa",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccfac"
+  },
+  "titulo": "IntnoivasDeCopacabana",
+  "tipo": "intervalos",
+  "value": "noivasDeCopacabana",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccfad"
+  },
+  "titulo": "Jaspion",
+  "tipo": "dublado",
+  "value": "jaspion",
+  "canal": "Manchete"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccfae"
+  },
+  "titulo": "Jiraya",
+  "tipo": "dublado",
+  "value": "jiraya",
+  "canal": "Manchete"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccfaf"
+  },
+  "titulo": "Jornada Nas Estrelas A Nova Geração",
+  "tipo": "dublado",
+  "value": "jornadaNasEstrelasANovaGeracao",
+  "canal": "Record"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccfb0"
+  },
+  "titulo": "Jornal Da Manchete",
+  "tipo": "originais",
+  "value": "jornalDaManchete",
+  "canal": "Manchete"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccfb1"
+  },
+  "titulo": "Jornal Da Noite",
+  "tipo": "originais",
+  "value": "jornalDaNoite",
+  "canal": "Bandeirantes"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccfb2"
+  },
+  "titulo": "Jornal Hoje",
+  "tipo": "originais",
+  "value": "jornalhone",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccfb3"
+  },
+  "titulo": "Jornal Nacional",
+  "tipo": "originais",
+  "value": "jornalnacional",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccfb4"
+  },
+  "titulo": "Jornal da Globo",
+  "tipo": "originais",
+  "value": "jornaldaglobo",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccfb5"
+  },
+  "titulo": "Jornal do SBT",
+  "tipo": "originais",
+  "value": "jornalDoSBT",
+  "canal": "Sbt"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccfb6"
+  },
+  "titulo": "Jovens Titãs",
+  "tipo": "dublado",
+  "value": "jovensTitas",
+  "canal": "Sbt"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccfb7"
+  },
+  "titulo": "Jô Soares Onze e Meia",
+  "tipo": "originais",
+  "value": "joSoaresOnzeEMeia",
+  "canal": "Sbt"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccfb8"
+  },
+  "titulo": "Kolchak",
+  "tipo": "dublado",
+  "value": "kolchak",
+  "canal": "Record"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccfb9"
+  },
+  "titulo": "Lado B",
+  "tipo": "originais",
+  "value": "ladoB",
+  "canal": "Mtv"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccfba"
+  },
+  "titulo": "Lanterna Magica",
+  "tipo": "originais",
+  "value": "lanternaMagica",
+  "canal": "Cultura"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccfbb"
+  },
+  "titulo": "Lanterna Verde",
+  "tipo": "dublado",
+  "value": "lanternaVerde",
+  "canal": "Sbt"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccfbc"
+  },
+  "titulo": "Liga da Justiça da America",
+  "tipo": "dublado",
+  "value": "ligaDaJusticaDaAmerica",
+  "canal": "Sbt"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccfbd"
+  },
+  "titulo": "Linha Direta",
+  "tipo": "originais",
+  "value": "linhaDireta",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccfbe"
+  },
+  "titulo": "Looney Tunes",
+  "tipo": "dublado",
+  "value": "looneyTunes",
+  "canal": "Sbt"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccfbf"
+  },
+  "titulo": "Lupu Limpim Clapla Topo",
+  "tipo": "originais",
+  "value": "lupuLimpimClaplaTopo",
+  "canal": "Manchete"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccfc0"
+  },
+  "titulo": "Luta Livre De Mulheres",
+  "tipo": "dublado",
+  "value": "lutaLivreDeMulheres",
+  "canal": "Sbt"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccfc1"
+  },
+  "titulo": "MTV 120 Minutes",
+  "tipo": "originais",
+  "value": "mTV120Minutes",
+  "canal": "Mtv"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccfc2"
+  },
+  "titulo": "MTV Brasil Top 200",
+  "tipo": "originais",
+  "value": "mTVBrasilTop200",
+  "canal": "Mtv"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccfc3"
+  },
+  "titulo": "MTV Decade",
+  "tipo": "originais",
+  "value": "mTVDecade",
+  "canal": "Mtv"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccfc4"
+  },
+  "titulo": "MTV Headbangers Ball",
+  "tipo": "originais",
+  "value": "mTVHeadbangersBall",
+  "canal": "Mtv"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccfc5"
+  },
+  "titulo": "MTV NO AR DROPS",
+  "tipo": "originais",
+  "value": "mTVNOARDROPS",
+  "canal": "Mtv"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccfc6"
+  },
+  "titulo": "MTV No Ar",
+  "tipo": "originais",
+  "value": "mTVNoAr",
+  "canal": "Mtv"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccfc7"
+  },
+  "titulo": "MTV Vidcheck",
+  "tipo": "originais",
+  "value": "mTVVidcheck",
+  "canal": "Mtv"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccfc8"
+  },
+  "titulo": "MTV's Weird Ass Classic Cartoons",
+  "tipo": "originais",
+  "value": "mTVSWeirdAssClassicCartoons",
+  "canal": "Mtv"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccfc9"
+  },
+  "titulo": "Machine Man",
+  "tipo": "dublado",
+  "value": "machineMan",
+  "canal": "Bandeirantes"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccfcb"
+  },
+  "titulo": "Mariane",
+  "tipo": "originais",
+  "value": "mariane",
+  "canal": "Sbt"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccfcc"
+  },
+  "titulo": "Materia Prima",
+  "tipo": "originais",
+  "value": "materiaPrima",
+  "canal": "Cultura"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccfcd"
+  },
+  "titulo": "Metrópolis",
+  "tipo": "originais",
+  "value": "metropolis",
+  "canal": "Cultura"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccfce"
+  },
+  "titulo": "Miami Vice",
+  "tipo": "dublado",
+  "value": "miamiVice",
+  "canal": "Sbt"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccfcf"
+  },
+  "titulo": "Migraine Boy",
+  "tipo": "originais",
+  "value": "migraineBoy",
+  "canal": "Mtv"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccfd0"
+  },
+  "titulo": "Milk Shake",
+  "tipo": "originais",
+  "value": "milkShake",
+  "canal": "Manchete"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccfd1"
+  },
+  "titulo": "Missa De Domingo",
+  "tipo": "originais",
+  "value": "missaDeDomingo",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccfd2"
+  },
+  "titulo": "Momento Econômico",
+  "tipo": "originais",
+  "value": "momentoEconomico",
+  "canal": "Manchete"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccfd3"
+  },
+  "titulo": "Mtv Liquid Television",
+  "tipo": "originais",
+  "value": "mtvLiquidTelevision",
+  "canal": "Mtv"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccfd4"
+  },
+  "titulo": "Mulheres em Desfile",
+  "tipo": "originais",
+  "value": "mulheresEmDesfile",
+  "canal": "Gazeta"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccfd5"
+  },
+  "titulo": "Muppet Babies",
+  "tipo": "dublado",
+  "value": "muppetBabies",
+  "canal": "Sbt"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccfd6"
+  },
+  "titulo": "Mussolini Minissérie Completa",
+  "tipo": "dublado",
+  "value": "mussoliniMinisserieCompleta",
+  "canal": "Sbt"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccfd7"
+  },
+  "titulo": "Na Mira do Tira",
+  "tipo": "dublado",
+  "value": "naMiraDoTira",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccfd8"
+  },
+  "titulo": "National Geographic",
+  "tipo": "dublado",
+  "value": "nationalGeographic",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccfd9"
+  },
+  "titulo": "Noite Dia Manchete",
+  "tipo": "originais",
+  "value": "noiteDiaManchete",
+  "canal": "Manchete"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccfda"
+  },
+  "titulo": "Noivas de Copacabana",
+  "tipo": "originais",
+  "value": "noivasDeCopacabana",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccfdb"
+  },
+  "titulo": "Novela Corpo Santo",
+  "tipo": "novelas",
+  "value": "novelaCorpoSanto",
+  "canal": "Manchete"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccfdc"
+  },
+  "titulo": "Novela VPVN",
+  "tipo": "novelas",
+  "value": "novelaVPVN",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccfe0"
+  },
+  "titulo": "O Atomo",
+  "tipo": "dublado",
+  "value": "oAtomo",
+  "canal": "Sbt"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccfe1"
+  },
+  "titulo": "O Homem Da Máfia",
+  "tipo": "dublado",
+  "value": "oHomemDaMafia",
+  "canal": "Record"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccfe2"
+  },
+  "titulo": "O Onus da Prova",
+  "tipo": "dublado",
+  "value": "oOnusDaProva",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccfe3"
+  },
+  "titulo": "O Último Último Programa Do Mundo",
+  "tipo": "originais",
+  "value": "oUltimoUltimoProgramaDoMundo",
+  "canal": "Mtv"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccfe4"
+  },
+  "titulo": "Oradukapeta",
+  "tipo": "originais",
+  "value": "oradukapeta",
+  "canal": "Sbt"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccfe5"
+  },
+  "titulo": "Os Bichos",
+  "tipo": "originais",
+  "value": "osBichos",
+  "canal": "Cultura"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccfe6"
+  },
+  "titulo": "Os Monstros",
+  "tipo": "dublado",
+  "value": "osMonstros",
+  "canal": "Sbt"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccfe7"
+  },
+  "titulo": "Os Três Patetas",
+  "tipo": "dublado",
+  "value": "osTresPatetas",
+  "canal": "Record"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccfe8"
+  },
+  "titulo": "PRe Pos Santa Missa em Seu Lar",
+  "tipo": "intervalos",
+  "value": "prePosSantaMissaEmSeuLar",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccfe9"
+  },
+  "titulo": "Palavra de Mulher",
+  "tipo": "originais",
+  "value": "palavraDeMulher",
+  "canal": "Cultura"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccfea"
+  },
+  "titulo": "Pantera Cor-de-Rosa",
+  "tipo": "dublado",
+  "value": "panteraCor-De-Rosa",
+  "canal": "Sbt"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccfeb"
+  },
+  "titulo": "Parker Lewis",
+  "tipo": "dublado",
+  "value": "parkerLewis",
+  "canal": "Record"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccfec"
+  },
+  "titulo": "Passa ou Repassa",
+  "tipo": "originais",
+  "value": "passaOuRepassa",
+  "canal": "Sbt"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccfed"
+  },
+  "titulo": "Passaros Feridos",
+  "tipo": "dublado",
+  "value": "passarosFeridos",
+  "canal": "Sbt"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccfee"
+  },
+  "titulo": "Pequenas Empresas Grandes Negocios",
+  "tipo": "originais",
+  "value": "pequenasempresas",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccfef"
+  },
+  "titulo": "Perdidos Na Noite",
+  "tipo": "originais",
+  "value": "perdidosNaNoite",
+  "canal": "Bandeirantes"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccff0"
+  },
+  "titulo": "Perdidos No Espaço",
+  "tipo": "dublado",
+  "value": "perdidosNoEspaco",
+  "canal": "Record"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccff1"
+  },
+  "titulo": "Pesca & Companhia",
+  "tipo": "originais",
+  "value": "pesca&Companhia",
+  "canal": "Sbt"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccff2"
+  },
+  "titulo": "Pica Pau",
+  "tipo": "dublado",
+  "value": "picaPau",
+  "canal": "Sbt"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccff3"
+  },
+  "titulo": "Pirata Do Espaço",
+  "tipo": "dublado",
+  "value": "pirataDoEspaco",
+  "canal": "Gazeta"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccff4"
+  },
+  "titulo": "Planeta Terra",
+  "tipo": "originais",
+  "value": "planetaTerra",
+  "canal": "Cultura"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccff5"
+  },
+  "titulo": "Pole Position",
+  "tipo": "dublado",
+  "value": "polePosition",
+  "canal": "Sbt"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccff6"
+  },
+  "titulo": "Porta da Esperança",
+  "tipo": "originais",
+  "value": "portaDaEsperanca",
+  "canal": "Sbt"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccff7"
+  },
+  "titulo": "Pre Pos Carrossel",
+  "tipo": "intervalos",
+  "value": "prePosCarrossel",
+  "canal": "Sbt"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccff8"
+  },
+  "titulo": "Pre Pos Cassino do Chacrinha",
+  "tipo": "intervalos",
+  "value": "prePoscassinoDoChacrinha",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccff9"
+  },
+  "titulo": "Pre Pos Classe A",
+  "tipo": "intervalos",
+  "value": "prePosClasseA",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccffa"
+  },
+  "titulo": "Pre Pos Corujão",
+  "tipo": "intervalos",
+  "value": "prePosCorujao",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccffb"
+  },
+  "titulo": "Pre Pos Corujão Dois",
+  "tipo": "intervalos",
+  "value": "prePosCorujaoDois",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccffc"
+  },
+  "titulo": "Pre Pos Corujão Um",
+  "tipo": "intervalos",
+  "value": "prePosCorujaoUm",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccffd"
+  },
+  "titulo": "Pre Pos Domingo Maior",
+  "tipo": "intervalos",
+  "value": "prePosDomingoMaior",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dccffe"
+  },
+  "titulo": "Pre Pos Escolinha Do Prof Raimundo",
+  "tipo": "intervalos",
+  "value": "prePosEscolinhaDoProfRaimundo",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd000"
+  },
+  "titulo": "Pre Pos Simpsons",
+  "tipo": "intervalos",
+  "value": "prePosSimpsons",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd001"
+  },
+  "titulo": "Pre Pos Supercine",
+  "tipo": "intervalos",
+  "value": "prePosSupercine",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd002"
+  },
+  "titulo": "Pre Pos Suspense",
+  "tipo": "intervalos",
+  "value": "prePosSuspense",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd003"
+  },
+  "titulo": "Pre Pos Swat",
+  "tipo": "intervalos",
+  "value": "prePosSwat",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd004"
+  },
+  "titulo": "Pre Pos Tela Quente",
+  "tipo": "intervalos",
+  "value": "prePosTelaQuente",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd005"
+  },
+  "titulo": "Pre Pos Twin Peaks",
+  "tipo": "intervalos",
+  "value": "prePosTwinPeaks",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd006"
+  },
+  "titulo": "Programa Ferreira Neto",
+  "tipo": "originais",
+  "value": "programaFerreiraNeto",
+  "canal": "Gazeta"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd007"
+  },
+  "titulo": "Programa Livre",
+  "tipo": "originais",
+  "value": "programaLivre",
+  "canal": "Sbt"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd008"
+  },
+  "titulo": "Programa Silvia Popovich",
+  "tipo": "originais",
+  "value": "programaSilviaPopovich",
+  "canal": "Sbt"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd009"
+  },
+  "titulo": "Programa Silvio Santos",
+  "tipo": "originais",
+  "value": "programaSilvioSantos",
+  "canal": "Sbt"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd00a"
+  },
+  "titulo": "Programa de Domingo",
+  "tipo": "originais",
+  "value": "programaDeDomingo",
+  "canal": "Manchete"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd00b"
+  },
+  "titulo": "Punky",
+  "tipo": "dublado",
+  "value": "punky",
+  "canal": "Sbt"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd00c"
+  },
+  "titulo": "Quarta Jornal da Globo 1",
+  "tipo": "originais",
+  "value": "quartaPosJornalDaGlobo1",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd00d"
+  },
+  "titulo": "Ra Tim Bum",
+  "tipo": "originais",
+  "value": "raTimBum",
+  "canal": "Cultura"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd00e"
+  },
+  "titulo": "Record Em Noticias",
+  "tipo": "originais",
+  "value": "recordEmNoticias",
+  "canal": "Record"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd00f"
+  },
+  "titulo": "Reporter Especial",
+  "tipo": "originais",
+  "value": "reporterEspecial",
+  "canal": "Cultura"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd010"
+  },
+  "titulo": "Revistinha",
+  "tipo": "originais",
+  "value": "revistinha",
+  "canal": "Cultura"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd011"
+  },
+  "titulo": "Riquinho",
+  "tipo": "dublado",
+  "value": "riquinho",
+  "canal": "Manchete"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd012"
+  },
+  "titulo": "Roda Viva",
+  "tipo": "originais",
+  "value": "rodaViva",
+  "canal": "Cultura"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd013"
+  },
+  "titulo": "Santa Missa em Seu Lar",
+  "tipo": "originais",
+  "value": "santaMissaEmSeuLar",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd014"
+  },
+  "titulo": "Sbt Esporte",
+  "tipo": "originais",
+  "value": "sbtEsporte",
+  "canal": "Sbt"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd015"
+  },
+  "titulo": "Semana Rock",
+  "tipo": "originais",
+  "value": "semanaRock",
+  "canal": "Mtv"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd016"
+  },
+  "titulo": "Serie Horario Nobre",
+  "tipo": "dublado",
+  "value": "serieHorarioNobre",
+  "canal": "Sbt"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd017"
+  },
+  "titulo": "Sessão Aventura 1",
+  "tipo": "dublado",
+  "value": "sessaoAventura1",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd018"
+  },
+  "titulo": "Sessão Aventura 2",
+  "tipo": "dublado",
+  "value": "sessaoAventura2",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd019"
+  },
+  "titulo": "Sessão Aventura 3",
+  "tipo": "dublado",
+  "value": "sessaoAventura3",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd01a"
+  },
+  "titulo": "Sessão Aventura 4",
+  "tipo": "dublado",
+  "value": "sessaoAventura4",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd01b"
+  },
+  "titulo": "Sessão Aventura 5",
+  "tipo": "dublado",
+  "value": "sessaoAventura5",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd01c"
+  },
+  "titulo": "Sessão Comedia 1",
+  "tipo": "dublado",
+  "value": "sessaoComedia1",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd01d"
+  },
+  "titulo": "Sessão Comedia 2",
+  "tipo": "dublado",
+  "value": "sessaoComedia2",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd01e"
+  },
+  "titulo": "Sessão Comedia 3",
+  "tipo": "dublado",
+  "value": "sessaoComedia3",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd01f"
+  },
+  "titulo": "Sessão Comedia 4",
+  "tipo": "dublado",
+  "value": "sessaoComedia4",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd020"
+  },
+  "titulo": "Sessão Comedia 5",
+  "tipo": "dublado",
+  "value": "sessaoComedia5",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd021"
+  },
+  "titulo": "Sessão Espacial",
+  "tipo": "dublado",
+  "value": "sessaoEspacial",
+  "canal": "Manchete"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd022"
+  },
+  "titulo": "Sessão da Tarde",
+  "tipo": "noite",
+  "value": "sessaoDaTarde",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd023"
+  },
+  "titulo": "Sessão das Dez",
+  "tipo": "noite",
+  "value": "sessaoDasDez",
+  "canal": "Sbt"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd024"
+  },
+  "titulo": "Sessão de Gala",
+  "tipo": "madrugada",
+  "value": "sessaoDeGala",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd025"
+  },
+  "titulo": "Sexto Sentido",
+  "tipo": "originais",
+  "value": "sextoSentido",
+  "canal": "Gazeta"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd026"
+  },
+  "titulo": "Show Maravilha",
+  "tipo": "originais",
+  "value": "showMaravilha",
+  "canal": "Sbt"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd027"
+  },
+  "titulo": "Show do Mallandro",
+  "tipo": "originais",
+  "value": "showDoMallandro",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd028"
+  },
+  "titulo": "Silverhawks",
+  "tipo": "dublado",
+  "value": "silverhawks",
+  "canal": "Sbt"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd029"
+  },
+  "titulo": "Simpsons",
+  "tipo": "dublado",
+  "value": "simpsons",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd02a"
+  },
+  "titulo": "Snoopy",
+  "tipo": "dublado",
+  "value": "snoopy",
+  "canal": "Sbt"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd02b"
+  },
+  "titulo": "Som Pop",
+  "tipo": "originais",
+  "value": "somPop",
+  "canal": "Cultura"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd02c"
+  },
+  "titulo": "South Park",
+  "tipo": "originais",
+  "value": "southPark",
+  "canal": "Mtv"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd02d"
+  },
+  "titulo": "Spectreman",
+  "tipo": "dublado",
+  "value": "spectreman",
+  "canal": "Sbt"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd02e"
+  },
+  "titulo": "Speed Racer",
+  "tipo": "originais",
+  "value": "speedRacer",
+  "canal": "Mtv"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd02f"
+  },
+  "titulo": "Starman",
+  "tipo": "dublado",
+  "value": "starman",
+  "canal": "Sbt"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd030"
+  },
+  "titulo": "Super Heroi Americano",
+  "tipo": "dublado",
+  "value": "superHeroiAmericano",
+  "canal": "Sbt"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd031"
+  },
+  "titulo": "Super Maquina",
+  "tipo": "dublado",
+  "value": "superMaquina",
+  "canal": "Sbt"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd032"
+  },
+  "titulo": "Super Set",
+  "tipo": "madrugada",
+  "value": "superSet",
+  "canal": "Record"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd033"
+  },
+  "titulo": "Super Tela",
+  "tipo": "noite",
+  "value": "superTela",
+  "canal": "Record"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd034"
+  },
+  "titulo": "Supercine",
+  "tipo": "noite",
+  "value": "supercine",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd035"
+  },
+  "titulo": "Superman 1941",
+  "tipo": "dublado",
+  "value": "superman1941",
+  "canal": "Sbt"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd036"
+  },
+  "titulo": "Suspense",
+  "tipo": "dublado",
+  "value": "suspense",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd037"
+  },
+  "titulo": "Swat",
+  "tipo": "dublado",
+  "value": "swat",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd038"
+  },
+  "titulo": "São Paulo Já 1",
+  "tipo": "originais",
+  "value": "saoPauloja1",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd039"
+  },
+  "titulo": "São Paulo Já 2",
+  "tipo": "originais",
+  "value": "saoPauloja2",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd03a"
+  },
+  "titulo": "TJ Brasil",
+  "tipo": "originais",
+  "value": "tJBrasil",
+  "canal": "Sbt"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd03b"
+  },
+  "titulo": "TJ Internacional",
+  "tipo": "originais",
+  "value": "tJInternacional",
+  "canal": "Sbt"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd03c"
+  },
+  "titulo": "TV Colosso",
+  "tipo": "originais",
+  "value": "tVColosso",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd03d"
+  },
+  "titulo": "TV Fofão",
+  "tipo": "originais",
+  "value": "tVFofao",
+  "canal": "Bandeirantes"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd03e"
+  },
+  "titulo": "TV Mapping",
+  "tipo": "originais",
+  "value": "tVMapping",
+  "canal": "Record"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd03f"
+  },
+  "titulo": "TV Pirata",
+  "tipo": "originais",
+  "value": "tVPirata",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd040"
+  },
+  "titulo": "Tamanho Familia",
+  "tipo": "originais",
+  "value": "tamanhoFamilia",
+  "canal": "Manchete"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd041"
+  },
+  "titulo": "Tela  Class",
+  "tipo": "originais",
+  "value": "telaClass",
+  "canal": "Mtv"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd042"
+  },
+  "titulo": "Tela Quente",
+  "tipo": "noite",
+  "value": "telaQuente",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd043"
+  },
+  "titulo": "Telecurso 2 Grau",
+  "tipo": "originais",
+  "value": "telecurso2grau",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd044"
+  },
+  "titulo": "Teleguiado",
+  "tipo": "originais",
+  "value": "teleguiado",
+  "canal": "Mtv"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd045"
+  },
+  "titulo": "Temperatura Máxima",
+  "tipo": "noite",
+  "value": "temperaturaMaxima",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd046"
+  },
+  "titulo": "Terça Nobre",
+  "tipo": "originais",
+  "value": "tercaNobre",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd047"
+  },
+  "titulo": "The Head",
+  "tipo": "originais",
+  "value": "theHead",
+  "canal": "Mtv"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd048"
+  },
+  "titulo": "The Maxx",
+  "tipo": "originais",
+  "value": "theMaxx",
+  "canal": "Mtv"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd049"
+  },
+  "titulo": "Tom E Jerry",
+  "tipo": "dublado",
+  "value": "tomEJerry",
+  "canal": "Sbt"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd04a"
+  },
+  "titulo": "Topa Tudo Por Dinheiro",
+  "tipo": "originais",
+  "value": "topaTudoPorDinheiro",
+  "canal": "Sbt"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd04b"
+  },
+  "titulo": "Topo Gigio",
+  "tipo": "originais",
+  "value": "topoGigio",
+  "canal": "Bandeirantes"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd04c"
+  },
+  "titulo": "Trapalhões",
+  "tipo": "originais",
+  "value": "trapalhoes",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd04d"
+  },
+  "titulo": "Tunel do Tempo",
+  "tipo": "dublado",
+  "value": "tunelDoTempo",
+  "canal": "Record"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd04e"
+  },
+  "titulo": "Tv Criança",
+  "tipo": "originais",
+  "value": "tvCrianca",
+  "canal": "Bandeirantes"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd04f"
+  },
+  "titulo": "Twin Peaks",
+  "tipo": "dublado",
+  "value": "twinPeaks",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd050"
+  },
+  "titulo": "Um Amor de Familia",
+  "tipo": "dublado",
+  "value": "umAmorDeFamilia",
+  "canal": "Bandeirantes"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd051"
+  },
+  "titulo": "V - A Serie",
+  "tipo": "dublado",
+  "value": "v-ASerie",
+  "canal": "Sbt"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd052"
+  },
+  "titulo": "VMA MTV",
+  "tipo": "originais",
+  "value": "vMAMTV",
+  "canal": "Mtv"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd053"
+  },
+  "titulo": "Vale dos Dinossauros",
+  "tipo": "dublado",
+  "value": "valeDosDinossauros",
+  "canal": "Bandeirantes"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd054"
+  },
+  "titulo": "Vestibulando",
+  "tipo": "originais",
+  "value": "vestibulando",
+  "canal": "Cultura"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd055"
+  },
+  "titulo": "Vida Nova Record",
+  "tipo": "originais",
+  "value": "vidaNovaRecord",
+  "canal": "Record"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd056"
+  },
+  "titulo": "Video Show",
+  "tipo": "originais",
+  "value": "videoshow",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd057"
+  },
+  "titulo": "Vitrine",
+  "tipo": "originais",
+  "value": "vitrine",
+  "canal": "Cultura"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd058"
+  },
+  "titulo": "Viva A Noite",
+  "tipo": "originais",
+  "value": "vivaANoite",
+  "canal": "Sbt"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd059"
+  },
+  "titulo": "Voyagers",
+  "tipo": "dublado",
+  "value": "voyagers",
+  "canal": "Sbt"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd05a"
+  },
+  "titulo": "Wonder Showzen",
+  "tipo": "originais",
+  "value": "wonderShowzen",
+  "canal": "Mtv"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd05b"
+  },
+  "titulo": "Xou da Xuxa",
+  "tipo": "originais",
+  "value": "xouDaXuxa",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd05c"
+  },
+  "titulo": "ZYB BOM",
+  "tipo": "originais",
+  "value": "zYBBOM",
+  "canal": "Bandeirantes"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd05d"
+  },
+  "titulo": "Zaccaro",
+  "tipo": "originais",
+  "value": "zaccaro",
+  "canal": "Record"
+},
+{
+  "_id": {
+    "$oid": "638fb6d303929e6d18dcd05e"
+  },
+  "titulo": "Zillion",
+  "tipo": "dublado",
+  "value": "zillion",
+  "canal": "Gazeta"
+},
+{
+  "_id": {
+    "$oid": "63b613b0dbbf2e2ec072738c"
+  },
+  "titulo": "Sampa",
+  "value": "sampa",
+  "canal": "Globo",
+  "tipo": "originais"
+},
+{
+  "_id": {
+    "$oid": "644bd60e87fd8b440138fdc7"
+  },
+  "titulo": "Especial de Domingo Gazeta",
+  "value": "especialDeDomingoGazeta",
+  "canal": "Gazeta",
+  "tipo": "originais"
+},
+{
+  "_id": {
+    "$oid": "644bd97d87fd8b440138fdd1"
+  },
+  "titulo": "Alem da Imaginação",
+  "value": "alemDaImaginacao",
+  "canal": "Gazeta",
+  "tipo": "dublado"
+},
+{
+  "_id": {
+    "$oid": "644c41f387fd8b440138fe28"
+  },
+  "titulo": "Cidade Nua",
+  "value": "cidadeNua",
+  "canal": "Gazeta",
+  "tipo": "dublado"
+},
+{
+  "_id": {
+    "$oid": "644c440e87fd8b440138fe2e"
+  },
+  "titulo": "Jornal da Cultura",
+  "value": "jornalDaCultura",
+  "canal": "Cultura",
+  "tipo": "originais"
+},
+{
+  "_id": {
+    "$oid": "644f52416badab91ed62f7ee"
+  },
+  "titulo": "Int Cidade Nua",
+  "value": "intCidadeNua",
+  "canal": "Gazeta",
+  "tipo": "intervalos"
+},
+{
+  "_id": {
+    "$oid": "64504dd06badab91ed630b0a"
+  },
+  "titulo": "Debate Em Manchete",
+  "value": "debateEmManchete",
+  "canal": "Manchete",
+  "tipo": "originais"
+},
+{
+  "_id": {
+    "$oid": "6450aa6f6badab91ed6319fe"
+  },
+  "titulo": "Zumbis da Estratosfera",
+  "value": "zumbisDaEstratosfera",
+  "canal": "Gazeta",
+  "tipo": "originais"
+},
+{
+  "_id": {
+    "$oid": "6451a27f6badab91ed631d50"
+  },
+  "titulo": "Bambalalão",
+  "value": "bambalalao",
+  "canal": "Cultura",
+  "tipo": "originais"
+},
+{
+  "_id": {
+    "$oid": "6451aaa76badab91ed631d7e"
+  },
+  "titulo": "Programa Hebe",
+  "value": "programaHebe",
+  "canal": "Sbt",
+  "tipo": "originais"
+},
+{
+  "_id": {
+    "$oid": "6451abbb6badab91ed631d88"
+  },
+  "titulo": "Mosaico",
+  "value": "mosaico",
+  "canal": "Gazeta",
+  "tipo": "originais"
+},
+{
+  "_id": {
+    "$oid": "6451b5cf6badab91ed631d9a"
+  },
+  "titulo": "Francês em Ação",
+  "value": "francesEmAcao",
+  "canal": "Cultura",
+  "tipo": "originais"
+},
+{
+  "_id": {
+    "$oid": "6451ca6b6badab91ed631da3"
+  },
+  "titulo": "Papai Sabe Tudo",
+  "value": "papaiSabeTudo",
+  "canal": "Cultura",
+  "tipo": "dublado"
+},
+{
+  "_id": {
+    "$oid": "64526be96badab91ed6354e6"
+  },
+  "titulo": "Note e Anote",
+  "value": "noteEAnote",
+  "canal": "Record",
+  "tipo": "originais"
+},
+{
+  "_id": {
+    "$oid": "64526c0d6badab91ed6354eb"
+  },
+  "titulo": "Diario da Mulher",
+  "value": "diarioDaMulher",
+  "canal": "Record",
+  "tipo": "originais"
+},
+{
+  "_id": {
+    "$oid": "6452e2166badab91ed63634d"
+  },
+  "titulo": "Yo MTV Raps",
+  "value": "yoMTVRaps",
+  "canal": "Mtv",
+  "tipo": "originais"
+},
+{
+  "_id": {
+    "$oid": "6452fa036badab91ed6364fa"
+  },
+  "titulo": "MTV Entrevista",
+  "value": "mTVEntrevista",
+  "canal": "Mtv",
+  "tipo": "originais"
+},
+{
+  "_id": {
+    "$oid": "645330d92d35b844c5230e50"
+  },
+  "titulo": "Boxe Internacional",
+  "value": "boxeInternacional",
+  "canal": "Globo",
+  "tipo": "originais"
+},
+{
+  "_id": {
+    "$oid": "645331732d35b844c5230e5a"
+  },
+  "titulo": "Globo de Ouro",
+  "value": "globoDeOuro",
+  "canal": "Globo",
+  "tipo": "originais"
+},
+{
+  "_id": {
+    "$oid": "645345bf2d35b844c52343f2"
+  },
+  "titulo": "A Familia Dó Re Mi",
+  "value": "aFamiliaDoReMi",
+  "canal": "Sbt",
+  "tipo": "dublado"
+},
+{
+  "_id": {
+    "$oid": "64534eaf2d35b844c523442f"
+  },
+  "titulo": "Kliptonita",
+  "value": "kliptonita",
+  "canal": "Record",
+  "tipo": "originais"
+},
+{
+  "_id": {
+    "$oid": "645352902d35b844c5234439"
+  },
+  "titulo": "25ª Hora",
+  "value": "25ªHora",
+  "canal": "Record",
+  "tipo": "originais"
+},
+{
+  "_id": {
+    "$oid": "645353582d35b844c523443e"
+  },
+  "titulo": "Top TV",
+  "value": "topTV",
+  "canal": "Record",
+  "tipo": "originais"
+},
+{
+  "_id": {
+    "$oid": "645529ed2d35b844c523c18b"
+  },
+  "titulo": "Shoptour",
+  "value": "shoptour",
+  "canal": "Record",
+  "tipo": "originais"
+},
+{
+  "_id": {
+    "$oid": "645597e02d35b844c523c2d5"
+  },
+  "titulo": "Programa Nei Gonçalves Dias",
+  "value": "programaNeiGoncalvesDias",
+  "canal": "Bandeirantes",
+  "tipo": "originais"
+},
+{
+  "_id": {
+    "$oid": "6455e36f2d35b844c523c3e2"
+  },
+  "titulo": "Tv Animal",
+  "value": "tvAnimal",
+  "canal": "Sbt",
+  "tipo": "originais"
+},
+{
+  "_id": {
+    "$oid": "6455e6fd2d35b844c523c434"
+  },
+  "titulo": "Esporte Total",
+  "value": "esporteTotal",
+  "canal": "Bandeirantes",
+  "tipo": "originais"
+},
+{
+  "_id": {
+    "$oid": "6455e78e2d35b844c523c446"
+  },
+  "titulo": "Delegacia De Mulheres",
+  "value": "delegaciaDeMulheres",
+  "canal": "Globo",
+  "tipo": "originais"
+},
+{
+  "_id": {
+    "$oid": "6455e7ed2d35b844c523c44e"
+  },
+  "titulo": "Placar Eletrônico",
+  "value": "placarEletronico",
+  "canal": "Globo",
+  "tipo": "originais"
+},
+{
+  "_id": {
+    "$oid": "6455ec6a2d35b844c523c53f"
+  },
+  "titulo": "Classicos Band Esporte",
+  "value": "classicosBandEsporte",
+  "canal": "Bandeirantes",
+  "tipo": "originais"
+},
+{
+  "_id": {
+    "$oid": "6455ef772d35b844c523c552"
+  },
+  "titulo": "Shop Show",
+  "value": "shopShow",
+  "canal": "Manchete",
+  "tipo": "originais"
+},
+{
+  "_id": {
+    "$oid": "6455f4992d35b844c523c56d"
+  },
+  "titulo": "Projeto SP",
+  "value": "projetoSP",
+  "canal": "Cultura",
+  "tipo": "originais"
+},
+{
+  "_id": {
+    "$oid": "6455f7662d35b844c523c57b"
+  },
+  "titulo": "Clodovil Abre o Jogo",
+  "value": "clodovilAbreOJogo",
+  "canal": "Manchete",
+  "tipo": "originais"
+},
+{
+  "_id": {
+    "$oid": "64581225dfe5f9727e3de0e0"
+  },
+  "titulo": "Dallas",
+  "value": "dallas",
+  "canal": "Bandeirantes",
+  "tipo": "dublado"
+},
+{
+  "_id": {
+    "$oid": "6459cb84da3c9d758e93e16a"
+  },
+  "titulo": "Quebra Cabeça",
+  "value": "quebraCabeca",
+  "canal": "Bandeirantes",
+  "tipo": "originais"
+},
+{
+  "_id": {
+    "$oid": "645a5d7eda3c9d758e93e1ac"
+  },
+  "titulo": "Paulista 900",
+  "value": "paulista900",
+  "canal": "Gazeta",
+  "tipo": "originais"
+},
+{
+  "_id": {
+    "$oid": "645a6f28b1cacd28f864d587"
+  },
+  "titulo": "Vamos Sair da Crise",
+  "value": "vamosSairDaCrise",
+  "canal": "Gazeta",
+  "tipo": "originais"
+},
+{
+  "_id": {
+    "$oid": "645a6fa7b1cacd28f864d591"
+  },
+  "titulo": "TV Mix",
+  "value": "tVMix",
+  "canal": "Gazeta",
+  "tipo": "originais"
+},
+{
+  "_id": {
+    "$oid": "645c1eeed37b5224be949db5"
+  },
+  "titulo": "Game TV",
+  "value": "gameTV",
+  "canal": "Gazeta",
+  "tipo": "originais"
+},
+{
+  "_id": {
+    "$oid": "645c1f24d37b5224be949db8"
+  },
+  "titulo": "Mesa Redonda",
+  "value": "mesaRedonda",
+  "canal": "Gazeta",
+  "tipo": "originais"
+},
+{
+  "_id": {
+    "$oid": "645c1fddd37b5224be949dbe"
+  },
+  "titulo": "Dia Dia",
+  "value": "diaDia",
+  "canal": "Bandeirantes",
+  "tipo": "originais"
+},
+{
+  "_id": {
+    "$oid": "645c20cad37b5224be949dc4"
+  },
+  "titulo": "Mundo Animal",
+  "value": "mundoAnimal",
+  "canal": "Gazeta",
+  "tipo": "dublado"
+},
+{
+  "_id": {
+    "$oid": "645c2400d37b5224be949dda"
+  },
+  "titulo": "Jornal do Esporte",
+  "value": "jornalDoEsporte",
+  "canal": "Gazeta",
+  "tipo": "originais"
+},
+{
+  "_id": {
+    "$oid": "645d2393d37b5224be94cddb"
+  },
+  "titulo": "Papau Informal",
+  "value": "papauInformal",
+  "canal": "Cultura",
+  "tipo": "originais"
+},
+{
+  "_id": {
+    "$oid": "645d29ecd37b5224be94cdff"
+  },
+  "titulo": "Hora do Esporte",
+  "value": "horaDoEsporte",
+  "canal": "Cultura",
+  "tipo": "originais"
+},
+{
+  "_id": {
+    "$oid": "645d2a04d37b5224be94ce04"
+  },
+  "titulo": "Curumin",
+  "value": "curumin",
+  "canal": "Cultura",
+  "tipo": "originais"
+},
+{
+  "_id": {
+    "$oid": "645d2c7cd37b5224be94ce3e"
+  },
+  "titulo": "Critica e Autocritica",
+  "value": "criticaEAutocritica",
+  "canal": "Bandeirantes",
+  "tipo": "originais"
+},
+{
+  "_id": {
+    "$oid": "645d2cf9d37b5224be94ce4e"
+  },
+  "titulo": "Especial Gazeta",
+  "value": "especialGazeta",
+  "canal": "Gazeta",
+  "tipo": "originais"
+},
+{
+  "_id": {
+    "$oid": "645d2d50d37b5224be94ce58"
+  },
+  "titulo": "Programa Daniel Azulay",
+  "value": "programaDanielAzulay",
+  "canal": "Bandeirantes",
+  "tipo": "originais"
+},
+{
+  "_id": {
+    "$oid": "645da136d37b5224be94cfda"
+  },
+  "titulo": "Clube Da Criança",
+  "value": "clubeDaCrianca",
+  "canal": "Manchete",
+  "tipo": "originais"
+},
+{
+  "_id": {
+    "$oid": "645da2cdd37b5224be94cfef"
+  },
+  "titulo": "Show Do Esporte",
+  "value": "showDoEsporte",
+  "canal": "Bandeirantes",
+  "tipo": "originais"
+},
+{
+  "_id": {
+    "$oid": "6460413252514b8724a61e10"
+  },
+  "titulo": "The Very First Two Hours Of MTV",
+  "value": "theVeryFirstTwoHoursOfMTV",
+  "canal": "Mtv",
+  "tipo": "originais"
+},
+{
+  "_id": {
+    "$oid": "646047f352514b8724a61e75"
+  },
+  "titulo": "Super Special",
+  "value": "superSpecial",
+  "canal": "Bandeirantes",
+  "tipo": "originais"
+},
+{
+  "_id": {
+    "$oid": "64605d3952514b8724a625f3"
+  },
+  "titulo": "Int Cinema em Casa",
+  "value": "intCinemaEmCasa",
+  "canal": "Sbt",
+  "tipo": "intervalos"
+},
+{
+  "_id": {
+    "$oid": "64606ad552514b8724a6267b"
+  },
+  "titulo": "MTV Alternative Nation",
+  "value": "mTVAlternativeNation",
+  "canal": "Mtv",
+  "tipo": "originais"
+},
+{
+  "_id": {
+    "$oid": "646439c952514b8724a65313"
+  },
+  "titulo": "Cinema Como no Cinema",
+  "value": "cinemaComoNoCinema",
+  "canal": "Sbt",
+  "tipo": "madrugada"
+},
+{
+  "_id": {
+    "$oid": "64643a5552514b8724a65316"
+  },
+  "titulo": "Festival de Filmes do SBT",
+  "value": "festivalDeFilmesDoSBT",
+  "canal": "Sbt",
+  "tipo": "noite"
+},
+{
+  "_id": {
+    "$oid": "6464531552514b8724a653cd"
+  },
+  "titulo": "Int Festival de Filmes do SBT",
+  "value": "intFestivalDeFilmesDoSBT",
+  "canal": "Sbt",
+  "tipo": "intervalos"
+},
+{
+  "_id": {
+    "$oid": "6464f3ce52514b8724a67843"
+  },
+  "titulo": "Int Chaves",
+  "value": "intChaves",
+  "canal": "Sbt",
+  "tipo": "intervalos"
+},
+{
+  "_id": {
+    "$oid": "6465052452514b8724a683b7"
+  },
+  "titulo": "Barraco MTV",
+  "value": "barracoMTV",
+  "canal": "Mtv",
+  "tipo": "originais"
+},
+{
+  "_id": {
+    "$oid": "6465154a52514b8724a68411"
+  },
+  "titulo": "Pre Pos Chaves",
+  "value": "prePosChaves",
+  "canal": "Sbt",
+  "tipo": "intervalos"
+},
+{
+  "_id": {
+    "$oid": "6465179c52514b8724a68432"
+  },
+  "titulo": "Int Show Maravilha",
+  "value": "intShowMaravilha",
+  "canal": "Sbt",
+  "tipo": "intervalos"
+},
+{
+  "_id": {
+    "$oid": "6466610c52514b8724a69551"
+  },
+  "titulo": "Intercine",
+  "value": "intercine",
+  "canal": "Globo",
+  "tipo": "noite"
+},
+{
+  "_id": {
+    "$oid": "6466916252514b8724a69891"
+  },
+  "titulo": "Gemini Man",
+  "value": "geminiMan",
+  "canal": "Manchete",
+  "tipo": "dublado"
+},
+{
+  "_id": {
+    "$oid": "6466f2a354cb0a98a23964ab"
+  },
+  "titulo": "Int Cinemax",
+  "value": "intCinemax",
+  "canal": "Bandeirantes",
+  "tipo": "intervalos"
+},
+{
+  "_id": {
+    "$oid": "6466f71654cb0a98a239652b"
+  },
+  "titulo": "Kananga do Japão",
+  "value": "kanangaDoJapao",
+  "canal": "Manchete",
+  "tipo": "novelas"
+},
+{
+  "_id": {
+    "$oid": "6467b9ff54cb0a98a2397dd2"
+  },
+  "titulo": "SPTV 3 edição",
+  "value": "sPTV3Edicao",
+  "canal": "Globo",
+  "tipo": "originais"
+},
+{
+  "_id": {
+    "$oid": "6467d23e54cb0a98a2397e05"
+  },
+  "titulo": "A Cidade Faz O Show",
+  "value": "aCidadeFazOShow",
+  "canal": "Cultura",
+  "tipo": "originais"
+},
+{
+  "_id": {
+    "$oid": "6467dd7754cb0a98a2397e26"
+  },
+  "titulo": "Viola Minha Viola",
+  "value": "violaMinhaViola",
+  "canal": "Cultura",
+  "tipo": "originais"
+},
+{
+  "_id": {
+    "$oid": "6467e0d754cb0a98a2397e3e"
+  },
+  "titulo": "A Historia do Brasileirao",
+  "value": "aHistoriaDoBrasileirao",
+  "canal": "Cultura",
+  "tipo": "originais"
+},
+{
+  "_id": {
+    "$oid": "6467f6fc54cb0a98a2397e54"
+  },
+  "titulo": "Jogo de Cintura",
+  "value": "jogoDeCintura",
+  "canal": "Cultura",
+  "tipo": "originais"
+},
+{
+  "_id": {
+    "$oid": "6467f85254cb0a98a2397e7b"
+  },
+  "titulo": "40 anos de TV",
+  "value": "40AnosDeTV",
+  "canal": "Cultura",
+  "tipo": "originais"
+},
+{
+  "_id": {
+    "$oid": "6467f97454cb0a98a2397e7e"
+  },
+  "titulo": "Jazz Brasil",
+  "value": "jazzBrasil",
+  "canal": "Cultura",
+  "tipo": "originais"
+},
+{
+  "_id": {
+    "$oid": "6468477754cb0a98a2397eb9"
+  },
+  "titulo": "Glub Glub",
+  "value": "glubGlub",
+  "canal": "Cultura",
+  "tipo": "originais"
+},
+{
+  "_id": {
+    "$oid": "64684abb54cb0a98a2397ed3"
+  },
+  "titulo": "Vila Sésamo",
+  "value": "vilaSesamo",
+  "canal": "Cultura",
+  "tipo": "originais"
+},
+{
+  "_id": {
+    "$oid": "64684f0154cb0a98a2397ee4"
+  },
+  "titulo": "Fanzine",
+  "value": "fanzine",
+  "canal": "Cultura",
+  "tipo": "originais"
+},
+{
+  "_id": {
+    "$oid": "64684fa154cb0a98a2397efa"
+  },
+  "titulo": "Matinê",
+  "value": "matine",
+  "canal": "Cultura",
+  "tipo": "noite"
+},
+{
+  "_id": {
+    "$oid": "6468525154cb0a98a2397f1c"
+  },
+  "titulo": "Mundo Da Lua",
+  "value": "mundoDaLua",
+  "canal": "Cultura",
+  "tipo": "originais"
+},
+{
+  "_id": {
+    "$oid": "6468e32354cb0a98a2397f3e"
+  },
+  "titulo": "Campeonato Brasileiro 1990",
+  "value": "campeonatoBrasileiro1990",
+  "canal": "Cultura",
+  "tipo": "originais"
+},
+{
+  "_id": {
+    "$oid": "6468f11c54cb0a98a2397f53"
+  },
+  "titulo": "Quem Sabe, Sabe!",
+  "value": "quemSabe,Sabe!",
+  "canal": "Cultura",
+  "tipo": "originais"
+},
+{
+  "_id": {
+    "$oid": "6468fc3e54cb0a98a2397f6b"
+  },
+  "titulo": "Janela Indiscreta",
+  "value": "janelaIndiscreta",
+  "canal": "Cultura",
+  "tipo": "originais"
+},
+{
+  "_id": {
+    "$oid": "64695cd5a916e7bc5856f6f9"
+  },
+  "titulo": "Gigantes do Ringue",
+  "value": "gigantesDoRingue",
+  "canal": "Record",
+  "tipo": "originais"
+},
+{
+  "_id": {
+    "$oid": "64696136a916e7bc5856f6ff"
+  },
+  "titulo": "Int Record Noite",
+  "value": "intRecordNoite",
+  "canal": "Record",
+  "tipo": "intervalos"
+},
+{
+  "_id": {
+    "$oid": "6469a4d0a916e7bc5856ff1d"
+  },
+  "titulo": "Int Sabado Madrugada",
+  "value": "intSabadoMadrugada",
+  "canal": "Globo",
+  "tipo": "intervalos"
+},
+{
+  "_id": {
+    "$oid": "646b9b7da916e7bc58572970"
+  },
+  "titulo": "Pintando o Sete",
+  "value": "pintandoOSete",
+  "canal": "Record",
+  "tipo": "originais"
+},
+{
+  "_id": {
+    "$oid": "646b9c13a916e7bc58572977"
+  },
+  "titulo": "Dudalegria ",
+  "value": "dudalegria",
+  "canal": "Manchete",
+  "tipo": "originais"
+},
+{
+  "_id": {
+    "$oid": "646bb4dda916e7bc58572c12"
+  },
+  "titulo": "Institucional Tvs-Sbt 1983",
+  "value": "institucionalTvs-Sbt1983",
+  "canal": "Sbt",
+  "tipo": "originais"
+},
+{
+  "_id": {
+    "$oid": "646c3431a916e7bc58572da9"
+  },
+  "titulo": "Superman Desenho 1988",
+  "value": "supermanDesenho1988",
+  "canal": "Globo",
+  "tipo": "dublado"
+},
+{
+  "_id": {
+    "$oid": "646f85cebbe4cf80ec92acd4"
+  },
+  "titulo": "Int Festival de Férias",
+  "value": "intFestivalDeFerias",
+  "canal": "Globo",
+  "tipo": "intervalos"
+},
+{
+  "_id": {
+    "$oid": "646fccbdbbe4cf80ec92ad21"
+  },
+  "titulo": "Int Sessão das Dez",
+  "value": "intSessaoDasDez",
+  "canal": "Sbt",
+  "tipo": "intervalos"
+},
+{
+  "_id": {
+    "$oid": "64727733bbe4cf80ec92b920"
+  },
+  "titulo": "Doug",
+  "value": "doug",
+  "canal": "Cultura",
+  "tipo": "dublado"
+},
+{
+  "_id": {
+    "$oid": "647312dabbe4cf80ec938f04"
+  },
+  "titulo": "Imprensa na TV",
+  "value": "imprensaNaTV",
+  "canal": "Gazeta",
+  "tipo": "originais"
+},
+{
+  "_id": {
+    "$oid": "6474f59abbe4cf80ec93ae34"
+  },
+  "titulo": "Jornal da Record",
+  "value": "jornalDaRecord",
+  "canal": "Record",
+  "tipo": "originais"
+},
+{
+  "_id": {
+    "$oid": "6475033abbe4cf80ec93afa8"
+  },
+  "titulo": "Agente 86",
+  "value": "agente86",
+  "canal": "Bandeirantes",
+  "tipo": "dublado"
+},
+{
+  "_id": {
+    "$oid": "64750433bbe4cf80ec93afee"
+  },
+  "titulo": "Barnaby Jones",
+  "value": "barnabyJones",
+  "canal": "Record",
+  "tipo": "dublado"
+},
+{
+  "_id": {
+    "$oid": "647521b2bbe4cf80ec93b74a"
+  },
+  "titulo": "A turma do Agente G",
+  "value": "aTurmaDoAgenteG",
+  "canal": "Record",
+  "tipo": "originais"
+},
+{
+  "_id": {
+    "$oid": "64752328bbe4cf80ec93b762"
+  },
+  "titulo": "Viagem ao Fundo do Mar",
+  "value": "viagemAoFundoDoMar",
+  "canal": "Record",
+  "tipo": "dublado"
+},
+{
+  "_id": {
+    "$oid": "647525d3bbe4cf80ec93b787"
+  },
+  "titulo": "Arquivo Record",
+  "value": "arquivoRecord",
+  "canal": "Record",
+  "tipo": "originais"
+},
+{
+  "_id": {
+    "$oid": "6475264abbe4cf80ec93b798"
+  },
+  "titulo": "Sinal de Vida",
+  "value": "sinalDeVida",
+  "canal": "Record",
+  "tipo": "originais"
+},
+{
+  "_id": {
+    "$oid": "647526bfbbe4cf80ec93b7a2"
+  },
+  "titulo": "Especial Sertanejo",
+  "value": "especialSertanejo",
+  "canal": "Record",
+  "tipo": "originais"
+},
+{
+  "_id": {
+    "$oid": "64752b6ebbe4cf80ec93b7bb"
+  },
+  "titulo": "TV Poww",
+  "value": "tVPoww",
+  "canal": "Sbt",
+  "tipo": "dublado"
+},
+{
+  "_id": {
+    "$oid": "64753f37bbe4cf80ec93b8eb"
+  },
+  "titulo": "Int Tarde Semana",
+  "value": "intTardeSemana",
+  "canal": "Record",
+  "tipo": "intervalos"
+},
+{
+  "_id": {
+    "$oid": "64754f9abbe4cf80ec93bea3"
+  },
+  "titulo": "Intervalos Series Noite",
+  "value": "intervalosSeriesNoite",
+  "canal": "Sbt",
+  "tipo": "intervalos"
+},
+{
+  "_id": {
+    "$oid": "6476dd41bbe4cf80ec94486e"
+  },
+  "titulo": "Programa Flávio Cavalcanti",
+  "value": "programaFlavioCavalcanti",
+  "canal": "Sbt",
+  "tipo": "originais"
+},
+{
+  "_id": {
+    "$oid": "647acf0e20fe70e130127a64"
+  },
+  "titulo": "Festival Primavera",
+  "value": "festivalPrimavera",
+  "canal": "Globo",
+  "tipo": "noite"
+},
+{
+  "_id": {
+    "$oid": "647e955820fe70e130129761"
+  },
+  "titulo": "Int Show de Calouros",
+  "value": "intShowDeCalouros",
+  "canal": "Sbt",
+  "tipo": "intervalos"
+},
+{
+  "_id": {
+    "$oid": "6480e2b520fe70e13012daa8"
+  },
+  "titulo": "The Grind MTV",
+  "value": "theGrindMTV",
+  "canal": "Mtv",
+  "tipo": "originais"
+},
+{
+  "_id": {
+    "$oid": "6480e33a20fe70e13012dac4"
+  },
+  "titulo": "Ren and Stimpy",
+  "value": "renAndStimpy",
+  "canal": "Mtv",
+  "tipo": "originais"
+},
+{
+  "_id": {
+    "$oid": "6480f74020fe70e13012daf8"
+  },
+  "titulo": "Remote Control",
+  "value": "remoteControl",
+  "canal": "Mtv",
+  "tipo": "originais"
+},
+{
+  "_id": {
+    "$oid": "6480f89020fe70e13012db06"
+  },
+  "titulo": "MTV Turn It Up",
+  "value": "mTVTurnItUp",
+  "canal": "Mtv",
+  "tipo": "originais"
+},
+{
+  "_id": {
+    "$oid": "6480f99220fe70e13012db10"
+  },
+  "titulo": "Big Stars",
+  "value": "bigStars",
+  "canal": "Gazeta",
+  "tipo": "originais"
+},
+{
+  "_id": {
+    "$oid": "64815b593b312e5526478bef"
+  },
+  "titulo": "Int Contos de Fadas",
+  "value": "intContosDeFadas",
+  "canal": "Cultura",
+  "tipo": "intervalos"
+},
+{
+  "_id": {
+    "$oid": "6482b8643b312e55264795b0"
+  },
+  "titulo": "Boca do Lixo",
+  "value": "bocaDoLixo",
+  "canal": "Globo",
+  "tipo": "novelas"
+},
+{
+  "_id": {
+    "$oid": "64835dc43b312e55264797ec"
+  },
+  "titulo": "Int Boca do Lixo",
+  "value": "intBocaDoLixo",
+  "canal": "Globo",
+  "tipo": "intervalos"
+},
+{
+  "_id": {
+    "$oid": "6483a3643b312e5526479bdc"
+  },
+  "titulo": "Pre Pos TV Poww",
+  "value": "prePosTVPoww",
+  "canal": "Sbt",
+  "tipo": "intervalos"
+},
+{
+  "_id": {
+    "$oid": "6483a3723b312e5526479bdf"
+  },
+  "titulo": "Int TV Poww",
+  "value": "intTVPoww",
+  "canal": "Sbt",
+  "tipo": "intervalos"
+},
+{
+  "_id": {
+    "$oid": "6483fa7a3b312e5526479f12"
+  },
+  "titulo": "Int Tela Class",
+  "value": "intTelaClass",
+  "canal": "Mtv",
+  "tipo": "intervalos"
+},
+{
+  "_id": {
+    "$oid": "6486889e668e50f203c4a97b"
+  },
+  "titulo": "Int Domingão do Faustão",
+  "value": "intDomingaoDoFaustao",
+  "canal": "Globo",
+  "tipo": "intervalos"
+},
+{
+  "_id": {
+    "$oid": "648b7ce4fdee066c37a68a85"
+  },
+  "titulo": "Rockstoria MTV",
+  "value": "rockstoriaMTV",
+  "canal": "Mtv",
+  "tipo": "originais"
+},
+{
+  "_id": {
+    "$oid": "648be0b3fdee066c37a68e06"
+  },
+  "titulo": "Pre Pos Cinema Como no Cinema",
+  "value": "prePosCinemaComoNoCinema",
+  "canal": "Sbt",
+  "tipo": "intervalos"
+},
+{
+  "_id": {
+    "$oid": "648d2bf1fdee066c37a68ebe"
+  },
+  "titulo": "Novela das Seis",
+  "value": "novelaDasSeis",
+  "canal": "Globo",
+  "tipo": "novelas"
+},
+{
+  "_id": {
+    "$oid": "648d2bf8fdee066c37a68ec1"
+  },
+  "titulo": "Novela das Sete",
+  "value": "novelaDasSete",
+  "canal": "Globo",
+  "tipo": "novelas"
+},
+{
+  "_id": {
+    "$oid": "648d2bfffdee066c37a68ec4"
+  },
+  "titulo": "Novela das Oito",
+  "value": "novelaDasOito",
+  "canal": "Globo",
+  "tipo": "novelas"
+},
+{
+  "_id": {
+    "$oid": "648d2c09fdee066c37a68ec7"
+  },
+  "titulo": "Int Novela das Oito",
+  "value": "intNovelaDasOito",
+  "canal": "Globo",
+  "tipo": "intervalos"
+},
+{
+  "_id": {
+    "$oid": "648d2c0ffdee066c37a68eca"
+  },
+  "titulo": "Int Novela das Sete",
+  "value": "intNovelaDasSete",
+  "canal": "Globo",
+  "tipo": "intervalos"
+},
+{
+  "_id": {
+    "$oid": "648d2c16fdee066c37a68ecd"
+  },
+  "titulo": "Int Novela das Seis",
+  "value": "intNovelaDasSeis",
+  "canal": "Globo",
+  "tipo": "intervalos"
+},
+{
+  "_id": {
+    "$oid": "648d2f1ffdee066c37a693c5"
+  },
+  "titulo": "Pre Pos Novela das Seis",
+  "value": "prePosNovelaDasSeis",
+  "canal": "Globo",
+  "tipo": "intervalos"
+},
+{
+  "_id": {
+    "$oid": "648d2f25fdee066c37a693c8"
+  },
+  "titulo": "Pre Pos Novela das Sete",
+  "value": "prePosNovelaDasSete",
+  "canal": "Globo",
+  "tipo": "intervalos"
+},
+{
+  "_id": {
+    "$oid": "648d2f35fdee066c37a693cb"
+  },
+  "titulo": "Pre Pos Novela das Oito",
+  "value": "prePosNovelaDasOito",
+  "canal": "Globo",
+  "tipo": "intervalos"
+},
+{
+  "_id": {
+    "$oid": "648e847dfdee066c37a72774"
+  },
+  "titulo": "Pre Pos Historias Maravilhosas",
+  "value": "prePosHistoriasMaravilhosas",
+  "canal": "Globo",
+  "tipo": "intervalos"
+},
+{
+  "_id": {
+    "$oid": "648e88c1fdee066c37a727eb"
+  },
+  "titulo": "Int Historias Maravilhosas",
+  "value": "intHistoriasMaravilhosas",
+  "canal": "Globo",
+  "tipo": "intervalos"
+},
+{
+  "_id": {
+    "$oid": "649219fd9c1d634f3ba470bf"
+  },
+  "titulo": "Família Dinossauros",
+  "value": "familiaDinossauros",
+  "canal": "Globo",
+  "tipo": "dublado"
+},
+{
+  "_id": {
+    "$oid": "64921bd09c1d634f3ba47110"
+  },
+  "titulo": "Super Vicky",
+  "value": "superVicky",
+  "canal": "Record",
+  "tipo": "dublado"
+},
+{
+  "_id": {
+    "$oid": "64926dd89c1d634f3ba47931"
+  },
+  "titulo": "Apito Final",
+  "value": "apitoFinal",
+  "canal": "Bandeirantes",
+  "tipo": "originais"
+},
+{
+  "_id": {
+    "$oid": "649271089c1d634f3ba47949"
+  },
+  "titulo": "Pre Pos Novela VPVN",
+  "value": "prePosNovelaVPVN",
+  "canal": "Globo",
+  "tipo": "intervalos"
+},
+{
+  "_id": {
+    "$oid": "6492767e9c1d634f3ba47958"
+  },
+  "titulo": "Pre Pos Sessão da Tarde",
+  "value": "prePosSessaoDaTarde",
+  "canal": "Globo",
+  "tipo": "intervalos"
+},
+{
+  "_id": {
+    "$oid": "64927c149c1d634f3ba47998"
+  },
+  "titulo": "Faixa Nobre do Esporte",
+  "value": "faixaNobreDoEsporte",
+  "canal": "Bandeirantes",
+  "tipo": "originais"
+},
+{
+  "_id": {
+    "$oid": "6494ad579c1d634f3ba4c654"
+  },
+  "titulo": "Pre Pos Sessão Comedia",
+  "value": "prePosSessaoComedia",
+  "canal": "Globo",
+  "tipo": "intervalos"
+},
+{
+  "_id": {
+    "$oid": "6494b2219c1d634f3ba4c81c"
+  },
+  "titulo": "Pre Pos Sessão Aventura",
+  "value": "prePosSessaoAventura",
+  "canal": "Globo",
+  "tipo": "intervalos"
+},
+{
+  "_id": {
+    "$oid": "649c9d037fedbff4a9c5cddf"
+  },
+  "titulo": "Desenhos Matinais 12",
+  "value": "desenhosMatinais12",
+  "canal": "Globo",
+  "tipo": "dublado"
+},
+{
+  "_id": {
+    "$oid": "64ab027d1689a6c3ef1c5d45"
+  },
+  "titulo": "Int Festival Primavera",
+  "value": "intFestivalPrimavera",
+  "canal": "Globo",
+  "tipo": "intervalos"
+},
+{
+  "_id": {
+    "$oid": "64ab6fae1689a6c3ef1c60e8"
+  },
+  "titulo": "Pre Pos Temperatura Máxima",
+  "value": "prePosTemperaturaMaxima",
+  "canal": "Globo",
+  "tipo": "intervalos"
+},
+{
+  "_id": {
+    "$oid": "64ac9bab1689a6c3ef1c86d0"
+  },
+  "titulo": "Sexta Feira 13 A Serie",
+  "value": "sextaFeira13ASerie",
+  "canal": "Globo",
+  "tipo": "dublado"
+},
+{
+  "_id": {
+    "$oid": "64aecc7613a15fd998cce320"
+  },
+  "titulo": "Int Homem Aranha 1978",
+  "value": "intHomemAranha1978",
+  "canal": "Manchete",
+  "tipo": "intervalos"
+},
+{
+  "_id": {
+    "$oid": "64aed13b13a15fd998cce357"
+  },
+  "titulo": "Int Jaspion",
+  "value": "intJaspion",
+  "canal": "Manchete",
+  "tipo": "intervalos"
+},
+{
+  "_id": {
+    "$oid": "64af125b13a15fd998cce4ad"
+  },
+  "titulo": "Changeman",
+  "value": "changeman",
+  "canal": "Manchete",
+  "tipo": "dublado"
+},
+{
+  "_id": {
+    "$oid": "64b09cf213a15fd998ccfb6f"
+  },
+  "titulo": "Lois e Clark",
+  "value": "loisEClark",
+  "canal": "Globo",
+  "tipo": "dublado"
+},
+{
+  "_id": {
+    "$oid": "64b0b2cf13a15fd998ccfb8e"
+  },
+  "titulo": "O Lobisomem Ataca De Novo",
+  "value": "oLobisomemAtacaDeNovo",
+  "canal": "Globo",
+  "tipo": "dublado"
+},
+{
+  "_id": {
+    "$oid": "64b0bcf513a15fd998cd00af"
+  },
+  "titulo": "O Mestre",
+  "value": "oMestre",
+  "canal": "Globo",
+  "tipo": "dublado"
+},
+{
+  "_id": {
+    "$oid": "64b0bd7d13a15fd998cd00f8"
+  },
+  "titulo": "The Flash",
+  "value": "theFlash",
+  "canal": "Globo",
+  "tipo": "dublado"
+},
+{
+  "_id": {
+    "$oid": "64b1ee2b13a15fd998cd16f5"
+  },
+  "titulo": "Int O Mestre",
+  "value": "intOMestre",
+  "canal": "Globo",
+  "tipo": "intervalos"
+},
+{
+  "_id": {
+    "$oid": "64b1ee4913a15fd998cd16fa"
+  },
+  "titulo": "Pre Pos O Mestre",
+  "value": "prePosOMestre",
+  "canal": "Globo",
+  "tipo": "intervalos"
+},
+{
+  "_id": {
+    "$oid": "64b1efae13a15fd998cd17b5"
+  },
+  "titulo": "Int O Lobisomem Ataca De Novo",
+  "value": "intOLobisomemAtacaDeNovo",
+  "canal": "Globo",
+  "tipo": "intervalos"
+}]

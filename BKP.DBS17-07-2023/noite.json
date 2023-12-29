@@ -1,0 +1,8193 @@
+[{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc2e2"
+  },
+  "duracao": 5813,
+  "canal": "Sbt",
+  "tipo": "noite",
+  "titulo": "Dublado - Código do Silêncio (1985).mkv",
+  "cortesParaIntervalo": [],
+  "order": null
+},
+{
+  "_id": {
+    "$oid": "638faf8903929e6d18dcbf01"
+  },
+  "order": 28,
+  "canal": "Globo",
+  "tipo": "noite",
+  "tituloAtracao": "Supercine",
+  "added": true,
+  "programaDeTv": "supercine",
+  "titulo": "Dublado - A Gata E O Rato",
+  "corteInicio": 0,
+  "duracao": 5593,
+  "cortesParaIntervalo": [
+    717,
+    1727,
+    2888,
+    3846,
+    4453
+  ],
+  "corteFinal": 5575
+},
+{
+  "_id": {
+    "$oid": "638fafaa03929e6d18dcc17e"
+  },
+  "canal": "Sbt",
+  "programaDeTv": "sessaoDasDez",
+  "tituloAtracao": "Sessão das Dez",
+  "titulo": "Dublado - A Noite Do Medo Dublado Tvrip 1983.mp4",
+  "duracao": 4698,
+  "tipo": "noite",
+  "cortesParaIntervalo": [],
+  "order": null,
+  "added": false
+},
+{
+  "_id": {
+    "$oid": "638fafaa03929e6d18dcc260"
+  },
+  "duracao": 5079,
+  "canal": "Sbt",
+  "programaDeTv": "sessaoDasDez",
+  "tipo": "noite",
+  "titulo": "Dublado - A Peste.1979.Tvrip.m4v",
+  "tituloAtracao": "Sessão das Dez",
+  "cortesParaIntervalo": [],
+  "order": null,
+  "added": false
+},
+{
+  "_id": {
+    "$oid": "638fafaa03929e6d18dcc264"
+  },
+  "order": 31,
+  "cortesParaIntervalo": [
+    892,
+    2093,
+    3138,
+    4464
+  ],
+  "titulo": "Dublado - Alucinações Do Mal 1982.m4v",
+  "corteFinal": 5337,
+  "tituloAtracao": "Supercine",
+  "duracao": 5337,
+  "added": false,
+  "tipo": "noite",
+  "corteInicio": 0,
+  "programaDeTv": "supercine",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fafaa03929e6d18dcc1ce"
+  },
+  "duracao": 5632,
+  "titulo": "Dublado - Chamas da Morte.m4v",
+  "canal": "Sbt",
+  "tipo": "noite",
+  "programaDeTv": "sessaoDasDez",
+  "tituloAtracao": "Sessão das Dez",
+  "cortesParaIntervalo": [],
+  "order": null,
+  "added": false
+},
+{
+  "_id": {
+    "$oid": "638fafaa03929e6d18dcc178"
+  },
+  "corteFinal": 5130,
+  "duracao": 5130,
+  "order": 5,
+  "canal": "Globo",
+  "corteInicio": 0,
+  "cortesParaIntervalo": [
+    1069,
+    1896,
+    2758,
+    3583,
+    4418
+  ],
+  "intervalos": [
+    1069,
+    2112,
+    3090,
+    3934
+  ],
+  "programaDeTv": "festivalPrimavera",
+  "tituloAtracao": "Festival Primavera",
+  "titulo": "Dublado - Cidade Do Medo (Globo).m4v",
+  "tipo": "noite",
+  "added": false,
+  "volume": 0.20000000000000015,
+  "boost": 1
+},
+{
+  "_id": {
+    "$oid": "638fafaa03929e6d18dcc262"
+  },
+  "corteFinal": 6338,
+  "duracao": 6498,
+  "tituloAtracao": "Supercine",
+  "programaDeTv": "supercine",
+  "tipo": "noite",
+  "titulo": "Dublado - Coracao Satanico.m4v",
+  "canal": "Globo",
+  "added": false,
+  "order": 26,
+  "corteInicio": 0,
+  "cortesParaIntervalo": [
+    1428,
+    2341,
+    3428,
+    4776,
+    5827
+  ]
+},
+{
+  "_id": {
+    "$oid": "638fafaa03929e6d18dcc275"
+  },
+  "programaDeTv": "sessaoDasDez",
+  "duracao": 4699,
+  "tipo": "noite",
+  "canal": "Sbt",
+  "titulo": "Dublado - Noite Do Medo1983.m4v",
+  "tituloAtracao": "Sessão das Dez",
+  "cortesParaIntervalo": [],
+  "order": null,
+  "added": false
+},
+{
+  "_id": {
+    "$oid": "638fafaa03929e6d18dcc2c0"
+  },
+  "duracao": 5654,
+  "titulo": "Dublado - O Alto Preço Da Paixão (1986).m4v",
+  "cortesParaIntervalo": [
+    1242,
+    2083,
+    2770,
+    3726,
+    4798
+  ],
+  "added": false,
+  "tipo": "noite",
+  "programaDeTv": "supercine",
+  "corteInicio": 19,
+  "tituloAtracao": "Supercine",
+  "order": 7,
+  "canal": "Globo",
+  "corteFinal": 5654
+},
+{
+  "_id": {
+    "$oid": "638fafaa03929e6d18dcc1b0"
+  },
+  "titulo": "Dublado - Os Olhos De Laura Mars.m4v",
+  "duracao": 5895,
+  "programaDeTv": "supercine",
+  "order": 13,
+  "tipo": "noite",
+  "tituloAtracao": "Supercine",
+  "canal": "Globo",
+  "added": false,
+  "cortesParaIntervalo": [
+    2226,
+    3258,
+    4730
+  ],
+  "corteFinal": 5895,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafaa03929e6d18dcc279"
+  },
+  "tituloAtracao": "Sessão das Dez",
+  "tipo": "noite",
+  "titulo": "Dublado - Papillon TVRip.mp4",
+  "duracao": 10851,
+  "canal": "Sbt",
+  "programaDeTv": "sessaoDasDez",
+  "cortesParaIntervalo": [],
+  "order": null,
+  "added": false
+},
+{
+  "_id": {
+    "$oid": "638fafaa03929e6d18dcc205"
+  },
+  "tipo": "noite",
+  "programaDeTv": "supercine",
+  "tituloAtracao": "Supercine",
+  "added": true,
+  "order": 2,
+  "duracao": 5853,
+  "canal": "Globo",
+  "titulo": "Dublado - Terror no Terminal 9 (TVRip).webm",
+  "cortesParaIntervalo": [
+    5154
+  ],
+  "corteFinal": 5853,
+  "corteInicio": 15
+},
+{
+  "_id": {
+    "$oid": "638fafaa03929e6d18dcc1b8"
+  },
+  "canal": "Globo",
+  "added": false,
+  "titulo": "Dublado - Scanners Sua Mente Pode Destruir 1981.mp4",
+  "order": 24,
+  "tipo": "noite",
+  "tituloAtracao": "Supercine",
+  "duracao": 6172,
+  "programaDeTv": "supercine",
+  "cortesParaIntervalo": [
+    885,
+    2120,
+    2693,
+    3798,
+    5053
+  ],
+  "corteFinal": 5982,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafaa03929e6d18dcc2b3"
+  },
+  "titulo": "Dublado - Perigo No Hospital-1983.mp4",
+  "duracao": 5828,
+  "canal": "Globo",
+  "order": 1,
+  "programaDeTv": "festivalPrimavera",
+  "tipo": "noite",
+  "tituloAtracao": "Festival Primavera",
+  "added": false,
+  "cortesParaIntervalo": [
+    1296,
+    2498,
+    3578,
+    4609
+  ],
+  "corteFinal": 5826,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafaa03929e6d18dcc1d2"
+  },
+  "duracao": 8978,
+  "corteFinal": 8976,
+  "canal": "Globo",
+  "order": 19,
+  "programaDeTv": "supercine",
+  "corteInicio": 0,
+  "titulo": "Dublado - Os Doze Condenados 1967.mkv",
+  "cortesParaIntervalo": [
+    1808,
+    3282,
+    4845,
+    6333,
+    7655
+  ],
+  "tipo": "noite",
+  "added": false,
+  "tituloAtracao": "Supercine"
+},
+{
+  "_id": {
+    "$oid": "638fafaa03929e6d18dcc1a7"
+  },
+  "titulo": "Dublado - O Rock do Dia das Bruxas (1986).mkv",
+  "corteFinal": 5597,
+  "canal": "Sbt",
+  "order": 7,
+  "corteInicio": 0,
+  "duracao": 5597,
+  "tipo": "noite",
+  "cortesParaIntervalo": [
+    1065,
+    2085,
+    3196,
+    4274
+  ],
+  "added": true,
+  "programaDeTv": "cinemaEmCasa",
+  "tituloAtracao": "Cinema em Casa"
+},
+{
+  "_id": {
+    "$oid": "638fafaa03929e6d18dcc238"
+  },
+  "canal": "Sbt",
+  "titulo": "Dublado - O Exorcista II - O Herege  1977.mp4",
+  "duracao": 7059,
+  "tipo": "noite",
+  "programaDeTv": "sessaoDasDez",
+  "tituloAtracao": "Sessão das Dez",
+  "cortesParaIntervalo": [],
+  "order": null,
+  "added": false
+},
+{
+  "_id": {
+    "$oid": "638fafaa03929e6d18dcc185"
+  },
+  "programaDeTv": "sessaoDasDez",
+  "titulo": "Dublado - O Clube dos Monstros (1981).mp4",
+  "tipo": "noite",
+  "added": false,
+  "order": null,
+  "duracao": 5864,
+  "canal": "Sbt",
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafaa03929e6d18dcc1a4"
+  },
+  "programaDeTv": "supercine",
+  "corteInicio": 1,
+  "corteFinal": 5371,
+  "tipo": "noite",
+  "cortesParaIntervalo": [
+    1514,
+    2155,
+    2833,
+    3396,
+    4123
+  ],
+  "order": 15,
+  "titulo": "Dublado - Matar E Correr 1982.mp4",
+  "canal": "Globo",
+  "duracao": 5376,
+  "added": false,
+  "tituloAtracao": "Supercine"
+},
+{
+  "_id": {
+    "$oid": "638fafaa03929e6d18dcc221"
+  },
+  "titulo": "Dublado - Maldita Paixão 1980 TVRip.m4v",
+  "programaDeTv": "supercine",
+  "order": 5,
+  "tituloAtracao": "Supercine",
+  "tipo": "noite",
+  "duracao": 4715,
+  "canal": "Globo",
+  "added": false,
+  "cortesParaIntervalo": [
+    971,
+    1790,
+    2458,
+    3012,
+    3651
+  ],
+  "corteFinal": 4278,
+  "corteInicio": 12
+},
+{
+  "_id": {
+    "$oid": "638fafaa03929e6d18dcc2a3"
+  },
+  "tituloAtracao": "Supercine",
+  "tipo": "noite",
+  "canal": "Globo",
+  "duracao": 6647,
+  "order": 33,
+  "titulo": "Dublado - Histórias de Fantasmas 1981.mp4",
+  "added": false,
+  "programaDeTv": "supercine",
+  "cortesParaIntervalo": [
+    1271,
+    2619,
+    3457,
+    4622,
+    5571
+  ],
+  "corteFinal": 6511,
+  "corteInicio": 19
+},
+{
+  "_id": {
+    "$oid": "638fafaa03929e6d18dcc28f"
+  },
+  "programaDeTv": "supercine",
+  "duracao": 5815,
+  "added": true,
+  "tipo": "noite",
+  "canal": "Globo",
+  "titulo": "Dublado - Hangar 18 (1980).mp4",
+  "order": 1,
+  "tituloAtracao": "Supercine",
+  "cortesParaIntervalo": [
+    965,
+    2164,
+    3076,
+    4100,
+    4939
+  ],
+  "corteFinal": 5690,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafaa03929e6d18dcc2be"
+  },
+  "duracao": 5552,
+  "tipo": "noite",
+  "tituloAtracao": "Sessão das Dez",
+  "programaDeTv": "sessaoDasDez",
+  "canal": "Sbt",
+  "titulo": "Dublado - Halloween 2 (1981).m4v",
+  "cortesParaIntervalo": [],
+  "order": null,
+  "added": false
+},
+{
+  "_id": {
+    "$oid": "638fafaa03929e6d18dcc186"
+  },
+  "programaDeTv": "superTela",
+  "canal": "Record",
+  "tipo": "noite",
+  "duracao": 5311,
+  "order": 1,
+  "tituloAtracao": "Super Tela",
+  "titulo": "Dublado - Filha da Obsessão 1969.mp4",
+  "added": true,
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafaa03929e6d18dcc1c8"
+  },
+  "added": false,
+  "programaDeTv": "supercine",
+  "titulo": "Dublado - Desejo de Matar 4.mkv",
+  "tipo": "noite",
+  "tituloAtracao": "Supercine",
+  "order": 23,
+  "duracao": 5805,
+  "canal": "Globo",
+  "cortesParaIntervalo": [
+    847,
+    1839,
+    2657,
+    3597,
+    4846
+  ],
+  "corteFinal": 5805,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafaa03929e6d18dcc19c"
+  },
+  "tipo": "noite",
+  "titulo": "Dublado - Cama Ardente (1984).m4v",
+  "corteInicio": 0,
+  "added": true,
+  "canal": "Sbt",
+  "order": 3,
+  "duracao": 5588,
+  "programaDeTv": "cinemaEmCasa",
+  "tituloAtracao": "Cinema em Casa",
+  "cortesParaIntervalo": [
+    1026,
+    1881,
+    2945,
+    3592
+  ],
+  "corteFinal": 5588
+},
+{
+  "_id": {
+    "$oid": "638fafaa03929e6d18dcc182"
+  },
+  "added": false,
+  "tipo": "noite",
+  "tituloAtracao": "Tela Quente",
+  "titulo": "Dublado - A Volta dos Mortos Vivos 2.mp4",
+  "duracao": 5361,
+  "canal": "Globo",
+  "programaDeTv": "telaQuente",
+  "cortesParaIntervalo": [
+    1268,
+    2044,
+    3016,
+    3987,
+    4444
+  ],
+  "corteFinal": 5156,
+  "corteInicio": 15,
+  "order": 19
+},
+{
+  "_id": {
+    "$oid": "638fafaa03929e6d18dcc26a"
+  },
+  "duracao": 4698,
+  "tituloAtracao": "Sessão das Dez",
+  "canal": "Sbt",
+  "tipo": "noite",
+  "programaDeTv": "sessaoDasDez",
+  "titulo": "Dublado - A Noite do Medo 1983.mp4",
+  "cortesParaIntervalo": [],
+  "order": null,
+  "added": false
+},
+{
+  "_id": {
+    "$oid": "638fafaa03929e6d18dcc2d2"
+  },
+  "tipo": "noite",
+  "added": false,
+  "programaDeTv": "telaQuente",
+  "duracao": 5708,
+  "canal": "Globo",
+  "titulo": "Dublado - A Morte Pede Carona.mkv",
+  "tituloAtracao": "Tela Quente",
+  "cortesParaIntervalo": [
+    803,
+    1926,
+    2890,
+    4035,
+    4808
+  ],
+  "corteFinal": 5708,
+  "corteInicio": 0,
+  "order": 16
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc2e3"
+  },
+  "duracao": 4890,
+  "canal": "Sbt",
+  "titulo": "Dublado - Criaturas - 1986.m4v",
+  "tipo": "noite",
+  "cortesParaIntervalo": [],
+  "order": null
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc2e4"
+  },
+  "duracao": 8215,
+  "tipo": "noite",
+  "canal": "Globo",
+  "titulo": "Dublado - Todos Os Homens Do Presidente.m4v",
+  "added": false
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc2e5"
+  },
+  "added": false,
+  "corteFinal": 6417,
+  "titulo": "Dublado - Acusados.mkv",
+  "canal": "Globo",
+  "duracao": 6417,
+  "tituloAtracao": "Supercine",
+  "order": 18,
+  "tipo": "noite",
+  "programaDeTv": "supercine",
+  "corteInicio": 0,
+  "cortesParaIntervalo": [
+    1425,
+    2790,
+    3685,
+    4723,
+    5636
+  ]
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc2e6"
+  },
+  "titulo": "Dublado - Hamburger - O Filme 1986 Tvrip.mp4",
+  "canal": "Sbt",
+  "added": true,
+  "programaDeTv": "cinemaEmCasa",
+  "duracao": 4931,
+  "tituloAtracao": "Cinema em Casa",
+  "tipo": "noite",
+  "cortesParaIntervalo": [],
+  "order": 1
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc2e7"
+  },
+  "titulo": "Dublado - Um Assassino Na Cidade.mkv",
+  "duracao": 4406,
+  "tipo": "noite",
+  "canal": "A Definir"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc2e8"
+  },
+  "cortesParaIntervalo": [
+    1178,
+    2151,
+    3101,
+    3734
+  ],
+  "canal": "Globo",
+  "corteInicio": 0,
+  "titulo": "Dublado - A Madrasta (Bette Davis) 1989.mp4",
+  "corteFinal": 4655,
+  "duracao": 4655,
+  "added": false,
+  "tipo": "noite"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc2e9"
+  },
+  "added": false,
+  "duracao": 8184,
+  "tia": true,
+  "tipo": "noite",
+  "titulo": "Dublado - Tomates Verdes Fritos 1991.mp4",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc2eb"
+  },
+  "canal": "Globo",
+  "tipo": "noite",
+  "tituloAtracao": "Sessão da Tarde",
+  "duracao": 5732,
+  "corteFinal": 5630,
+  "cortesParaIntervalo": [
+    1263,
+    2649,
+    3546,
+    4618
+  ],
+  "added": true,
+  "programaDeTv": "sessaoDaTarde",
+  "corteInicio": 20,
+  "titulo": "Dublado - A Inocencia Do Primeiro Amor.m4v",
+  "order": 7
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc2ec"
+  },
+  "added": false,
+  "duracao": 6999,
+  "order": 26,
+  "canal": "Globo",
+  "tipo": "noite",
+  "programaDeTv": "telaQuente",
+  "tituloAtracao": "Tela Quente",
+  "titulo": "Dublado - Robocop 2.m4v",
+  "cortesParaIntervalo": [
+    1209,
+    2459,
+    3565,
+    4608,
+    5407
+  ],
+  "corteFinal": 6789,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc2ed"
+  },
+  "titulo": "Dublado - Corpos Ardentes.m4v",
+  "added": false,
+  "duracao": 6658,
+  "canal": "Globo",
+  "tipo": "noite"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc2ee"
+  },
+  "tipo": "noite",
+  "titulo": "Dublado - Reações Anormais.mkv",
+  "canal": "Globo",
+  "added": false,
+  "duracao": 5306
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc2ef"
+  },
+  "added": false,
+  "duracao": 5823,
+  "tipo": "noite",
+  "canal": "Globo",
+  "titulo": "Dublado - Barfly - Condenados Pelo Vício (1987).m4v"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc2f0"
+  },
+  "titulo": "Dublado - O Exterminador 2 - 1984.mp4",
+  "canal": "Globo",
+  "corteInicio": 21,
+  "duracao": 5376,
+  "cortesParaIntervalo": [
+    1173,
+    2325,
+    3248,
+    4270
+  ],
+  "order": 5,
+  "tituloAtracao": "Tela Quente",
+  "tipo": "noite",
+  "added": true,
+  "corteFinal": 5117,
+  "programaDeTv": "telaQuente"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc2f1"
+  },
+  "duracao": 6609,
+  "tipo": "noite",
+  "canal": "Globo",
+  "titulo": "Dublado - Busca Frenetica.m4v",
+  "added": false
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc2f3"
+  },
+  "titulo": "Dublado - Linha Mortal.mp4",
+  "tipo": "noite",
+  "duracao": 5066,
+  "canal": "Sbt",
+  "cortesParaIntervalo": [],
+  "order": null
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc2f4"
+  },
+  "tipo": "noite",
+  "titulo": "Dublado - Os Irmãos Cara de Pau (1980).mkv",
+  "canal": "Globo",
+  "added": false,
+  "duracao": 7664
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc2f5"
+  },
+  "corteInicio": 0,
+  "cortesParaIntervalo": [
+    1214,
+    2506,
+    3463,
+    4695,
+    5767
+  ],
+  "corteFinal": 6828,
+  "titulo": "Dublado - Alien.m4v",
+  "added": false,
+  "duracao": 6828,
+  "canal": "Globo",
+  "tipo": "noite"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc2f6"
+  },
+  "added": false,
+  "tituloAtracao": "Sessão da Tarde",
+  "programaDeTv": "sessaoDaTarde",
+  "tipo": "noite",
+  "canal": "Globo",
+  "duracao": 5915,
+  "titulo": "Dublado - Vice Versa - 1988.mp4",
+  "cortesParaIntervalo": [
+    1402,
+    2572,
+    3369,
+    4162,
+    5321
+  ],
+  "corteFinal": 5795,
+  "corteInicio": 0,
+  "order": 25
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc2f7"
+  },
+  "canal": "Globo",
+  "tipo": "noite",
+  "added": false,
+  "titulo": "Dublado - Procura-se Susan Desesperadamente (1985).mp4",
+  "duracao": 6226
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc2f8"
+  },
+  "tipo": "noite",
+  "duracao": 6503,
+  "canal": "Globo",
+  "added": false,
+  "tituloAtracao": "Tela Quente",
+  "order": 12,
+  "programaDeTv": "telaQuente",
+  "titulo": "Dublado - O Segredo do Meu Sucesso.mp4",
+  "cortesParaIntervalo": [
+    1058,
+    2346,
+    3573,
+    4857,
+    5362
+  ],
+  "corteFinal": 6503,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc2f9"
+  },
+  "canal": "Globo",
+  "added": false,
+  "titulo": "Dublado - Rede de Intrigas (1976).mkv",
+  "tipo": "noite",
+  "duracao": 7220
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc2fa"
+  },
+  "canal": "Globo",
+  "order": 11,
+  "added": false,
+  "tituloAtracao": "Tela Quente",
+  "tipo": "noite",
+  "duracao": 7167,
+  "programaDeTv": "telaQuente",
+  "titulo": "Dublado - Os Intocaveis 1987.mp4",
+  "cortesParaIntervalo": [
+    1273,
+    2607,
+    3795,
+    5152,
+    5759
+  ],
+  "corteFinal": 6993,
+  "corteInicio": 18
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc2fb"
+  },
+  "canal": "A Definir",
+  "titulo": "Dublado - Um Homem Destemido.m4v",
+  "duracao": 6110,
+  "tipo": "noite"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc2fd"
+  },
+  "titulo": "Dublado - Warriors.m4v",
+  "canal": "Globo",
+  "duracao": 5417,
+  "added": false,
+  "tipo": "noite"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc2fe"
+  },
+  "titulo": "Dublado - Juventude Perdida 1985.mkv",
+  "duracao": 5253,
+  "canal": "Sbt",
+  "tipo": "noite",
+  "cortesParaIntervalo": [],
+  "order": null
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc2ff"
+  },
+  "tipo": "noite",
+  "canal": "Manchete",
+  "duracao": 7480,
+  "titulo": "Dublado - Um Dia de Cão 1975.mp4"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc300"
+  },
+  "canal": "Globo",
+  "programaDeTv": "sessaoDaTarde",
+  "tituloAtracao": "Sessão da Tarde",
+  "added": true,
+  "titulo": "Dublado - Conta Comigo.m4v",
+  "duracao": 5116,
+  "tipo": "noite",
+  "cortesParaIntervalo": [
+    1104,
+    1976,
+    2504,
+    3541,
+    4175
+  ],
+  "corteFinal": 5116,
+  "corteInicio": 0,
+  "order": 3
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc301"
+  },
+  "duracao": 5551,
+  "tipo": "noite",
+  "titulo": "Dublado - O Ultimo Americano Virgem.mp4",
+  "canal": "Sbt",
+  "cortesParaIntervalo": [],
+  "order": null
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc302"
+  },
+  "corteInicio": 0,
+  "duracao": 5032,
+  "tipo": "noite",
+  "corteFinal": 5032,
+  "titulo": "Dublado - A Dama De Vermelho.m4v",
+  "canal": "Globo",
+  "added": false,
+  "cortesParaIntervalo": [
+    923,
+    1880,
+    2849,
+    4201
+  ]
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc303"
+  },
+  "tipo": "noite",
+  "canal": "Sbt",
+  "duracao": 6063,
+  "titulo": "Dublado - Labirinto 1986.mp4",
+  "cortesParaIntervalo": [],
+  "order": null
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc304"
+  },
+  "canal": "Globo",
+  "duracao": 6641,
+  "titulo": "Dublado - Loucuras em Plena Madrugada.mkv",
+  "tipo": "noite",
+  "added": false
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc305"
+  },
+  "tipo": "noite",
+  "titulo": "Dublado - Loucademia de Policia 1984.m4v",
+  "duracao": 5785,
+  "canal": "Sbt",
+  "cortesParaIntervalo": [],
+  "order": null
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc306"
+  },
+  "tituloAtracao": "Tela Quente",
+  "duracao": 6702,
+  "order": 42,
+  "titulo": "Dublado - Poltergeist O Fenômeno.mkv",
+  "canal": "Globo",
+  "added": false,
+  "tipo": "noite",
+  "programaDeTv": "telaQuente",
+  "cortesParaIntervalo": [
+    1452,
+    2544,
+    3563,
+    4432,
+    5561
+  ],
+  "corteFinal": 6702,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc307"
+  },
+  "canal": "Globo",
+  "programaDeTv": "telaQuente",
+  "titulo": "Dublado - Predador 1987.mkv",
+  "tipo": "noite",
+  "added": true,
+  "duracao": 6396,
+  "cortesParaIntervalo": [
+    1131,
+    2093,
+    3414,
+    4855
+  ],
+  "order": 1,
+  "corteFinal": 6396,
+  "corteInicio": 22,
+  "tituloAtracao": "Tela Quente"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc308"
+  },
+  "added": false,
+  "canal": "Globo",
+  "corteFinal": 5707,
+  "tipo": "noite",
+  "duracao": 5707,
+  "corteInicio": 0,
+  "cortesParaIntervalo": [
+    1180,
+    2278,
+    3006,
+    4136,
+    5018
+  ],
+  "titulo": "Dublado - Abaixo De Zero.m4v"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc309"
+  },
+  "titulo": "Dublado - Caçada de Morte 1978.mp4",
+  "duracao": 5361,
+  "canal": "Manchete",
+  "tipo": "noite"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc30a"
+  },
+  "added": false,
+  "tipo": "noite",
+  "duracao": 6974,
+  "titulo": "Dublado - Força Sinistra (1985).mp4",
+  "canal": "Globo",
+  "cortesParaIntervalo": [],
+  "programaDeTv": "telaQuente",
+  "tituloAtracao": "Tela Quente"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc30b"
+  },
+  "tipo": "noite",
+  "duracao": 5691,
+  "canal": "Globo",
+  "added": false,
+  "titulo": "Dublado - Admiradora Secreta.mkv"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc30c"
+  },
+  "duracao": 7827,
+  "titulo": "Dublado - Conan o Barbaro.webm",
+  "tipo": "noite",
+  "canal": "Sbt",
+  "cortesParaIntervalo": [],
+  "order": null
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc30d"
+  },
+  "duracao": 6312,
+  "tipo": "noite",
+  "canal": "A Definir",
+  "titulo": "Dublado - Uma Escola Muito Louca (1986) Dublado.mp4"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc30e"
+  },
+  "programaDeTv": "telaQuente",
+  "duracao": 5859,
+  "canal": "Globo",
+  "titulo": "Dublado - Dormindo com o Inimigo (1991).mp4",
+  "order": 21,
+  "added": false,
+  "tipo": "noite",
+  "tituloAtracao": "Tela Quente",
+  "cortesParaIntervalo": [
+    1026,
+    1964,
+    3083,
+    4034,
+    4879
+  ],
+  "corteFinal": 5748,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc30f"
+  },
+  "titulo": "Dublado - Negócio Arriscado.m4v",
+  "duracao": 5751,
+  "added": false,
+  "canal": "Globo",
+  "tipo": "noite"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc310"
+  },
+  "titulo": "Dublado - Um Herói e seu Terror 1988.mp4",
+  "duracao": 5803,
+  "canal": "A Definir",
+  "tipo": "noite"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc311"
+  },
+  "duracao": 7153,
+  "tipo": "noite",
+  "canal": "Manchete",
+  "titulo": "Dublado - Ovo Da Serpente.mp4"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc312"
+  },
+  "canal": "Bandeirantes",
+  "titulo": "Dublado - Arma Secreta.mp4",
+  "duracao": 5802,
+  "tipo": "noite"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc313"
+  },
+  "tipo": "noite",
+  "canal": "Sbt",
+  "titulo": "Dublado - Chorus Line Em Busca Da Fama (Tvrip Sbt Com Comerciais).m4v",
+  "duracao": 9010,
+  "cortesParaIntervalo": [],
+  "order": null
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc314"
+  },
+  "titulo": "Dublado - Um Príncipe em Nova York (1988) (1).mkv",
+  "tipo": "noite",
+  "added": false,
+  "tituloAtracao": "Tela Quente",
+  "programaDeTv": "telaQuente",
+  "canal": "Globo",
+  "order": 45,
+  "duracao": 6731,
+  "cortesParaIntervalo": [
+    1371,
+    2172,
+    3358,
+    4712,
+    5765
+  ],
+  "corteFinal": 6731,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc315"
+  },
+  "tituloAtracao": "Tela Quente",
+  "added": false,
+  "programaDeTv": "telaQuente",
+  "canal": "Globo",
+  "tipo": "noite",
+  "order": 64,
+  "titulo": "Dublado - Robocop - O Policial Do Futuro (1987).m4v",
+  "duracao": 5817,
+  "cortesParaIntervalo": [
+    809,
+    2007,
+    2925,
+    4044,
+    4726
+  ],
+  "corteFinal": 5817,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc316"
+  },
+  "duracao": 5021,
+  "corteInicio": 0,
+  "canal": "Globo",
+  "corteFinal": 5021,
+  "added": false,
+  "tituloAtracao": "Sessão da Tarde",
+  "tipo": "noite",
+  "cortesParaIntervalo": [
+    1019,
+    1877,
+    2873,
+    3867,
+    4351
+  ],
+  "programaDeTv": "sessaoDaTarde",
+  "titulo": "Dublado - Aluga-Se Para O Verão - 1985.m4v",
+  "order": 32
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc317"
+  },
+  "tipo": "noite",
+  "titulo": "Dublado - Viagem ao Mundo dos Sonhos.mp4",
+  "canal": "Globo",
+  "duracao": 6128,
+  "added": false
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc318"
+  },
+  "titulo": "Dublado - Uma Professora Muito Especial 1980.mp4",
+  "canal": "Globo",
+  "added": false,
+  "tituloAtracao": "Tela Quente",
+  "programaDeTv": "telaQuente",
+  "tipo": "noite",
+  "order": 20,
+  "duracao": 5222,
+  "cortesParaIntervalo": [
+    1056,
+    2248,
+    2788,
+    3600,
+    4318
+  ],
+  "corteFinal": 5182,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc319"
+  },
+  "titulo": "Dublado - O Selvagem da Motocicleta.mp4",
+  "tipo": "noite",
+  "canal": "Bandeirantes",
+  "duracao": 5382
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc31a"
+  },
+  "canal": "A Definir",
+  "duracao": 5681,
+  "titulo": "Dublado - O Mundo em 2020.mkv",
+  "tipo": "noite"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc31b"
+  },
+  "titulo": "Dublado - A Ambulância (1990) TVRIP Cinema em Casa.mkv",
+  "tituloAtracao": "Cinema em Casa",
+  "cortesParaIntervalo": [
+    919,
+    1901,
+    2300,
+    3337,
+    4946
+  ],
+  "canal": "Sbt",
+  "added": true,
+  "corteFinal": 5279,
+  "order": 5,
+  "corteInicio": 27,
+  "tipo": "noite",
+  "duracao": 5284,
+  "programaDeTv": "cinemaEmCasa"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc31c"
+  },
+  "duracao": 7731,
+  "titulo": "Dublado - Serpico.mkv",
+  "tipo": "noite",
+  "canal": "Manchete"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc31d"
+  },
+  "tipo": "noite",
+  "titulo": "Dublado - Tocaia (1987).mkv",
+  "added": false,
+  "duracao": 6856,
+  "canal": "Globo",
+  "cortesParaIntervalo": [],
+  "programaDeTv": "festivalPrimavera",
+  "tituloAtracao": "Festival Primavera"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc31e"
+  },
+  "tituloAtracao": "Temperatura Máxima",
+  "titulo": "Dublado - Indiana Jones e os Caçadores da Arca Perdida 1981.m4v",
+  "duracao": 6919,
+  "programaDeTv": "temperaturaMaxima",
+  "canal": "Globo",
+  "cortesParaIntervalo": [
+    1225,
+    2183,
+    3372,
+    4570,
+    5726
+  ],
+  "tipo": "noite",
+  "corteInicio": 14,
+  "corteFinal": 6711,
+  "order": 1,
+  "added": true
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc31f"
+  },
+  "titulo": "Dublado - Onde Estão As Crianças 1986 Tvrip.m4v",
+  "added": false,
+  "tipo": "noite",
+  "canal": "Globo",
+  "duracao": 7561
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc320"
+  },
+  "canal": "Sbt",
+  "duracao": 6124,
+  "tipo": "noite",
+  "order": null,
+  "added": false,
+  "tituloAtracao": "Sessão das Dez",
+  "programaDeTv": "sessaoDasDez",
+  "titulo": "Dublado - Cegos Surdos e Loucos.mp4",
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc321"
+  },
+  "canal": "Manchete",
+  "duracao": 6320,
+  "titulo": "Dublado - Um Passe de Mágica (1978).mkv",
+  "tipo": "noite"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc322"
+  },
+  "titulo": "Dublado - Mistério no Parque Gorky 1983.mp4",
+  "canal": "Globo",
+  "added": false,
+  "duracao": 7720,
+  "tipo": "noite"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc323"
+  },
+  "duracao": 5749,
+  "titulo": "Dublado - Corrida na Correnteza 1984.mp4",
+  "canal": "Sbt",
+  "tipo": "noite",
+  "cortesParaIntervalo": [],
+  "order": null
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc324"
+  },
+  "corteFinal": 5485,
+  "added": false,
+  "corteInicio": 0,
+  "cortesParaIntervalo": [
+    1357,
+    2395,
+    3444,
+    4561
+  ],
+  "canal": "Globo",
+  "duracao": 5485,
+  "titulo": "Dublado - A Queima Roupa - Point Blank (1967).m4v",
+  "tipo": "noite"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc325"
+  },
+  "tipo": "noite",
+  "duracao": 4804,
+  "titulo": "Dublado - Galáxia do Terror - 1981.mkv",
+  "canal": "A Definir"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc326"
+  },
+  "added": false,
+  "titulo": "Dublado - A Sétima Profecia - 1988.mp4",
+  "corteFinal": 5646,
+  "cortesParaIntervalo": [
+    1175,
+    2367,
+    3629,
+    4763
+  ],
+  "corteInicio": 0,
+  "duracao": 5776,
+  "canal": "Globo",
+  "tipo": "noite"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc327"
+  },
+  "canal": "Sbt",
+  "duracao": 5636,
+  "titulo": "Dublado - Nico Acima da Lei 1988.mp4",
+  "tipo": "noite",
+  "cortesParaIntervalo": [],
+  "order": null
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc328"
+  },
+  "tipo": "noite",
+  "titulo": "Dublado - Kramer Vs Kramer 1979.mp4",
+  "duracao": 6289,
+  "added": false,
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc329"
+  },
+  "added": false,
+  "duracao": 6323,
+  "titulo": "Dublado - O Rei da Comédia.mkv",
+  "tipo": "noite",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc32a"
+  },
+  "canal": "Globo",
+  "tipo": "noite",
+  "duracao": 7707,
+  "titulo": "Dublado - Um Corpo que Cai 1958.mp4",
+  "added": false
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc32b"
+  },
+  "added": false,
+  "tipo": "noite",
+  "canal": "Globo",
+  "titulo": "Dublado - Vivendo Com O Perigo.mp4",
+  "duracao": 6708
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc32c"
+  },
+  "added": false,
+  "canal": "Globo",
+  "cortesParaIntervalo": [
+    1123,
+    2834,
+    4091,
+    5089,
+    5764
+  ],
+  "titulo": "Dublado - Acima De Qualquer Suspeita.mkv",
+  "corteFinal": 7405,
+  "corteInicio": 2,
+  "tipo": "noite",
+  "duracao": 7405
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc32d"
+  },
+  "tituloAtracao": "Sessão das Dez",
+  "titulo": "Dublado - A Fuga dos Homem Passaro.mp4",
+  "added": false,
+  "tipo": "noite",
+  "duracao": 7074,
+  "programaDeTv": "sessaoDasDez",
+  "order": null,
+  "canal": "Sbt",
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc32e"
+  },
+  "titulo": "Dublado - Breakdance 2 (1984).mp4",
+  "tituloAtracao": "Sessão da Tarde",
+  "programaDeTv": "sessaoDaTarde",
+  "duracao": 5651,
+  "canal": "Globo",
+  "added": false,
+  "tipo": "noite",
+  "cortesParaIntervalo": [
+    979,
+    1979,
+    2963,
+    4073,
+    4869
+  ],
+  "corteFinal": 5431,
+  "corteInicio": 9,
+  "order": 23
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc32f"
+  },
+  "tipo": "noite",
+  "titulo": "Dublado - Rapaz Solitário - 1984.mp4",
+  "added": false,
+  "canal": "Globo",
+  "duracao": 5113
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc330"
+  },
+  "tipo": "noite",
+  "added": false,
+  "titulo": "Dublado - Nimitz De Volta Ao Inferno 1980.mp4",
+  "duracao": 6157,
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc331"
+  },
+  "canal": "Sbt",
+  "titulo": "Dublado - Fuga De Nova York.m4v",
+  "duracao": 5468,
+  "tipo": "noite",
+  "cortesParaIntervalo": [],
+  "order": null
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc332"
+  },
+  "titulo": "Dublado - Sexta-Feira 13 Parte 7 A Matança Continua 1988.mp4",
+  "added": false,
+  "canal": "Globo",
+  "programaDeTv": "telaQuente",
+  "duracao": 5299,
+  "order": 23,
+  "tituloAtracao": "Tela Quente",
+  "tipo": "noite",
+  "cortesParaIntervalo": [
+    960,
+    2039,
+    2752,
+    3891
+  ],
+  "corteFinal": 5189,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc333"
+  },
+  "duracao": 5815,
+  "titulo": "Dublado - Miami Vice.mkv",
+  "tipo": "noite",
+  "canal": "Sbt",
+  "cortesParaIntervalo": [],
+  "order": null
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc334"
+  },
+  "titulo": "Dublado - Encontro Fatal 1991.mp4",
+  "duracao": 2315,
+  "tipo": "noite",
+  "canal": "Sbt",
+  "cortesParaIntervalo": [],
+  "order": null
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc335"
+  },
+  "tipo": "noite",
+  "titulo": "Dublado - Um Lobisomem Americano Em Londres (1).mkv",
+  "duracao": 5391,
+  "canal": "Sbt",
+  "cortesParaIntervalo": [],
+  "order": null
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc336"
+  },
+  "titulo": "Dublado - Execução Sumária (1986).mp4",
+  "canal": "A Definir",
+  "duracao": 6054,
+  "tipo": "noite"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc337"
+  },
+  "tipo": "noite",
+  "duracao": 7026,
+  "added": true,
+  "corteFinal": 6896,
+  "cortesParaIntervalo": [
+    1376,
+    3031,
+    4619,
+    5911
+  ],
+  "corteInicio": 11,
+  "tituloAtracao": "Sessão da Tarde",
+  "canal": "Globo",
+  "titulo": "Dublado - A Gangue da Pesada 1979.mp4",
+  "programaDeTv": "sessaoDaTarde",
+  "order": 9
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc338"
+  },
+  "corteFinal": 5574,
+  "duracao": 5744,
+  "canal": "Bandeirantes",
+  "tipo": "noite",
+  "corteInicio": 0,
+  "titulo": "Dublado - American Pop 1981.mp4",
+  "cortesParaIntervalo": [
+    950,
+    1811,
+    2897,
+    3844,
+    4920
+  ]
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc339"
+  },
+  "tipo": "noite",
+  "titulo": "Dublado - Só o Casamento nos Separa 1971.mp4",
+  "canal": "A Definir",
+  "duracao": 5693
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc33a"
+  },
+  "tipo": "noite",
+  "tituloAtracao": "Sessão da Tarde",
+  "programaDeTv": "sessaoDaTarde",
+  "titulo": "Dublado - A Lenda 1985.mp4",
+  "duracao": 5624,
+  "added": true,
+  "canal": "Globo",
+  "cortesParaIntervalo": [
+    1066,
+    2198,
+    3341,
+    4385,
+    5132
+  ],
+  "corteFinal": 5455,
+  "corteInicio": 0,
+  "order": 8
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc33c"
+  },
+  "tipo": "noite",
+  "duracao": 5715,
+  "canal": "A Definir",
+  "titulo": "Dublado - Max Devlin e o Diabo 1981 TVRIP.mp4"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc33d"
+  },
+  "titulo": "Dublado - Caca Fantasmas.m4v",
+  "tituloAtracao": "Tela Quente",
+  "canal": "Globo",
+  "order": 7,
+  "programaDeTv": "telaQuente",
+  "duracao": 6012,
+  "added": false,
+  "tipo": "noite",
+  "cortesParaIntervalo": [
+    1188,
+    2527,
+    3772,
+    4656,
+    5028
+  ],
+  "corteFinal": 6012,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc33e"
+  },
+  "canal": "Globo",
+  "titulo": "Dublado - Vítimas de uma Paixão - 1989.mp4",
+  "duracao": 6767,
+  "added": false,
+  "tipo": "noite",
+  "cortesParaIntervalo": [],
+  "programaDeTv": "festivalPrimavera",
+  "tituloAtracao": "Festival Primavera"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc33f"
+  },
+  "order": 55,
+  "tipo": "noite",
+  "added": false,
+  "programaDeTv": "telaQuente",
+  "canal": "Globo",
+  "tituloAtracao": "Tela Quente",
+  "duracao": 7108,
+  "titulo": "Dublado - Indiana Jones e o Templo da Perdição 1984.m4v",
+  "cortesParaIntervalo": [
+    1199,
+    2127,
+    2784,
+    4329,
+    5724
+  ],
+  "corteFinal": 6858,
+  "corteInicio": 14
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc340"
+  },
+  "duracao": 5518,
+  "tipo": "noite",
+  "canal": "A Definir",
+  "titulo": "Dublado - Que Droga De Vida.mp4"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc341"
+  },
+  "canal": "A Definir",
+  "titulo": "Dublado - Tentação Perigosa 1990.mp4",
+  "tipo": "noite",
+  "duracao": 6540
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc342"
+  },
+  "titulo": "Dublado - Perfil de Assassina (1991).mp4",
+  "canal": "A Definir",
+  "tipo": "noite",
+  "duracao": 6377
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc343"
+  },
+  "tipo": "noite",
+  "duracao": 7305,
+  "titulo": "Dublado - O Exorcista 1973.mp4",
+  "canal": "Sbt",
+  "cortesParaIntervalo": [],
+  "order": null
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc344"
+  },
+  "tituloAtracao": "Cinemax",
+  "duracao": 5312,
+  "order": 3,
+  "canal": "Bandeirantes",
+  "tipo": "noite",
+  "added": false,
+  "titulo": "Dublado - Destino Aventura Sem Limites 1987.mp4",
+  "programaDeTv": "cinemax",
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc345"
+  },
+  "titulo": "Dublado - Esquecendo o Passado (1982).mp4",
+  "canal": "Globo",
+  "programaDeTv": "sessaoDeGala",
+  "tipo": "noite",
+  "order": 7,
+  "duracao": 6925,
+  "corteFinal": 6925,
+  "added": false,
+  "tituloAtracao": "Sessão de Gala",
+  "cortesParaIntervalo": [
+    1619,
+    2948,
+    4211,
+    5978
+  ],
+  "corteInicio": 1
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc346"
+  },
+  "titulo": "Dublado - O Dorminhoco tvrip (com comerciais).mp4",
+  "duracao": 5295,
+  "canal": "Globo",
+  "added": false,
+  "tipo": "noite"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc347"
+  },
+  "duracao": 7805,
+  "tipo": "noite",
+  "titulo": "Dublado - Chinatown.m4v",
+  "added": false,
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc348"
+  },
+  "corteFinal": 5177,
+  "duracao": 5177,
+  "canal": "Bandeirantes",
+  "titulo": "Dublado - Ai City [1986].webm",
+  "tipo": "noite",
+  "corteInicio": 0,
+  "cortesParaIntervalo": [
+    1204,
+    2302,
+    3507,
+    4819
+  ]
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc349"
+  },
+  "duracao": 5230,
+  "programaDeTv": "telaQuente",
+  "canal": "Globo",
+  "titulo": "Dublado - Sexta-Feira 13 Parte 6 Jason Vive.m4v",
+  "added": false,
+  "tipo": "noite",
+  "order": 31,
+  "tituloAtracao": "Tela Quente",
+  "cortesParaIntervalo": [
+    1101,
+    1765,
+    2745,
+    4239
+  ],
+  "corteFinal": 5090,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc34a"
+  },
+  "duracao": 6639,
+  "added": false,
+  "tipo": "noite",
+  "titulo": "Dublado - Justiça Cega.mp4",
+  "canal": "Globo",
+  "cortesParaIntervalo": [],
+  "programaDeTv": "festivalPrimavera",
+  "tituloAtracao": "Festival Primavera"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc34b"
+  },
+  "programaDeTv": "cinemaEmCasa",
+  "tipo": "noite",
+  "canal": "Sbt",
+  "titulo": "Dublado - Despedida de Formandos 1987.webm",
+  "tituloAtracao": "Cinema em Casa",
+  "duracao": 6977,
+  "added": true,
+  "cortesParaIntervalo": [],
+  "order": 9
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc34c"
+  },
+  "canal": "A Definir",
+  "tipo": "noite",
+  "duracao": 5196,
+  "titulo": "Dublado - Uma Aventura na Ilha Deserta (1990 ).mp4"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc34d"
+  },
+  "tituloAtracao": "Cinema em Casa",
+  "tipo": "noite",
+  "added": false,
+  "duracao": 5809,
+  "programaDeTv": "cinemaEmCasa",
+  "canal": "Sbt",
+  "titulo": "Dublado - Encontro Com Anjo 1987 Tvrip Sbt.mp4",
+  "cortesParaIntervalo": [],
+  "order": 11
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc34e"
+  },
+  "duracao": 5566,
+  "corteInicio": 0,
+  "corteFinal": 5566,
+  "cortesParaIntervalo": [
+    1084,
+    2110,
+    2893,
+    3771,
+    4889
+  ],
+  "tipo": "noite",
+  "added": false,
+  "canal": "Globo",
+  "titulo": "Dublado - A Vida de Brian.mkv"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc34f"
+  },
+  "canal": "Globo",
+  "programaDeTv": "telaQuente",
+  "order": 63,
+  "tituloAtracao": "Tela Quente",
+  "duracao": 7830,
+  "added": false,
+  "titulo": "Dublado - Rain Man.mkv",
+  "tipo": "noite",
+  "cortesParaIntervalo": [
+    1184,
+    2527,
+    3795,
+    5199,
+    6435
+  ],
+  "corteFinal": 7830,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc350"
+  },
+  "titulo": "Dublado - O Homem Indestrutível.webm",
+  "duracao": 5191,
+  "tipo": "noite",
+  "canal": "Sbt",
+  "cortesParaIntervalo": [],
+  "order": null
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc351"
+  },
+  "tipo": "noite",
+  "programaDeTv": "sessaoDaTarde",
+  "duracao": 5565,
+  "added": true,
+  "tituloAtracao": "Sessão da Tarde",
+  "canal": "Globo",
+  "titulo": "Dublado - Kiss e o Fantasma Das Trevas.mp4",
+  "cortesParaIntervalo": [
+    1144,
+    2030,
+    2894,
+    4620
+  ],
+  "corteFinal": 5564,
+  "corteInicio": 0,
+  "order": 1
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc352"
+  },
+  "titulo": "Dublado - O Reencontro - 1983.mp4",
+  "tipo": "noite",
+  "canal": "A Definir",
+  "duracao": 6307
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc353"
+  },
+  "tipo": "noite",
+  "duracao": 5752,
+  "canal": "A Definir",
+  "titulo": "Dublado - O Aniquilador 1986.mp4"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc354"
+  },
+  "canal": "Sbt",
+  "cortesParaIntervalo": [
+    1267,
+    2575,
+    3848,
+    4446
+  ],
+  "corteInicio": 0,
+  "tipo": "noite",
+  "corteFinal": 5342,
+  "titulo": "Dublado - A Hora Do Pesadelo.m4v",
+  "duracao": 5342,
+  "order": null
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc355"
+  },
+  "duracao": 6524,
+  "tipo": "noite",
+  "titulo": "Dublado - O Fio da Suspeita 1985.mp4",
+  "canal": "A Definir"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc356"
+  },
+  "duracao": 5780,
+  "tipo": "noite",
+  "titulo": "Dublado - D.A.R.Y.L..m4v",
+  "added": false,
+  "canal": "Globo",
+  "cortesParaIntervalo": [],
+  "programaDeTv": "sessaoDaTarde",
+  "tituloAtracao": "Sessão da Tarde"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc357"
+  },
+  "order": 54,
+  "canal": "Globo",
+  "titulo": "Dublado - O Exterminador - 1980.mp4",
+  "tituloAtracao": "Tela Quente",
+  "tipo": "noite",
+  "programaDeTv": "telaQuente",
+  "duracao": 6131,
+  "added": false,
+  "cortesParaIntervalo": [
+    982,
+    2080,
+    3118,
+    4229,
+    5262
+  ],
+  "corteFinal": 5991,
+  "corteInicio": 14
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc358"
+  },
+  "duracao": 6472,
+  "canal": "Globo",
+  "tituloAtracao": "Tela Quente",
+  "order": 18,
+  "tipo": "noite",
+  "titulo": "Dublado - De Volta Para O Futuro 2.mp4",
+  "added": false,
+  "programaDeTv": "telaQuente",
+  "cortesParaIntervalo": [
+    1272,
+    2328,
+    3330,
+    4272,
+    5385
+  ],
+  "corteFinal": 6245,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc359"
+  },
+  "canal": "Bandeirantes",
+  "duracao": 5361,
+  "tipo": "noite",
+  "titulo": "Dublado - Viajantes Noturnos 1987.mp4"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc35a"
+  },
+  "titulo": "Dublado - Os Invasores de Marte.webm",
+  "canal": "A Definir",
+  "tipo": "noite",
+  "duracao": 5808
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc35b"
+  },
+  "tipo": "noite",
+  "titulo": "Dublado - Justiça Para Todos (1979).mkv",
+  "canal": "Manchete",
+  "duracao": 6983
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc35c"
+  },
+  "titulo": "Dublado - Imagine 1988.mp4",
+  "canal": "Sbt",
+  "duracao": 6362,
+  "tipo": "noite",
+  "cortesParaIntervalo": [],
+  "order": null
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc35d"
+  },
+  "duracao": 6487,
+  "canal": "Globo",
+  "tipo": "noite",
+  "added": false,
+  "titulo": "Dublado - Um Romance Muito Perigoso 1985.mp4"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc35e"
+  },
+  "duracao": 6817,
+  "canal": "Globo",
+  "titulo": "Dublado - O Silêncio dos Inocentes.mkv",
+  "tipo": "noite",
+  "added": false
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc35f"
+  },
+  "titulo": "Dublado - Toque de Recolher 1981.mp4",
+  "canal": "A Definir",
+  "tipo": "noite",
+  "duracao": 7583
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc360"
+  },
+  "tipo": "noite",
+  "duracao": 5591,
+  "canal": "Globo",
+  "titulo": "Dublado - Baile de Formatura 3.webm",
+  "added": false
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc361"
+  },
+  "added": false,
+  "canal": "Globo",
+  "duracao": 5406,
+  "tipo": "noite",
+  "titulo": "Dublado - Os Incríveis Wallendas 1978 tvrip globo.webm"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc362"
+  },
+  "corteInicio": 0,
+  "duracao": 5093,
+  "titulo": "Dublado - A Coisa.mkv",
+  "corteFinal": 5093,
+  "cortesParaIntervalo": [
+    915,
+    1829,
+    2637,
+    3906
+  ],
+  "canal": "Sbt",
+  "tipo": "noite",
+  "programaDeTv": "festivalDeFilmesDoSBT",
+  "tituloAtracao": "Festival de Filmes do SBT",
+  "added": true,
+  "order": 1
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc363"
+  },
+  "canal": "Globo",
+  "added": false,
+  "titulo": "Dublado - Mad Max 3.mkv",
+  "tipo": "noite",
+  "duracao": 6121,
+  "corteFinal": 6121,
+  "corteInicio": 1,
+  "cortesParaIntervalo": [
+    987,
+    2433,
+    3699,
+    4404,
+    5574
+  ],
+  "programaDeTv": "temperaturaMaxima",
+  "tituloAtracao": "Temperatura Máxima",
+  "order": 5
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc364"
+  },
+  "duracao": 9733,
+  "tipo": "noite",
+  "canal": "A Definir",
+  "titulo": "Dublado - New York, New York - 1977.mp4"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc365"
+  },
+  "added": false,
+  "canal": "Globo",
+  "titulo": "Dublado - O Dia Do Chacal.mp4",
+  "duracao": 8551,
+  "tipo": "noite"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc366"
+  },
+  "duracao": 5778,
+  "canal": "Globo",
+  "programaDeTv": "sessaoDaTarde",
+  "cortesParaIntervalo": [
+    900,
+    1831,
+    2841,
+    3889,
+    5008
+  ],
+  "corteFinal": 5778,
+  "titulo": "Dublado - Monstros, Não Amolem 1966.mp4",
+  "corteInicio": 0,
+  "tipo": "noite",
+  "added": true,
+  "order": 5,
+  "tituloAtracao": "Sessão da Tarde"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc367"
+  },
+  "canal": "A Definir",
+  "duracao": 5921,
+  "titulo": "Dublado - Olho por Olho.mkv",
+  "tipo": "noite"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc368"
+  },
+  "corteFinal": 7266,
+  "canal": "Bandeirantes",
+  "cortesParaIntervalo": [
+    1420,
+    2625,
+    4266,
+    5980
+  ],
+  "titulo": "Dublado - Akira.mkv",
+  "tipo": "noite",
+  "corteInicio": 0,
+  "duracao": 7266
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc369"
+  },
+  "titulo": "Dublado - Amor Do Futuro - 1985 Tvrip.m4v",
+  "corteFinal": 5592,
+  "duracao": 5592,
+  "canal": "Sbt",
+  "tipo": "noite",
+  "cortesParaIntervalo": [
+    1106,
+    2118,
+    3172,
+    4202,
+    4809
+  ],
+  "corteInicio": 0,
+  "order": null
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc36a"
+  },
+  "titulo": "Dublado - A Hora do Espanto II.mkv",
+  "duracao": 6005,
+  "cortesParaIntervalo": [
+    1296,
+    2806,
+    3997,
+    5091
+  ],
+  "tipo": "noite",
+  "added": false,
+  "corteInicio": 0,
+  "corteFinal": 6005,
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc36b"
+  },
+  "tipo": "noite",
+  "titulo": "0 TV Station IDs during 1986.mp4",
+  "canal": "A Definir",
+  "duracao": 1643
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc36c"
+  },
+  "titulo": "Dublado - Shocker 100.000 Volts de Terror 1989.mp4",
+  "programaDeTv": "telaQuente",
+  "order": 33,
+  "duracao": 6575,
+  "added": false,
+  "tituloAtracao": "Tela Quente",
+  "canal": "Globo",
+  "tipo": "noite",
+  "cortesParaIntervalo": [
+    815,
+    2783,
+    3834,
+    5105
+  ],
+  "corteFinal": 6403,
+  "corteInicio": 18
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc36d"
+  },
+  "cortesParaIntervalo": [
+    1217,
+    2159,
+    2956,
+    4101
+  ],
+  "duracao": 5128,
+  "corteInicio": 0,
+  "added": false,
+  "corteFinal": 5128,
+  "tipo": "noite",
+  "programaDeTv": "",
+  "canal": "Globo",
+  "titulo": "Dublado - A Grande Barbada (1989).m4v"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc36e"
+  },
+  "titulo": "Dublado - Mad Max 2.mkv",
+  "added": false,
+  "canal": "Globo",
+  "tipo": "noite",
+  "duracao": 5563
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc36f"
+  },
+  "titulo": "Dublado - Scarface 1983.m4v",
+  "canal": "Globo",
+  "added": false,
+  "tipo": "noite",
+  "duracao": 10191
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc370"
+  },
+  "duracao": 6837,
+  "canal": "Manchete",
+  "tipo": "noite",
+  "titulo": "Dublado - Klute - O Passado Condena (1971).mp4"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc371"
+  },
+  "tipo": "noite",
+  "titulo": "Dublado - Temporada Sangrenta 1985.mkv",
+  "canal": "Globo",
+  "added": false,
+  "duracao": 6011
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc372"
+  },
+  "programaDeTv": "cineGazeta",
+  "titulo": "Dublado - Atlantida O Continente Perdido 1961.mp4",
+  "duracao": 5479,
+  "canal": "Gazeta",
+  "tituloAtracao": "Cine Gazeta",
+  "tipo": "noite"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc373"
+  },
+  "titulo": "Dublado - A Loucura de Sarah – 1989 – TVRip SuperCine.mp4",
+  "order": 29,
+  "programaDeTv": "supercine",
+  "canal": "Globo",
+  "tipo": "noite",
+  "duracao": 4968,
+  "corteFinal": 4969,
+  "cortesParaIntervalo": [
+    1052,
+    1457,
+    2227,
+    3393,
+    4303
+  ],
+  "corteInicio": 0,
+  "added": true,
+  "tituloAtracao": "Supercine"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc374"
+  },
+  "tituloAtracao": "Sessão da Tarde",
+  "tipo": "noite",
+  "added": false,
+  "titulo": "Dublado - Férias Frustradas 2.mp4",
+  "canal": "Globo",
+  "programaDeTv": "sessaoDaTarde",
+  "duracao": 5642,
+  "cortesParaIntervalo": [
+    1062,
+    2105,
+    2961,
+    4270,
+    4688
+  ],
+  "corteFinal": 5532,
+  "corteInicio": 13,
+  "order": 37
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc375"
+  },
+  "added": false,
+  "tipo": "noite",
+  "duracao": 6813,
+  "titulo": "Dublado - Uma Secretária de Futuro (1988).mp4",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc376"
+  },
+  "tipo": "noite",
+  "duracao": 5265,
+  "titulo": "Dublado - Segredos Mortais-1.m4v",
+  "canal": "A Definir"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc377"
+  },
+  "canal": "Globo",
+  "added": false,
+  "tituloAtracao": "Supercine",
+  "order": 3,
+  "titulo": "Dublado - Terror Em Nova York.m4v",
+  "tipo": "noite",
+  "duracao": 6326,
+  "programaDeTv": "supercine",
+  "cortesParaIntervalo": [
+    1092,
+    2218,
+    3261,
+    4401,
+    5206
+  ],
+  "corteFinal": 6326,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc378"
+  },
+  "duracao": 5896,
+  "titulo": "Dublado - O Golpe de John Anderson (1971).mp4",
+  "tipo": "noite",
+  "canal": "A Definir"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc379"
+  },
+  "tipo": "noite",
+  "canal": "Globo",
+  "programaDeTv": "temperaturaMaxima",
+  "duracao": 6034,
+  "added": false,
+  "cortesParaIntervalo": [
+    1085,
+    2304,
+    3351,
+    4349,
+    5278
+  ],
+  "order": 6,
+  "corteFinal": 5854,
+  "tituloAtracao": "Temperatura Máxima",
+  "titulo": "Dublado - O Útimo Guerreiro das Estrelaas (1984).mp4",
+  "corteInicio": 17
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc37a"
+  },
+  "order": 4,
+  "titulo": "Dublado - O Documento Hlcroft 1985.mp4",
+  "canal": "Globo",
+  "tipo": "noite",
+  "programaDeTv": "supercine",
+  "added": false,
+  "duracao": 6760,
+  "tituloAtracao": "Supercine",
+  "cortesParaIntervalo": [
+    1312,
+    2717,
+    4112,
+    5049,
+    6233
+  ],
+  "corteFinal": 6620,
+  "corteInicio": 10
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc37b"
+  },
+  "titulo": "Dublado - Jogando Com A Vida - 1982 Tvrip Globo(Com Comerciais).m4v",
+  "tipo": "noite",
+  "canal": "Globo",
+  "duracao": 6152,
+  "added": false
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc37c"
+  },
+  "titulo": "Dublado - Cuidado Com Meu Guarda Costas.mkv",
+  "added": false,
+  "duracao": 5650,
+  "tipo": "noite",
+  "canal": "Globo",
+  "cortesParaIntervalo": [],
+  "programaDeTv": "sessaoDaTarde",
+  "tituloAtracao": "Sessão da Tarde"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc37d"
+  },
+  "canal": "Globo",
+  "duracao": 4868,
+  "titulo": "Dublado - Estranhas Metamorfoses.mkv",
+  "tipo": "noite",
+  "added": false
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc37e"
+  },
+  "titulo": "Dublado - Psicose 2 (1983).mp4",
+  "added": false,
+  "canal": "Globo",
+  "duracao": 5489,
+  "tipo": "noite"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc37f"
+  },
+  "order": 27,
+  "corteInicio": 0,
+  "added": true,
+  "tituloAtracao": "Tela Quente",
+  "duracao": 5608,
+  "titulo": "Dublado - A Mosca.m4v",
+  "corteFinal": 5608,
+  "tipo": "noite",
+  "canal": "Globo",
+  "cortesParaIntervalo": [
+    920,
+    1881,
+    2924,
+    3950,
+    4908
+  ],
+  "programaDeTv": "telaQuente"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc380"
+  },
+  "canal": "Globo",
+  "added": false,
+  "tipo": "noite",
+  "titulo": "Dublado - Fábrica de Loucuras.webm",
+  "duracao": 5712,
+  "cortesParaIntervalo": [],
+  "programaDeTv": "sessaoDaTarde",
+  "tituloAtracao": "Sessão da Tarde"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc381"
+  },
+  "programaDeTv": "supercine",
+  "tituloAtracao": "Supercine",
+  "added": true,
+  "cortesParaIntervalo": [
+    0
+  ],
+  "order": 9,
+  "titulo": "Dublado - A Farsa 1988 TVRip - Surpecine(com comerciais).mp4",
+  "canal": "Globo",
+  "tipo": "noite",
+  "corteFinal": 5278,
+  "corteInicio": 9,
+  "duracao": 5279
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc382"
+  },
+  "canal": "Globo",
+  "tipo": "noite",
+  "duracao": 7241,
+  "added": false,
+  "titulo": "Dublado - Krull 1983.mp4",
+  "cortesParaIntervalo": [],
+  "programaDeTv": "temperaturaMaxima",
+  "tituloAtracao": "Temperatura Máxima"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc383"
+  },
+  "titulo": "Dublado - Inferno no Bronx 1981.mp4",
+  "tipo": "noite",
+  "duracao": 7411,
+  "canal": "A Definir"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc384"
+  },
+  "tituloAtracao": "Sessão da Tarde",
+  "duracao": 5928,
+  "titulo": "Dublado - Febre De Juventude Filme 1978.mp4",
+  "programaDeTv": "sessaoDaTarde",
+  "added": false,
+  "tipo": "noite",
+  "canal": "Globo",
+  "cortesParaIntervalo": [
+    1030,
+    2104,
+    3161,
+    4189,
+    5100
+  ],
+  "corteFinal": 5878,
+  "corteInicio": 0,
+  "order": 22
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc385"
+  },
+  "canal": "Globo",
+  "programaDeTv": "telaQuente",
+  "duracao": 5377,
+  "order": 44,
+  "tipo": "noite",
+  "added": false,
+  "titulo": "Dublado - Falcão O Campeão dos Campeões.mkv",
+  "tituloAtracao": "Tela Quente",
+  "cortesParaIntervalo": [
+    1121,
+    1796,
+    2920,
+    3450,
+    4646
+  ],
+  "corteFinal": 5377,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc386"
+  },
+  "titulo": "Dublado - Hardcore No Submundo do Sexo 1979.mp4",
+  "added": false,
+  "duracao": 6460,
+  "canal": "Globo",
+  "tipo": "noite",
+  "cortesParaIntervalo": [],
+  "programaDeTv": "corujaoUm",
+  "tituloAtracao": "Corujão Um"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc387"
+  },
+  "added": false,
+  "canal": "Globo",
+  "titulo": "Dublado - O Resgate de Jessica.mkv",
+  "duracao": 5595,
+  "tipo": "noite"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc388"
+  },
+  "canal": "Globo",
+  "added": false,
+  "titulo": "Dublado - Mulher Nota 1000.mp4",
+  "duracao": 5610,
+  "tipo": "noite"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc389"
+  },
+  "tipo": "noite",
+  "canal": "A Definir",
+  "titulo": "Dublado - Fúria Mortal 1991.mp4",
+  "duracao": 5485
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc38a"
+  },
+  "canal": "Globo",
+  "duracao": 5301,
+  "added": false,
+  "tipo": "noite",
+  "titulo": "Dublado - Policial por Acaso 1986.mp4"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc38b"
+  },
+  "duracao": 7522,
+  "tia": true,
+  "added": false,
+  "canal": "Globo",
+  "titulo": "Dublado - Mississipi em Chamas.mp4",
+  "tipo": "noite"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc38d"
+  },
+  "titulo": "Dublado - Corra Que a Policia Vem Ai.mkv",
+  "canal": "Globo",
+  "added": false,
+  "tipo": "noite",
+  "programaDeTv": "telaQuente",
+  "order": 48,
+  "tituloAtracao": "Tela Quente",
+  "duracao": 4925,
+  "cortesParaIntervalo": [
+    935,
+    1696,
+    2574,
+    3566
+  ],
+  "corteFinal": 4925,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc38e"
+  },
+  "tipo": "noite",
+  "titulo": "Dublado - Caçadores de Emoção.mkv",
+  "added": false,
+  "duracao": 6890,
+  "canal": "Globo",
+  "cortesParaIntervalo": [],
+  "programaDeTv": "temperaturaMaxima",
+  "tituloAtracao": "Temperatura Máxima"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc38f"
+  },
+  "canal": "A Definir",
+  "duracao": 6079,
+  "tipo": "noite",
+  "titulo": "Dublado - Terei o Direito de Matar (1964).mp4"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc390"
+  },
+  "canal": "Sbt",
+  "tipo": "noite",
+  "duracao": 5510,
+  "titulo": "Dublado - Garota Sinal Verde.m4v",
+  "cortesParaIntervalo": [],
+  "order": null
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc391"
+  },
+  "canal": "Globo",
+  "added": false,
+  "tipo": "noite",
+  "duracao": 8193,
+  "titulo": "Dublado - Duna 1984.m4v",
+  "cortesParaIntervalo": [],
+  "programaDeTv": "telaQuente",
+  "tituloAtracao": "Tela Quente"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc392"
+  },
+  "duracao": 6024,
+  "canal": "Globo",
+  "tipo": "noite",
+  "titulo": "Dublado - O Estranho Que Nos Amamos 1971.mp4",
+  "added": false
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc393"
+  },
+  "tipo": "noite",
+  "duracao": 5160,
+  "titulo": "Dublado - Guerra entre Planetas 1955.webm",
+  "canal": "A Definir"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc394"
+  },
+  "canal": "A Definir",
+  "titulo": "Dublado - Guerreiro do Futuro 1975.mp4",
+  "duracao": 5639,
+  "tipo": "noite"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc395"
+  },
+  "added": false,
+  "canal": "Globo",
+  "corteInicio": 0,
+  "corteFinal": 6111,
+  "tipo": "noite",
+  "titulo": "Dublado - A Difícil Arte De Amar.m4v",
+  "duracao": 6111,
+  "cortesParaIntervalo": [
+    1177,
+    2557,
+    3919,
+    4643,
+    5509
+  ]
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc396"
+  },
+  "added": false,
+  "duracao": 5947,
+  "tipo": "noite",
+  "canal": "Globo",
+  "titulo": "Dublado - Feitiço Diabólico 1988.mp4"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc397"
+  },
+  "canal": "Sbt",
+  "titulo": "Dublado - Superman 3.mp4",
+  "tipo": "noite",
+  "duracao": 7485,
+  "cortesParaIntervalo": [],
+  "order": null
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc398"
+  },
+  "titulo": "Dublado - Batman - O Homem Morcego.m4v",
+  "tipo": "noite",
+  "added": false,
+  "duracao": 6280,
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc399"
+  },
+  "canal": "Globo",
+  "titulo": "Dublado - Chamas da Vingança 1984.mp4",
+  "duracao": 6864,
+  "added": false,
+  "tipo": "noite"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc39a"
+  },
+  "programaDeTv": "supercine",
+  "duracao": 5291,
+  "canal": "Globo",
+  "order": 14,
+  "titulo": "Dublado - Assassinato nos Estados Unidos.mp4",
+  "tituloAtracao": "Supercine",
+  "added": false,
+  "tipo": "noite",
+  "cortesParaIntervalo": [
+    1074,
+    1788,
+    2756,
+    3419,
+    4247
+  ],
+  "corteFinal": 5151,
+  "corteInicio": 22
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc39b"
+  },
+  "titulo": "Dublado - Caminhos Violentos - 1986.mp4",
+  "canal": "Bandeirantes",
+  "tipo": "noite",
+  "duracao": 6944
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc39c"
+  },
+  "titulo": "Dublado - De Volta As Aulas.m4v",
+  "programaDeTv": "telaQuente",
+  "tituloAtracao": "Tela Quente",
+  "duracao": 5540,
+  "tipo": "noite",
+  "canal": "Globo",
+  "added": false,
+  "order": 40,
+  "cortesParaIntervalo": [
+    1044,
+    2270,
+    3256,
+    3964,
+    4599
+  ],
+  "corteFinal": 5540,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc39d"
+  },
+  "tipo": "noite",
+  "added": false,
+  "titulo": "Dublado - Paternidade 1981.mp4",
+  "canal": "Globo",
+  "duracao": 5518
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc39e"
+  },
+  "tituloAtracao": "Sessão da Tarde",
+  "cortesParaIntervalo": [
+    936,
+    1871,
+    2902,
+    3787,
+    4767
+  ],
+  "corteInicio": 0,
+  "titulo": "Dublado - A Garota De Rosa Shocking.m4v",
+  "tipo": "noite",
+  "programaDeTv": "sessaoDaTarde",
+  "canal": "Globo",
+  "added": true,
+  "corteFinal": 5587,
+  "duracao": 5588,
+  "order": 4
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc39f"
+  },
+  "titulo": "Dublado - Um Tiro de Misericórdia 1990.mp4",
+  "tipo": "noite",
+  "duracao": 8048,
+  "canal": "A Definir"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3a0"
+  },
+  "added": false,
+  "duracao": 6166,
+  "titulo": "Dublado - O Circo da Morte (1980).mkv",
+  "tipo": "noite",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3a1"
+  },
+  "tipo": "noite",
+  "duracao": 5738,
+  "canal": "A Definir",
+  "titulo": "Dublado - Gosto De Sangue 1984.mp4"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3a2"
+  },
+  "tipo": "noite",
+  "canal": "Globo",
+  "added": false,
+  "titulo": "Dublado - Gotcha - Uma Arma do Barulho (1985).mkv",
+  "duracao": 5881,
+  "cortesParaIntervalo": [],
+  "programaDeTv": "sessaoDaTarde",
+  "tituloAtracao": "Sessão da Tarde"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3a3"
+  },
+  "added": false,
+  "titulo": "Dublado - Psicose 4.mp4",
+  "canal": "Globo",
+  "tipo": "noite",
+  "duracao": 5532
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3a4"
+  },
+  "titulo": "Dublado - O Falcão Justiceiro.mp4",
+  "tipo": "noite",
+  "canal": "A Definir",
+  "duracao": 5608
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3a5"
+  },
+  "canal": "Globo",
+  "added": false,
+  "duracao": 6316,
+  "tipo": "noite",
+  "titulo": "Dublado - Circulo Do Medo 1962.m4v"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3a6"
+  },
+  "duracao": 5428,
+  "tipo": "noite",
+  "titulo": "Dublado - Rambo - Programado para Matar.mkv",
+  "canal": "Sbt",
+  "cortesParaIntervalo": [],
+  "order": null
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3a7"
+  },
+  "canal": "A Definir",
+  "duracao": 5338,
+  "titulo": "Dublado - Uma Carona Para o Inferno - 1990.mp4",
+  "tipo": "noite"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3a8"
+  },
+  "tipo": "noite",
+  "titulo": "Dublado - Por Favor Mate Minha Mulher 1986.mp4",
+  "canal": "A Definir",
+  "duracao": 5645,
+  "corteFinal": 5505,
+  "corteInicio": 10,
+  "cortesParaIntervalo": [
+    911,
+    1872,
+    2828,
+    3818,
+    4662
+  ]
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3a9"
+  },
+  "titulo": "Dublado - Chuva Negra.m4v",
+  "order": 41,
+  "added": false,
+  "tipo": "noite",
+  "canal": "Globo",
+  "programaDeTv": "telaQuente",
+  "duracao": 7351,
+  "tituloAtracao": "Tela Quente",
+  "cortesParaIntervalo": [
+    1097,
+    2320,
+    3696,
+    5333,
+    6007
+  ],
+  "corteFinal": 7301,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3aa"
+  },
+  "canal": "Globo",
+  "duracao": 5134,
+  "tipo": "noite",
+  "added": false,
+  "titulo": "Dublado - Malone.mp4"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3ab"
+  },
+  "added": false,
+  "titulo": "Dublado - Atraiçoados (1988).mp4",
+  "canal": "Globo",
+  "corteInicio": 8,
+  "cortesParaIntervalo": [
+    1230,
+    2394,
+    3767,
+    4972,
+    6178
+  ],
+  "duracao": 7580,
+  "corteFinal": 7460,
+  "tipo": "noite"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3ac"
+  },
+  "titulo": "Dublado - Quicksilver O Prazer de Ganhar 1986.mp4",
+  "canal": "A Definir",
+  "duracao": 6378,
+  "tipo": "noite"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3ad"
+  },
+  "tipo": "noite",
+  "duracao": 5364,
+  "canal": "A Definir",
+  "titulo": "Dublado - Só Resta a Esperança 1987.mp4"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3ae"
+  },
+  "duracao": 5360,
+  "tipo": "noite",
+  "added": false,
+  "canal": "Globo",
+  "titulo": "Dublado - Monty Python Em Busca do Calice Sagrado.mkv"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3af"
+  },
+  "titulo": "Dublado - Caçador.De.Assassinos.1986.Vhsrip.m4v",
+  "duracao": 6886,
+  "canal": "Sbt",
+  "tipo": "noite",
+  "cortesParaIntervalo": [],
+  "order": null
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3b0"
+  },
+  "added": false,
+  "canal": "Globo",
+  "duracao": 5806,
+  "titulo": "Dublado - Morto ao Chegar 1988.mp4",
+  "tipo": "noite"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3b1"
+  },
+  "titulo": "Dublado - Um Pequeno Romance 1979.mkv",
+  "duracao": 6603,
+  "programaDeTv": "sessaoDaTarde",
+  "added": false,
+  "tipo": "noite",
+  "canal": "Globo",
+  "cortesParaIntervalo": [
+    952,
+    2407,
+    3246,
+    4247,
+    5440
+  ],
+  "tituloAtracao": "Sessão da Tarde",
+  "corteFinal": 6500,
+  "corteInicio": 0,
+  "order": 35
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3b2"
+  },
+  "corteInicio": 0,
+  "canal": "Globo",
+  "cortesParaIntervalo": [
+    906,
+    1764,
+    2686,
+    3639,
+    4717
+  ],
+  "titulo": "Dublado - A Cegonha Não Pode Esperar.m4v",
+  "duracao": 5744,
+  "corteFinal": 5744,
+  "tipo": "noite",
+  "added": false
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3b3"
+  },
+  "added": false,
+  "titulo": "Dublado - Dois Tiras Meio Suspeitos 1982.mp4",
+  "tipo": "noite",
+  "canal": "Globo",
+  "duracao": 5541
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3b4"
+  },
+  "added": false,
+  "canal": "Globo",
+  "corteFinal": 0,
+  "cortesParaIntervalo": [
+    0
+  ],
+  "titulo": "Dublado - Janela indiscreta (1954).mp4",
+  "duracao": 6746,
+  "tipo": "noite",
+  "corteInicio": 25
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3b5"
+  },
+  "titulo": "Dublado - Mad Max 1 (1979).mp4",
+  "duracao": 5569,
+  "tipo": "noite",
+  "canal": "Sbt",
+  "cortesParaIntervalo": [],
+  "programaDeTv": "sessaoDasDez",
+  "tituloAtracao": "Sessão das Dez",
+  "order": null,
+  "added": false
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3b6"
+  },
+  "titulo": "Dublado - Morrer Mil Vezes.mp4",
+  "canal": "Globo",
+  "tipo": "noite",
+  "duracao": 6927,
+  "added": false
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3b7"
+  },
+  "titulo": "Dublado - Viver e Morrer em Los Angeles.mkv",
+  "canal": "Globo",
+  "duracao": 6723,
+  "added": false,
+  "tipo": "noite"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3b8"
+  },
+  "canal": "Sbt",
+  "duracao": 5250,
+  "titulo": "Dublado - O Ataque Das Formigas Gigantes.mkv",
+  "tipo": "noite",
+  "cortesParaIntervalo": [],
+  "order": null
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3b9"
+  },
+  "duracao": 6206,
+  "tipo": "noite",
+  "titulo": "Dublado - Warlock  O Demônio.mp4",
+  "canal": "A Definir"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3ba"
+  },
+  "titulo": "Dublado - Tudo Por Uma Esmeralda 1984.mp4",
+  "added": false,
+  "order": 46,
+  "tipo": "noite",
+  "duracao": 6343,
+  "tituloAtracao": "Tela Quente",
+  "canal": "Globo",
+  "programaDeTv": "telaQuente",
+  "cortesParaIntervalo": [
+    929,
+    2013,
+    3252,
+    4477,
+    5167
+  ],
+  "corteFinal": 6194,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3bb"
+  },
+  "canal": "Globo",
+  "duracao": 5871,
+  "order": 11,
+  "tituloAtracao": "Sessão da Tarde",
+  "tipo": "noite",
+  "programaDeTv": "sessaoDaTarde",
+  "added": true,
+  "titulo": "Dublado - Uma Noite De Aventuras.m4v",
+  "cortesParaIntervalo": [
+    965,
+    2010,
+    3054,
+    4100,
+    4912
+  ],
+  "corteFinal": 5871,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3bc"
+  },
+  "canal": "Globo",
+  "duracao": 6688,
+  "added": false,
+  "titulo": "Dublado - Conspiração Tequila (1988).mkv",
+  "tipo": "noite"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3bd"
+  },
+  "duracao": 4877,
+  "canal": "Globo",
+  "tipo": "noite",
+  "titulo": "Dublado - O Pássaro Azul de 1940.mp4",
+  "added": false
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3be"
+  },
+  "titulo": "Dublado - A Hora de Viver - 1985 Tvrip sessão da tarde.mp4",
+  "added": false,
+  "tipo": "noite",
+  "duracao": 6068,
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3bf"
+  },
+  "titulo": "Dublado - Oh Deus Que Diabo.mp4",
+  "duracao": 5766,
+  "canal": "A Definir",
+  "tipo": "noite"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3c0"
+  },
+  "tipo": "noite",
+  "canal": "A Definir",
+  "titulo": "Dublado - Os Rivais (1987).mkv",
+  "duracao": 6588
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3c1"
+  },
+  "duracao": 7237,
+  "tipo": "noite",
+  "titulo": "Dublado - Nos Calcanhares da Máfia 1984.mp4",
+  "canal": "A Definir"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3c2"
+  },
+  "duracao": 5313,
+  "titulo": "Dublado - Além do Céu Azul.webm",
+  "cortesParaIntervalo": [
+    1056,
+    1981,
+    3004,
+    3972
+  ],
+  "corteFinal": 5243,
+  "tipo": "noite",
+  "canal": "Sbt",
+  "corteInicio": 26,
+  "order": null
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3c3"
+  },
+  "duracao": 5712,
+  "canal": "A Definir",
+  "titulo": "Dublado - Protocolo 1984.mp4",
+  "tipo": "noite"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3c4"
+  },
+  "canal": "Globo",
+  "order": 58,
+  "duracao": 5345,
+  "titulo": "Dublado - Sexta-Feira 13 Parte 5.m4v",
+  "programaDeTv": "telaQuente",
+  "tituloAtracao": "Tela Quente",
+  "tipo": "noite",
+  "added": false,
+  "cortesParaIntervalo": [
+    1047,
+    2007,
+    3142,
+    3817
+  ],
+  "corteFinal": 5345,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3c5"
+  },
+  "canal": "Globo",
+  "tituloAtracao": "Sessão da Tarde",
+  "corteFinal": 5084,
+  "added": false,
+  "cortesParaIntervalo": [
+    1289,
+    1966,
+    2905,
+    3893
+  ],
+  "corteInicio": 0,
+  "programaDeTv": "sessaoDaTarde",
+  "titulo": "Dublado - Apertem Os Cintos O Piloto Sumiu.m4v",
+  "tipo": "noite",
+  "duracao": 5084,
+  "order": 14
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3c6"
+  },
+  "titulo": "Dublado - Cemiterio Maldito.m4v",
+  "tipo": "noite",
+  "added": false,
+  "duracao": 5979,
+  "canal": "Globo",
+  "order": 34,
+  "tituloAtracao": "Tela Quente",
+  "programaDeTv": "telaQuente",
+  "cortesParaIntervalo": [
+    1024,
+    2005,
+    3188,
+    4364,
+    4876
+  ],
+  "corteFinal": 5979,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3c7"
+  },
+  "corteInicio": 0,
+  "titulo": "Dublado - A Máquina do Outro Mundo (1985).mkv",
+  "canal": "Globo",
+  "added": false,
+  "duracao": 5471,
+  "order": 21,
+  "cortesParaIntervalo": [
+    1459,
+    2502,
+    3779,
+    4816
+  ],
+  "corteFinal": 5471,
+  "tipo": "noite",
+  "programaDeTv": "sessaoDaTarde",
+  "tituloAtracao": "Sessão da Tarde"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3c8"
+  },
+  "canal": "Globo",
+  "added": false,
+  "tipo": "noite",
+  "titulo": "Dublado - Noivo Neurótico, Noiva Nervosa (1977).mkv",
+  "duracao": 5489
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3c9"
+  },
+  "added": false,
+  "duracao": 5936,
+  "titulo": "Dublado - Nova York Terra De Ninguém (1985).mkv",
+  "canal": "Globo",
+  "tipo": "noite"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3ca"
+  },
+  "duracao": 7042,
+  "canal": "Globo",
+  "tipo": "noite",
+  "titulo": "Dublado - O Corcel Negro 1979.mp4",
+  "added": false
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3cb"
+  },
+  "programaDeTv": "temperaturaMaxima",
+  "tipo": "noite",
+  "added": true,
+  "canal": "Globo",
+  "cortesParaIntervalo": [
+    1331,
+    3110,
+    3950,
+    4789
+  ],
+  "titulo": "Dublado - Caravana Da Coragem.mp4",
+  "corteFinal": 5807,
+  "tituloAtracao": "Temperatura Máxima",
+  "corteInicio": 0,
+  "order": 2,
+  "duracao": 5807
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3cc"
+  },
+  "canal": "A Definir",
+  "titulo": "Dublado - Ninguém Segura essa Garota.mkv",
+  "tipo": "noite",
+  "duracao": 4987
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3cd"
+  },
+  "canal": "Globo",
+  "titulo": "Dublado - Na Calada da Noite 1982.mkv",
+  "duracao": 5301,
+  "added": false,
+  "tipo": "noite"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3ce"
+  },
+  "programaDeTv": "sessaoDaTarde",
+  "tituloAtracao": "Sessão da Tarde",
+  "tipo": "noite",
+  "duracao": 5652,
+  "added": false,
+  "titulo": "Dublado - Curso De Verão.m4v",
+  "canal": "Globo",
+  "cortesParaIntervalo": [
+    911,
+    1991,
+    2979,
+    3917,
+    4874
+  ],
+  "corteFinal": 5652,
+  "corteInicio": 0,
+  "order": 20
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3d0"
+  },
+  "duracao": 6481,
+  "order": 4,
+  "titulo": "Dublado - Inimigo Meu.m4v",
+  "canal": "Globo",
+  "added": true,
+  "tituloAtracao": "Tela Quente",
+  "tipo": "noite",
+  "programaDeTv": "telaQuente",
+  "cortesParaIntervalo": [
+    1168,
+    2085,
+    3248,
+    4608,
+    5434
+  ],
+  "corteFinal": 6281,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3d1"
+  },
+  "duracao": 6974,
+  "canal": "Globo",
+  "tipo": "noite",
+  "added": false,
+  "order": 15,
+  "programaDeTv": "sessaoDaTarde",
+  "titulo": "Dublado - Tootsie (1982).mp4",
+  "tituloAtracao": "Sessão da Tarde",
+  "cortesParaIntervalo": [
+    1227,
+    2436,
+    3703,
+    4761,
+    5942
+  ],
+  "corteFinal": 6847,
+  "corteInicio": 23
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3d2"
+  },
+  "titulo": "Dublado - Curtindo a Vida Adoidado.mkv",
+  "added": false,
+  "order": 30,
+  "tipo": "noite",
+  "programaDeTv": "telaQuente",
+  "canal": "Globo",
+  "duracao": 6179,
+  "tituloAtracao": "Tela Quente",
+  "cortesParaIntervalo": [
+    1063,
+    1872,
+    2800,
+    3937,
+    5259
+  ],
+  "corteFinal": 6179,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3d3"
+  },
+  "cortesParaIntervalo": [
+    1139,
+    1795,
+    3056,
+    4271,
+    5120
+  ],
+  "tipo": "noite",
+  "order": 17,
+  "corteInicio": 0,
+  "canal": "Globo",
+  "corteFinal": 6184,
+  "added": false,
+  "programaDeTv": "sessaoDaTarde",
+  "duracao": 6184,
+  "tituloAtracao": "Sessão da Tarde",
+  "titulo": "Dublado - Academia De Gênios (1985).mkv"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3d4"
+  },
+  "duracao": 6906,
+  "order": 20,
+  "titulo": "Dublado - Mistérios e Paixões 1991.mp4",
+  "tituloAtracao": "Supercine",
+  "programaDeTv": "supercine",
+  "canal": "Globo",
+  "tipo": "noite",
+  "added": false,
+  "cortesParaIntervalo": [
+    1325,
+    2610,
+    3939,
+    5320,
+    6045
+  ],
+  "corteFinal": 6718,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3d6"
+  },
+  "duracao": 6413,
+  "canal": "Globo",
+  "tipo": "noite",
+  "added": false,
+  "titulo": "Dublado - Máquina Mortifera.mkv",
+  "cortesParaIntervalo": [],
+  "programaDeTv": "telaQuente",
+  "tituloAtracao": "Tela Quente"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3d7"
+  },
+  "duracao": 6734,
+  "tipo": "noite",
+  "titulo": "Dublado - Fahrenheit 451.m4v",
+  "canal": "Manchete"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3d8"
+  },
+  "duracao": 7346,
+  "added": false,
+  "titulo": "Dublado - Tubarão.m4v",
+  "tipo": "noite",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3d9"
+  },
+  "titulo": "Dublado - Caes de Guerra 1980.mkv",
+  "tipo": "noite",
+  "duracao": 6337,
+  "canal": "Globo",
+  "added": false
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3da"
+  },
+  "canal": "Globo",
+  "added": false,
+  "corteInicio": 0,
+  "cortesParaIntervalo": [
+    908,
+    1971,
+    2937,
+    4001,
+    4663
+  ],
+  "corteFinal": 5333,
+  "duracao": 5437,
+  "tipo": "noite",
+  "titulo": "Dublado - A Volta dos Mortos Vivos (1985).mp4"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3db"
+  },
+  "duracao": 6164,
+  "tipo": "noite",
+  "added": false,
+  "canal": "Globo",
+  "titulo": "Dublado - Viagens Alucinantes (1980).mp4"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3dc"
+  },
+  "tipo": "noite",
+  "titulo": "Dublado - Xanadu 1980.mp4",
+  "duracao": 5759,
+  "canal": "Globo",
+  "cortesParaIntervalo": [],
+  "programaDeTv": "sessaoDaTarde",
+  "tituloAtracao": "Sessão da Tarde"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3dd"
+  },
+  "duracao": 5614,
+  "canal": "A Definir",
+  "tipo": "noite",
+  "titulo": "Dublado - O Abismo Negro.mp4"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3de"
+  },
+  "programaDeTv": "sessaoDaTarde",
+  "cortesParaIntervalo": [
+    1185,
+    2281,
+    3325,
+    4202
+  ],
+  "added": true,
+  "tituloAtracao": "Sessão da Tarde",
+  "titulo": "Dublado - Sete Minutos No Paraíso.m4v",
+  "corteInicio": 0,
+  "duracao": 5229,
+  "order": 2,
+  "corteFinal": 5040,
+  "tipo": "noite",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3df"
+  },
+  "duracao": 6349,
+  "canal": "Globo",
+  "tipo": "noite",
+  "added": false,
+  "titulo": "Dublado - Um Hotel Muito Louco 1984.m4v"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3e0"
+  },
+  "canal": "Globo",
+  "tipo": "noite",
+  "added": false,
+  "duracao": 5648,
+  "titulo": "Dublado - Namorada de Aluguel.mp4",
+  "cortesParaIntervalo": [],
+  "programaDeTv": "sessaoDaTarde",
+  "tituloAtracao": "Sessão da Tarde"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3e1"
+  },
+  "tipo": "noite",
+  "added": false,
+  "duracao": 6163,
+  "canal": "Globo",
+  "titulo": "Dublado - Green Card Passaporte para o Amor 1990.mp4",
+  "tia": true
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3e2"
+  },
+  "tipo": "noite",
+  "titulo": "Dublado - Crimes de Paixão 1984.mp4",
+  "added": false,
+  "canal": "Globo",
+  "duracao": 6755
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3e3"
+  },
+  "duracao": 6645,
+  "tipo": "noite",
+  "titulo": "Dublado - Expresso Para o Inferno.mp4",
+  "canal": "A Definir"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3e4"
+  },
+  "added": false,
+  "duracao": 4870,
+  "titulo": "Dublado - Loucademia De Policia III.m4v",
+  "canal": "Globo",
+  "tipo": "noite"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3e5"
+  },
+  "duracao": 6016,
+  "tipo": "noite",
+  "canal": "Globo",
+  "titulo": "Dublado - A Mosca 2 1989.mp4",
+  "corteInicio": 0,
+  "cortesParaIntervalo": [
+    1217,
+    2374,
+    3448,
+    4407,
+    5377
+  ],
+  "added": false,
+  "corteFinal": 5877
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3e6"
+  },
+  "canal": "Globo",
+  "titulo": "Dublado - Perigosamente Juntos (1986).mkv",
+  "added": false,
+  "duracao": 6663,
+  "tipo": "noite"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3e7"
+  },
+  "canal": "A Definir",
+  "duracao": 6038,
+  "titulo": "Dublado - Quando se Perde a Ilusão 1984.mp4",
+  "tipo": "noite"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3e8"
+  },
+  "duracao": 4312,
+  "canal": "Gazeta",
+  "titulo": "Dublado - Yuma Cidade Sem Lei.mp4",
+  "tituloAtracao": "Cine Gazeta",
+  "tipo": "noite",
+  "programaDeTv": "cineGazeta"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3e9"
+  },
+  "tipo": "noite",
+  "cortesParaIntervalo": [
+    1255,
+    2677,
+    4209,
+    5435,
+    6714
+  ],
+  "added": false,
+  "corteInicio": 0,
+  "titulo": "Dublado - A Força De Um Destino.m4v",
+  "duracao": 7345,
+  "canal": "Globo",
+  "corteFinal": 7345
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3ea"
+  },
+  "tia": true,
+  "corteFinal": 5816,
+  "duracao": 5816,
+  "cortesParaIntervalo": [
+    883,
+    1887,
+    2858,
+    3824,
+    4740
+  ],
+  "corteInicio": 0,
+  "titulo": "Dublado - A Mulher que Ele Amou 1988.mp4",
+  "tipo": "noite",
+  "canal": "Manchete"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3eb"
+  },
+  "tipo": "noite",
+  "duracao": 5640,
+  "titulo": "Dublado - Os Mortos-Vivos 1981.mp4",
+  "canal": "A Definir"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3ec"
+  },
+  "titulo": "Dublado - Psicose 1960.mp4",
+  "tipo": "noite",
+  "canal": "Globo",
+  "added": false,
+  "duracao": 6531
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3ed"
+  },
+  "duracao": 6086,
+  "titulo": "Dublado - Howard O Pato.mkv",
+  "canal": "Globo",
+  "programaDeTv": "sessaoDaTarde",
+  "tituloAtracao": "Sessão da Tarde",
+  "added": true,
+  "tipo": "noite",
+  "cortesParaIntervalo": [
+    1135,
+    2312,
+    2807,
+    4298,
+    5099
+  ],
+  "corteFinal": 6076,
+  "corteInicio": 0,
+  "order": 10
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3ee"
+  },
+  "titulo": "Dublado - Sem Perdão.m4v",
+  "duracao": 6320,
+  "canal": "Globo",
+  "tipo": "noite",
+  "added": false
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3ef"
+  },
+  "titulo": "Dublado - O Triângulo Do Diabo - 1975 - Tvrip.mp4",
+  "canal": "Record",
+  "tipo": "noite",
+  "added": true,
+  "duracao": 4354,
+  "programaDeTv": "superTela",
+  "order": 2,
+  "tituloAtracao": "Super Tela",
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3f0"
+  },
+  "duracao": 5645,
+  "titulo": "Dublado - Perseguição Mortal (1981).mkv",
+  "tipo": "noite",
+  "canal": "A Definir"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3f1"
+  },
+  "order": 65,
+  "cortesParaIntervalo": [
+    1141,
+    1932,
+    3237,
+    4492
+  ],
+  "duracao": 5699,
+  "canal": "Globo",
+  "corteFinal": 5462,
+  "tipo": "noite",
+  "added": false,
+  "programaDeTv": "telaQuente",
+  "corteInicio": 21,
+  "titulo": "Dublado - A Bolha Assassina.mp4",
+  "tituloAtracao": "Tela Quente"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3f2"
+  },
+  "tipo": "noite",
+  "programaDeTv": "telaQuente",
+  "canal": "Globo",
+  "added": false,
+  "titulo": "Dublado - Porkys.mp4",
+  "tituloAtracao": "Tela Quente",
+  "duracao": 5871,
+  "order": 14,
+  "cortesParaIntervalo": [
+    1357,
+    1791,
+    2902,
+    4262,
+    4741
+  ],
+  "corteFinal": 5871,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3f3"
+  },
+  "added": false,
+  "duracao": 5978,
+  "canal": "Globo",
+  "tipo": "noite",
+  "titulo": "Dublado - Dez Minutos Para Morrer.mp4"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3f4"
+  },
+  "titulo": "Dublado - Remo Desarmado e Perigoso.mkv",
+  "tipo": "noite",
+  "canal": "Globo",
+  "added": false,
+  "duracao": 7052
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3f5"
+  },
+  "canal": "Cultura",
+  "tipo": "noite",
+  "titulo": "efeitos visuais.mp4",
+  "duracao": 162
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3f6"
+  },
+  "canal": "Sbt",
+  "titulo": "Dublado - Gremlins.mkv",
+  "tipo": "noite",
+  "duracao": 6183,
+  "cortesParaIntervalo": [],
+  "order": null
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3f7"
+  },
+  "duracao": 6966,
+  "titulo": "Dublado - Golpe Sujo (1978).mp4",
+  "canal": "A Definir",
+  "tipo": "noite"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3f8"
+  },
+  "canal": "Manchete",
+  "tipo": "noite",
+  "duracao": 6814,
+  "titulo": "Dublado - Pecados de Guerra.mp4",
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3f9"
+  },
+  "canal": "Sbt",
+  "tipo": "noite",
+  "duracao": 6095,
+  "titulo": "Dublado - O Trem Desgovernado (SBT 25081993 com intervalos).webm",
+  "cortesParaIntervalo": [],
+  "order": null
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3fa"
+  },
+  "tipo": "noite",
+  "titulo": "Dublado - O Sobrevivente.mp4",
+  "canal": "A Definir",
+  "duracao": 6043
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3fb"
+  },
+  "duracao": 5257,
+  "tipo": "noite",
+  "added": false,
+  "canal": "Globo",
+  "titulo": "Dublado - Jovem de Novo 1986.webm",
+  "cortesParaIntervalo": [],
+  "programaDeTv": "sessaoDaTarde",
+  "tituloAtracao": "Sessão da Tarde"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3fc"
+  },
+  "canal": "Sbt",
+  "tipo": "noite",
+  "duracao": 4949,
+  "titulo": "Dublado - Territorio Inimigo.m4v",
+  "cortesParaIntervalo": [],
+  "order": null
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3fd"
+  },
+  "canal": "Bandeirantes",
+  "duracao": 5389,
+  "titulo": "Dublado - Cacador do Espaco Aventura na Zona Proibida 1983.mp4",
+  "tipo": "noite"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3fe"
+  },
+  "duracao": 4853,
+  "tipo": "noite",
+  "canal": "Globo",
+  "titulo": "Dublado - Um Jogo de Vida e Morte (Primeiro filme gravado em VHS).webm",
+  "added": false,
+  "cortesParaIntervalo": [],
+  "programaDeTv": "supercine",
+  "tituloAtracao": "Supercine"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc3ff"
+  },
+  "tipo": "noite",
+  "duracao": 8727,
+  "canal": "Globo",
+  "titulo": "Dublado - Os Bons Companheiros.mp4",
+  "added": false
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc400"
+  },
+  "tipo": "noite",
+  "titulo": "Dublado - Uma Questao de Classe 1983.mkv",
+  "duracao": 5726,
+  "added": false,
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc401"
+  },
+  "tipo": "noite",
+  "added": false,
+  "titulo": "Dublado - Encontro as Escuras 1987.mp4",
+  "canal": "Globo",
+  "duracao": 5714
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc402"
+  },
+  "canal": "Sbt",
+  "tipo": "noite",
+  "duracao": 5579,
+  "titulo": "Dublado - O Garoto Invisivel (1989).mp4",
+  "cortesParaIntervalo": [],
+  "order": null
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc403"
+  },
+  "duracao": 7249,
+  "canal": "A Definir",
+  "titulo": "Dublado - Raça das Trevas 1990.m4v",
+  "tipo": "noite"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc404"
+  },
+  "duracao": 5087,
+  "cortesParaIntervalo": [
+    1018,
+    2025,
+    2852,
+    3702,
+    4390
+  ],
+  "corteFinal": 5017,
+  "corteInicio": 0,
+  "titulo": "Dublado - Aniversário Sangrento 1981.mp4",
+  "tipo": "noite",
+  "canal": "Sbt",
+  "order": null
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc405"
+  },
+  "titulo": "Dublado - Férias Ardentes.m4v",
+  "tipo": "noite",
+  "duracao": 5232,
+  "canal": "Sbt",
+  "cortesParaIntervalo": [],
+  "order": null
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc406"
+  },
+  "cortesParaIntervalo": [
+    1417,
+    2686,
+    4557,
+    6374
+  ],
+  "corteInicio": 0,
+  "programaDeTv": "telaQuente",
+  "canal": "Globo",
+  "tituloAtracao": "Tela Quente",
+  "corteFinal": 7352,
+  "order": 59,
+  "added": true,
+  "tipo": "noite",
+  "titulo": "Dublado - Batman (1989).m4v",
+  "duracao": 7352
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc407"
+  },
+  "duracao": 6213,
+  "canal": "Globo",
+  "added": false,
+  "tipo": "noite",
+  "titulo": "Dublado - Gritos de Revolta 1988.mp4"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc408"
+  },
+  "titulo": "Dublado - O Homem Das Lentes Mortais.m4v",
+  "canal": "A Definir",
+  "tipo": "noite",
+  "duracao": 7002
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc409"
+  },
+  "duracao": 5698,
+  "tipo": "noite",
+  "titulo": "Dublado - O Gladiador Das Ruas 1986.webm",
+  "canal": "A Definir"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc40a"
+  },
+  "titulo": "Dublado - Baile de Formatura SBT(1990).webm",
+  "duracao": 3552,
+  "tipo": "noite",
+  "canal": "Sbt",
+  "cortesParaIntervalo": [],
+  "order": null
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc40b"
+  },
+  "duracao": 5386,
+  "titulo": "Dublado - O Vampiro da Meia Noie 1988.mp4",
+  "tipo": "noite",
+  "canal": "A Definir"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc40c"
+  },
+  "duracao": 6140,
+  "added": false,
+  "canal": "Globo",
+  "tipo": "noite",
+  "titulo": "Dublado - Morando Com o Perigo (1990).mp4"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc40d"
+  },
+  "duracao": 5644,
+  "titulo": "Dublado - Armação Perigosa 1987.mkv",
+  "canal": "Globo",
+  "added": false,
+  "tipo": "noite"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc40e"
+  },
+  "tipo": "noite",
+  "added": false,
+  "canal": "Globo",
+  "duracao": 6965,
+  "titulo": "Dublado - Gigolo Americano - 1980.mp4"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc40f"
+  },
+  "added": false,
+  "canal": "Globo",
+  "titulo": "Dublado - Duble de Corpo.mkv",
+  "duracao": 6789,
+  "tipo": "noite"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc410"
+  },
+  "duracao": 6072,
+  "titulo": "Dublado - Projeto Filadelfia 1984.mp4",
+  "canal": "A Definir",
+  "tipo": "noite"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc411"
+  },
+  "titulo": "Dublado - Olhos Da Noite.mp4",
+  "added": true,
+  "order": 10,
+  "programaDeTv": "cinemaEmCasa",
+  "canal": "Sbt",
+  "tituloAtracao": "Cinema em Casa",
+  "duracao": 5236,
+  "tipo": "noite",
+  "cortesParaIntervalo": [
+    784,
+    1714,
+    2595,
+    4112,
+    4722
+  ],
+  "corteFinal": 5126,
+  "corteInicio": 39
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc412"
+  },
+  "duracao": 7510,
+  "added": false,
+  "tipo": "noite",
+  "titulo": "Dublado - Os Segredos da Cosa Nostra Dublado.mp4",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc413"
+  },
+  "canal": "Globo",
+  "titulo": "Dublado - Instinto Selvagem.mkv",
+  "tipo": "noite",
+  "order": 50,
+  "tituloAtracao": "Tela Quente",
+  "added": false,
+  "duracao": 7385,
+  "programaDeTv": "telaQuente",
+  "cortesParaIntervalo": [
+    1214,
+    2541,
+    3680,
+    5192,
+    6319
+  ],
+  "corteFinal": 7385,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc414"
+  },
+  "tipo": "noite",
+  "duracao": 6896,
+  "canal": "Sbt",
+  "titulo": "Dublado - Supergirl [VHS Dublado 1984].mp4",
+  "cortesParaIntervalo": [],
+  "order": null
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc415"
+  },
+  "titulo": "Dublado - Os Tres Desejos de Billy Grier.mp4",
+  "tipo": "noite",
+  "canal": "Sbt",
+  "duracao": 5525,
+  "cortesParaIntervalo": [],
+  "order": null
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc416"
+  },
+  "duracao": 6193,
+  "canal": "A Definir",
+  "tipo": "noite",
+  "titulo": "Dublado - O.Caso.do.Espírito.Sinistro (Perry Mason) (1987) .mp4"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc417"
+  },
+  "canal": "Sbt",
+  "tipo": "noite",
+  "titulo": "Dublado - Chuva de Chumbo - TVRip.mp4",
+  "duracao": 5040,
+  "cortesParaIntervalo": [],
+  "order": null
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc418"
+  },
+  "programaDeTv": "sessaoDasDez",
+  "tituloAtracao": "Sessão das Dez",
+  "tipo": "noite",
+  "duracao": 5236,
+  "order": null,
+  "canal": "Sbt",
+  "titulo": "Dublado - A Batalho no Planeta dos Macacos.mp4",
+  "added": false,
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc419"
+  },
+  "corteInicio": 12,
+  "duracao": 7524,
+  "corteFinal": 7334,
+  "cortesParaIntervalo": [
+    1592,
+    2938,
+    4143,
+    5706,
+    6659
+  ],
+  "canal": "Globo",
+  "tituloAtracao": "Supercine",
+  "titulo": "Dublado - A Fogueira Das Vaidades 1990.mp4",
+  "tipo": "noite",
+  "programaDeTv": "supercine",
+  "order": 25,
+  "added": true
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc41a"
+  },
+  "duracao": 5474,
+  "titulo": "Dublado - A Marca da Corrupção (1987).mp4",
+  "canal": "Sbt",
+  "corteFinal": 5315,
+  "cortesParaIntervalo": [
+    1161,
+    2419,
+    3594,
+    4768
+  ],
+  "corteInicio": 1,
+  "tipo": "noite",
+  "order": null
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc41b"
+  },
+  "corteFinal": 5144,
+  "corteInicio": 4,
+  "duracao": 5254,
+  "tipo": "noite",
+  "cortesParaIntervalo": [
+    1431,
+    2433,
+    3436,
+    4338
+  ],
+  "canal": "A Definir",
+  "titulo": "Dublado - A Incrível Mulher Que Encolheu 1981.mp4"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc41c"
+  },
+  "tituloAtracao": "Tela Quente",
+  "order": 28,
+  "programaDeTv": "telaQuente",
+  "tipo": "noite",
+  "duracao": 6116,
+  "titulo": "Dublado - Condenação Brutal.mkv",
+  "added": false,
+  "canal": "Globo",
+  "cortesParaIntervalo": [
+    1193,
+    2344,
+    3509,
+    4672,
+    5290
+  ],
+  "corteFinal": 6056,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc41d"
+  },
+  "duracao": 5970,
+  "titulo": "Dublado - Lua Negra O Super Carro.mp4",
+  "canal": "Sbt",
+  "tipo": "noite",
+  "cortesParaIntervalo": [],
+  "order": null
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc41e"
+  },
+  "titulo": "Dublado - Corrida Contra o Destino (1971).mp4",
+  "duracao": 5930,
+  "tipo": "noite",
+  "canal": "Manchete"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc41f"
+  },
+  "tipo": "noite",
+  "corteInicio": 0,
+  "corteFinal": 6183,
+  "duracao": 6183,
+  "cortesParaIntervalo": [
+    1213,
+    2666,
+    4089,
+    5052
+  ],
+  "canal": "Globo",
+  "added": false,
+  "titulo": "Dublado - A Hora Do Espanto.m4v"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc420"
+  },
+  "titulo": "Dublado - Picardias Estudantis.mkv",
+  "canal": "Globo",
+  "tipo": "noite",
+  "added": false,
+  "duracao": 5177
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc421"
+  },
+  "tipo": "noite",
+  "titulo": "Dublado - Amor Ilícito Tvrip SBT 1989.mkv",
+  "duracao": 5226,
+  "corteInicio": 0,
+  "cortesParaIntervalo": [
+    861,
+    1818,
+    2855,
+    3940,
+    4660
+  ],
+  "corteFinal": 5226,
+  "canal": "Sbt",
+  "order": null
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc422"
+  },
+  "titulo": "Dublado - Angel 1984.mp4",
+  "duracao": 5433,
+  "canal": "Sbt",
+  "tipo": "noite",
+  "cortesParaIntervalo": [],
+  "order": null
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc423"
+  },
+  "programaDeTv": "sessaoDaTarde",
+  "canal": "Globo",
+  "cortesParaIntervalo": [
+    1300,
+    2186,
+    3022,
+    4190,
+    4578
+  ],
+  "order": 13,
+  "tipo": "noite",
+  "duracao": 5524,
+  "titulo": "Dublado - A Lenda de Billie Jean (1985).mkv",
+  "corteInicio": 0,
+  "corteFinal": 5524,
+  "tituloAtracao": "Sessão da Tarde",
+  "added": true
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc424"
+  },
+  "canal": "A Definir",
+  "titulo": "Dublado - Trovao Azul.mkv",
+  "duracao": 6405,
+  "tipo": "noite"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc425"
+  },
+  "added": false,
+  "canal": "Globo",
+  "corteFinal": 5326,
+  "corteInicio": 14,
+  "duracao": 5436,
+  "cortesParaIntervalo": [
+    1229,
+    2265,
+    3458,
+    4985
+  ],
+  "tipo": "noite",
+  "titulo": "Dublado - A Maldição De Samantha 1986.mp4"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc426"
+  },
+  "duracao": 5864,
+  "tipo": "noite",
+  "added": false,
+  "titulo": "Dublado - O Voo do Anjo Negro 1991.mp4",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc427"
+  },
+  "tipo": "noite",
+  "canal": "A Definir",
+  "titulo": "Dublado - Renegados Pela Justiça 1989.mp4",
+  "duracao": 6325
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc428"
+  },
+  "canal": "Sbt",
+  "titulo": "Dublado - Christine - O Carro Assassino.m4v",
+  "duracao": 6392,
+  "tipo": "noite",
+  "cortesParaIntervalo": [],
+  "order": null
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc429"
+  },
+  "added": false,
+  "titulo": "Dublado - As Gatinhas 1980.mp4",
+  "duracao": 6328,
+  "tituloAtracao": "Sessão da Tarde",
+  "programaDeTv": "sessaoDaTarde",
+  "canal": "Globo",
+  "tipo": "noite",
+  "cortesParaIntervalo": [
+    1163,
+    2188,
+    3007,
+    3974,
+    5113
+  ],
+  "corteFinal": 6254,
+  "corteInicio": 21,
+  "order": 18
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc42a"
+  },
+  "duracao": 5225,
+  "order": 29,
+  "titulo": "Dublado - Comando Para Matar.m4v",
+  "added": false,
+  "tipo": "noite",
+  "tituloAtracao": "Tela Quente",
+  "programaDeTv": "telaQuente",
+  "canal": "Globo",
+  "cortesParaIntervalo": [
+    964,
+    1775,
+    2495,
+    3447,
+    4190
+  ],
+  "corteFinal": 5225,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc42b"
+  },
+  "duracao": 7974,
+  "added": false,
+  "titulo": "Dublado - O Sol Da Meia-Noite (1985).mkv",
+  "tipo": "noite",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc42c"
+  },
+  "tituloAtracao": "Tela Quente",
+  "programaDeTv": "telaQuente",
+  "duracao": 4795,
+  "order": 8,
+  "canal": "Globo",
+  "added": false,
+  "titulo": "Dublado - Stallone Cobra.m4v",
+  "tipo": "noite",
+  "cortesParaIntervalo": [
+    742,
+    1845,
+    2506,
+    3267
+  ],
+  "corteFinal": 4795,
+  "corteInicio": 18
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc42d"
+  },
+  "canal": "Sbt",
+  "titulo": "Dublado - Capitão América II 1979.webm",
+  "tipo": "noite",
+  "duracao": 4823,
+  "cortesParaIntervalo": [],
+  "order": null
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc42e"
+  },
+  "duracao": 5809,
+  "tipo": "noite",
+  "added": false,
+  "titulo": "Dublado - Runaway Fora De Controle.m4v",
+  "canal": "Globo",
+  "cortesParaIntervalo": [],
+  "programaDeTv": "domingoMaior",
+  "tituloAtracao": "Domingo Maior"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc42f"
+  },
+  "canal": "Globo",
+  "duracao": 6427,
+  "titulo": "Dublado - Perdidos na Noite.mkv",
+  "tipo": "noite",
+  "added": false
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc430"
+  },
+  "canal": "Globo",
+  "titulo": "Dublado - A Marca Da Pantera.m4v",
+  "corteInicio": 0,
+  "cortesParaIntervalo": [
+    1017,
+    2107,
+    3360,
+    4994,
+    6170
+  ],
+  "corteFinal": 6904,
+  "tipo": "noite",
+  "duracao": 6904,
+  "added": false
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc431"
+  },
+  "duracao": 4940,
+  "tipo": "noite",
+  "added": false,
+  "canal": "Globo",
+  "corteFinal": 4940,
+  "titulo": "Dublado - A Noite Dos Arrepios.m4v",
+  "cortesParaIntervalo": [
+    1329,
+    2261,
+    3382,
+    4175
+  ],
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc432"
+  },
+  "canal": "Globo",
+  "duracao": 8233,
+  "titulo": "Dublado - Contatos Imediatos Do Terceiro Grau 1977.mp4",
+  "tipo": "noite",
+  "added": false
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc433"
+  },
+  "duracao": 5553,
+  "added": false,
+  "titulo": "Dublado - Loucademia de Combate.mp4",
+  "tipo": "noite",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc434"
+  },
+  "titulo": "Dublado - Halloween A Noite do Terror.mkv",
+  "canal": "Sbt",
+  "tipo": "noite",
+  "duracao": 5960,
+  "cortesParaIntervalo": [],
+  "order": null
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc435"
+  },
+  "added": false,
+  "tipo": "noite",
+  "duracao": 7124,
+  "tituloAtracao": "Sessão das Dez",
+  "canal": "Sbt",
+  "programaDeTv": "sessaoDasDez",
+  "titulo": "Dublado - O Príncipe e o Mendigo (Sessão das Dez SBT).webm",
+  "order": null,
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc436"
+  },
+  "tipo": "noite",
+  "added": false,
+  "order": 15,
+  "titulo": "Dublado - Batman O Retorno (1992).m4v",
+  "programaDeTv": "telaQuente",
+  "duracao": 7261,
+  "tituloAtracao": "Tela Quente",
+  "canal": "Globo",
+  "cortesParaIntervalo": [
+    1042,
+    2416,
+    3725,
+    4939,
+    6155
+  ],
+  "corteFinal": 7261,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc437"
+  },
+  "added": false,
+  "duracao": 5617,
+  "canal": "Globo",
+  "tituloAtracao": "Supercine",
+  "tipo": "noite",
+  "programaDeTv": "supercine",
+  "titulo": "Dublado - Um Rosto Sem Passado - 1989.mp4",
+  "order": 30,
+  "cortesParaIntervalo": [
+    1080,
+    1964,
+    2998,
+    3976,
+    4742
+  ],
+  "corteFinal": 5457,
+  "corteInicio": 31
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc438"
+  },
+  "corteInicio": 0,
+  "titulo": "Dublado - A Testemunha 1985 Y-3.m4v",
+  "cortesParaIntervalo": [
+    1246,
+    2290,
+    3221,
+    4609,
+    5434
+  ],
+  "corteFinal": 6555,
+  "canal": "Globo",
+  "added": false,
+  "tipo": "noite",
+  "duracao": 6555
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc439"
+  },
+  "corteInicio": 0,
+  "added": false,
+  "cortesParaIntervalo": [
+    1210,
+    2269,
+    3505,
+    4729
+  ],
+  "duracao": 5721,
+  "tipo": "noite",
+  "titulo": "Dublado - A Morte Nos Sonhos.m4v",
+  "corteFinal": 5721,
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc43a"
+  },
+  "tipo": "noite",
+  "canal": "Globo",
+  "corteInicio": 4,
+  "tituloAtracao": "Tela Quente",
+  "order": 66,
+  "titulo": "Dublado - O Exterminador Do Futuro 2 1991 Tvrip Rede Globo Tela Quente.mp4",
+  "cortesParaIntervalo": [
+    1394,
+    2616,
+    3830,
+    5341,
+    6361
+  ],
+  "programaDeTv": "telaQuente",
+  "duracao": 7920,
+  "added": false,
+  "corteFinal": 7920
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc43b"
+  },
+  "corteInicio": 0,
+  "added": false,
+  "cortesParaIntervalo": [
+    1128,
+    2539,
+    3476,
+    3833
+  ],
+  "canal": "Globo",
+  "tipo": "noite",
+  "corteFinal": 5070,
+  "duracao": 5070,
+  "titulo": "Dublado - A Fortaleza.mkv"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc43c"
+  },
+  "duracao": 5224,
+  "corteFinal": 5224,
+  "titulo": "Dublado - Aligator O Crocodilo Sessão das Dez .mp4",
+  "programaDeTv": "sessaoDasDez",
+  "cortesParaIntervalo": [
+    713,
+    1953,
+    2864,
+    3728,
+    4741
+  ],
+  "tipo": "noite",
+  "tituloAtracao": "Sessão das Dez",
+  "added": false,
+  "canal": "Sbt",
+  "order": null,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc43d"
+  },
+  "added": false,
+  "canal": "Globo",
+  "duracao": 6306,
+  "tipo": "noite",
+  "titulo": "Dublado - Obsessão Cega.TVRip.mp4"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc43e"
+  },
+  "titulo": "Dublado - Presas de Satanás 1981.mp4",
+  "tipo": "noite",
+  "canal": "A Definir",
+  "duracao": 5541
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc43f"
+  },
+  "tipo": "noite",
+  "canal": "Globo",
+  "titulo": "Dublado - Testemunha Fatal (1981).m4v",
+  "added": false,
+  "duracao": 6002
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc440"
+  },
+  "titulo": "Dublado - Os Garotos Perdidos (1987).mp4",
+  "duracao": 5847,
+  "canal": "Globo",
+  "tipo": "noite",
+  "added": false
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc441"
+  },
+  "added": false,
+  "canal": "Globo",
+  "titulo": "Dublado - Gatinhas e Gatoes.mp4",
+  "duracao": 5556,
+  "tipo": "noite",
+  "cortesParaIntervalo": [],
+  "programaDeTv": "sessaoDaTarde",
+  "tituloAtracao": "Sessão da Tarde"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc442"
+  },
+  "titulo": "Dublado - A Primeira Transa de Jonathan.mp4",
+  "tipo": "noite",
+  "duracao": 5796,
+  "added": false,
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc443"
+  },
+  "corteInicio": 0,
+  "canal": "Bandeirantes",
+  "titulo": "Dublado - A Conversação (1974).mkv",
+  "cortesParaIntervalo": [
+    1204,
+    2492,
+    4406,
+    5801
+  ],
+  "tipo": "noite",
+  "corteFinal": 6802,
+  "duracao": 6802
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc444"
+  },
+  "duracao": 5489,
+  "titulo": "Dublado - Lensman - O Poder do Cristal 1984.mp4",
+  "canal": "Sbt",
+  "tipo": "noite",
+  "cortesParaIntervalo": [],
+  "order": null
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc445"
+  },
+  "corteFinal": 5802,
+  "canal": "Globo",
+  "added": false,
+  "corteInicio": 31,
+  "programaDeTv": "sessaoDaTarde",
+  "tipo": "noite",
+  "titulo": "Dublado - Tal Pai, Tal Filho 1987.mp4",
+  "cortesParaIntervalo": [
+    883,
+    1976,
+    3253,
+    4165,
+    4803
+  ],
+  "order": 24,
+  "tituloAtracao": "Sessão da Tarde",
+  "duracao": 5972
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc446"
+  },
+  "titulo": "Dublado - O Enigma de Outro Mundo - 1982.mp4",
+  "tipo": "noite",
+  "duracao": 6522,
+  "canal": "Sbt",
+  "cortesParaIntervalo": [],
+  "order": null
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc447"
+  },
+  "tipo": "noite",
+  "duracao": 5988,
+  "canal": "Globo",
+  "titulo": "Dublado - Metido Em Encrencas.mkv",
+  "added": false
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc448"
+  },
+  "tia": true,
+  "duracao": 6632,
+  "titulo": "Dublado - Sem Saida - (duas bublagens classicas).mkv",
+  "tipo": "noite",
+  "canal": "Globo",
+  "added": false
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc449"
+  },
+  "added": false,
+  "titulo": "Dublado - Taxi Driver - Motorista De Taxi.m4v",
+  "duracao": 6713,
+  "tipo": "noite",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc44a"
+  },
+  "titulo": "Dublado - Queridinhas 1980.mp4",
+  "canal": "Sbt",
+  "tipo": "noite",
+  "duracao": 5656,
+  "cortesParaIntervalo": [],
+  "order": null
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc44b"
+  },
+  "duracao": 5455,
+  "tipo": "noite",
+  "canal": "Sbt",
+  "titulo": "Dublado - Férias da Pesada.mkv",
+  "cortesParaIntervalo": [],
+  "order": null
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc44c"
+  },
+  "corteInicio": 0,
+  "titulo": "Dublado - Adeus À Inocência (1984).m4v",
+  "cortesParaIntervalo": [
+    1201,
+    2319,
+    3356,
+    4203,
+    5329
+  ],
+  "canal": "Globo",
+  "duracao": 6317,
+  "corteFinal": 6317,
+  "added": false,
+  "tipo": "noite"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc44d"
+  },
+  "duracao": 6203,
+  "order": 8,
+  "titulo": "Dublado - Em Algum Lugar Do Passado 1980.mp4",
+  "programaDeTv": "supercine",
+  "tipo": "noite",
+  "added": false,
+  "tituloAtracao": "Supercine",
+  "canal": "Globo",
+  "cortesParaIntervalo": [
+    923,
+    1554,
+    3238,
+    4307,
+    5336
+  ],
+  "corteFinal": 6053,
+  "corteInicio": 17
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc44e"
+  },
+  "canal": "A Definir",
+  "tipo": "noite",
+  "titulo": "Dublado - Sobre Ontem a Noite  1986.mp4",
+  "duracao": 6793
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc44f"
+  },
+  "canal": "Sbt",
+  "duracao": 4859,
+  "corteFinal": 4859,
+  "titulo": "Dublado - A Máquina do Crescimento 1988.mp4",
+  "corteInicio": 0,
+  "tipo": "noite",
+  "cortesParaIntervalo": [
+    1020,
+    1949,
+    3337,
+    4316
+  ],
+  "order": null
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc450"
+  },
+  "added": false,
+  "duracao": 7064,
+  "canal": "Globo",
+  "order": 57,
+  "tipo": "noite",
+  "tituloAtracao": "Tela Quente",
+  "titulo": "Dublado - O Feitico De Aquila.m4v",
+  "programaDeTv": "telaQuente",
+  "cortesParaIntervalo": [
+    1129,
+    2319,
+    3977,
+    5462,
+    6016
+  ],
+  "corteFinal": 7064,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc452"
+  },
+  "titulo": "Dublado - Gêmeos Mórbida Semelhança.m4v",
+  "added": false,
+  "canal": "Globo",
+  "tipo": "noite",
+  "duracao": 6599,
+  "corteFinal": 6599,
+  "corteInicio": 0,
+  "cortesParaIntervalo": [
+    1312,
+    2342,
+    3686,
+    4772,
+    5697
+  ],
+  "programaDeTv": "festivalPrimavera",
+  "tituloAtracao": "Festival Primavera",
+  "order": 4
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc453"
+  },
+  "tipo": "noite",
+  "titulo": "Dublado - Submarino Amarelo.mp4",
+  "duracao": 5381,
+  "canal": "A Definir"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc454"
+  },
+  "tipo": "noite",
+  "canal": "A Definir",
+  "duracao": 6757,
+  "titulo": "Dublado - Loucuras De Verao 1973.mp4"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc455"
+  },
+  "duracao": 6436,
+  "canal": "A Definir",
+  "tipo": "noite",
+  "titulo": "Dublado - Sou ou Não Sou 1983.mp4"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc456"
+  },
+  "order": 17,
+  "tituloAtracao": "Tela Quente",
+  "titulo": "Dublado - Jornada Nas Estrelas II - A Íra De Khan.m4v",
+  "canal": "Globo",
+  "programaDeTv": "telaQuente",
+  "tipo": "noite",
+  "duracao": 6599,
+  "added": false,
+  "cortesParaIntervalo": [
+    1056,
+    2035,
+    3356,
+    4631,
+    5424
+  ],
+  "corteFinal": 6489,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc457"
+  },
+  "added": false,
+  "titulo": "Dublado - Fuga do Seculo 23 (1976).mp4",
+  "tipo": "noite",
+  "canal": "Globo",
+  "duracao": 7112
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc458"
+  },
+  "corteInicio": 11,
+  "tipo": "noite",
+  "titulo": "Dublado - Atirando Para Matar 1988.m4v",
+  "duracao": 6578,
+  "added": false,
+  "canal": "Globo",
+  "cortesParaIntervalo": [
+    1036,
+    1787,
+    2651,
+    3819,
+    5008
+  ],
+  "corteFinal": 6398
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc459"
+  },
+  "tipo": "noite",
+  "titulo": "Dublado - Matadouro 5 1972.mp4",
+  "duracao": 6205,
+  "canal": "A Definir"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc45a"
+  },
+  "tipo": "noite",
+  "duracao": 5679,
+  "canal": "A Definir",
+  "titulo": "Dublado - Olhos de Gato 1985.mp4"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc45b"
+  },
+  "duracao": 6352,
+  "titulo": "Dublado - Purple Rain.m4v",
+  "tipo": "noite",
+  "canal": "Sbt",
+  "cortesParaIntervalo": [],
+  "order": null
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc45c"
+  },
+  "cortesParaIntervalo": [
+    1300,
+    2082,
+    2941,
+    4208
+  ],
+  "tipo": "noite",
+  "canal": "Sbt",
+  "duracao": 5205,
+  "titulo": "Dublado - A Bruma Assassina.mkv",
+  "corteInicio": 0,
+  "corteFinal": 5205,
+  "order": null
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc45d"
+  },
+  "corteInicio": 0,
+  "tipo": "noite",
+  "cortesParaIntervalo": [
+    1230,
+    2555,
+    3926,
+    5306,
+    6678
+  ],
+  "duracao": 7694,
+  "corteFinal": 7694,
+  "titulo": "Dublado - A Traição do Falcão (1).mkv",
+  "added": false,
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc45f"
+  },
+  "tipo": "noite",
+  "canal": "Globo",
+  "programaDeTv": "temperaturaMaxima",
+  "order": 4,
+  "tituloAtracao": "Temperatura Máxima",
+  "corteInicio": 0,
+  "duracao": 5365,
+  "corteFinal": 5365,
+  "added": false,
+  "titulo": "Dublado - O Rapto do Menino Dourado.mp4",
+  "cortesParaIntervalo": [
+    1192,
+    2022,
+    2948,
+    3966,
+    4646
+  ]
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc460"
+  },
+  "titulo": "Dublado - Irmãos Gêmeos (1988).mp4",
+  "tituloAtracao": "Tela Quente",
+  "order": 6,
+  "tipo": "noite",
+  "added": true,
+  "duracao": 6410,
+  "canal": "Globo",
+  "programaDeTv": "telaQuente",
+  "cortesParaIntervalo": [
+    1232,
+    2463,
+    3824,
+    4817,
+    5805
+  ],
+  "corteFinal": 6160,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc461"
+  },
+  "tipo": "noite",
+  "titulo": "Dublado - Dias de Violencia 1990.mp4",
+  "duracao": 5510,
+  "canal": "Sbt",
+  "cortesParaIntervalo": [],
+  "order": null
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc462"
+  },
+  "canal": "A Definir",
+  "tipo": "noite",
+  "titulo": "Dublado - Quando as Sombras Descem 1964.mp4",
+  "duracao": 5134
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc463"
+  },
+  "duracao": 5656,
+  "tituloAtracao": "Tela Quente",
+  "programaDeTv": "telaQuente",
+  "added": true,
+  "canal": "Globo",
+  "order": 2,
+  "tipo": "noite",
+  "titulo": "Dublado - Crocodilo Dundee 1986.m4v",
+  "cortesParaIntervalo": [
+    1061,
+    1960,
+    2818,
+    3861,
+    4621
+  ],
+  "corteFinal": 5656,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc464"
+  },
+  "titulo": "Dublado - Tudo Por Uma Herança 1983.mp4",
+  "duracao": 5737,
+  "tipo": "noite",
+  "canal": "A Definir"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc465"
+  },
+  "corteFinal": 5164,
+  "cortesParaIntervalo": [
+    956,
+    2008,
+    2879,
+    3856,
+    4155
+  ],
+  "added": false,
+  "tipo": "noite",
+  "duracao": 5164,
+  "corteInicio": 0,
+  "titulo": "Dublado - A Noite Das Brincadeiras Mortais.m4v",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc466"
+  },
+  "canal": "Sbt",
+  "duracao": 5361,
+  "titulo": "Dublado - O Garoto do Futuro.mp4",
+  "tipo": "noite",
+  "cortesParaIntervalo": [],
+  "order": null
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc467"
+  },
+  "tipo": "noite",
+  "duracao": 5680,
+  "canal": "A Definir",
+  "titulo": "Dublado - Um Distinto Cavalheiro.mp4"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc468"
+  },
+  "duracao": 7193,
+  "canal": "Globo",
+  "added": false,
+  "titulo": "Dublado - Faça a Coisa Certa (1989).mp4",
+  "order": 49,
+  "tituloAtracao": "Tela Quente",
+  "tipo": "noite",
+  "programaDeTv": "telaQuente",
+  "cortesParaIntervalo": [
+    1352,
+    2654,
+    3819,
+    5194,
+    6276
+  ],
+  "corteFinal": 6866,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc469"
+  },
+  "titulo": "Dublado - Ensina-me a Viver (1971).mp4",
+  "duracao": 5490,
+  "tipo": "noite",
+  "canal": "Manchete"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc46a"
+  },
+  "tipo": "noite",
+  "duracao": 5779,
+  "titulo": "Dublado - Negócio Arriscado hborip.mp4",
+  "added": false,
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc46b"
+  },
+  "order": 3,
+  "canal": "Globo",
+  "corteFinal": 6601,
+  "tipo": "noite",
+  "corteInicio": 0,
+  "titulo": "Dublado - Jogos de Guerra.mkv",
+  "duracao": 6621,
+  "programaDeTv": "temperaturaMaxima",
+  "cortesParaIntervalo": [
+    1094,
+    2122,
+    3344,
+    4555,
+    5591
+  ],
+  "tituloAtracao": "Temperatura Máxima",
+  "added": true
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc46c"
+  },
+  "titulo": "Dublado - A Hora do Terror.mp4",
+  "tipo": "noite",
+  "corteInicio": 15,
+  "duracao": 5646,
+  "cortesParaIntervalo": [
+    940,
+    1898,
+    3155,
+    4457
+  ],
+  "canal": "Bandeirantes",
+  "corteFinal": 5606
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc46d"
+  },
+  "canal": "Globo",
+  "duracao": 5605,
+  "programaDeTv": "telaQuente",
+  "tituloAtracao": "Tela Quente",
+  "titulo": "Dublado - Porkys 2 O Dia Seguinte.mkv",
+  "order": 9,
+  "tipo": "noite",
+  "added": false,
+  "cortesParaIntervalo": [
+    1096,
+    2064,
+    2640,
+    3757,
+    4695
+  ],
+  "corteFinal": 5605,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc46e"
+  },
+  "duracao": 7453,
+  "titulo": "Dublado - Gente Como a Gente 1980.mp4",
+  "added": false,
+  "tipo": "noite",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc46f"
+  },
+  "titulo": "Dublado - A Chave do Enigma - 1990.m4v",
+  "tipo": "noite",
+  "programaDeTv": "",
+  "corteInicio": 0,
+  "added": false,
+  "cortesParaIntervalo": [
+    1404,
+    2768,
+    4217,
+    5728,
+    7059
+  ],
+  "corteFinal": 8101,
+  "canal": "Globo",
+  "duracao": 8250
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc470"
+  },
+  "titulo": "Dublado - Ladrão por Excelência 1980.mp4",
+  "canal": "A Definir",
+  "duracao": 6689,
+  "tipo": "noite"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc471"
+  },
+  "titulo": "Dublado - SOS tem um Louco Solto no Espaço.mkv",
+  "tipo": "noite",
+  "added": false,
+  "canal": "Globo",
+  "duracao": 5507
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc472"
+  },
+  "titulo": "Dublado - Top Secret-17.m4v",
+  "canal": "Globo",
+  "added": false,
+  "tipo": "noite",
+  "duracao": 4949
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc473"
+  },
+  "tipo": "noite",
+  "canal": "A Definir",
+  "titulo": "Dublado - O Perseguidor Implacável (1971).mkv",
+  "duracao": 6129
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc474"
+  },
+  "added": false,
+  "tipo": "noite",
+  "duracao": 7739,
+  "titulo": "Dublado - O Veridito 1982 Dublado.mp4",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc475"
+  },
+  "tipo": "noite",
+  "duracao": 7036,
+  "canal": "Manchete",
+  "titulo": "Dublado - Guerra Nas Estrelas.m4v"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc476"
+  },
+  "canal": "Sbt",
+  "titulo": "Dublado - A Hora Do Pesadelo 2.m4v",
+  "duracao": 4924,
+  "cortesParaIntervalo": [
+    704,
+    1607,
+    2450,
+    3636
+  ],
+  "corteInicio": 0,
+  "tipo": "noite",
+  "corteFinal": 4924,
+  "order": null
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc477"
+  },
+  "tipo": "noite",
+  "titulo": "Dublado - Rodas da Morte (1990).mp4",
+  "duracao": 5133,
+  "canal": "A Definir"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc478"
+  },
+  "duracao": 6581,
+  "tipo": "noite",
+  "canal": "A Definir",
+  "titulo": "Dublado - A Quadrilha da Mão (1986).mp4"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc479"
+  },
+  "canal": "Sbt",
+  "titulo": "Dublado - Zumbis no Colégio 1987.mp4",
+  "tipo": "noite",
+  "duracao": 5441,
+  "cortesParaIntervalo": [],
+  "order": null
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc47a"
+  },
+  "duracao": 5896,
+  "canal": "Globo",
+  "titulo": "Dublado - Sinal de Perigo 1985(COM CPOMERCIAIS).mp4",
+  "tipo": "noite",
+  "added": false
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc47b"
+  },
+  "order": 1,
+  "tipo": "noite",
+  "added": true,
+  "titulo": "Dublado -D Caçador de Vampiros (1985).mp4",
+  "canal": "Bandeirantes",
+  "tituloAtracao": "Cinemax",
+  "duracao": 4828,
+  "programaDeTv": "cinemax",
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc47c"
+  },
+  "duracao": 6131,
+  "canal": "Globo",
+  "tipo": "noite",
+  "titulo": "Dublado - Vestida para Matar (1).mkv",
+  "added": false,
+  "cortesParaIntervalo": [],
+  "programaDeTv": "supercine",
+  "tituloAtracao": "Supercine"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc47d"
+  },
+  "tipo": "noite",
+  "corteInicio": 5,
+  "titulo": "Dublado - A Hora do Pesadelo 4.mp4",
+  "canal": "Globo",
+  "corteFinal": 5152,
+  "duracao": 5159,
+  "added": false,
+  "cortesParaIntervalo": [
+    857,
+    1824,
+    2835,
+    3971,
+    4527
+  ]
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc47e"
+  },
+  "titulo": "Dublado - Amanhecer Violento (1984).mkv",
+  "cortesParaIntervalo": [
+    1221,
+    2422,
+    3665,
+    4751,
+    5996
+  ],
+  "tipo": "noite",
+  "duracao": 6688,
+  "added": false,
+  "canal": "Globo",
+  "corteInicio": 0,
+  "corteFinal": 6688
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc47f"
+  },
+  "tipo": "noite",
+  "canal": "A Definir",
+  "titulo": "Dublado - Noiva por Correspondência.mp4",
+  "duracao": 5347
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc480"
+  },
+  "duracao": 4936,
+  "tipo": "noite",
+  "canal": "Sbt",
+  "titulo": "Dublado - Fúria Cega (1989).mkv",
+  "cortesParaIntervalo": [],
+  "order": null
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc481"
+  },
+  "duracao": 7535,
+  "titulo": "Dublado - Inocencia Perdida.mp4",
+  "canal": "A Definir",
+  "tipo": "noite"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc482"
+  },
+  "canal": "Manchete",
+  "duracao": 6779,
+  "tipo": "noite",
+  "titulo": "Dublado - Coma (1978).mp4"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc483"
+  },
+  "titulo": "Dublado - No Calor da Noite.mp4",
+  "tipo": "noite",
+  "canal": "A Definir",
+  "duracao": 6592
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc484"
+  },
+  "corteFinal": 5105,
+  "cortesParaIntervalo": [
+    1049,
+    2003,
+    3523,
+    4463
+  ],
+  "titulo": "Dublado - Almôndegas - Parte ll- 1984.m4v",
+  "corteInicio": 82,
+  "duracao": 5105,
+  "canal": "Sbt",
+  "tipo": "noite",
+  "order": null
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc485"
+  },
+  "added": false,
+  "tipo": "noite",
+  "canal": "Globo",
+  "titulo": "Dublado - Rookie - Um Profissional do Perigo - 1990 (Dublado).mp4",
+  "duracao": 7245
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc486"
+  },
+  "order": 24,
+  "tituloAtracao": "Tela Quente",
+  "programaDeTv": "telaQuente",
+  "duracao": 7222,
+  "added": false,
+  "titulo": "Dublado - Guerra nas Estrelas - O Imperio Contra Ataca.mkv",
+  "tipo": "noite",
+  "canal": "Globo",
+  "cortesParaIntervalo": [
+    1333,
+    2626,
+    3893,
+    5050,
+    5821
+  ],
+  "corteFinal": 7222,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc487"
+  },
+  "tipo": "noite",
+  "titulo": "Dublado - Impacto Fulminante (1983).mkv",
+  "canal": "A Definir",
+  "duracao": 6853
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc488"
+  },
+  "programaDeTv": "cinemaEmCasa",
+  "order": 6,
+  "duracao": 5175,
+  "tituloAtracao": "Cinema em Casa",
+  "cortesParaIntervalo": [
+    882,
+    1737,
+    2642,
+    3573,
+    4404
+  ],
+  "tipo": "noite",
+  "added": true,
+  "corteFinal": 5174,
+  "canal": "Sbt",
+  "corteInicio": 0,
+  "titulo": "Dublado - A Patrulha Brat - TVRip - 1986.mp4"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc489"
+  },
+  "tituloAtracao": "Supercine",
+  "canal": "Globo",
+  "duracao": 6443,
+  "corteInicio": 0,
+  "cortesParaIntervalo": [
+    1100,
+    2237,
+    3493,
+    4313,
+    5300
+  ],
+  "programaDeTv": "supercine",
+  "order": 11,
+  "added": true,
+  "titulo": "Dublado - A Fera do Rock.webm",
+  "tipo": "noite",
+  "corteFinal": 6254
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc48a"
+  },
+  "titulo": "Dublado - No Cumprimento Do Dever.m4v",
+  "duracao": 5490,
+  "canal": "A Definir",
+  "tipo": "noite"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc48b"
+  },
+  "canal": "A Definir",
+  "duracao": 5148,
+  "tipo": "noite",
+  "titulo": "Dublado - Se Viver Mande um Postal 1983.mp4"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc48c"
+  },
+  "tipo": "noite",
+  "titulo": "Dublado - Os Implacáveis 1972.mp4",
+  "duracao": 591,
+  "canal": "A Definir"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc48d"
+  },
+  "added": false,
+  "programaDeTv": "supercine",
+  "duracao": 5638,
+  "order": 12,
+  "canal": "Globo",
+  "tipo": "noite",
+  "titulo": "Dublado - O Homem da  Mafia.mp4",
+  "tituloAtracao": "Supercine",
+  "cortesParaIntervalo": [
+    1267,
+    2398,
+    3303,
+    4227,
+    4955
+  ],
+  "corteFinal": 5638,
+  "corteInicio": 7
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc48e"
+  },
+  "duracao": 5097,
+  "tipo": "noite",
+  "corteFinal": 5097,
+  "added": true,
+  "tituloAtracao": "Sessão da Tarde",
+  "cortesParaIntervalo": [
+    794,
+    1780,
+    2972,
+    3948
+  ],
+  "order": 12,
+  "titulo": "Dublado - Te Pego La Fora.m4v",
+  "corteInicio": 0,
+  "programaDeTv": "sessaoDaTarde",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc48f"
+  },
+  "titulo": "Dublado - Um Trânsito Muito Louco.m4v",
+  "tituloAtracao": "Sessão da Tarde",
+  "tipo": "noite",
+  "added": false,
+  "programaDeTv": "sessaoDaTarde",
+  "canal": "Globo",
+  "order": 27,
+  "duracao": 5142,
+  "cortesParaIntervalo": [
+    933,
+    1854,
+    2917,
+    3742,
+    4481
+  ],
+  "corteFinal": 5142,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc490"
+  },
+  "duracao": 5836,
+  "canal": "A Definir",
+  "titulo": "Dublado - O Calendário da Morte 1989.mp4",
+  "tipo": "noite"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc491"
+  },
+  "tipo": "noite",
+  "titulo": "Dublado - Atração Fatal.mp4",
+  "added": false,
+  "duracao": 6974,
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc492"
+  },
+  "tipo": "noite",
+  "titulo": "Dublado - Um Tiro na Noite.mp4",
+  "canal": "Sbt",
+  "duracao": 6476,
+  "cortesParaIntervalo": [],
+  "order": null
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc493"
+  },
+  "duracao": 4891,
+  "titulo": "Dublado - Caçada Impiedosa 1983.mp4",
+  "tipo": "noite",
+  "canal": "Manchete"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc494"
+  },
+  "cortesParaIntervalo": [
+    1112,
+    2177,
+    3114,
+    4076
+  ],
+  "canal": "Globo",
+  "order": 60,
+  "titulo": "Dublado - A Casa do Espanto 2 1987.mp4",
+  "added": true,
+  "duracao": 5266,
+  "tipo": "noite",
+  "programaDeTv": "telaQuente",
+  "corteFinal": 5188,
+  "tituloAtracao": "Tela Quente",
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc495"
+  },
+  "tipo": "noite",
+  "programaDeTv": "telaQuente",
+  "duracao": 6324,
+  "titulo": "Dublado - Top Gun Ases Indomáveis.m4v",
+  "added": false,
+  "canal": "Globo",
+  "tituloAtracao": "Tela Quente",
+  "order": 52,
+  "cortesParaIntervalo": [
+    1125,
+    2232,
+    3304,
+    4652,
+    5268
+  ],
+  "corteFinal": 6324,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc496"
+  },
+  "cortesParaIntervalo": [
+    0
+  ],
+  "duracao": 6057,
+  "corteInicio": 0,
+  "added": false,
+  "titulo": "Dublado - Acerto de Contas (com comerciais).mp4",
+  "tipo": "noite",
+  "canal": "Globo",
+  "corteFinal": 6057
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc497"
+  },
+  "titulo": "Dublado - Halloween III 1982.mkv",
+  "canal": "Sbt",
+  "tipo": "noite",
+  "duracao": 5712,
+  "cortesParaIntervalo": [
+    960,
+    1873,
+    2781,
+    3767,
+    4502
+  ],
+  "programaDeTv": "sessaoDasDez",
+  "tituloAtracao": "Sessão das Dez",
+  "corteFinal": 5712,
+  "corteInicio": 0,
+  "order": 1,
+  "added": true
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc498"
+  },
+  "added": false,
+  "canal": "Globo",
+  "duracao": 5143,
+  "titulo": "Dublado - Repo Man A Onda Punk.m4v",
+  "tipo": "noite"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc499"
+  },
+  "tipo": "noite",
+  "canal": "Globo",
+  "titulo": "Dublado - O Expresso da Meia-Noite (1978).mp4",
+  "added": false,
+  "duracao": 7259
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc49a"
+  },
+  "tipo": "noite",
+  "programaDeTv": "supercine",
+  "canal": "Globo",
+  "titulo": "Dublado - Memórias Secretas (1988).mp4",
+  "tituloAtracao": "Supercine",
+  "duracao": 5875,
+  "cortesParaIntervalo": [
+    909,
+    1922,
+    3142,
+    4302,
+    4926
+  ],
+  "order": 22,
+  "added": false,
+  "corteFinal": 5775,
+  "corteInicio": 16
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc49b"
+  },
+  "corteInicio": 0,
+  "tipo": "noite",
+  "programaDeTv": "supercine",
+  "canal": "Globo",
+  "order": 6,
+  "duracao": 5708,
+  "cortesParaIntervalo": [
+    876,
+    1881,
+    3277,
+    4328,
+    5120
+  ],
+  "titulo": "Dublado - Caçada Maldita 1985.mp4",
+  "corteFinal": 5648,
+  "added": false,
+  "tituloAtracao": "Supercine"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc49c"
+  },
+  "duracao": 5302,
+  "tipo": "noite",
+  "titulo": "Dublado - O Monstro da Neve.mp4",
+  "canal": "A Definir"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc49d"
+  },
+  "added": false,
+  "titulo": "Dublado - Psicose 3.mp4",
+  "canal": "Globo",
+  "tipo": "noite",
+  "duracao": 5336
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc49e"
+  },
+  "canal": "Globo",
+  "tipo": "noite",
+  "duracao": 6020,
+  "added": false,
+  "titulo": "Dublado - Crepusculo de Aço 1987.webm"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc49f"
+  },
+  "tituloAtracao": "Cinemax",
+  "added": true,
+  "corteFinal": 5166,
+  "duracao": 5167,
+  "corteInicio": 0,
+  "cortesParaIntervalo": [
+    1476,
+    1987,
+    3118,
+    3623,
+    4589
+  ],
+  "tipo": "noite",
+  "order": 2,
+  "canal": "Bandeirantes",
+  "titulo": "Dublado - Viagem ao Sobrenatural 1989.mp4",
+  "programaDeTv": "cinemax"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc4a0"
+  },
+  "canal": "Sbt",
+  "duracao": 5891,
+  "tipo": "noite",
+  "titulo": "Dublado - Parceiros Da Noite.m4v",
+  "cortesParaIntervalo": [],
+  "order": null
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc4a2"
+  },
+  "corteInicio": 31,
+  "canal": "Manchete",
+  "cortesParaIntervalo": [
+    0
+  ],
+  "duracao": 7074,
+  "tipo": "noite",
+  "corteFinal": 0,
+  "titulo": "Dublado - Sob o Dominio do Medo - 1971.mp4"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc4a3"
+  },
+  "duracao": 6224,
+  "tipo": "noite",
+  "programaDeTv": "supercine",
+  "titulo": "Dublado - Na Hora Da Zona Morta.mkv",
+  "canal": "Globo",
+  "cortesParaIntervalo": [
+    1263,
+    2623,
+    3354,
+    4410,
+    5007
+  ],
+  "tituloAtracao": "Supercine",
+  "order": 34,
+  "added": false,
+  "corteFinal": 6064,
+  "corteInicio": 13
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc4a4"
+  },
+  "duracao": 5107,
+  "canal": "Manchete",
+  "titulo": "Dublado - Westworld Onde Ninguém Tem Alma.mp4",
+  "tipo": "noite"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc4a6"
+  },
+  "tipo": "noite",
+  "canal": "Sbt",
+  "duracao": 8166,
+  "titulo": "Dublado - Superman.m4v",
+  "cortesParaIntervalo": [],
+  "order": null
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc4a7"
+  },
+  "tipo": "noite",
+  "programaDeTv": "sessaoDaTarde",
+  "duracao": 6069,
+  "tituloAtracao": "Sessão da Tarde",
+  "titulo": "Dublado - Um Tira Da Pesada.m4v",
+  "added": false,
+  "canal": "Globo",
+  "order": 31,
+  "cortesParaIntervalo": [
+    1147,
+    2430,
+    3521,
+    4440,
+    5129
+  ],
+  "corteFinal": 6069,
+  "corteInicio": 21
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc4a8"
+  },
+  "canal": "Manchete",
+  "tipo": "noite",
+  "titulo": "Dublado - Caçada em Atlanta 1981.mp4",
+  "duracao": 7303
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc4a9"
+  },
+  "tituloAtracao": "Tela Quente",
+  "cortesParaIntervalo": [
+    1029,
+    1958,
+    3308,
+    4423
+  ],
+  "canal": "Globo",
+  "order": 39,
+  "titulo": "Dublado - A Casa Do Espanto.m4v",
+  "tipo": "noite",
+  "duracao": 5389,
+  "added": true,
+  "corteInicio": 0,
+  "corteFinal": 5389,
+  "programaDeTv": "telaQuente"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc4aa"
+  },
+  "canal": "Globo",
+  "duracao": 5259,
+  "titulo": "Dublado - Embalo a Dois 1983.mp4",
+  "added": false,
+  "tipo": "noite"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc4ab"
+  },
+  "canal": "Globo",
+  "titulo": "Dublado - Confissões de um Adolescente 1986.mp4",
+  "tipo": "noite",
+  "added": false,
+  "duracao": 6549
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc4ac"
+  },
+  "tipo": "noite",
+  "canal": "Globo",
+  "duracao": 5899,
+  "titulo": "Dublado - Férias Frustradas (1983).mp4",
+  "programaDeTv": "sessaoDaTarde",
+  "added": false,
+  "tituloAtracao": "Sessão da Tarde",
+  "cortesParaIntervalo": [
+    947,
+    1985,
+    2944,
+    4145,
+    5185
+  ],
+  "corteFinal": 5759,
+  "corteInicio": 0,
+  "order": 28
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc4ad"
+  },
+  "canal": "Sbt",
+  "tipo": "noite",
+  "duracao": 6172,
+  "titulo": "Dublado - O Exterminador Do Futuro.m4v",
+  "tia": true,
+  "cortesParaIntervalo": [],
+  "order": null
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc4ae"
+  },
+  "duracao": 5929,
+  "canal": "A Definir",
+  "tipo": "noite",
+  "titulo": "Dublado - Os Senhores da Magia (1989).webm"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc4af"
+  },
+  "titulo": "Dublado - Quase Igual aos Outros.mp4",
+  "added": false,
+  "tipo": "noite",
+  "duracao": 6020,
+  "canal": "Globo",
+  "cortesParaIntervalo": [],
+  "programaDeTv": "sessaoDaTarde",
+  "tituloAtracao": "Sessão da Tarde"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc4b0"
+  },
+  "canal": "A Definir",
+  "titulo": "Dublado - O Cavaleiro do Tempo 1981.mp4",
+  "duracao": 5543,
+  "tipo": "noite"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc4b1"
+  },
+  "duracao": 9274,
+  "corteFinal": 9085,
+  "cortesParaIntervalo": [
+    1476,
+    2741,
+    4006,
+    5525,
+    7275
+  ],
+  "tituloAtracao": "Supercine",
+  "added": true,
+  "corteInicio": 19,
+  "titulo": "Dublado - A Firma 1993.mp4",
+  "programaDeTv": "supercine",
+  "canal": "Globo",
+  "order": 21,
+  "tipo": "noite"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc4b3"
+  },
+  "titulo": "Dublado - Blackout - 1985.mp4",
+  "added": false,
+  "canal": "Globo",
+  "duracao": 4776,
+  "tipo": "noite"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc4b4"
+  },
+  "titulo": "Dublado - Ruas de Fogo - 1984.mp4",
+  "added": false,
+  "tipo": "noite",
+  "canal": "Globo",
+  "duracao": 5631
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc4b5"
+  },
+  "duracao": 5528,
+  "canal": "A Definir",
+  "titulo": "Dublado - Namorados por Acaso.mkv",
+  "tipo": "noite"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc4b6"
+  },
+  "canal": "Globo",
+  "tipo": "noite",
+  "titulo": "Dublado - Blade Runner - O Caçador de Androides.mkv",
+  "order": 13,
+  "added": false,
+  "programaDeTv": "telaQuente",
+  "tituloAtracao": "Tela Quente",
+  "duracao": 7046,
+  "cortesParaIntervalo": [
+    980,
+    2531,
+    3069,
+    3788,
+    5210
+  ],
+  "corteFinal": 6886,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc4b7"
+  },
+  "tipo": "noite",
+  "duracao": 7169,
+  "corteInicio": 0,
+  "titulo": "Dublado - All The Jazz - O Show Deve Continuar 1979 Tvrip.mkv",
+  "added": false,
+  "corteFinal": 7169,
+  "canal": "Globo",
+  "cortesParaIntervalo": [
+    1126,
+    2128,
+    3420,
+    4374,
+    5900
+  ]
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc4b8"
+  },
+  "titulo": "Dublado - Poltergeist II - O Outro Lado 1986.mp4",
+  "programaDeTv": "telaQuente",
+  "order": 56,
+  "tipo": "noite",
+  "added": false,
+  "canal": "Globo",
+  "duracao": 5446,
+  "tituloAtracao": "Tela Quente",
+  "cortesParaIntervalo": [
+    903,
+    1877,
+    2849,
+    3701,
+    4722
+  ],
+  "corteFinal": 5292,
+  "corteInicio": 10
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc4b9"
+  },
+  "titulo": "Dublado - A Onda 1981.webm",
+  "canal": "Bandeirantes",
+  "duracao": 2778,
+  "tipo": "noite"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc4ba"
+  },
+  "tipo": "noite",
+  "titulo": "Dublado - Sexta-Feira 13 Parte 4 - O Capítulo Final (1984).m4v",
+  "duracao": 5293,
+  "added": false,
+  "programaDeTv": "telaQuente",
+  "tituloAtracao": "Tela Quente",
+  "canal": "Globo",
+  "order": 47,
+  "cortesParaIntervalo": [
+    959,
+    2089,
+    2978,
+    3856
+  ],
+  "corteFinal": 5293,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc4bb"
+  },
+  "programaDeTv": "telaQuente",
+  "duracao": 7394,
+  "tituloAtracao": "Tela Quente",
+  "titulo": "Dublado - Karate Kid.mkv",
+  "canal": "Globo",
+  "tipo": "noite",
+  "order": 51,
+  "added": false,
+  "cortesParaIntervalo": [
+    1291,
+    2500,
+    3740,
+    5042,
+    6316
+  ],
+  "corteFinal": 7394,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc4bc"
+  },
+  "duracao": 5228,
+  "canal": "A Definir",
+  "tipo": "noite",
+  "titulo": "Dublado - Os Invasores de Corpos.mp4"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc4bd"
+  },
+  "canal": "Bandeirantes",
+  "tipo": "noite",
+  "duracao": 7527,
+  "titulo": "Dublado - O Inquilino 1976.mp4"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc4be"
+  },
+  "canal": "Globo",
+  "tipo": "noite",
+  "duracao": 5011,
+  "titulo": "Dublado - Antes Só Do Que Mal Acompanhado.m4v",
+  "added": false
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc4bf"
+  },
+  "programaDeTv": "telaQuente",
+  "corteFinal": 6997,
+  "order": 38,
+  "tipo": "noite",
+  "canal": "Globo",
+  "tituloAtracao": "Tela Quente",
+  "tia": true,
+  "added": true,
+  "cortesParaIntervalo": [
+    1546,
+    2684,
+    3746,
+    5163
+  ],
+  "corteInicio": 0,
+  "duracao": 6997,
+  "titulo": "Dublado - Platoon.m4v"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc4c0"
+  },
+  "cortesParaIntervalo": [
+    0
+  ],
+  "titulo": "Dublado - A Raposa de Fogo(com comerciais).mkv",
+  "tipo": "noite",
+  "added": false,
+  "corteFinal": 9777,
+  "duracao": 9818,
+  "corteInicio": 764,
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc4c1"
+  },
+  "programaDeTv": "telaQuente",
+  "added": false,
+  "duracao": 6527,
+  "tituloAtracao": "Tela Quente",
+  "tipo": "noite",
+  "order": 61,
+  "titulo": "Dublado - Highlander O Guerreiro Imortal.mkv",
+  "canal": "Globo",
+  "cortesParaIntervalo": [
+    1193,
+    2320,
+    3450,
+    4381,
+    5767
+  ],
+  "corteFinal": 6527,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc4c2"
+  },
+  "duracao": 5719,
+  "order": 10,
+  "tipo": "noite",
+  "added": false,
+  "programaDeTv": "telaQuente",
+  "titulo": "Dublado - Clube dos Cinco.mp4",
+  "canal": "Globo",
+  "tituloAtracao": "Tela Quente",
+  "cortesParaIntervalo": [
+    1247,
+    2205,
+    3324,
+    3974,
+    5153
+  ],
+  "corteFinal": 5719,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc4c3"
+  },
+  "titulo": "Dublado - Pesadelo No Vale da Morte 1982.mp4",
+  "duracao": 5286,
+  "added": false,
+  "tipo": "noite",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc4c4"
+  },
+  "duracao": 4869,
+  "titulo": "Dublado - Missão Saturno 3 - 1980.mkv",
+  "canal": "A Definir",
+  "tipo": "noite"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc4c5"
+  },
+  "added": false,
+  "cortesParaIntervalo": [
+    1204,
+    1963,
+    2994,
+    4157,
+    5503
+  ],
+  "corteInicio": 0,
+  "canal": "Globo",
+  "corteFinal": 6478,
+  "tipo": "noite",
+  "duracao": 6479,
+  "titulo": "Dublado - Alucinações Do Passado.m4v"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc4c6"
+  },
+  "canal": "Sbt",
+  "titulo": "Dublado - Outland - Comando Titânio.m4v",
+  "duracao": 6125,
+  "tipo": "noite",
+  "cortesParaIntervalo": [],
+  "order": null
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc4c7"
+  },
+  "duracao": 5232,
+  "cortesParaIntervalo": [
+    1034,
+    2153,
+    3070,
+    4294
+  ],
+  "canal": "Globo",
+  "added": false,
+  "corteInicio": 0,
+  "tipo": "noite",
+  "corteFinal": 5232,
+  "titulo": "Dublado - A Chance.mkv"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc4c8"
+  },
+  "added": false,
+  "titulo": "Dublado - Para Sempre na Memoria 1988.mp4",
+  "tipo": "noite",
+  "duracao": 5275,
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc4c9"
+  },
+  "tipo": "noite",
+  "cortesParaIntervalo": [
+    1501,
+    2944,
+    4356
+  ],
+  "duracao": 5337,
+  "titulo": "Dublado - A Aparição.mkv",
+  "canal": "Sbt",
+  "order": null
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc4ca"
+  },
+  "titulo": "Dublado - Os Aniquiladores 1985.mp4",
+  "tipo": "noite",
+  "canal": "A Definir",
+  "duracao": 5104
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc4cb"
+  },
+  "tituloAtracao": "Supercine",
+  "order": 32,
+  "titulo": "Dublado - Filhos do Silencio 1986.mkv",
+  "tipo": "noite",
+  "added": false,
+  "duracao": 6846,
+  "canal": "Globo",
+  "programaDeTv": "supercine",
+  "cortesParaIntervalo": [
+    1232,
+    2544,
+    3792,
+    4811,
+    5456
+  ],
+  "corteFinal": 6678,
+  "corteInicio": 19
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc4cc"
+  },
+  "cortesParaIntervalo": [
+    1845,
+    3793,
+    5685,
+    7591,
+    9487
+  ],
+  "duracao": 10943,
+  "corteFinal": 10943,
+  "titulo": "Dublado - A Mansão Mastern.m4v",
+  "corteInicio": 0,
+  "canal": "Sbt",
+  "tipo": "noite",
+  "order": null
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc4cd"
+  },
+  "order": 27,
+  "canal": "Globo",
+  "tipo": "noite",
+  "cortesParaIntervalo": [
+    1803,
+    3070,
+    4104,
+    5088
+  ],
+  "duracao": 5930,
+  "corteFinal": 5930,
+  "corteInicio": 0,
+  "titulo": "Dublado - Caroline.mp4",
+  "programaDeTv": "supercine",
+  "added": false,
+  "tituloAtracao": "Supercine"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc4ce"
+  },
+  "tipo": "noite",
+  "titulo": "Dublado - Médica Bonita E Solteira 1964.mp4",
+  "canal": "A Definir",
+  "duracao": 6852
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc4cf"
+  },
+  "tipo": "noite",
+  "canal": "Globo",
+  "titulo": "Dublado - Os Sete Suspeitos (1985).mp4",
+  "added": false,
+  "duracao": 5811
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc4d0"
+  },
+  "tipo": "noite",
+  "duracao": 5040,
+  "canal": "Sbt",
+  "titulo": "Dublado - Chuva De Chumbo - Tvrip.m4v",
+  "cortesParaIntervalo": [],
+  "order": null
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc4d1"
+  },
+  "duracao": 336,
+  "titulo": "Dublado - Paradise (SBT).mp4",
+  "tipo": "noite",
+  "canal": "Sbt",
+  "cortesParaIntervalo": [],
+  "order": null
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc4d2"
+  },
+  "tipo": "noite",
+  "tituloAtracao": "Tela Quente",
+  "canal": "Globo",
+  "programaDeTv": "telaQuente",
+  "duracao": 5087,
+  "added": false,
+  "order": 37,
+  "titulo": "Dublado - Top Gang Ases Muito Loucos 1991.mp4",
+  "cortesParaIntervalo": [
+    1046,
+    2270,
+    3033,
+    3852
+  ],
+  "corteFinal": 4837,
+  "corteInicio": 18
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc4d3"
+  },
+  "titulo": "Dublado - Meu Pai Uma Lição De Vida 1989.mp4",
+  "canal": "Globo",
+  "added": false,
+  "duracao": 7049,
+  "tipo": "noite"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc4d4"
+  },
+  "canal": "Gazeta",
+  "duracao": 6755,
+  "corteInicio": 0,
+  "titulo": "Dublado - 2010 - O Ano Em Que Faremos Contato (1985).mkv",
+  "cortesParaIntervalo": [
+    1287,
+    2470,
+    3620,
+    4837,
+    6087
+  ],
+  "tipo": "noite",
+  "corteFinal": 6755
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc4d5"
+  },
+  "canal": "Sbt",
+  "duracao": 5804,
+  "titulo": "Dublado - Capitão América 1978.m4v",
+  "tipo": "noite",
+  "cortesParaIntervalo": [],
+  "order": null
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc4d6"
+  },
+  "duracao": 4231,
+  "canal": "A Definir",
+  "tipo": "noite",
+  "titulo": "Dublado - Moto Laser.webm"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc4d7"
+  },
+  "tipo": "noite",
+  "duracao": 6756,
+  "programaDeTv": "telaQuente",
+  "titulo": "Dublado - Um Dia de Furia 1993.mp4",
+  "order": 53,
+  "added": false,
+  "canal": "Globo",
+  "tituloAtracao": "Tela Quente",
+  "cortesParaIntervalo": [
+    1080,
+    2335,
+    3573,
+    4897,
+    5687
+  ],
+  "corteFinal": 6576,
+  "corteInicio": 16
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc4d8"
+  },
+  "titulo": "Dublado - Eu Sou A Lei 1982.mp4",
+  "duracao": 6666,
+  "canal": "Globo",
+  "tipo": "noite",
+  "added": false
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc4d9"
+  },
+  "tipo": "noite",
+  "canal": "Globo",
+  "programaDeTv": "sessaoDaTarde",
+  "titulo": "Dublado - Rebeldes e Heróis (1991).mp4",
+  "added": false,
+  "tituloAtracao": "Sessão da Tarde",
+  "duracao": 6724,
+  "cortesParaIntervalo": [
+    1101,
+    2335,
+    3454,
+    4827,
+    5266
+  ],
+  "corteFinal": 6424,
+  "corteInicio": 0,
+  "order": 26
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc4da"
+  },
+  "tipo": "noite",
+  "titulo": "Dublado - Momento De Decisão.mkv",
+  "duracao": 7022,
+  "canal": "Manchete"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc4db"
+  },
+  "tipo": "noite",
+  "tituloAtracao": "Supercine",
+  "titulo": "Dublado - Choque Mortal - 1988.m4v",
+  "duracao": 5108,
+  "added": false,
+  "canal": "Globo",
+  "order": 17,
+  "programaDeTv": "supercine",
+  "cortesParaIntervalo": [
+    1224,
+    2064,
+    2792,
+    3616,
+    4173
+  ],
+  "corteFinal": 5108,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc4dc"
+  },
+  "duracao": 5598,
+  "tituloAtracao": "Sessão da Tarde",
+  "tipo": "noite",
+  "programaDeTv": "sessaoDaTarde",
+  "titulo": "Dublado - A Volta do Incrível Hulk (TV-Rip).mp4",
+  "canal": "Globo",
+  "added": false,
+  "cortesParaIntervalo": [
+    928,
+    1846,
+    2804,
+    3851
+  ],
+  "corteFinal": 5590,
+  "corteInicio": 0,
+  "order": 34
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc4dd"
+  },
+  "canal": "Sbt",
+  "titulo": "Dublado - A Hstória Sem Fim -1984.mp4",
+  "duracao": 5645,
+  "corteInicio": 19,
+  "cortesParaIntervalo": [
+    1150,
+    2424,
+    3482,
+    4663
+  ],
+  "tipo": "noite",
+  "corteFinal": 5505,
+  "order": null
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc4de"
+  },
+  "tipo": "noite",
+  "canal": "A Definir",
+  "duracao": 5221,
+  "titulo": "Dublado - Um Caso Muito Sério tvrip.mp4"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc4df"
+  },
+  "corteInicio": 0,
+  "corteFinal": 5511,
+  "titulo": "Dublado - Alguem Muito Especial.mkv",
+  "cortesParaIntervalo": [
+    1134,
+    2492,
+    3380,
+    4303
+  ],
+  "tipo": "noite",
+  "duracao": 5511,
+  "added": false,
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc4e0"
+  },
+  "added": false,
+  "titulo": "Dublado - Eu Vi o Que Você Fez e Eu Sei Quem Você é (1988).mp4",
+  "canal": "Globo",
+  "tipo": "noite",
+  "duracao": 5362
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc4e1"
+  },
+  "tipo": "noite",
+  "duracao": 5572,
+  "canal": "A Definir",
+  "titulo": "Dublado - Fazendo Justiça (1987).mp4"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc4e2"
+  },
+  "titulo": "Dublado - Duro de Matar (1988).mkv",
+  "canal": "Globo",
+  "added": false,
+  "tipo": "noite",
+  "duracao": 7641,
+  "cortesParaIntervalo": [],
+  "programaDeTv": "telaQuente",
+  "tituloAtracao": "Tela Quente"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc4e3"
+  },
+  "canal": "Globo",
+  "duracao": 6649,
+  "tipo": "noite",
+  "added": false,
+  "titulo": "Dublado - Matador de Aluguel (1989).mkv"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc4e4"
+  },
+  "titulo": "Dublado - De Volta Para O Futuro.m4v",
+  "tituloAtracao": "Tela Quente",
+  "canal": "Globo",
+  "tipo": "noite",
+  "added": false,
+  "order": 35,
+  "programaDeTv": "telaQuente",
+  "duracao": 6705,
+  "cortesParaIntervalo": [
+    1017,
+    2090,
+    3325,
+    4574,
+    5448
+  ],
+  "corteFinal": 6705,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc4e5"
+  },
+  "order": 36,
+  "tipo": "noite",
+  "tituloAtracao": "Tela Quente",
+  "programaDeTv": "telaQuente",
+  "duracao": 5796,
+  "canal": "Globo",
+  "added": false,
+  "titulo": "Dublado - Um Vagabundo Na Alta Roda.m4v",
+  "cortesParaIntervalo": [
+    1202,
+    2281,
+    3219,
+    4111,
+    4954
+  ],
+  "corteFinal": 5796,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc4e6"
+  },
+  "tipo": "noite",
+  "corteInicio": 0,
+  "titulo": "Dublado - Aliens - O Resgate.m4v",
+  "programaDeTv": "telaQuente",
+  "canal": "Globo",
+  "order": 3,
+  "corteFinal": 8571,
+  "added": true,
+  "cortesParaIntervalo": [
+    1738,
+    3066,
+    4452,
+    5758,
+    7008
+  ],
+  "duracao": 8571,
+  "tituloAtracao": "Tela Quente"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc4e7"
+  },
+  "canal": "Globo",
+  "duracao": 6971,
+  "added": false,
+  "tipo": "noite",
+  "titulo": "Dublado - O Homem que Odiava as Mulheres.mp4"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc4e8"
+  },
+  "tipo": "noite",
+  "canal": "Sbt",
+  "duracao": 6899,
+  "titulo": "Dublado - Starman - O Homem das Estrelas (1984 ).mp4",
+  "cortesParaIntervalo": [],
+  "order": null
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc4e9"
+  },
+  "programaDeTv": "supercine",
+  "duracao": 10482,
+  "titulo": "Dublado - A Noviça Rebelde.mp4",
+  "corteInicio": 13,
+  "canal": "Globo",
+  "order": 10,
+  "tipo": "noite",
+  "added": true,
+  "corteFinal": 10482,
+  "tituloAtracao": "Supercine",
+  "cortesParaIntervalo": [
+    2100,
+    3772,
+    5286,
+    7064,
+    8958
+  ]
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc4ea"
+  },
+  "duracao": 50,
+  "titulo": "zMusictv.mp4",
+  "tipo": "noite"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc4eb"
+  },
+  "titulo": "Videodrome (opening scene 1983.mp4",
+  "duracao": 178,
+  "tipo": "noite",
+  "canal": "Globo",
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc4ec"
+  },
+  "canal": "Sbt",
+  "tipo": "noite",
+  "duracao": 6236,
+  "titulo": "Dublado - Tuff Turf O Rebelde.mkv",
+  "cortesParaIntervalo": [],
+  "order": null
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc4ed"
+  },
+  "canal": "Globo",
+  "added": false,
+  "tipo": "noite",
+  "titulo": "Dublado - Star 80 (1).m4v",
+  "duracao": 6034,
+  "cortesParaIntervalo": [],
+  "programaDeTv": "supercine",
+  "tituloAtracao": "Supercine"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc4ee"
+  },
+  "tituloAtracao": "Sessão da Tarde",
+  "titulo": "Dublado - Clube dos Pilantras.mkv",
+  "added": false,
+  "duracao": 5881,
+  "programaDeTv": "sessaoDaTarde",
+  "canal": "Globo",
+  "tipo": "noite",
+  "cortesParaIntervalo": [
+    957,
+    1935,
+    2886,
+    3660,
+    4778
+  ],
+  "corteFinal": 5721,
+  "corteInicio": 23,
+  "order": 19
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc4ef"
+  },
+  "canal": "Globo",
+  "added": false,
+  "tipo": "noite",
+  "titulo": "Dublado - De Olhos Vendados (1965).mkv",
+  "duracao": 6098,
+  "cortesParaIntervalo": [],
+  "programaDeTv": "corujaoUm",
+  "tituloAtracao": "Corujão Um"
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc4f0"
+  },
+  "canal": "Globo",
+  "titulo": "Dublado - Chuva De Milhões (1985).m4v",
+  "duracao": 5884,
+  "tipo": "noite",
+  "added": false
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc4f1"
+  },
+  "canal": "Globo",
+  "tituloAtracao": "Tela Quente",
+  "programaDeTv": "telaQuente",
+  "titulo": "Dublado - Indiana Jones E A Última Cruzada - 1989.m4v",
+  "added": false,
+  "duracao": 7613,
+  "tipo": "noite",
+  "order": 22,
+  "cortesParaIntervalo": [
+    1334,
+    2681,
+    4242,
+    4880,
+    6268
+  ],
+  "corteFinal": 7409,
+  "corteInicio": 2
+},
+{
+  "_id": {
+    "$oid": "638fafb803929e6d18dcc4f2"
+  },
+  "tipo": "noite",
+  "canal": "Sbt",
+  "duracao": 7977,
+  "titulo": "Dublado - O Exterminador Do Futuro 1984 Tvrip Sbt.mp4",
+  "cortesParaIntervalo": [],
+  "order": null
+},
+{
+  "_id": {
+    "$oid": "63ae35f2c61e86e46645f10b"
+  },
+  "cortesParaIntervalo": [
+    2189,
+    3890,
+    5069,
+    6165
+  ],
+  "canal": "Globo",
+  "titulo": "Dublado - Guerra nas Estrelas - O Retorno de Jedi (TVRip) - Tela Quente - 07.03.1988.mp4",
+  "duracao": 7469,
+  "programaDeTv": "telaQuente",
+  "tipo": "noite",
+  "added": false,
+  "corteFinal": 7469,
+  "corteInicio": 2,
+  "order": 62,
+  "tituloAtracao": "Tela Quente"
+},
+{
+  "_id": {
+    "$oid": "63ae368dc61e86e46645f110"
+  },
+  "cortesParaIntervalo": [],
+  "canal": "Manchete",
+  "titulo": "Dublado - Guerra nas Estrelas - (Cinema Especial Globo 27.12.1987).mp4",
+  "duracao": 6573,
+  "tipo": "noite"
+},
+{
+  "_id": {
+    "$oid": "63ae3733c61e86e46645f114"
+  },
+  "cortesParaIntervalo": [],
+  "canal": "Sbt",
+  "titulo": "Dublado - Rambo - Programado Para Matar (TVRip).mp4",
+  "duracao": 5374,
+  "programaDeTv": "cinemaEmCasa",
+  "tipo": "noite",
+  "added": true,
+  "order": 8
+},
+{
+  "_id": {
+    "$oid": "63ae37b2c61e86e46645f117"
+  },
+  "cortesParaIntervalo": [
+    1220,
+    2059,
+    2772,
+    3682,
+    4606
+  ],
+  "canal": "Globo",
+  "titulo": "Dublado - Rambo II A Missão (TVRip).mp4",
+  "duracao": 5476,
+  "programaDeTv": "telaQuente",
+  "tipo": "noite",
+  "added": false,
+  "order": 43,
+  "corteFinal": 5471,
+  "corteInicio": 0,
+  "tituloAtracao": "Tela Quente"
+},
+{
+  "_id": {
+    "$oid": "63b60db1dbbf2e2ec072736f"
+  },
+  "cortesParaIntervalo": [
+    1284,
+    2492,
+    3756,
+    5106,
+    6342
+  ],
+  "canal": "Globo",
+  "titulo": "Dublado - A Prometida 1985.mp4",
+  "duracao": 7137,
+  "programaDeTv": "telaQuente",
+  "tipo": "noite",
+  "added": false,
+  "corteFinal": 7017,
+  "corteInicio": 0,
+  "order": 32,
+  "tituloAtracao": "Tela Quente"
+},
+{
+  "_id": {
+    "$oid": "63b6152bdbbf2e2ec072739d"
+  },
+  "cortesParaIntervalo": [
+    1226,
+    2060,
+    3054,
+    4027,
+    4968
+  ],
+  "canal": "Globo",
+  "titulo": "Dublado - O Homem do Sapato Vermelho.mp4",
+  "duracao": 5551,
+  "programaDeTv": "sessaoDaTarde",
+  "tipo": "noite",
+  "added": false,
+  "tituloAtracao": "Sessão da Tarde",
+  "corteFinal": 5331,
+  "corteInicio": 0,
+  "order": 36
+},
+{
+  "_id": {
+    "$oid": "63b6167cdbbf2e2ec07273a0"
+  },
+  "cortesParaIntervalo": [],
+  "canal": "Sbt",
+  "titulo": "Dublado - O Cavalo Falante 1988.mp4",
+  "duracao": 4817,
+  "programaDeTv": "cinemaEmCasa",
+  "tipo": "noite",
+  "added": true,
+  "order": 4
+},
+{
+  "_id": {
+    "$oid": "63b61783dbbf2e2ec07273a3"
+  },
+  "cortesParaIntervalo": [],
+  "canal": "Sbt",
+  "titulo": "Dublado - Rambo - Programado Para Matar (TVRip).mp4",
+  "duracao": 5359,
+  "programaDeTv": "cinemaEmCasa",
+  "tipo": "noite",
+  "added": true,
+  "order": 2
+},
+{
+  "_id": {
+    "$oid": "63b61c74dbbf2e2ec07273c8"
+  },
+  "cortesParaIntervalo": [],
+  "canal": "",
+  "titulo": "Dublado - O Corvo 1963.mp4",
+  "duracao": 5135,
+  "tipo": "noite"
+},
+{
+  "_id": {
+    "$oid": "63f6c571b73e4205b3b6a5b7"
+  },
+  "cortesParaIntervalo": [],
+  "canal": "Globo",
+  "titulo": "Dublado - Perigo Mortal 1994.mp4",
+  "duracao": 5658,
+  "programaDeTv": "domingoMaior",
+  "tipo": "noite"
+},
+{
+  "_id": {
+    "$oid": "63fd6fbba9a39896e005fc1a"
+  },
+  "cortesParaIntervalo": [],
+  "canal": "Sbt",
+  "titulo": "Dublado - King Kong 1976.mp4",
+  "duracao": 8068,
+  "programaDeTv": "sessaoDasDez",
+  "tipo": "noite",
+  "order": null,
+  "added": false
+},
+{
+  "_id": {
+    "$oid": "642a0dc990f59c5936d3c4ff"
+  },
+  "cortesParaIntervalo": [],
+  "canal": "Globo",
+  "titulo": "Dublado - Alibi Para Um Suspeito (Dublagem VTI Rio 1989).mp4",
+  "duracao": 5829,
+  "tipo": "noite"
+},
+{
+  "_id": {
+    "$oid": "6465a59052514b8724a68d9a"
+  },
+  "cortesParaIntervalo": [],
+  "canal": "Sbt",
+  "titulo": "Dublado - O Exterminador de Aço.mp4",
+  "duracao": 5295,
+  "programaDeTv": "sessaoDasDez",
+  "tipo": "noite",
+  "tituloAtracao": "Sessão das Dez",
+  "order": null,
+  "added": false
+},
+{
+  "_id": {
+    "$oid": "6466615852514b8724a69567"
+  },
+  "cortesParaIntervalo": [],
+  "canal": "Globo",
+  "titulo": "Dublado - A Primeira Vez De Um Adolescente 1992.m4v",
+  "duracao": 7563,
+  "programaDeTv": "intercine",
+  "tipo": "noite",
+  "tituloAtracao": "Intercine",
+  "order": 1,
+  "added": true
+},
+{
+  "_id": {
+    "$oid": "64684fbe54cb0a98a2397eff"
+  },
+  "cortesParaIntervalo": [],
+  "canal": "Cultura",
+  "titulo": "Dublado - O Retorno De Frank James 1940.mp4",
+  "duracao": 5562,
+  "programaDeTv": "matine",
+  "tipo": "noite",
+  "tituloAtracao": "Matinê",
+  "order": 1,
+  "added": true
+},
+{
+  "_id": {
+    "$oid": "646a4830a916e7bc585724c1"
+  },
+  "cortesParaIntervalo": [],
+  "canal": "Sbt",
+  "titulo": "Dublado - Policia do Futuro.mp4",
+  "duracao": 4768,
+  "programaDeTv": "festivalDeFilmesDoSBT",
+  "tipo": "noite",
+  "tituloAtracao": "Festival de Filmes do SBT",
+  "order": 2,
+  "added": true
+},
+{
+  "_id": {
+    "$oid": "646aee4ea916e7bc58572829"
+  },
+  "cortesParaIntervalo": [],
+  "canal": "Sbt",
+  "titulo": "Dublado - Os Guerreiros do Bronx 1982.mp4",
+  "duracao": 5552,
+  "programaDeTv": "sessaoDasDez",
+  "tipo": "noite",
+  "tituloAtracao": "Sessão das Dez",
+  "added": false
+},
+{
+  "_id": {
+    "$oid": "647acee820fe70e130127a5f"
+  },
+  "cortesParaIntervalo": [
+    1593
+  ],
+  "canal": "Globo",
+  "titulo": "Dublado - Um Diretor Contra Todos.mp4",
+  "duracao": 6586,
+  "programaDeTv": "telaQuente",
+  "tipo": "noite",
+  "tituloAtracao": "Tela Quente",
+  "added": false,
+  "order": 25,
+  "corteFinal": 6553,
+  "corteInicio": 13
+},
+{
+  "_id": {
+    "$oid": "647acf4a20fe70e130127a69"
+  },
+  "cortesParaIntervalo": [
+    7574
+  ],
+  "canal": "Globo",
+  "titulo": "Dublado - O Primeiro Ano do Resto das Nossas Vidas.mp4",
+  "duracao": 7590,
+  "programaDeTv": "festivalPrimavera",
+  "tipo": "noite",
+  "tituloAtracao": "Festival Primavera",
+  "order": 2,
+  "corteFinal": 7574,
+  "corteInicio": 20
+},
+{
+  "_id": {
+    "$oid": "647acf6a20fe70e130127a6c"
+  },
+  "cortesParaIntervalo": [
+    1399,
+    2774,
+    3930,
+    4815,
+    6047
+  ],
+  "canal": "Globo",
+  "titulo": "Dublado - Sob Suspeita.mp4",
+  "duracao": 7136,
+  "programaDeTv": "festivalPrimavera",
+  "tipo": "noite",
+  "tituloAtracao": "Festival Primavera",
+  "order": 3,
+  "corteFinal": 7120,
+  "corteInicio": 21
+},
+{
+  "_id": {
+    "$oid": "647ad13220fe70e130127ac3"
+  },
+  "cortesParaIntervalo": [
+    2595,
+    8651
+  ],
+  "canal": "Globo",
+  "titulo": "Dublado - Doutor Jivago.mp4",
+  "duracao": 12305,
+  "programaDeTv": "supercine",
+  "tipo": "noite",
+  "tituloAtracao": "Supercine",
+  "order": 16,
+  "added": false,
+  "corteFinal": 11724,
+  "corteInicio": 3
+},
+{
+  "_id": {
+    "$oid": "6499e3adb906f2a6017183aa"
+  },
+  "cortesParaIntervalo": [
+    934,
+    1821,
+    3061,
+    3990,
+    4536
+  ],
+  "canal": "Globo",
+  "titulo": "Dublado - Cinderela às Avessas 1987.mp4",
+  "duracao": 5362,
+  "programaDeTv": "sessaoDaTarde",
+  "tipo": "noite",
+  "tituloAtracao": "Sessão da Tarde",
+  "corteFinal": 5362,
+  "corteInicio": 0,
+  "order": 33,
+  "added": false
+},
+{
+  "_id": {
+    "$oid": "6499f85cb906f2a601719408"
+  },
+  "cortesParaIntervalo": [
+    864,
+    1943,
+    2766,
+    3897,
+    4978
+  ],
+  "canal": "Globo",
+  "titulo": "Dublado - O Último Dragão 1985.mp4",
+  "duracao": 6244,
+  "programaDeTv": "sessaoDaTarde",
+  "tipo": "noite",
+  "tituloAtracao": "Sessão da Tarde",
+  "corteFinal": 6224,
+  "corteInicio": 0,
+  "order": 30,
+  "added": false
+},
+{
+  "_id": {
+    "$oid": "6499f86db906f2a60171941b"
+  },
+  "cortesParaIntervalo": [
+    982,
+    1785,
+    2992,
+    3990,
+    4913
+  ],
+  "canal": "Globo",
+  "titulo": "Dublado - Os Heróis Não Tem Idade 1984.mp4",
+  "duracao": 5851,
+  "programaDeTv": "sessaoDaTarde",
+  "tipo": "noite",
+  "tituloAtracao": "Sessão da Tarde",
+  "corteFinal": 5851,
+  "corteInicio": 0,
+  "order": 29,
+  "added": false
+},
+{
+  "_id": {
+    "$oid": "649a017eb906f2a60171980d"
+  },
+  "cortesParaIntervalo": [
+    1405,
+    2436,
+    3269,
+    3895,
+    4250
+  ],
+  "canal": "Globo",
+  "titulo": "Dublado - Transformers.mp4",
+  "duracao": 4800,
+  "programaDeTv": "sessaoDaTarde",
+  "tipo": "noite",
+  "tituloAtracao": "Sessão da Tarde",
+  "corteFinal": 4800,
+  "corteInicio": 0,
+  "order": 16,
+  "added": false
+},
+{
+  "_id": {
+    "$oid": "649a098bb906f2a601719e5c"
+  },
+  "cortesParaIntervalo": [
+    1523,
+    2758,
+    3969,
+    5133,
+    5644
+  ],
+  "canal": "Globo",
+  "titulo": "Dublado - Um Sélulo Em 43 Minutos (1979).mp4",
+  "duracao": 6720,
+  "programaDeTv": "sessaoDaTarde",
+  "tipo": "noite",
+  "tituloAtracao": "Sessão da Tarde",
+  "corteFinal": 6650,
+  "corteInicio": 11,
+  "order": 6,
+  "added": true
+}]

@@ -1,0 +1,1188 @@
+[
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dcce73"
+      },
+      "sub": false,
+      "titulo": "Blue Collar 1978.mp4",
+      "tipo": "movies",
+      "duracao": 6820
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dcce74"
+      },
+      "titulo": "Jane Doe 1983 Cbs Saturday Night Movies Promo.webm",
+      "tipo": "movies",
+      "sub": false,
+      "duracao": 9521
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dcce75"
+      },
+      "tipo": "movies",
+      "canal": "",
+      "titulo": "HellRaiser Hell On Earth 1992.mp4",
+      "duracao": 5607
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dcce76"
+      },
+      "canal": "",
+      "tipo": "movies",
+      "duracao": 10227,
+      "titulo": "Heat 1995.mp4",
+      "sub": true
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dcce77"
+      },
+      "tipo": "movies",
+      "duracao": 4527,
+      "sub": false,
+      "titulo": "Der Golem Wie Er In Die Welt Kam 1920.mp4"
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dcce78"
+      },
+      "tipo": "movies",
+      "sub": true,
+      "duracao": 5535,
+      "titulo": "Sisters.m4v"
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dcce79"
+      },
+      "duracao": 7272,
+      "tipo": "movies",
+      "sub": false,
+      "titulo": "Murder By Natural Causes Cbs Saturday Night Movie (Feb171979).webm"
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dcce7a"
+      },
+      "tipo": "movies",
+      "titulo": "Possessor.Uncut.2020.mp4",
+      "duracao": 6257,
+      "sub": true
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dcce7b"
+      },
+      "titulo": "Shock Corridor - Samuel Fuller (1963).mp4",
+      "sub": true,
+      "duracao": 6091,
+      "canal": "",
+      "tipo": "movies"
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dcce7c"
+      },
+      "sub": false,
+      "titulo": "Hearts Of Darkness A FilmmakerS Apocalypse 1991.mp4",
+      "duracao": 5761,
+      "tipo": "movies"
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dcce7d"
+      },
+      "tipo": "movies",
+      "duracao": 15024,
+      "titulo": "Echoes In The Darkness Cbs Movie (Nov 1 1987).webm",
+      "sub": false
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dcce7e"
+      },
+      "duracao": 6854,
+      "tipo": "movies",
+      "titulo": "The Long Good Friday (1980).mkv",
+      "sub": true
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dcce7f"
+      },
+      "canal": "",
+      "titulo": "My Own Private Idaho 1991.mkv",
+      "tipo": "movies",
+      "duracao": 6238,
+      "sub": true
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dcce80"
+      },
+      "sub": false,
+      "titulo": "A Letter To Three Wives Tv Movie 1985.webm",
+      "duracao": 7141,
+      "tipo": "movies"
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dcce81"
+      },
+      "tituloAtracao": "Video Clube",
+      "programaDeTv": "VideoClube",
+      "titulo": "Iron Weed Band (Video Clube Band TV Rip).mp4",
+      "order": 0,
+      "tipo": "movies",
+      "duracao": 7577,
+      "canal": "Bandeirantes",
+      "added": true,
+      "cortesParaIntervalo": []
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dcce82"
+      },
+      "titulo": "Tales That Witness Madness.mp4",
+      "duracao": 7117,
+      "sub": false,
+      "tipo": "movies"
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dcce83"
+      },
+      "titulo": "964 pinocchio.mp4",
+      "duracao": 5829,
+      "tipo": "movies",
+      "canal": "Globo"
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dcce84"
+      },
+      "tipo": "movies",
+      "titulo": "The Cleaners 2018.mkv",
+      "sub": false,
+      "duracao": 5171
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dcce85"
+      },
+      "canal": "",
+      "duracao": 3660,
+      "tipo": "movies",
+      "titulo": "Fear and Desire (1953).mkv"
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dcce86"
+      },
+      "sub": false,
+      "titulo": "Tales Of Ordinary Madness 1981.mp4",
+      "duracao": 5852,
+      "tipo": "movies"
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dcce87"
+      },
+      "duracao": 5534,
+      "sub": false,
+      "titulo": "Nadja (1994).m4v",
+      "tipo": "movies"
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dcce88"
+      },
+      "tipo": "movies",
+      "sub": false,
+      "duracao": 5480,
+      "titulo": "Rabid 1977.mp4"
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dcce89"
+      },
+      "sub": true,
+      "titulo": "The Addiction 1995.mp4",
+      "tipo": "movies",
+      "duracao": 4745
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dcce8a"
+      },
+      "titulo": "Fargo 1996 (Tia).mp4",
+      "tia": true,
+      "tipo": "movies",
+      "duracao": 5895,
+      "canal": ""
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dcce8b"
+      },
+      "sub": true,
+      "tipo": "movies",
+      "titulo": "The Killers 1946.mp4",
+      "duracao": 6144
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dcce8c"
+      },
+      "canal": "",
+      "duracao": 4339,
+      "tipo": "movies",
+      "titulo": "Electroma 2006.mp4"
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dcce8d"
+      },
+      "titulo": "Shivers 1975.mp4",
+      "sub": false,
+      "duracao": 5229,
+      "tipo": "movies"
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dcce8e"
+      },
+      "sub": false,
+      "titulo": "Panic In Year Zero 1962.mp4",
+      "duracao": 5530,
+      "tipo": "movies"
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dcce8f"
+      },
+      "tipo": "movies",
+      "sub": false,
+      "titulo": "Demon Seed.m4v",
+      "duracao": 5453
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dcce90"
+      },
+      "duracao": 6704,
+      "titulo": "Dark City Directors Cut 1998 English.mp4",
+      "sub": true,
+      "tipo": "movies"
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dcce91"
+      },
+      "tipo": "movies",
+      "duracao": 4621,
+      "titulo": "Valerie And Her Week Of Wonders.1970.m4v",
+      "sub": true
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dcce92"
+      },
+      "sub": true,
+      "duracao": 7271,
+      "titulo": "Mandy 2018.mp4",
+      "tipo": "movies"
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dcce93"
+      },
+      "sub": false,
+      "tipo": "movies",
+      "titulo": "Dracula (1958).m4v",
+      "duracao": 4793
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dcce94"
+      },
+      "sub": false,
+      "tipo": "movies",
+      "duracao": 7271,
+      "titulo": "Mandy 2018 LOW.mp4"
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dcce95"
+      },
+      "sub": false,
+      "titulo": "Non Si Sevizia un Paperino.mp4",
+      "duracao": 6153,
+      "tipo": "movies"
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dcce96"
+      },
+      "duracao": 5659,
+      "sub": false,
+      "tipo": "movies",
+      "titulo": "Nosferatu F W Murnau 1922 [HD].mp4"
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dcce97"
+      },
+      "duracao": 7592,
+      "tipo": "movies",
+      "canal": "",
+      "titulo": "The Manchurian Candidate (1962).mkv",
+      "sub": true
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dcce98"
+      },
+      "titulo": "High Noon 1952.mp4",
+      "canal": "",
+      "duracao": 5083,
+      "tipo": "movies"
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dcce99"
+      },
+      "sub": false,
+      "titulo": "The Blob 1958.mp4",
+      "duracao": 4993,
+      "tipo": "movies"
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dcce9a"
+      },
+      "duracao": 6605,
+      "tipo": "movies",
+      "sub": false,
+      "titulo": "A Decade Under The Influence (2003).mp4"
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dcce9b"
+      },
+      "titulo": "Downtown 81.m4v",
+      "duracao": 4265,
+      "sub": false,
+      "tipo": "movies"
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dcce9c"
+      },
+      "tipo": "movies",
+      "titulo": "Vampyr 1932.mp4",
+      "sub": false,
+      "duracao": 4420
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dcce9d"
+      },
+      "duracao": 1695,
+      "titulo": "Kenneth Anger Lucifer Rising.mp4",
+      "tipo": "movies",
+      "sub": false
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dcce9e"
+      },
+      "tipo": "movies",
+      "duracao": 5486,
+      "sub": false,
+      "titulo": "Twin Peaks Fire Walk With Me 1992 The Missing Pieces.mkv"
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dcce9f"
+      },
+      "tipo": "movies",
+      "canal": "",
+      "titulo": "In Fabric 2018.mp4",
+      "duracao": 7121,
+      "sub": true
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dccea0"
+      },
+      "duracao": 7114,
+      "sub": false,
+      "tipo": "movies",
+      "titulo": "Easy Prey Abc Sunday Night Movie (Oct261986).webm"
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dccea1"
+      },
+      "titulo": "The Room 2003.mp4",
+      "tipo": "movies",
+      "sub": false,
+      "duracao": 5976
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dccea2"
+      },
+      "duracao": 6838,
+      "titulo": "Bad Boy Bubby 1993.mp4",
+      "tipo": "movies",
+      "canal": "Cultura",
+      "cortesParaIntervalo": [],
+      "programaDeTv": "cineCultura",
+      "order": 1,
+      "sub": true
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dccea3"
+      },
+      "tipo": "movies",
+      "duracao": 6713,
+      "sub": false,
+      "titulo": "Blade Runner (Deutsch).m4v"
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dccea4"
+      },
+      "tipo": "movies",
+      "sub": true,
+      "titulo": "Cruising.mkv",
+      "duracao": 6115,
+      "tia": true
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dccea5"
+      },
+      "sub": false,
+      "tipo": "movies",
+      "duracao": 1539,
+      "titulo": "Miles Davis - The Sound Of Miles Davis  [The Robert Herridge Theater].m4v"
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dccea6"
+      },
+      "duracao": 4700,
+      "sub": false,
+      "tipo": "movies",
+      "titulo": "The Wind in the Willows 1983.mp4"
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dccea7"
+      },
+      "duracao": 4665,
+      "tipo": "movies",
+      "sub": false,
+      "titulo": "Blood In The Face.mp4"
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dccea8"
+      },
+      "titulo": "Predator.2.1990.mp4",
+      "duracao": 6480,
+      "tipo": "movies"
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dccea9"
+      },
+      "titulo": "Fargo 1996.mp4",
+      "canal": "",
+      "tipo": "movies",
+      "duracao": 5895,
+      "sub": true
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dcceaa"
+      },
+      "sub": false,
+      "tipo": "movies",
+      "titulo": "Born To Win 1971.mp4",
+      "duracao": 5120
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dcceab"
+      },
+      "titulo": "Nosferatu The Vampyre 1979.mp4",
+      "sub": false,
+      "tipo": "movies",
+      "duracao": 6422
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dcceac"
+      },
+      "sub": false,
+      "tipo": "movies",
+      "duracao": 7164,
+      "titulo": "The Trial.m4v"
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dccead"
+      },
+      "duracao": 5412,
+      "titulo": "Welcome Home Bobby 1986.mp4",
+      "sub": false,
+      "tipo": "movies"
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dcceae"
+      },
+      "duracao": 5079,
+      "sub": false,
+      "tipo": "movies",
+      "titulo": "The Creation of the Humanoids.mp4"
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dcceaf"
+      },
+      "duracao": 6455,
+      "tipo": "movies",
+      "titulo": "Crimes Of The Future 2022.mp4",
+      "sub": true
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dcceb0"
+      },
+      "tipo": "movies",
+      "titulo": "Filming for Your Life.mkv",
+      "sub": false,
+      "duracao": 1134
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dcceb1"
+      },
+      "sub": false,
+      "tipo": "movies",
+      "titulo": "Whos That Knocking At My Door 1967.m4v",
+      "duracao": 5386
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dcceb2"
+      },
+      "sub": false,
+      "duracao": 5259,
+      "titulo": "Der Letzte Mann 1924 Engsub.mp4",
+      "tipo": "movies"
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dcceb3"
+      },
+      "tipo": "movies",
+      "titulo": "Patty Hearst 1988.mp4",
+      "duracao": 5972,
+      "canal": "",
+      "sub": true
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dcceb4"
+      },
+      "tipo": "movies",
+      "canal": "",
+      "duracao": 5273,
+      "titulo": "Sheitan 2006.mp4",
+      "sub": true
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dcceb5"
+      },
+      "titulo": "Long Live The New Flesh The Films Of David Cronenberg 1986.mp4",
+      "duracao": 3001,
+      "tipo": "movies",
+      "sub": false
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dcceb6"
+      },
+      "tipo": "movies",
+      "titulo": "Killer of Sheep 1978.mp4",
+      "duracao": 4823,
+      "sub": true
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dcceb7"
+      },
+      "sub": true,
+      "duracao": 8557,
+      "titulo": "The Day Of The Jackal 1973.mp4",
+      "tipo": "movies"
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dcceb8"
+      },
+      "sub": false,
+      "tipo": "movies",
+      "duracao": 4717,
+      "titulo": "Die Monster Die 1965.mp4"
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dcceb9"
+      },
+      "titulo": "Kiss Of The Spider Woman.m4v",
+      "duracao": 7260,
+      "tipo": "movies",
+      "sub": false
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dcceba"
+      },
+      "tipo": "movies",
+      "titulo": "Scorpio Rising 1964.mp4",
+      "duracao": 1700,
+      "sub": false
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dccebb"
+      },
+      "duracao": 6756,
+      "tipo": "movies",
+      "titulo": "Falling Down 1993.mp4",
+      "canal": ""
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dccebc"
+      },
+      "duracao": 1658,
+      "tipo": "movies",
+      "titulo": "Yûkoku Patriotism (1966).mp4",
+      "sub": false
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dccebd"
+      },
+      "titulo": "This House Possessed (Oct311988 On Tbs).webm",
+      "sub": false,
+      "tipo": "movies",
+      "duracao": 7137
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dccebe"
+      },
+      "tipo": "movies",
+      "sub": false,
+      "titulo": "I Spit On Your Grave.m4v",
+      "duracao": 6060
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dccebf"
+      },
+      "tipo": "movies",
+      "titulo": "eXistenZ 1999.mp4",
+      "sub": false,
+      "duracao": 5830
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dccec0"
+      },
+      "tipo": "movies",
+      "titulo": "Casino 1995.720p.BrRip.x264.YIFY.mp4",
+      "sub": true,
+      "duracao": 10700
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dccec1"
+      },
+      "duracao": 4290,
+      "tipo": "movies",
+      "sub": false,
+      "titulo": "La Planète Sauvage.m4v"
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dccec2"
+      },
+      "sub": false,
+      "duracao": 5910,
+      "titulo": "Suspiria 1977 Dvd.mp4",
+      "tipo": "movies"
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dccec3"
+      },
+      "sub": false,
+      "tipo": "movies",
+      "duracao": 5494,
+      "titulo": "The Devil Rides Out.mp4"
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dccec4"
+      },
+      "duracao": 11056,
+      "sub": false,
+      "titulo": "Brave New World 1980.webm",
+      "tipo": "movies"
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dccec5"
+      },
+      "tipo": "movies",
+      "titulo": "Mandy 2018.mkv",
+      "sub": true,
+      "duracao": 7271
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dccec6"
+      },
+      "order": 3,
+      "tituloAtracao": "Cine Cultura",
+      "duracao": 5755,
+      "programaDeTv": "cineCultura",
+      "titulo": "Roma Cidade Aberta TV Cultura 1990.mp4",
+      "tipo": "movies",
+      "canal": "Cultura",
+      "added": true
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dccec7"
+      },
+      "sub": false,
+      "titulo": "Philip K Dick A Day In The Afterlife.mp4",
+      "tipo": "movies",
+      "duracao": 3343
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dccec8"
+      },
+      "sub": true,
+      "duracao": 10014,
+      "tipo": "movies",
+      "titulo": "Solaris 1971.mp4"
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dccec9"
+      },
+      "sub": true,
+      "tipo": "movies",
+      "titulo": "Glengarry Glen Ross 1992.mkv",
+      "duracao": 6018
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dcceca"
+      },
+      "duracao": 6130,
+      "titulo": "Pearl.2022.1080p.WEBRip.x264.AAC-[YTS.MX].mp4",
+      "canal": "Cultura",
+      "tituloAtracao": "Cine Cultura",
+      "programaDeTv": "",
+      "tipo": "movies",
+      "cortesParaIntervalo": []
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dccecb"
+      },
+      "duracao": 5390,
+      "titulo": "Messiah of Evil - 1973.mp4",
+      "tipo": "movies",
+      "sub": true
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dccecc"
+      },
+      "duracao": 6012,
+      "canal": "",
+      "tia": true,
+      "tipo": "movies",
+      "titulo": "Dirty Dancing Ritmo Quente 1987.mkv"
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dccecd"
+      },
+      "tipo": "movies",
+      "duracao": 6646,
+      "titulo": "Night Walk 1989 Cbs Sunday Movie.webm",
+      "sub": false
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dccece"
+      },
+      "programaDeTv": "",
+      "tipo": "movies",
+      "titulo": "Planet of the Vampires 1965.mp4",
+      "duracao": 5270,
+      "sub": true
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dccecf"
+      },
+      "sub": false,
+      "titulo": "Chronopolis Piotr Kamler (1982).mp4",
+      "duracao": 3122,
+      "tipo": "movies"
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dcced0"
+      },
+      "sub": false,
+      "tipo": "movies",
+      "titulo": "My Dinner with Andre.mp4",
+      "duracao": 6703
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dcced1"
+      },
+      "titulo": "The Brood 1979.mp4",
+      "sub": false,
+      "tipo": "movies",
+      "duracao": 5529
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dcced2"
+      },
+      "duracao": 5422,
+      "sub": false,
+      "titulo": "The Hellstrom Chronicle 1971.mp4",
+      "tipo": "movies"
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dcced3"
+      },
+      "titulo": "Android (1982).mp4",
+      "duracao": 4817,
+      "sub": false,
+      "tipo": "movies"
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dcced4"
+      },
+      "titulo": "Der Ewige Jude (1940) Deutsch. The Eternal Jew - English Subs.m4v",
+      "duracao": 3924,
+      "sub": false,
+      "tipo": "movies"
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dcced5"
+      },
+      "tipo": "movies",
+      "duracao": 5168,
+      "titulo": "Adventures Of Mark Twain.webm",
+      "sub": false
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dcced6"
+      },
+      "sub": true,
+      "duracao": 7232,
+      "tipo": "movies",
+      "titulo": "Peur Sur La Ville Fear Over The City.m4v"
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dcced7"
+      },
+      "duracao": 5647,
+      "titulo": "Hardware 1990.mp4",
+      "tipo": "movies",
+      "sub": true
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dcced8"
+      },
+      "canal": "",
+      "titulo": "Mondomanila 2010.mkv",
+      "duracao": 4321,
+      "tipo": "movies"
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dcced9"
+      },
+      "duracao": 6440,
+      "titulo": "Seconds 1966.mp4",
+      "canal": "",
+      "tipo": "movies",
+      "sub": true
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dcceda"
+      },
+      "canal": "",
+      "duracao": 6487,
+      "titulo": "Titane.2021.mp4",
+      "tipo": "movies"
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dccedb"
+      },
+      "duracao": 4737,
+      "canal": "",
+      "titulo": "Buddies 1985.mp4",
+      "tipo": "movies",
+      "sub": true
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dccedc"
+      },
+      "duracao": 7493,
+      "tipo": "movies",
+      "titulo": "Deadly Care Cbs Sunday Movie (Mar221987).webm",
+      "sub": false
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dccedd"
+      },
+      "titulo": "The Lodger (1927) Alfred Hitchcock.mp4",
+      "sub": false,
+      "duracao": 5444,
+      "tipo": "movies"
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dccede"
+      },
+      "titulo": "Haunted By Her Past Nbc Monday Night Movie (Oct51987).webm",
+      "sub": false,
+      "duracao": 7471,
+      "tipo": "movies"
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dccedf"
+      },
+      "duracao": 6674,
+      "sub": true,
+      "tipo": "movies",
+      "titulo": "Blow Up 1966.mp4"
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dccee0"
+      },
+      "tipo": "movies",
+      "titulo": "The Golden Age Of Film Music (1965-1975).m4v",
+      "sub": false,
+      "duracao": 3515
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dccee1"
+      },
+      "duracao": 6592,
+      "titulo": "Buffalo 66 (1998).mkv",
+      "sub": true,
+      "tipo": "movies"
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dccee2"
+      },
+      "sub": false,
+      "titulo": "Thx 1138 (1971).m4v",
+      "duracao": 5105,
+      "tipo": "movies"
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dccee3"
+      },
+      "sub": false,
+      "duracao": 3590,
+      "tipo": "movies",
+      "titulo": "Hated GG Allin and the Murder Junkies 1994 LegPTBR.mp4"
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dccee4"
+      },
+      "sub": false,
+      "duracao": 5420,
+      "tipo": "movies",
+      "titulo": "Psychomania Aka The Death Wheelers 1973.mp4"
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dccee5"
+      },
+      "titulo": "The Abominable Dr Phibes 1971.mp4",
+      "tipo": "movies",
+      "sub": false,
+      "duracao": 5681
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dccee6"
+      },
+      "sub": false,
+      "duracao": 4075,
+      "tipo": "movies",
+      "titulo": "Tales From The Gimli Hospital.mp4"
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dccee7"
+      },
+      "titulo": "Belle De Jour 1967 English Subtitles.mp4",
+      "tipo": "movies",
+      "duracao": 6027,
+      "sub": false
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dccee8"
+      },
+      "titulo": "Martin - 1976.mp4",
+      "duracao": 5695,
+      "tipo": "movies",
+      "sub": false
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dccee9"
+      },
+      "tipo": "movies",
+      "sub": false,
+      "duracao": 6935,
+      "titulo": "Faust.m4v"
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dcceea"
+      },
+      "tipo": "movies",
+      "canal": "Cultura",
+      "titulo": "Black.Moon.1975.mp4",
+      "duracao": 6034,
+      "cortesParaIntervalo": [],
+      "programaDeTv": "cineCultura",
+      "order": 2,
+      "sub": true
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dcceeb"
+      },
+      "duracao": 7508,
+      "titulo": "Death In Venice 1971.m4v",
+      "sub": false,
+      "tipo": "movies"
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dcceec"
+      },
+      "titulo": "Henry Portrait Of A Serial Killer [1986].mkv",
+      "tipo": "movies",
+      "sub": false,
+      "duracao": 4938
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dcceed"
+      },
+      "duracao": 4692,
+      "sub": false,
+      "titulo": "Invaders From Mars The Original Version 1953 Free.mp4",
+      "tipo": "movies"
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dcceee"
+      },
+      "duracao": 7283,
+      "sub": false,
+      "titulo": "Tales Of Mistery And Imagination.m4v",
+      "tipo": "movies"
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dcceef"
+      },
+      "tipo": "movies",
+      "sub": true,
+      "duracao": 8549,
+      "titulo": "Come and See (1985).mp4"
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dccef1"
+      },
+      "titulo": "Four Flies On Grey Velvet 1971.mp4",
+      "sub": false,
+      "duracao": 6197,
+      "tipo": "movies"
+    },
+    {
+      "_id": {
+        "$oid": "638fb04903929e6d18dccef2"
+      },
+      "tipo": "movies",
+      "sub": false,
+      "titulo": "Day of the Fight [Stanley Kubrick, USA, 1951].mp4",
+      "duracao": 755
+    },
+    {
+      "_id": {
+        "$oid": "63bd78a4b741dea323d91aa0"
+      },
+      "cortesParaIntervalo": [],
+      "canal": "",
+      "titulo": "Blade Runner (Complete Deleted Sceneslost Footage).mp4",
+      "duracao": 2745,
+      "tipo": "movies"
+    }
+  ]

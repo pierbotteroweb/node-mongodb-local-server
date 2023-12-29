@@ -1,0 +1,8802 @@
+[{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc4f4"
+  },
+  "canal": "Globo",
+  "programaDeTv": "novelaDasOito",
+  "added": false,
+  "titulo": "Meu Bem Meu Mal Cap 44.mp4",
+  "duracao": 2492,
+  "tituloAtracao": "Novela das Oito",
+  "tipo": "novelas",
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc4f5"
+  },
+  "tipo": "novelas",
+  "tituloAtracao": "Novela das Sete",
+  "titulo": "Novela Top Model - 187.mp4",
+  "canal": "Globo",
+  "programaDeTv": "novelaDasSete",
+  "duracao": 2367,
+  "order": null,
+  "added": false,
+  "cortesParaIntervalo": [
+    1029,
+    1547
+  ],
+  "corteFinal": 2367,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc4f6"
+  },
+  "canal": "Sbt",
+  "titulo": "Carrossel 1991 Capitulo 05.mp4",
+  "programaDeTv": "carrossel",
+  "order": 9,
+  "tipo": "novelas",
+  "tituloAtracao": "Carrossel",
+  "duracao": 3188,
+  "added": true,
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc4f7"
+  },
+  "titulo": "Novela Top Model - 081.mp4",
+  "duracao": 2328,
+  "tituloAtracao": "Novela das Sete",
+  "tipo": "novelas",
+  "order": 81,
+  "added": false,
+  "canal": "Globo",
+  "programaDeTv": "novelaDasSete",
+  "cortesParaIntervalo": [
+    936,
+    1629
+  ]
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc4f8"
+  },
+  "added": false,
+  "duracao": 2702,
+  "tipo": "novelas",
+  "tituloAtracao": "Novela das Oito",
+  "titulo": "Meu Bem Meu Mal Cap 27.mp4",
+  "programaDeTv": "novelaDasOito",
+  "canal": "Globo",
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc4f9"
+  },
+  "canal": "Globo",
+  "programaDeTv": "novelaDasSete",
+  "titulo": "Novela Top Model - 126.mp4",
+  "added": false,
+  "order": null,
+  "tipo": "novelas",
+  "duracao": 2296,
+  "tituloAtracao": "Novela das Sete",
+  "cortesParaIntervalo": [
+    899,
+    1708
+  ],
+  "corteFinal": 2296,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc4fa"
+  },
+  "titulo": "Pantanal-163.mp4",
+  "duracao": 2832,
+  "canal": "Manchete",
+  "tipo": "novelas",
+  "order": null
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc4fb"
+  },
+  "titulo": "O Sorriso Do Lagarto Capítulo 47.mp4",
+  "canal": "Globo",
+  "added": false,
+  "duracao": 2242,
+  "tipo": "novelas"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc4fc"
+  },
+  "titulo": "Novela Top Model - 036.mp4",
+  "added": false,
+  "tipo": "novelas",
+  "tituloAtracao": "Novela das Sete",
+  "programaDeTv": "novelaDasSete",
+  "duracao": 2389,
+  "canal": "Globo",
+  "order": 36,
+  "cortesParaIntervalo": [
+    678,
+    1621
+  ],
+  "corteFinal": 2389,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc4fd"
+  },
+  "titulo": "O Sorriso Do Lagarto Capítulo 09.mp4",
+  "duracao": 2465,
+  "canal": "Globo",
+  "added": false,
+  "tipo": "novelas"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc4fe"
+  },
+  "programaDeTv": "novelaDasSete",
+  "titulo": "Novela Top Model - 131.mp4",
+  "duracao": 2698,
+  "added": false,
+  "tituloAtracao": "Novela das Sete",
+  "tipo": "novelas",
+  "canal": "Globo",
+  "order": null,
+  "cortesParaIntervalo": [
+    892,
+    2091
+  ],
+  "corteFinal": 2698,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc4ff"
+  },
+  "tipo": "novelas",
+  "canal": "Globo",
+  "programaDeTv": "novelaDasSeis",
+  "duracao": 2448,
+  "tituloAtracao": "Novela das Seis",
+  "added": false,
+  "titulo": "Novela Barriga de Aluguel 47.mp4",
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc500"
+  },
+  "duracao": 2384,
+  "titulo": "Novela Top Model - 052.mp4",
+  "added": false,
+  "tipo": "novelas",
+  "canal": "Globo",
+  "programaDeTv": "novelaDasSete",
+  "order": 52,
+  "tituloAtracao": "Novela das Sete",
+  "cortesParaIntervalo": [
+    997,
+    1626
+  ]
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc501"
+  },
+  "canal": "",
+  "titulo": "Corpo Santo 1987 - 08.mp4",
+  "duracao": 1784,
+  "tipo": "novelas"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc502"
+  },
+  "tipo": "novelas",
+  "titulo": "Novela Top Model - 180.mp4",
+  "programaDeTv": "novelaDasSete",
+  "added": false,
+  "order": null,
+  "tituloAtracao": "Novela das Sete",
+  "duracao": 2272,
+  "canal": "Globo",
+  "cortesParaIntervalo": [
+    1077,
+    1721
+  ],
+  "corteFinal": 2272,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc503"
+  },
+  "duracao": 2821,
+  "canal": "Manchete",
+  "titulo": "Pantanal-149.mp4",
+  "order": null,
+  "tipo": "novelas"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc504"
+  },
+  "order": null,
+  "added": false,
+  "titulo": "Novela Top Model - 183.mp4",
+  "tituloAtracao": "Novela das Sete",
+  "programaDeTv": "novelaDasSete",
+  "duracao": 2216,
+  "tipo": "novelas",
+  "canal": "Globo",
+  "cortesParaIntervalo": [
+    650,
+    1283
+  ],
+  "corteFinal": 2216,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc507"
+  },
+  "tipo": "novelas",
+  "canal": "Globo",
+  "added": false,
+  "duracao": 2871,
+  "titulo": "Desejo - Capítulo 04 (1990).mp4"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc508"
+  },
+  "titulo": "Corpo Santo 1987 - 04.mp4",
+  "canal": "",
+  "tipo": "novelas",
+  "duracao": 2045
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc509"
+  },
+  "tituloAtracao": "Novela das Sete",
+  "titulo": "Novela Top Model - 118.mp4",
+  "programaDeTv": "novelaDasSete",
+  "canal": "Globo",
+  "duracao": 2503,
+  "tipo": "novelas",
+  "added": false,
+  "order": null,
+  "cortesParaIntervalo": [
+    961,
+    1561
+  ],
+  "corteFinal": 2497,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc50a"
+  },
+  "titulo": "Meu Bem Meu Mal Cap 08.mp4",
+  "corteFinal": 2643,
+  "tituloAtracao": "Novela das Oito",
+  "tipo": "novelas",
+  "added": false,
+  "duracao": 2643,
+  "corteInicio": 0,
+  "cortesParaIntervalo": [
+    605,
+    1092,
+    1693
+  ],
+  "programaDeTv": "novelaDasOito",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc50b"
+  },
+  "duracao": 2467,
+  "added": false,
+  "titulo": "O Sorriso Do Lagarto Capítulo 44.mp4",
+  "canal": "Globo",
+  "tipo": "novelas"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc50c"
+  },
+  "tipo": "novelas",
+  "titulo": "Novela Top Model - 083.mp4",
+  "added": false,
+  "tituloAtracao": "Novela das Sete",
+  "duracao": 2291,
+  "canal": "Globo",
+  "programaDeTv": "novelaDasSete",
+  "order": 83,
+  "cortesParaIntervalo": [
+    681,
+    1549
+  ]
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc50d"
+  },
+  "canal": "Globo",
+  "programaDeTv": "novelaDasSeis",
+  "tipo": "novelas",
+  "added": false,
+  "duracao": 2271,
+  "tituloAtracao": "Novela das Seis",
+  "titulo": "Novela Barriga de Aluguel 33.mp4",
+  "cortesParaIntervalo": [
+    450,
+    919,
+    1537,
+    2120
+  ],
+  "order": 33
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc50e"
+  },
+  "programaDeTv": "novelaDasSete",
+  "order": 50,
+  "titulo": "Novela Top Model - 050.mp4",
+  "added": false,
+  "canal": "Globo",
+  "duracao": 2333,
+  "tituloAtracao": "Novela das Sete",
+  "tipo": "novelas",
+  "cortesParaIntervalo": [
+    749,
+    1658
+  ]
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc50f"
+  },
+  "added": false,
+  "canal": "Globo",
+  "duracao": 2880,
+  "tipo": "novelas",
+  "titulo": "Desejo - Capítulo 02 (1990).mp4"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc510"
+  },
+  "cortesParaIntervalo": [
+    762,
+    1396,
+    1861
+  ],
+  "tituloAtracao": "Novela das Oito",
+  "tipo": "novelas",
+  "corteInicio": 0,
+  "programaDeTv": "novelaDasOito",
+  "titulo": "Meu Bem Meu Mal Cap 05.mp4",
+  "added": false,
+  "duracao": 2487,
+  "canal": "Globo",
+  "corteFinal": 2487
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc511"
+  },
+  "programaDeTv": "novelaDasSeis",
+  "titulo": "Novela Barriga de Aluguel 15.mp4",
+  "canal": "Globo",
+  "added": false,
+  "tipo": "novelas",
+  "tituloAtracao": "Novela das Seis",
+  "duracao": 2345,
+  "cortesParaIntervalo": [
+    771,
+    1595,
+    2196
+  ],
+  "order": 15
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc512"
+  },
+  "duracao": 2517,
+  "tituloAtracao": "Novela das Sete",
+  "added": false,
+  "titulo": "Novela Top Model - 102.mp4",
+  "tipo": "novelas",
+  "programaDeTv": "novelaDasSete",
+  "canal": "Globo",
+  "order": 102,
+  "cortesParaIntervalo": [
+    826,
+    1380
+  ],
+  "corteFinal": 2517,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc513"
+  },
+  "added": false,
+  "programaDeTv": "novelaDasSeis",
+  "titulo": "Novela Barriga de Aluguel 11.mp4",
+  "tituloAtracao": "Novela das Seis",
+  "tipo": "novelas",
+  "canal": "Globo",
+  "duracao": 2565,
+  "cortesParaIntervalo": [
+    494,
+    1158,
+    1945,
+    2440
+  ],
+  "order": 11
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc517"
+  },
+  "duracao": 2545,
+  "programaDeTv": "novelaDasSeis",
+  "added": false,
+  "tituloAtracao": "Novela das Seis",
+  "tipo": "novelas",
+  "canal": "Globo",
+  "titulo": "Novela Barriga de Aluguel 30.mp4",
+  "cortesParaIntervalo": [
+    787,
+    1279,
+    1831,
+    2391
+  ],
+  "order": 30
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc518"
+  },
+  "canal": "Globo",
+  "tituloAtracao": "Int noivasDeCopacabana",
+  "tipo": "novelas",
+  "order": 5,
+  "added": false,
+  "titulo": "As Noivas De Copacabana - Episódio 05.mp4",
+  "duracao": 2978,
+  "programaDeTv": "noivasDeCopacabana",
+  "corteFinal": 2978,
+  "corteInicio": 0,
+  "cortesParaIntervalo": [
+    885,
+    1559,
+    2456
+  ]
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc519"
+  },
+  "duracao": 2257,
+  "added": false,
+  "tipo": "novelas",
+  "tituloAtracao": "Novela das Sete",
+  "titulo": "Novela Top Model - 154.mp4",
+  "order": null,
+  "canal": "Globo",
+  "programaDeTv": "novelaDasSete",
+  "cortesParaIntervalo": [
+    925,
+    1727
+  ],
+  "corteFinal": 2257,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc51a"
+  },
+  "programaDeTv": "novelaCorpoSanto",
+  "tipo": "novelas",
+  "duracao": 2529,
+  "titulo": "Corpo Santo 1987 - 10.mp4",
+  "added": true,
+  "order": 1,
+  "canal": "Manchete",
+  "tituloAtracao": "Novela Corpo Santo"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc51b"
+  },
+  "duracao": 3062,
+  "titulo": "Desejo - Capítulo 01 (1990).mp4",
+  "canal": "Globo",
+  "tipo": "novelas",
+  "added": false
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc51c"
+  },
+  "order": 12,
+  "added": true,
+  "duracao": 2361,
+  "titulo": "Corpo Santo 1987 - 23.mp4",
+  "canal": "Manchete",
+  "programaDeTv": "novelaCorpoSanto",
+  "tipo": "novelas",
+  "tituloAtracao": "Novela Corpo Santo"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc51d"
+  },
+  "titulo": "O Sorriso Do Lagarto Capítulo 29.mp4",
+  "canal": "Globo",
+  "duracao": 2565,
+  "tipo": "novelas",
+  "added": false
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc51e"
+  },
+  "canal": "Globo",
+  "tipo": "novelas",
+  "order": 4,
+  "tituloAtracao": "Int noivasDeCopacabana",
+  "added": false,
+  "programaDeTv": "noivasDeCopacabana",
+  "titulo": "As Noivas De Copacabana - Episódio 04.mp4",
+  "duracao": 2779,
+  "corteFinal": 2780,
+  "corteInicio": 0,
+  "cortesParaIntervalo": [
+    719,
+    1229,
+    1823
+  ]
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc51f"
+  },
+  "programaDeTv": "novelaDasSeis",
+  "tituloAtracao": "Novela das Seis",
+  "canal": "Globo",
+  "titulo": "Novela Barriga de Aluguel 27.mp4",
+  "added": false,
+  "tipo": "novelas",
+  "duracao": 2291,
+  "cortesParaIntervalo": [
+    709,
+    1580
+  ],
+  "order": 27
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc520"
+  },
+  "tipo": "novelas",
+  "tituloAtracao": "Novela das Sete",
+  "duracao": 2491,
+  "programaDeTv": "novelaDasSete",
+  "canal": "Globo",
+  "titulo": "Novela Top Model - 145.mp4",
+  "added": false,
+  "order": null,
+  "cortesParaIntervalo": [
+    816,
+    1586
+  ],
+  "corteFinal": 2491,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc521"
+  },
+  "order": 66,
+  "tipo": "novelas",
+  "canal": "Globo",
+  "tituloAtracao": "Novela das Sete",
+  "added": false,
+  "programaDeTv": "novelaDasSete",
+  "duracao": 2399,
+  "titulo": "Novela Top Model - 066.mp4",
+  "cortesParaIntervalo": [
+    871,
+    1626
+  ],
+  "corteFinal": 2399,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc522"
+  },
+  "canal": "Globo",
+  "added": false,
+  "duracao": 2560,
+  "titulo": "O Sorriso Do Lagarto Capítulo 16.mp4",
+  "tipo": "novelas"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc523"
+  },
+  "added": false,
+  "programaDeTv": "novelaDasSeis",
+  "canal": "Globo",
+  "tituloAtracao": "Novela das Seis",
+  "titulo": "Novela Barriga de Aluguel 28.mp4",
+  "tipo": "novelas",
+  "duracao": 2288,
+  "cortesParaIntervalo": [
+    508,
+    1017,
+    1638,
+    2114
+  ],
+  "order": 28
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc524"
+  },
+  "order": null,
+  "added": false,
+  "duracao": 2210,
+  "titulo": "A Gata Comeu - 32.mp4",
+  "tituloAtracao": "Novela VPVN",
+  "programaDeTv": "novelaVPVN",
+  "tipo": "novelas",
+  "canal": "Globo",
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc526"
+  },
+  "corteInicio": 0,
+  "titulo": "Novela Top Model - 020.mp4",
+  "order": 20,
+  "tituloAtracao": "Novela das Sete",
+  "duracao": 2593,
+  "cortesParaIntervalo": [
+    1080,
+    2016
+  ],
+  "canal": "Globo",
+  "tipo": "novelas",
+  "added": true,
+  "corteFinal": 2593,
+  "programaDeTv": "novelaDasSete"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc528"
+  },
+  "tipo": "novelas",
+  "order": null,
+  "canal": "Manchete",
+  "titulo": "Pantanal-162.mp4",
+  "duracao": 2550
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc529"
+  },
+  "canal": "Globo",
+  "tipo": "novelas",
+  "titulo": "Novela Top Model - 135.mp4",
+  "tituloAtracao": "Novela das Sete",
+  "programaDeTv": "novelaDasSete",
+  "added": false,
+  "duracao": 2389,
+  "order": null,
+  "cortesParaIntervalo": [
+    696,
+    1446
+  ],
+  "corteFinal": 2389,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc52a"
+  },
+  "programaDeTv": "novelaDasSete",
+  "tipo": "novelas",
+  "added": false,
+  "duracao": 2521,
+  "tituloAtracao": "Novela das Sete",
+  "canal": "Globo",
+  "titulo": "Novela Top Model - 074.mp4",
+  "order": 74,
+  "cortesParaIntervalo": [
+    869,
+    1746
+  ],
+  "corteFinal": 2521,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc52b"
+  },
+  "canal": "Globo",
+  "corteFinal": 3085,
+  "tipo": "novelas",
+  "corteInicio": 14,
+  "duracao": 3095,
+  "titulo": "Novela O Dono Do Mundo - 006.mp4",
+  "programaDeTv": "novelaDasOito",
+  "order": 5,
+  "tituloAtracao": "Novela das Oito",
+  "added": true,
+  "cortesParaIntervalo": [
+    1051,
+    1885,
+    2434
+  ]
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc52c"
+  },
+  "canal": "Globo",
+  "programaDeTv": "noivasDeCopacabana",
+  "titulo": "As Noivas De Copacabana - Episódio 16 (Final).mp4",
+  "tipo": "novelas",
+  "added": false,
+  "duracao": 3057,
+  "tituloAtracao": "Int noivasDeCopacabana",
+  "order": 16,
+  "corteFinal": 3057,
+  "corteInicio": 0,
+  "cortesParaIntervalo": [
+    900,
+    1532,
+    2029
+  ]
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc52d"
+  },
+  "corteFinal": 2140,
+  "tituloAtracao": "Araponga",
+  "duracao": 2140,
+  "corteInicio": 0,
+  "canal": "Globo",
+  "programaDeTv": "araponga",
+  "order": 3,
+  "added": false,
+  "titulo": "Araponga Capítulo 03.mp4",
+  "tipo": "novelas",
+  "cortesParaIntervalo": [
+    606,
+    1500
+  ]
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc52e"
+  },
+  "canal": "Globo",
+  "corteInicio": 0,
+  "tituloAtracao": "Araponga",
+  "tipo": "novelas",
+  "titulo": "Araponga Capítulo 02.mp4",
+  "corteFinal": 1890,
+  "added": true,
+  "programaDeTv": "araponga",
+  "cortesParaIntervalo": [
+    627,
+    1448
+  ],
+  "order": 2,
+  "duracao": 1890
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc52f"
+  },
+  "duracao": 2775,
+  "order": null,
+  "canal": "Manchete",
+  "tipo": "novelas",
+  "titulo": "Pantanal-154.mp4"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc530"
+  },
+  "tipo": "novelas",
+  "programaDeTv": "novelaDasOito",
+  "canal": "Globo",
+  "duracao": 2459,
+  "added": false,
+  "tituloAtracao": "Novela das Oito",
+  "titulo": "Meu Bem Meu Mal Cap 23.mp4",
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc531"
+  },
+  "programaDeTv": "novelaDasSete",
+  "added": false,
+  "tituloAtracao": "Novela das Sete",
+  "order": null,
+  "canal": "Globo",
+  "titulo": "Novela Top Model - 153.mp4",
+  "duracao": 2490,
+  "tipo": "novelas",
+  "cortesParaIntervalo": [
+    929,
+    1753
+  ],
+  "corteFinal": 2490,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc532"
+  },
+  "duracao": 2817,
+  "order": null,
+  "tipo": "novelas",
+  "canal": "Manchete",
+  "titulo": "Pantanal-153.mp4"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc534"
+  },
+  "duracao": 2345,
+  "tituloAtracao": "Novela das Sete",
+  "added": false,
+  "titulo": "Novela Top Model - 157.mp4",
+  "canal": "Globo",
+  "tipo": "novelas",
+  "programaDeTv": "novelaDasSete",
+  "order": null,
+  "cortesParaIntervalo": [
+    691,
+    1274
+  ],
+  "corteFinal": 2345,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc535"
+  },
+  "tituloAtracao": "Novela das Oito",
+  "programaDeTv": "novelaDasOito",
+  "canal": "Globo",
+  "added": false,
+  "tipo": "novelas",
+  "duracao": 2820,
+  "titulo": "Meu Bem Meu Mal Cap 49.mp4",
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc536"
+  },
+  "titulo": "Pantanal-128.mp4",
+  "canal": "Manchete",
+  "order": null,
+  "tipo": "novelas",
+  "duracao": 2554
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc537"
+  },
+  "duracao": 2885,
+  "tipo": "novelas",
+  "order": null,
+  "canal": "Manchete",
+  "titulo": "Pantanal-164.mp4"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc538"
+  },
+  "duracao": 3307,
+  "tipo": "novelas",
+  "titulo": "Corpo Santo 1987 - 17.mp4",
+  "canal": "Manchete",
+  "tituloAtracao": "Novela Corpo Santo",
+  "order": 7,
+  "programaDeTv": "novelaCorpoSanto",
+  "added": true
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc539"
+  },
+  "duracao": 2432,
+  "added": false,
+  "programaDeTv": "novelaDasSete",
+  "tituloAtracao": "Novela das Sete",
+  "order": 116,
+  "canal": "Globo",
+  "titulo": "Novela Top Model - 116.mp4",
+  "tipo": "novelas",
+  "cortesParaIntervalo": [
+    128,
+    1633
+  ],
+  "corteFinal": 2404,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc53a"
+  },
+  "tituloAtracao": "Novela das Seis",
+  "added": false,
+  "tipo": "novelas",
+  "programaDeTv": "novelaDasSeis",
+  "titulo": "Novela Barriga de Aluguel 09.mp4",
+  "canal": "Globo",
+  "duracao": 2567,
+  "cortesParaIntervalo": [
+    505,
+    1038,
+    1662,
+    2427
+  ],
+  "order": 9
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc53b"
+  },
+  "duracao": 2265,
+  "added": false,
+  "order": null,
+  "programaDeTv": "novelaDasSete",
+  "tituloAtracao": "Novela das Sete",
+  "titulo": "Novela Top Model - 167.mp4",
+  "tipo": "novelas",
+  "canal": "Globo",
+  "cortesParaIntervalo": [
+    922,
+    1599
+  ],
+  "corteFinal": 2265,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc53c"
+  },
+  "added": false,
+  "tipo": "novelas",
+  "canal": "Globo",
+  "duracao": 2503,
+  "titulo": "Desejo - Capítulo 08 (1990).mp4"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc53d"
+  },
+  "tituloAtracao": "Novela das Sete",
+  "tipo": "novelas",
+  "order": 39,
+  "titulo": "Novela Top Model - 039.mp4",
+  "duracao": 2357,
+  "added": false,
+  "canal": "Globo",
+  "programaDeTv": "novelaDasSete",
+  "cortesParaIntervalo": [
+    767,
+    1569
+  ],
+  "corteFinal": 2598,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc53e"
+  },
+  "titulo": "O Sorriso Do Lagarto Capítulo 17.mp4",
+  "added": false,
+  "duracao": 2569,
+  "tipo": "novelas",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc53f"
+  },
+  "canal": "Globo",
+  "programaDeTv": "novelaDasOito",
+  "tipo": "novelas",
+  "duracao": 2785,
+  "tituloAtracao": "Novela das Oito",
+  "added": false,
+  "titulo": "Meu Bem Meu Mal Cap 26.mp4",
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc540"
+  },
+  "order": null,
+  "added": false,
+  "duracao": 2381,
+  "titulo": "Novela Top Model - 192.mp4",
+  "tipo": "novelas",
+  "tituloAtracao": "Novela das Sete",
+  "canal": "Globo",
+  "programaDeTv": "novelaDasSete",
+  "cortesParaIntervalo": [
+    832,
+    1498
+  ],
+  "corteFinal": 2381,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc541"
+  },
+  "tipo": "novelas",
+  "duracao": 2777,
+  "added": true,
+  "order": 10,
+  "tituloAtracao": "Novela Corpo Santo",
+  "titulo": "Corpo Santo 1987 - 21.mp4",
+  "programaDeTv": "novelaCorpoSanto",
+  "canal": "Manchete"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc542"
+  },
+  "order": null,
+  "titulo": "Novela Top Model - 170.mp4",
+  "added": false,
+  "tipo": "novelas",
+  "duracao": 2262,
+  "tituloAtracao": "Novela das Sete",
+  "canal": "Globo",
+  "programaDeTv": "novelaDasSete",
+  "cortesParaIntervalo": [
+    913,
+    1592
+  ],
+  "corteFinal": 2262,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc543"
+  },
+  "added": false,
+  "titulo": "O Sorriso Do Lagarto Capítulo 34.mp4",
+  "tipo": "novelas",
+  "duracao": 2136,
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc544"
+  },
+  "canal": "",
+  "tipo": "novelas",
+  "titulo": "Corpo Santo 1987 - 09.mp4",
+  "duracao": 3113
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc545"
+  },
+  "cortesParaIntervalo": [
+    695,
+    1625
+  ],
+  "canal": "Globo",
+  "order": 24,
+  "tituloAtracao": "Novela das Sete",
+  "duracao": 2332,
+  "corteFinal": 2332,
+  "tipo": "novelas",
+  "corteInicio": 0,
+  "titulo": "Novela Top Model - 024.mp4",
+  "added": true,
+  "programaDeTv": "novelaDasSete"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc546"
+  },
+  "corteInicio": 0,
+  "added": true,
+  "cortesParaIntervalo": [
+    836,
+    1553
+  ],
+  "programaDeTv": "novelaDasSete",
+  "tituloAtracao": "Novela das Sete",
+  "tipo": "novelas",
+  "canal": "Globo",
+  "duracao": 2417,
+  "order": 2,
+  "titulo": "Novela Top Model - 002.mp4",
+  "corteFinal": 2417
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc547"
+  },
+  "titulo": "Novela Top Model - 101.mp4",
+  "tipo": "novelas",
+  "tituloAtracao": "Novela das Sete",
+  "duracao": 2665,
+  "order": 101,
+  "added": false,
+  "canal": "Globo",
+  "programaDeTv": "novelaDasSete",
+  "cortesParaIntervalo": [
+    998,
+    1559
+  ],
+  "corteFinal": 2665,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc548"
+  },
+  "programaDeTv": "novelaDasSete",
+  "tipo": "novelas",
+  "added": false,
+  "canal": "Globo",
+  "titulo": "Novela Top Model - 186.mp4",
+  "order": null,
+  "duracao": 2408,
+  "tituloAtracao": "Novela das Sete",
+  "cortesParaIntervalo": [
+    886,
+    1488
+  ],
+  "corteFinal": 2408,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc549"
+  },
+  "cortesParaIntervalo": [
+    748,
+    1339,
+    1850
+  ],
+  "corteFinal": 2481,
+  "corteInicio": 0,
+  "canal": "Globo",
+  "added": false,
+  "titulo": "Meu Bem Meu Mal Cap 10.mp4",
+  "programaDeTv": "novelaDasOito",
+  "tituloAtracao": "Novela das Oito",
+  "duracao": 2481,
+  "tipo": "novelas"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc54a"
+  },
+  "canal": "Manchete",
+  "duracao": 2731,
+  "titulo": "Pantanal-132.mp4",
+  "tipo": "novelas",
+  "order": null
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc54b"
+  },
+  "canal": "Globo",
+  "titulo": "O Sorriso Do Lagarto Capítulo 20.mp4",
+  "tipo": "novelas",
+  "duracao": 2114,
+  "added": false
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc54c"
+  },
+  "duracao": 2455,
+  "tipo": "novelas",
+  "added": false,
+  "tituloAtracao": "Novela das Sete",
+  "canal": "Globo",
+  "titulo": "Novela Top Model - 033.mp4",
+  "programaDeTv": "novelaDasSete",
+  "order": 33,
+  "cortesParaIntervalo": [
+    938,
+    1851
+  ],
+  "corteFinal": 2455,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc54d"
+  },
+  "programaDeTv": "novelaDasSete",
+  "titulo": "Novela Top Model - 046.mp4",
+  "added": false,
+  "tituloAtracao": "Novela das Sete",
+  "order": 46,
+  "duracao": 2472,
+  "canal": "Globo",
+  "tipo": "novelas",
+  "cortesParaIntervalo": [
+    764,
+    1619
+  ]
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc54e"
+  },
+  "canal": "Globo",
+  "programaDeTv": "novelaDasSeis",
+  "titulo": "Novela Barriga de Aluguel 43.mp4",
+  "tipo": "novelas",
+  "tituloAtracao": "Novela das Seis",
+  "duracao": 2550,
+  "added": false,
+  "cortesParaIntervalo": [
+    845,
+    1688,
+    2420
+  ],
+  "order": 43
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc54f"
+  },
+  "tituloAtracao": "Novela das Sete",
+  "titulo": "Novela Top Model - 119.mp4",
+  "tipo": "novelas",
+  "programaDeTv": "novelaDasSete",
+  "duracao": 2601,
+  "canal": "Globo",
+  "added": false,
+  "order": null,
+  "cortesParaIntervalo": [
+    1040,
+    1876
+  ]
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc550"
+  },
+  "titulo": "Pantanal-151.mp4",
+  "canal": "Manchete",
+  "order": null,
+  "duracao": 2783,
+  "tipo": "novelas"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc551"
+  },
+  "canal": "Globo",
+  "added": false,
+  "titulo": "O Sorriso Do Lagarto Capítulo 24.mp4",
+  "duracao": 2391,
+  "tipo": "novelas"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc552"
+  },
+  "duracao": 2580,
+  "added": false,
+  "canal": "Globo",
+  "titulo": "Desejo - Capítulo 11 (1990).mp4",
+  "tipo": "novelas"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc553"
+  },
+  "titulo": "Desejo - Capítulo 13 (1990).mp4",
+  "canal": "Globo",
+  "duracao": 2388,
+  "added": false,
+  "tipo": "novelas"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc554"
+  },
+  "canal": "Globo",
+  "tipo": "novelas",
+  "duracao": 2507,
+  "titulo": "O Sorriso Do Lagarto Capítulo 06.mp4",
+  "added": false
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc555"
+  },
+  "added": false,
+  "canal": "Globo",
+  "titulo": "De Corpo e Alma - Cap 5.mp4",
+  "tipo": "novelas",
+  "duracao": 2700
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc556"
+  },
+  "added": false,
+  "programaDeTv": "novelaDasSete",
+  "duracao": 2294,
+  "tipo": "novelas",
+  "canal": "Globo",
+  "tituloAtracao": "Novela das Sete",
+  "titulo": "Novela Top Model - 104.mp4",
+  "order": 104,
+  "cortesParaIntervalo": [
+    896,
+    1849
+  ],
+  "corteFinal": 2294,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc557"
+  },
+  "added": false,
+  "programaDeTv": "novelaDasSete",
+  "duracao": 2328,
+  "canal": "Globo",
+  "tituloAtracao": "Novela das Sete",
+  "tipo": "novelas",
+  "order": null,
+  "titulo": "Novela Top Model - 156.mp4",
+  "cortesParaIntervalo": [
+    623,
+    1413
+  ],
+  "corteFinal": 2328,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc558"
+  },
+  "programaDeTv": "novelaDasSete",
+  "duracao": 2316,
+  "added": false,
+  "tipo": "novelas",
+  "order": null,
+  "tituloAtracao": "Novela das Sete",
+  "canal": "Globo",
+  "titulo": "Novela Top Model - 178.mp4",
+  "cortesParaIntervalo": [
+    838,
+    1470
+  ],
+  "corteFinal": 2316,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc559"
+  },
+  "duracao": 2711,
+  "added": false,
+  "programaDeTv": "novelaDasOito",
+  "canal": "Globo",
+  "titulo": "Meu Bem Meu Mal Cap 30.mp4",
+  "tipo": "novelas",
+  "tituloAtracao": "Novela das Oito",
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc55a"
+  },
+  "titulo": "De Corpo e Alma - Cap 2.mp4",
+  "added": false,
+  "canal": "Globo",
+  "tipo": "novelas",
+  "duracao": 3312
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc55b"
+  },
+  "titulo": "Pantanal-160.mp4",
+  "canal": "Manchete",
+  "tipo": "novelas",
+  "order": null,
+  "duracao": 2794
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc55c"
+  },
+  "titulo": "Novela Barriga de Aluguel 40.mp4",
+  "canal": "Globo",
+  "programaDeTv": "novelaDasSeis",
+  "duracao": 2168,
+  "added": false,
+  "tipo": "novelas",
+  "tituloAtracao": "Novela das Seis",
+  "cortesParaIntervalo": [
+    906,
+    1536,
+    2021
+  ],
+  "order": 40
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc55d"
+  },
+  "canal": "Globo",
+  "tipo": "novelas",
+  "programaDeTv": "novelaDasSeis",
+  "tituloAtracao": "Novela das Seis",
+  "added": false,
+  "duracao": 2558,
+  "titulo": "Novela Barriga de Aluguel 22.mp4",
+  "cortesParaIntervalo": [
+    581,
+    1209,
+    1735,
+    2426
+  ],
+  "order": 22
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc55e"
+  },
+  "programaDeTv": "novelaDasSete",
+  "tituloAtracao": "Novela das Sete",
+  "canal": "Globo",
+  "added": false,
+  "tipo": "novelas",
+  "duracao": 2265,
+  "order": null,
+  "titulo": "Novela Top Model - 141.mp4",
+  "cortesParaIntervalo": [
+    791,
+    1549
+  ],
+  "corteFinal": 2265,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc55f"
+  },
+  "duracao": 2403,
+  "tipo": "novelas",
+  "programaDeTv": "novelaDasSete",
+  "canal": "Globo",
+  "tituloAtracao": "Novela das Sete",
+  "order": null,
+  "titulo": "Novela Top Model - 162.mp4",
+  "added": false,
+  "cortesParaIntervalo": [
+    859,
+    1681
+  ],
+  "corteFinal": 2403,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc560"
+  },
+  "programaDeTv": "novelaDasSete",
+  "duracao": 2106,
+  "titulo": "Novela Top Model - 175.mp4",
+  "canal": "Globo",
+  "order": null,
+  "tituloAtracao": "Novela das Sete",
+  "tipo": "novelas",
+  "added": false,
+  "cortesParaIntervalo": [
+    620,
+    1250
+  ],
+  "corteFinal": 2106,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc561"
+  },
+  "canal": "Globo",
+  "programaDeTv": "novelaDasOito",
+  "duracao": 3119,
+  "added": false,
+  "tituloAtracao": "Novela das Oito",
+  "titulo": "Meu Bem Meu Mal Cap 41.mp4",
+  "tipo": "novelas",
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc562"
+  },
+  "added": false,
+  "titulo": "Meu Bem Meu Mal Cap 18.mp4",
+  "tipo": "novelas",
+  "duracao": 2631,
+  "programaDeTv": "novelaDasOito",
+  "canal": "Globo",
+  "tituloAtracao": "Novela das Oito",
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc563"
+  },
+  "canal": "Globo",
+  "tituloAtracao": "Novela das Seis",
+  "tipo": "novelas",
+  "programaDeTv": "novelaDasSeis",
+  "titulo": "Novela Barriga de Aluguel 41.mp4",
+  "added": false,
+  "duracao": 2318,
+  "cortesParaIntervalo": [
+    863,
+    1573,
+    2150
+  ],
+  "order": 41
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc564"
+  },
+  "titulo": "O Sorriso Do Lagarto Capítulo 22.mp4",
+  "duracao": 2326,
+  "added": false,
+  "tipo": "novelas",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc565"
+  },
+  "tituloAtracao": "Novela das Oito",
+  "tipo": "novelas",
+  "duracao": 2576,
+  "titulo": "Meu Bem Meu Mal Cap 15.mp4",
+  "programaDeTv": "novelaDasOito",
+  "canal": "Globo",
+  "added": false,
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc566"
+  },
+  "tituloAtracao": "Novela das Seis",
+  "duracao": 2367,
+  "titulo": "Novela Barriga de Aluguel 16.mp4",
+  "programaDeTv": "novelaDasSeis",
+  "added": false,
+  "canal": "Globo",
+  "tipo": "novelas",
+  "cortesParaIntervalo": [
+    690,
+    1060,
+    1694,
+    2224
+  ],
+  "order": 16
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc567"
+  },
+  "tipo": "novelas",
+  "titulo": "As Noivas De Copacabana - Episódio 01.mp4",
+  "added": false,
+  "canal": "Globo",
+  "duracao": 2871,
+  "programaDeTv": "noivasDeCopacabana",
+  "tituloAtracao": "Int noivasDeCopacabana",
+  "order": 1,
+  "corteFinal": 2871,
+  "corteInicio": 0,
+  "cortesParaIntervalo": [
+    433,
+    1624,
+    2444
+  ]
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc568"
+  },
+  "titulo": "Corpo Santo 1987 - 06.mp4",
+  "tipo": "novelas",
+  "canal": "",
+  "duracao": 1346
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc569"
+  },
+  "titulo": "Carrossel 1991 Capitulo 11.mp4",
+  "canal": "Sbt",
+  "order": 11,
+  "duracao": 3029,
+  "tipo": "novelas",
+  "programaDeTv": "carrossel",
+  "tituloAtracao": "Carrossel"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc56a"
+  },
+  "tituloAtracao": "Novela das Sete",
+  "duracao": 2406,
+  "order": null,
+  "tipo": "novelas",
+  "titulo": "Novela Top Model - 185.mp4",
+  "programaDeTv": "novelaDasSete",
+  "canal": "Globo",
+  "added": false,
+  "cortesParaIntervalo": [
+    878,
+    1493
+  ],
+  "corteFinal": 2406,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc56d"
+  },
+  "tipo": "novelas",
+  "duracao": 2443,
+  "programaDeTv": "novelaDasSete",
+  "order": 107,
+  "added": false,
+  "tituloAtracao": "Novela das Sete",
+  "titulo": "Novela Top Model - 107.mp4",
+  "canal": "Globo",
+  "cortesParaIntervalo": [
+    941,
+    1569
+  ],
+  "corteFinal": 2443,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc56e"
+  },
+  "order": 82,
+  "tipo": "novelas",
+  "titulo": "Novela Top Model - 082.mp4",
+  "tituloAtracao": "Novela das Sete",
+  "duracao": 2296,
+  "added": false,
+  "programaDeTv": "novelaDasSete",
+  "canal": "Globo",
+  "cortesParaIntervalo": [
+    712,
+    1852
+  ],
+  "corteFinal": 2296,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc56f"
+  },
+  "titulo": "Novela Top Model - 125.mp4",
+  "canal": "Globo",
+  "tituloAtracao": "Novela das Sete",
+  "duracao": 2621,
+  "order": null,
+  "tipo": "novelas",
+  "added": false,
+  "programaDeTv": "novelaDasSete",
+  "cortesParaIntervalo": [
+    1149,
+    1914
+  ],
+  "corteFinal": 2621,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc570"
+  },
+  "duracao": 1464,
+  "titulo": "Araponga Capítulo 11.mp4",
+  "canal": "Globo",
+  "tipo": "novelas",
+  "programaDeTv": "araponga",
+  "order": null,
+  "tituloAtracao": "Araponga",
+  "added": false,
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc571"
+  },
+  "titulo": "Novela Top Model - 160.mp4",
+  "order": null,
+  "canal": "Globo",
+  "tipo": "novelas",
+  "added": false,
+  "tituloAtracao": "Novela das Sete",
+  "programaDeTv": "novelaDasSete",
+  "duracao": 2159,
+  "cortesParaIntervalo": [
+    904,
+    1476
+  ],
+  "corteFinal": 2159,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc572"
+  },
+  "programaDeTv": "novelaDasSete",
+  "titulo": "Novela Top Model - 034.mp4",
+  "duracao": 2362,
+  "order": 34,
+  "added": false,
+  "tipo": "novelas",
+  "tituloAtracao": "Novela das Sete",
+  "canal": "Globo",
+  "cortesParaIntervalo": [
+    858,
+    1442
+  ]
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc573"
+  },
+  "tituloAtracao": "Novela das Sete",
+  "order": 96,
+  "programaDeTv": "novelaDasSete",
+  "duracao": 2650,
+  "titulo": "Novela Top Model - 096.mp4",
+  "tipo": "novelas",
+  "added": false,
+  "canal": "Globo",
+  "cortesParaIntervalo": [
+    1015,
+    2113
+  ],
+  "corteFinal": 2650,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc574"
+  },
+  "tituloAtracao": "Novela das Sete",
+  "canal": "Globo",
+  "added": false,
+  "duracao": 2517,
+  "programaDeTv": "novelaDasSete",
+  "tipo": "novelas",
+  "titulo": "Novela Top Model - 080.mp4",
+  "order": 80,
+  "cortesParaIntervalo": [
+    806,
+    1494
+  ],
+  "corteFinal": 2517,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc575"
+  },
+  "titulo": "Novela Top Model - 059.mp4",
+  "programaDeTv": "novelaDasSete",
+  "order": 59,
+  "tituloAtracao": "Novela das Sete",
+  "duracao": 2567,
+  "canal": "Globo",
+  "tipo": "novelas",
+  "added": false,
+  "cortesParaIntervalo": [
+    843,
+    1647
+  ],
+  "corteFinal": 2567,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc576"
+  },
+  "tituloAtracao": "Novela das Oito",
+  "added": false,
+  "canal": "Globo",
+  "titulo": "Meu Bem Meu Mal Cap 42.mp4",
+  "programaDeTv": "novelaDasOito",
+  "tipo": "novelas",
+  "duracao": 2591,
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc577"
+  },
+  "duracao": 1242,
+  "order": 5,
+  "added": true,
+  "programaDeTv": "novelaCorpoSanto",
+  "titulo": "Corpo Santo 1987 - 14.mp4",
+  "tipo": "novelas",
+  "canal": "Manchete",
+  "tituloAtracao": "Novela Corpo Santo"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc57a"
+  },
+  "added": false,
+  "order": 86,
+  "tituloAtracao": "Novela das Sete",
+  "duracao": 2301,
+  "programaDeTv": "novelaDasSete",
+  "canal": "Globo",
+  "titulo": "Novela Top Model - 086.mp4",
+  "tipo": "novelas",
+  "cortesParaIntervalo": [
+    762,
+    1660
+  ]
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc57b"
+  },
+  "tipo": "novelas",
+  "tituloAtracao": "Novela das Sete",
+  "duracao": 2387,
+  "canal": "Globo",
+  "corteFinal": 2387,
+  "corteInicio": 0,
+  "order": 29,
+  "programaDeTv": "novelaDasSete",
+  "cortesParaIntervalo": [
+    1121,
+    1780
+  ],
+  "titulo": "Novela Top Model - 029.mp4",
+  "added": true
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc57c"
+  },
+  "programaDeTv": "novelaDasSete",
+  "corteInicio": 0,
+  "order": 3,
+  "cortesParaIntervalo": [
+    852,
+    1578
+  ],
+  "titulo": "Novela Top Model - 003.mp4",
+  "tipo": "novelas",
+  "added": true,
+  "canal": "Globo",
+  "corteFinal": 2472,
+  "tituloAtracao": "Novela das Sete",
+  "duracao": 2472
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc57d"
+  },
+  "added": false,
+  "titulo": "Novela Top Model - 108.mp4",
+  "tituloAtracao": "Novela das Sete",
+  "duracao": 2447,
+  "canal": "Globo",
+  "order": 108,
+  "programaDeTv": "novelaDasSete",
+  "tipo": "novelas",
+  "cortesParaIntervalo": [
+    884,
+    1765
+  ],
+  "corteFinal": 2447,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc57e"
+  },
+  "programaDeTv": "novelaDasSete",
+  "added": false,
+  "duracao": 2418,
+  "tipo": "novelas",
+  "tituloAtracao": "Novela das Sete",
+  "titulo": "Novela Top Model - 058.mp4",
+  "order": 58,
+  "canal": "Globo",
+  "cortesParaIntervalo": [
+    857,
+    1773
+  ]
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc580"
+  },
+  "tipo": "novelas",
+  "order": 87,
+  "duracao": 2468,
+  "titulo": "Novela Top Model - 087.mp4",
+  "canal": "Globo",
+  "added": false,
+  "programaDeTv": "novelaDasSete",
+  "tituloAtracao": "Novela das Sete",
+  "cortesParaIntervalo": [
+    802,
+    1740
+  ]
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc581"
+  },
+  "added": false,
+  "titulo": "Novela Barriga de Aluguel 13.mp4",
+  "programaDeTv": "novelaDasSeis",
+  "tituloAtracao": "Novela das Seis",
+  "canal": "Globo",
+  "tipo": "novelas",
+  "duracao": 2411,
+  "cortesParaIntervalo": [
+    441,
+    887,
+    1427,
+    2279
+  ],
+  "order": 13
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc582"
+  },
+  "order": 91,
+  "tituloAtracao": "Novela das Sete",
+  "programaDeTv": "novelaDasSete",
+  "added": false,
+  "titulo": "Novela Top Model - 091.mp4",
+  "duracao": 2257,
+  "canal": "Globo",
+  "tipo": "novelas",
+  "cortesParaIntervalo": [
+    808,
+    1541
+  ]
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc583"
+  },
+  "tipo": "novelas",
+  "canal": "Globo",
+  "programaDeTv": "novelaDasSete",
+  "added": false,
+  "duracao": 2508,
+  "order": 105,
+  "titulo": "Novela Top Model - 105.mp4",
+  "tituloAtracao": "Novela das Sete",
+  "cortesParaIntervalo": [
+    901,
+    1684
+  ],
+  "corteFinal": 2508,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc584"
+  },
+  "tituloAtracao": "Int noivasDeCopacabana",
+  "order": 6,
+  "duracao": 2812,
+  "added": false,
+  "titulo": "As Noivas De Copacabana - Episódio 06.mp4",
+  "canal": "Globo",
+  "programaDeTv": "noivasDeCopacabana",
+  "tipo": "novelas",
+  "corteFinal": 2812,
+  "corteInicio": 0,
+  "cortesParaIntervalo": [
+    753,
+    1450,
+    2090
+  ]
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc585"
+  },
+  "tipo": "novelas",
+  "order": 42,
+  "programaDeTv": "novelaDasSete",
+  "duracao": 2405,
+  "added": false,
+  "canal": "Globo",
+  "titulo": "Novela Top Model - 042.mp4",
+  "tituloAtracao": "Novela das Sete",
+  "cortesParaIntervalo": [
+    762,
+    1603
+  ],
+  "corteFinal": 2405,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc586"
+  },
+  "tipo": "novelas",
+  "programaDeTv": "noivasDeCopacabana",
+  "titulo": "As Noivas De Copacabana - Episódio 09.mp4",
+  "canal": "Globo",
+  "tituloAtracao": "Int noivasDeCopacabana",
+  "added": false,
+  "order": 9,
+  "duracao": 2594,
+  "corteFinal": 2594,
+  "corteInicio": 0,
+  "cortesParaIntervalo": [
+    867,
+    1371,
+    1980
+  ]
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc587"
+  },
+  "duracao": 2298,
+  "titulo": "Novela Top Model - 009.mp4",
+  "tipo": "novelas",
+  "corteFinal": 2298,
+  "canal": "Globo",
+  "order": 9,
+  "programaDeTv": "novelaDasSete",
+  "added": true,
+  "corteInicio": 0,
+  "tituloAtracao": "Novela das Sete",
+  "cortesParaIntervalo": [
+    1003,
+    1693
+  ]
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc588"
+  },
+  "titulo": "Novela Top Model - 054.mp4",
+  "programaDeTv": "novelaDasSete",
+  "tituloAtracao": "Novela das Sete",
+  "added": false,
+  "order": 54,
+  "duracao": 2374,
+  "canal": "Globo",
+  "tipo": "novelas",
+  "cortesParaIntervalo": [
+    940,
+    1557
+  ]
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc589"
+  },
+  "tipo": "novelas",
+  "programaDeTv": "novelaDasOito",
+  "canal": "Globo",
+  "added": false,
+  "duracao": 2350,
+  "titulo": "Meu Bem Meu Mal Cap 19.mp4",
+  "tituloAtracao": "Novela das Oito",
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc58a"
+  },
+  "canal": "Globo",
+  "titulo": "Novela Top Model - 008.mp4",
+  "added": true,
+  "programaDeTv": "novelaDasSete",
+  "duracao": 2421,
+  "tipo": "novelas",
+  "corteFinal": 2421,
+  "cortesParaIntervalo": [
+    695,
+    1681
+  ],
+  "tituloAtracao": "Novela das Sete",
+  "order": 8,
+  "corteInicio": 2
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc58b"
+  },
+  "duracao": 2716,
+  "added": true,
+  "tituloAtracao": "Novela das Seis",
+  "canal": "Globo",
+  "tipo": "novelas",
+  "titulo": "Novela Barriga de Aluguel 07.mp4",
+  "programaDeTv": "novelaDasSeis",
+  "cortesParaIntervalo": [
+    344,
+    1081,
+    1582,
+    2094
+  ],
+  "order": 7
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc58c"
+  },
+  "added": false,
+  "titulo": "De Corpo e Alma - Cap 4.mp4",
+  "duracao": 2933,
+  "tipo": "novelas",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc58d"
+  },
+  "tipo": "novelas",
+  "added": false,
+  "tituloAtracao": "Novela das Sete",
+  "order": 113,
+  "titulo": "Novela Top Model - 113.mp4",
+  "programaDeTv": "novelaDasSete",
+  "canal": "Globo",
+  "duracao": 2553,
+  "cortesParaIntervalo": [
+    817,
+    1733
+  ],
+  "corteFinal": 2547,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc58e"
+  },
+  "duracao": 2392,
+  "added": false,
+  "canal": "Globo",
+  "tipo": "novelas",
+  "titulo": "O Sorriso Do Lagarto Capítulo 49.mp4"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc58f"
+  },
+  "tituloAtracao": "Novela das Sete",
+  "canal": "Globo",
+  "titulo": "Novela Top Model - 030.mp4",
+  "tipo": "novelas",
+  "cortesParaIntervalo": [
+    928,
+    1582
+  ],
+  "corteFinal": 2273,
+  "corteInicio": 0,
+  "added": true,
+  "duracao": 2273,
+  "order": 30,
+  "programaDeTv": "novelaDasSete"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc590"
+  },
+  "duracao": 2460,
+  "canal": "Globo",
+  "added": false,
+  "tituloAtracao": "Novela das Sete",
+  "titulo": "Novela Top Model - 164.mp4",
+  "order": null,
+  "tipo": "novelas",
+  "programaDeTv": "novelaDasSete",
+  "cortesParaIntervalo": [
+    842,
+    1591
+  ],
+  "corteFinal": 2460,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc591"
+  },
+  "order": null,
+  "titulo": "A Gata Comeu - 34.mp4",
+  "added": false,
+  "canal": "Globo",
+  "tipo": "novelas",
+  "programaDeTv": "novelaVPVN",
+  "duracao": 2360,
+  "tituloAtracao": "Novela VPVN",
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc592"
+  },
+  "tipo": "novelas",
+  "programaDeTv": "novelaVPVN",
+  "duracao": 2397,
+  "titulo": "A Gata Comeu - 47.mp4",
+  "canal": "Globo",
+  "order": null,
+  "added": false,
+  "tituloAtracao": "Novela VPVN",
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc594"
+  },
+  "added": true,
+  "duracao": 677,
+  "order": 6,
+  "tituloAtracao": "Novela Corpo Santo",
+  "programaDeTv": "novelaCorpoSanto",
+  "canal": "Manchete",
+  "tipo": "novelas",
+  "titulo": "Corpo Santo 1987 - 16.mp4"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc595"
+  },
+  "canal": "Sbt",
+  "tipo": "novelas",
+  "tituloAtracao": "Carrossel",
+  "programaDeTv": "carrossel",
+  "duracao": 3170,
+  "order": 6,
+  "titulo": "Carrossel 1991 Capitulo 12.mp4",
+  "added": true,
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc596"
+  },
+  "canal": "Globo",
+  "tipo": "novelas",
+  "added": false,
+  "programaDeTv": "novelaDasSete",
+  "order": null,
+  "tituloAtracao": "Novela das Sete",
+  "titulo": "Novela Top Model - 127.mp4",
+  "duracao": 2575,
+  "cortesParaIntervalo": [
+    933,
+    1784
+  ],
+  "corteFinal": 2575,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc598"
+  },
+  "tipo": "novelas",
+  "added": false,
+  "programaDeTv": "novelaDasSete",
+  "canal": "Globo",
+  "tituloAtracao": "Novela das Sete",
+  "duracao": 2507,
+  "order": null,
+  "titulo": "Novela Top Model - 159.mp4",
+  "cortesParaIntervalo": [
+    799,
+    1519
+  ],
+  "corteFinal": 2507,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc599"
+  },
+  "tituloAtracao": "Novela das Sete",
+  "order": 79,
+  "added": false,
+  "duracao": 2382,
+  "titulo": "Novela Top Model - 079.mp4",
+  "programaDeTv": "novelaDasSete",
+  "canal": "Globo",
+  "tipo": "novelas",
+  "cortesParaIntervalo": [
+    984,
+    1691
+  ]
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc59a"
+  },
+  "tipo": "novelas",
+  "duracao": 2083,
+  "titulo": "Novela Barriga de Aluguel 25.mp4",
+  "added": false,
+  "tituloAtracao": "Novela das Seis",
+  "canal": "Globo",
+  "programaDeTv": "novelaDasSeis",
+  "cortesParaIntervalo": [
+    748,
+    1058,
+    1918
+  ],
+  "order": 25
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc59b"
+  },
+  "tipo": "novelas",
+  "tituloAtracao": "Novela das Seis",
+  "duracao": 2422,
+  "titulo": "Novela Barriga de Aluguel 49.mp4",
+  "canal": "Globo",
+  "added": false,
+  "programaDeTv": "novelaDasSeis",
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc59c"
+  },
+  "duracao": 2833,
+  "corteInicio": 0,
+  "canal": "Globo",
+  "added": false,
+  "titulo": "Meu Bem Meu Mal Cap 02.mp4",
+  "tituloAtracao": "Novela das Oito",
+  "programaDeTv": "novelaDasOito",
+  "cortesParaIntervalo": [
+    681,
+    2037
+  ],
+  "corteFinal": 2833,
+  "tipo": "novelas"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc59d"
+  },
+  "tipo": "novelas",
+  "tituloAtracao": "Novela das Sete",
+  "duracao": 2410,
+  "canal": "Globo",
+  "order": 95,
+  "programaDeTv": "novelaDasSete",
+  "added": false,
+  "titulo": "Novela Top Model - 095.mp4",
+  "cortesParaIntervalo": [
+    1103,
+    1843
+  ]
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc59e"
+  },
+  "duracao": 2503,
+  "programaDeTv": "novelaDasSete",
+  "canal": "Globo",
+  "order": 40,
+  "added": false,
+  "tipo": "novelas",
+  "titulo": "Novela Top Model - 040.mp4",
+  "tituloAtracao": "Novela das Sete",
+  "cortesParaIntervalo": [
+    908,
+    1752
+  ],
+  "corteFinal": 2503,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc59f"
+  },
+  "duracao": 2331,
+  "added": false,
+  "tipo": "novelas",
+  "canal": "Globo",
+  "programaDeTv": "novelaDasSete",
+  "tituloAtracao": "Novela das Sete",
+  "titulo": "Novela Top Model - 152.mp4",
+  "order": null,
+  "cortesParaIntervalo": [
+    853,
+    1659
+  ],
+  "corteFinal": 2331,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc5a0"
+  },
+  "added": false,
+  "titulo": "Novela Top Model - 155.mp4",
+  "canal": "Globo",
+  "tipo": "novelas",
+  "programaDeTv": "novelaDasSete",
+  "tituloAtracao": "Novela das Sete",
+  "order": null,
+  "duracao": 2311,
+  "cortesParaIntervalo": [
+    750,
+    1458
+  ],
+  "corteFinal": 2311,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc5a1"
+  },
+  "tituloAtracao": "Carrossel",
+  "canal": "Sbt",
+  "duracao": 3016,
+  "added": true,
+  "titulo": "Carrossel 1991 Capitulo 02.mp4",
+  "programaDeTv": "carrossel",
+  "order": 3,
+  "tipo": "novelas"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc5a2"
+  },
+  "tipo": "novelas",
+  "order": 49,
+  "tituloAtracao": "Novela das Sete",
+  "added": false,
+  "programaDeTv": "novelaDasSete",
+  "duracao": 2420,
+  "titulo": "Novela Top Model - 049.mp4",
+  "canal": "Globo",
+  "cortesParaIntervalo": [
+    975,
+    1686
+  ]
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc5a3"
+  },
+  "duracao": 2837,
+  "canal": "Manchete",
+  "tipo": "novelas",
+  "order": null,
+  "titulo": "Pantanal-135.mp4"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc5a4"
+  },
+  "programaDeTv": "novelaVPVN",
+  "canal": "Globo",
+  "order": null,
+  "tipo": "novelas",
+  "titulo": "A Gata Comeu - 36.mp4",
+  "added": false,
+  "duracao": 2359,
+  "tituloAtracao": "Novela VPVN",
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc5a5"
+  },
+  "titulo": "Novela Top Model - 037.mp4",
+  "tipo": "novelas",
+  "added": false,
+  "order": 37,
+  "tituloAtracao": "Novela das Sete",
+  "canal": "Globo",
+  "duracao": 2598,
+  "programaDeTv": "novelaDasSete",
+  "cortesParaIntervalo": [
+    1004,
+    1817
+  ],
+  "corteFinal": 2598,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc5a6"
+  },
+  "tipo": "novelas",
+  "order": null,
+  "added": false,
+  "duracao": 2273,
+  "titulo": "A Gata Comeu - 41.mp4",
+  "programaDeTv": "novelaVPVN",
+  "canal": "Globo",
+  "tituloAtracao": "Novela VPVN",
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc5a7"
+  },
+  "programaDeTv": "novelaDasOito",
+  "tituloAtracao": "Novela das Oito",
+  "tipo": "novelas",
+  "titulo": "Meu Bem Meu Mal Cap 40.mp4",
+  "canal": "Globo",
+  "duracao": 2739,
+  "added": false,
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc5a8"
+  },
+  "added": false,
+  "tituloAtracao": "Novela das Seis",
+  "programaDeTv": "novelaDasSeis",
+  "titulo": "Novela Barriga de Aluguel 50.mp4",
+  "duracao": 2478,
+  "tipo": "novelas",
+  "canal": "Globo",
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc5a9"
+  },
+  "added": false,
+  "tipo": "novelas",
+  "duracao": 2611,
+  "canal": "Globo",
+  "titulo": "Desejo - Capítulo 07 (1990).mp4"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc5aa"
+  },
+  "order": null,
+  "tituloAtracao": "Novela das Sete",
+  "programaDeTv": "novelaDasSete",
+  "titulo": "Novela Top Model - 148.mp4",
+  "added": false,
+  "tipo": "novelas",
+  "canal": "Globo",
+  "duracao": 2404,
+  "cortesParaIntervalo": [
+    850,
+    1774
+  ],
+  "corteFinal": 2404,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc5ab"
+  },
+  "titulo": "O Sorriso Do Lagarto Capítulo 50.mp4",
+  "duracao": 2437,
+  "canal": "Globo",
+  "tipo": "novelas",
+  "added": false
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc5ac"
+  },
+  "duracao": 2392,
+  "tituloAtracao": "Novela das Sete",
+  "programaDeTv": "novelaDasSete",
+  "titulo": "Novela Top Model - 133.mp4",
+  "order": null,
+  "canal": "Globo",
+  "added": false,
+  "tipo": "novelas",
+  "cortesParaIntervalo": [
+    957,
+    1809
+  ],
+  "corteFinal": 2392,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc5ad"
+  },
+  "order": null,
+  "tipo": "novelas",
+  "duracao": 2499,
+  "programaDeTv": "novelaDasSete",
+  "added": false,
+  "titulo": "Novela Top Model - 139.mp4",
+  "tituloAtracao": "Novela das Sete",
+  "canal": "Globo",
+  "cortesParaIntervalo": [
+    967,
+    1853
+  ],
+  "corteFinal": 2499,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc5ae"
+  },
+  "duracao": 2099,
+  "tipo": "novelas",
+  "canal": "Globo",
+  "added": false,
+  "titulo": "De Corpo e Alma - Cap 6.mp4"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc5af"
+  },
+  "added": false,
+  "titulo": "O Sorriso Do Lagarto Capítulo 13.mp4",
+  "canal": "Globo",
+  "duracao": 2169,
+  "tipo": "novelas"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc5b0"
+  },
+  "canal": "Globo",
+  "tituloAtracao": "Novela das Sete",
+  "duracao": 2517,
+  "added": false,
+  "programaDeTv": "novelaDasSete",
+  "titulo": "Novela Top Model - 143.mp4",
+  "order": null,
+  "tipo": "novelas",
+  "cortesParaIntervalo": [
+    880,
+    1869
+  ],
+  "corteFinal": 2517,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc5b1"
+  },
+  "programaDeTv": "novelaDasSete",
+  "tituloAtracao": "Novela das Sete",
+  "canal": "Globo",
+  "duracao": 2514,
+  "order": 45,
+  "added": false,
+  "titulo": "Novela Top Model - 045.mp4",
+  "tipo": "novelas",
+  "cortesParaIntervalo": [
+    744,
+    1694
+  ]
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc5b2"
+  },
+  "titulo": "O Sorriso Do Lagarto Capítulo 32.mp4",
+  "added": false,
+  "tipo": "novelas",
+  "duracao": 2247,
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc5b3"
+  },
+  "titulo": "O Sorriso Do Lagarto Capítulo 08.mp4",
+  "added": false,
+  "canal": "Globo",
+  "tipo": "novelas",
+  "duracao": 2241
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc5b4"
+  },
+  "order": null,
+  "tipo": "novelas",
+  "tituloAtracao": "Novela das Seis",
+  "canal": "Globo",
+  "titulo": "Novela - O Sexo dos Anjos - 186-187.mp4",
+  "corteInicio": 0,
+  "programaDeTv": "novelaDasSeis",
+  "duracao": 3098,
+  "corteFinal": 3098,
+  "cortesParaIntervalo": [
+    1682
+  ],
+  "added": false
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc5b5"
+  },
+  "tipo": "novelas",
+  "programaDeTv": "novelaDasSete",
+  "added": true,
+  "titulo": "Novela Top Model - 019.mp4",
+  "corteFinal": 2227,
+  "order": 19,
+  "duracao": 2227,
+  "tituloAtracao": "Novela das Sete",
+  "canal": "Globo",
+  "cortesParaIntervalo": [
+    734,
+    1648
+  ],
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc5b6"
+  },
+  "order": 8,
+  "tituloAtracao": "Carrossel",
+  "duracao": 2163,
+  "programaDeTv": "carrossel",
+  "titulo": "Carrossel 1991 Capitulo 06.mp4",
+  "tipo": "novelas",
+  "canal": "Sbt",
+  "added": true,
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc5b7"
+  },
+  "programaDeTv": "novelaCorpoSanto",
+  "added": true,
+  "tituloAtracao": "Novela Corpo Santo",
+  "duracao": 2909,
+  "order": 13,
+  "tipo": "novelas",
+  "canal": "Manchete",
+  "titulo": "Corpo Santo 1987 - 28.mp4"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc5b8"
+  },
+  "order": null,
+  "tituloAtracao": "Novela das Sete",
+  "added": false,
+  "titulo": "Novela Top Model - 181.mp4",
+  "tipo": "novelas",
+  "programaDeTv": "novelaDasSete",
+  "canal": "Globo",
+  "duracao": 2273,
+  "cortesParaIntervalo": [
+    756,
+    1420
+  ],
+  "corteFinal": 2273,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc5b9"
+  },
+  "programaDeTv": "noivasDeCopacabana",
+  "titulo": "As Noivas De Copacabana - Episódio 14.mp4",
+  "added": false,
+  "duracao": 2795,
+  "tipo": "novelas",
+  "order": 14,
+  "canal": "Globo",
+  "tituloAtracao": "Int noivasDeCopacabana",
+  "corteFinal": 2759,
+  "corteInicio": 0,
+  "cortesParaIntervalo": [
+    764,
+    1259,
+    2012
+  ]
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc5ba"
+  },
+  "canal": "Globo",
+  "tipo": "novelas",
+  "programaDeTv": "novelaDasSete",
+  "added": false,
+  "duracao": 2458,
+  "order": null,
+  "titulo": "Novela Top Model - 165.mp4",
+  "tituloAtracao": "Novela das Sete",
+  "cortesParaIntervalo": [
+    1018,
+    1698
+  ],
+  "corteFinal": 2458,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc5bb"
+  },
+  "duracao": 2265,
+  "order": null,
+  "added": false,
+  "titulo": "Novela Top Model - 146.mp4",
+  "tipo": "novelas",
+  "tituloAtracao": "Novela das Sete",
+  "canal": "Globo",
+  "programaDeTv": "novelaDasSete",
+  "cortesParaIntervalo": [
+    922,
+    1590
+  ],
+  "corteFinal": 2265,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc5bc"
+  },
+  "titulo": "Novela Top Model - 136.mp4",
+  "order": null,
+  "programaDeTv": "novelaDasSete",
+  "added": false,
+  "tituloAtracao": "Novela das Sete",
+  "canal": "Globo",
+  "tipo": "novelas",
+  "duracao": 2171,
+  "cortesParaIntervalo": [
+    754,
+    1438
+  ],
+  "corteFinal": 2171,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc5bd"
+  },
+  "titulo": "Pantanal-172.mp4",
+  "duracao": 2796,
+  "order": null,
+  "canal": "Manchete",
+  "tipo": "novelas"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc5be"
+  },
+  "added": false,
+  "canal": "Globo",
+  "duracao": 2731,
+  "tituloAtracao": "Novela das Seis",
+  "titulo": "Novela Barriga de Aluguel 44.mp4",
+  "programaDeTv": "novelaDasSeis",
+  "tipo": "novelas",
+  "cortesParaIntervalo": [
+    507,
+    1121,
+    1967,
+    2571
+  ],
+  "order": 44
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc5bf"
+  },
+  "cortesParaIntervalo": [
+    681,
+    1403
+  ],
+  "tipo": "novelas",
+  "programaDeTv": "novelaVPVN",
+  "canal": "Globo",
+  "titulo": "A Gata Comeu - 26.mp4",
+  "order": 6,
+  "tituloAtracao": "Novela VPVN",
+  "corteInicio": 0,
+  "corteFinal": 2339,
+  "added": true,
+  "duracao": 2339
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc5c1"
+  },
+  "added": false,
+  "titulo": "Novela Barriga de Aluguel 37.mp4",
+  "tituloAtracao": "Novela das Seis",
+  "duracao": 2373,
+  "canal": "Globo",
+  "programaDeTv": "novelaDasSeis",
+  "tipo": "novelas",
+  "cortesParaIntervalo": [
+    988,
+    1706,
+    2227
+  ],
+  "order": 37
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc5c2"
+  },
+  "order": 62,
+  "added": false,
+  "tipo": "novelas",
+  "canal": "Globo",
+  "programaDeTv": "novelaDasSete",
+  "titulo": "Novela Top Model - 062.mp4",
+  "duracao": 2421,
+  "tituloAtracao": "Novela das Sete",
+  "cortesParaIntervalo": [
+    808,
+    1757
+  ],
+  "corteFinal": 2421,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc5c3"
+  },
+  "programaDeTv": "novelaDasSete",
+  "canal": "Globo",
+  "added": false,
+  "tituloAtracao": "Novela das Sete",
+  "tipo": "novelas",
+  "duracao": 2635,
+  "titulo": "Novela Top Model - 173.mp4",
+  "order": null,
+  "cortesParaIntervalo": [
+    1213,
+    1799
+  ],
+  "corteFinal": 2635,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc5c4"
+  },
+  "added": false,
+  "duracao": 2449,
+  "tipo": "novelas",
+  "canal": "Globo",
+  "titulo": "Novela Barriga de Aluguel 48.mp4",
+  "tituloAtracao": "Novela das Seis",
+  "programaDeTv": "novelaDasSeis",
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc5c5"
+  },
+  "canal": "Globo",
+  "tipo": "novelas",
+  "titulo": "Meu Bem Meu Mal Cap 39.mp4",
+  "tituloAtracao": "Novela das Oito",
+  "added": false,
+  "duracao": 2993,
+  "programaDeTv": "novelaDasOito",
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc5c6"
+  },
+  "duracao": 2407,
+  "tipo": "novelas",
+  "added": false,
+  "titulo": "O Sorriso Do Lagarto Capítulo 15.mp4",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc5c7"
+  },
+  "titulo": "A Gata Comeu - 37.mp4",
+  "tituloAtracao": "Novela VPVN",
+  "programaDeTv": "novelaVPVN",
+  "tipo": "novelas",
+  "canal": "Globo",
+  "order": null,
+  "added": false,
+  "duracao": 2278,
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc5c8"
+  },
+  "canal": "Globo",
+  "added": false,
+  "duracao": 2451,
+  "tipo": "novelas",
+  "titulo": "O Sorriso Do Lagarto Capítulo 04.mp4"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc5c9"
+  },
+  "programaDeTv": "novelaDasSete",
+  "tipo": "novelas",
+  "titulo": "Novela Top Model - 043.mp4",
+  "tituloAtracao": "Novela das Sete",
+  "added": false,
+  "order": 43,
+  "duracao": 2375,
+  "canal": "Globo",
+  "cortesParaIntervalo": [
+    1056,
+    1542
+  ]
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc5ca"
+  },
+  "tipo": "novelas",
+  "duracao": 2304,
+  "titulo": "Meu Bem Meu Mal Cap 17.mp4",
+  "canal": "Globo",
+  "tituloAtracao": "Novela das Oito",
+  "added": false,
+  "programaDeTv": "novelaDasOito",
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc5cb"
+  },
+  "duracao": 2027,
+  "canal": "Globo",
+  "added": false,
+  "tituloAtracao": "Araponga",
+  "programaDeTv": "araponga",
+  "titulo": "Araponga Capítulo 04.mp4",
+  "order": null,
+  "tipo": "novelas",
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc5cc"
+  },
+  "tipo": "novelas",
+  "canal": "Globo",
+  "programaDeTv": "novelaDasOito",
+  "duracao": 3057,
+  "added": false,
+  "titulo": "Meu Bem Meu Mal Cap 38.mp4",
+  "tituloAtracao": "Novela das Oito",
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc5ce"
+  },
+  "duracao": 2584,
+  "canal": "Globo",
+  "added": false,
+  "tipo": "novelas",
+  "titulo": "De Corpo e Alma - Cap 1.mp4"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc5cf"
+  },
+  "canal": "Globo",
+  "added": false,
+  "order": 88,
+  "tipo": "novelas",
+  "titulo": "Novela Top Model - 088.mp4",
+  "tituloAtracao": "Novela das Sete",
+  "programaDeTv": "novelaDasSete",
+  "duracao": 2109,
+  "cortesParaIntervalo": [
+    813,
+    1412
+  ],
+  "corteFinal": 2109,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc5d0"
+  },
+  "duracao": 2218,
+  "canal": "Globo",
+  "programaDeTv": "novelaVPVN",
+  "added": false,
+  "order": null,
+  "titulo": "A Gata Comeu - 31.mp4",
+  "tipo": "novelas",
+  "tituloAtracao": "Novela VPVN",
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc5d1"
+  },
+  "duracao": 2487,
+  "tituloAtracao": "Novela Corpo Santo",
+  "programaDeTv": "novelaCorpoSanto",
+  "tipo": "novelas",
+  "titulo": "Corpo Santo 1987 - 22.mp4",
+  "added": true,
+  "order": 11,
+  "canal": "Manchete"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc5d2"
+  },
+  "added": true,
+  "tituloAtracao": "Novela das Sete",
+  "corteFinal": 2408,
+  "cortesParaIntervalo": [
+    977,
+    1663
+  ],
+  "programaDeTv": "novelaDasSete",
+  "canal": "Globo",
+  "titulo": "Novela Top Model - 004.mp4",
+  "order": 4,
+  "tipo": "novelas",
+  "corteInicio": 0,
+  "duracao": 2408
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc5d3"
+  },
+  "corteFinal": 3127,
+  "cortesParaIntervalo": [
+    1199,
+    2105,
+    2802
+  ],
+  "duracao": 3136,
+  "corteInicio": 10,
+  "tituloAtracao": "Novela das Oito",
+  "programaDeTv": "novelaDasOito",
+  "order": 3,
+  "titulo": "Novela O Dono Do Mundo - 003.mp4",
+  "canal": "Globo",
+  "added": true,
+  "tipo": "novelas"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc5d4"
+  },
+  "duracao": 2413,
+  "canal": "Globo",
+  "titulo": "Novela Top Model - 071.mp4",
+  "order": 71,
+  "tipo": "novelas",
+  "added": false,
+  "programaDeTv": "novelaDasSete",
+  "tituloAtracao": "Novela das Sete",
+  "cortesParaIntervalo": [
+    1008,
+    1661
+  ],
+  "corteFinal": 2413,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc5d5"
+  },
+  "canal": "Manchete",
+  "titulo": "Pantanal-127.mp4",
+  "order": null,
+  "duracao": 2768,
+  "tipo": "novelas"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc5d8"
+  },
+  "titulo": "Novela Top Model - 015.mp4",
+  "tituloAtracao": "Novela das Sete",
+  "duracao": 2460,
+  "programaDeTv": "novelaDasSete",
+  "corteInicio": 0,
+  "canal": "Globo",
+  "tipo": "novelas",
+  "corteFinal": 2460,
+  "added": true,
+  "order": 15,
+  "cortesParaIntervalo": [
+    991,
+    1742
+  ]
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc5d9"
+  },
+  "cortesParaIntervalo": [
+    1414,
+    1724,
+    2321
+  ],
+  "titulo": "Novela O Dono Do Mundo - 008.mp4",
+  "duracao": 3105,
+  "tituloAtracao": "Novela das Oito",
+  "corteFinal": 3095,
+  "tipo": "novelas",
+  "added": true,
+  "programaDeTv": "novelaDasOito",
+  "corteInicio": 11,
+  "canal": "Globo",
+  "order": 7
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc5da"
+  },
+  "programaDeTv": "novelaDasSete",
+  "duracao": 2171,
+  "tituloAtracao": "Novela das Sete",
+  "added": false,
+  "order": 32,
+  "titulo": "Novela Top Model - 032.mp4",
+  "tipo": "novelas",
+  "canal": "Globo",
+  "cortesParaIntervalo": [
+    840,
+    1423
+  ],
+  "corteFinal": 2171,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc5db"
+  },
+  "titulo": "O Sorriso Do Lagarto Capítulo 42.mp4",
+  "duracao": 2422,
+  "canal": "Globo",
+  "tipo": "novelas",
+  "added": false
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc5dd"
+  },
+  "order": null,
+  "duracao": 2759,
+  "titulo": "Pantanal-166.mp4",
+  "canal": "Manchete",
+  "tipo": "novelas"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc5de"
+  },
+  "tipo": "novelas",
+  "duracao": 2423,
+  "added": false,
+  "titulo": "Novela Barriga de Aluguel 19.mp4",
+  "tituloAtracao": "Novela das Seis",
+  "programaDeTv": "novelaDasSeis",
+  "canal": "Globo",
+  "cortesParaIntervalo": [
+    762,
+    1501,
+    2286
+  ],
+  "order": 19
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc5df"
+  },
+  "duracao": 2831,
+  "programaDeTv": "novelaDasOito",
+  "titulo": "Meu Bem Meu Mal Cap 46.mp4",
+  "added": false,
+  "tituloAtracao": "Novela das Oito",
+  "tipo": "novelas",
+  "canal": "Globo",
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc5e0"
+  },
+  "titulo": "O Sorriso Do Lagarto Capítulo 48.mp4",
+  "added": false,
+  "tipo": "novelas",
+  "duracao": 2355,
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc5e1"
+  },
+  "tituloAtracao": "Novela das Sete",
+  "added": false,
+  "canal": "Globo",
+  "titulo": "Novela Top Model - 047.mp4",
+  "tipo": "novelas",
+  "duracao": 2738,
+  "programaDeTv": "novelaDasSete",
+  "order": 47,
+  "cortesParaIntervalo": [
+    1049,
+    1863
+  ],
+  "corteFinal": 2738,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc5e2"
+  },
+  "programaDeTv": "novelaCorpoSanto",
+  "duracao": 2644,
+  "tituloAtracao": "Novela Corpo Santo",
+  "canal": "Manchete",
+  "order": 9,
+  "added": true,
+  "titulo": "Corpo Santo 1987 - 20.mp4",
+  "tipo": "novelas"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc5e3"
+  },
+  "order": 68,
+  "tipo": "novelas",
+  "duracao": 2476,
+  "added": false,
+  "canal": "Globo",
+  "titulo": "Novela Top Model - 068.mp4",
+  "programaDeTv": "novelaDasSete",
+  "tituloAtracao": "Novela das Sete",
+  "cortesParaIntervalo": [
+    1038,
+    1853
+  ],
+  "corteFinal": 2476,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc5e4"
+  },
+  "order": null,
+  "added": false,
+  "titulo": "Novela Top Model - 120.mp4",
+  "programaDeTv": "novelaDasSete",
+  "tituloAtracao": "Novela das Sete",
+  "duracao": 2353,
+  "tipo": "novelas",
+  "canal": "Globo",
+  "cortesParaIntervalo": [
+    848,
+    1569
+  ],
+  "corteFinal": 2353,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc5e5"
+  },
+  "titulo": "A Gata Comeu - 46.mp4",
+  "added": false,
+  "programaDeTv": "novelaVPVN",
+  "canal": "Globo",
+  "tipo": "novelas",
+  "order": null,
+  "tituloAtracao": "Novela VPVN",
+  "duracao": 2490,
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc5e6"
+  },
+  "canal": "Globo",
+  "order": 110,
+  "titulo": "Novela Top Model - 110.mp4",
+  "added": false,
+  "programaDeTv": "novelaDasSete",
+  "tituloAtracao": "Novela das Sete",
+  "duracao": 2264,
+  "tipo": "novelas",
+  "cortesParaIntervalo": [
+    129,
+    855,
+    1508
+  ],
+  "corteFinal": 2206,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc5e7"
+  },
+  "tituloAtracao": "Novela das Sete",
+  "order": 106,
+  "tipo": "novelas",
+  "duracao": 2377,
+  "programaDeTv": "novelaDasSete",
+  "canal": "Globo",
+  "added": false,
+  "titulo": "Novela Top Model - 106.mp4",
+  "cortesParaIntervalo": [
+    863,
+    1592
+  ],
+  "corteFinal": 2377,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc5e8"
+  },
+  "added": true,
+  "titulo": "Novela Top Model - 001.mp4",
+  "corteFinal": 2665,
+  "programaDeTv": "novelaDasSete",
+  "corteInicio": 0,
+  "canal": "Globo",
+  "tipo": "novelas",
+  "order": 1,
+  "tituloAtracao": "Novela das Sete",
+  "cortesParaIntervalo": [
+    1402
+  ],
+  "duracao": 2665
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc5e9"
+  },
+  "tipo": "novelas",
+  "added": false,
+  "tituloAtracao": "Novela das Seis",
+  "duracao": 2100,
+  "canal": "Globo",
+  "programaDeTv": "novelaDasSeis",
+  "titulo": "Novela Barriga de Aluguel 12.mp4",
+  "cortesParaIntervalo": [
+    125,
+    1405,
+    1952
+  ],
+  "corteFinal": 2095,
+  "corteInicio": 0,
+  "order": 12
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc5ea"
+  },
+  "canal": "Globo",
+  "duracao": 2456,
+  "titulo": "Novela Top Model - 150.mp4",
+  "added": false,
+  "tipo": "novelas",
+  "order": null,
+  "tituloAtracao": "Novela das Sete",
+  "programaDeTv": "novelaDasSete",
+  "cortesParaIntervalo": [
+    954,
+    1717
+  ],
+  "corteFinal": 2456,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc5eb"
+  },
+  "tipo": "novelas",
+  "added": false,
+  "tituloAtracao": "Novela das Sete",
+  "programaDeTv": "novelaDasSete",
+  "titulo": "Novela Top Model - 075.mp4",
+  "canal": "Globo",
+  "order": 75,
+  "duracao": 2520,
+  "cortesParaIntervalo": [
+    982,
+    1709
+  ]
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc5ec"
+  },
+  "order": null,
+  "titulo": "Pantanal-171.mp4",
+  "tipo": "novelas",
+  "canal": "Manchete",
+  "duracao": 2605
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc5ed"
+  },
+  "tipo": "novelas",
+  "duracao": 2270,
+  "titulo": "A Gata Comeu - 43.mp4",
+  "programaDeTv": "novelaVPVN",
+  "added": false,
+  "canal": "Globo",
+  "tituloAtracao": "Novela VPVN",
+  "order": null,
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc5ee"
+  },
+  "added": false,
+  "tipo": "novelas",
+  "canal": "Globo",
+  "titulo": "O Sorriso Do Lagarto Capítulo 23.mp4",
+  "duracao": 2384
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc5ef"
+  },
+  "canal": "Manchete",
+  "titulo": "Pantanal-148.mp4",
+  "duracao": 2799,
+  "tipo": "novelas",
+  "order": null
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc5f0"
+  },
+  "duracao": 2301,
+  "tipo": "novelas",
+  "titulo": "Meu Bem Meu Mal Cap 25.mp4",
+  "programaDeTv": "novelaDasOito",
+  "added": false,
+  "tituloAtracao": "Novela das Oito",
+  "canal": "Globo",
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc5f1"
+  },
+  "titulo": "Pantanal-147.mp4",
+  "order": null,
+  "canal": "Manchete",
+  "tipo": "novelas",
+  "duracao": 2922
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc5f2"
+  },
+  "duracao": 2492,
+  "order": null,
+  "tipo": "novelas",
+  "canal": "Manchete",
+  "titulo": "Pantanal-150.mp4"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc5f3"
+  },
+  "added": false,
+  "canal": "Globo",
+  "titulo": "Meu Bem Meu Mal Cap 16.mp4",
+  "tipo": "novelas",
+  "tituloAtracao": "Novela das Oito",
+  "duracao": 2544,
+  "programaDeTv": "novelaDasOito",
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc5f4"
+  },
+  "canal": "Globo",
+  "tituloAtracao": "Novela das Sete",
+  "tipo": "novelas",
+  "programaDeTv": "novelaDasSete",
+  "duracao": 2481,
+  "order": 72,
+  "added": false,
+  "titulo": "Novela Top Model - 072.mp4",
+  "cortesParaIntervalo": [
+    1060,
+    1968
+  ],
+  "corteFinal": 2481,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc5f5"
+  },
+  "duracao": 2911,
+  "order": null,
+  "tipo": "novelas",
+  "canal": "Manchete",
+  "titulo": "Pantanal-170.mp4"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc5f6"
+  },
+  "added": false,
+  "duracao": 2320,
+  "tituloAtracao": "Novela das Seis",
+  "tipo": "novelas",
+  "canal": "Globo",
+  "programaDeTv": "novelaDasSeis",
+  "titulo": "Novela Barriga de Aluguel 20.mp4",
+  "cortesParaIntervalo": [
+    635,
+    1137,
+    1543,
+    2160
+  ],
+  "order": 20
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc5f7"
+  },
+  "canal": "Globo",
+  "added": false,
+  "duracao": 2317,
+  "tipo": "novelas",
+  "titulo": "O Sorriso Do Lagarto Capítulo 10.mp4"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc5f8"
+  },
+  "tipo": "novelas",
+  "duracao": 2579,
+  "added": false,
+  "tituloAtracao": "Novela das Sete",
+  "canal": "Globo",
+  "programaDeTv": "novelaDasSete",
+  "titulo": "Novela Top Model - 122.mp4",
+  "order": null,
+  "cortesParaIntervalo": [
+    908,
+    1857
+  ],
+  "corteFinal": 2579,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc5f9"
+  },
+  "duracao": 3111,
+  "tipo": "novelas",
+  "programaDeTv": "novelaCorpoSanto",
+  "order": 15,
+  "canal": "Manchete",
+  "tituloAtracao": "Novela Corpo Santo",
+  "titulo": "Corpo Santo 1987 - 30.mp4",
+  "added": true,
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc5fb"
+  },
+  "canal": "Globo",
+  "corteFinal": 3096,
+  "titulo": "Novela Barriga de Aluguel 01.mp4",
+  "order": 1,
+  "programaDeTv": "novelaDasSeis",
+  "added": true,
+  "tituloAtracao": "Novela das Seis",
+  "cortesParaIntervalo": [
+    1151,
+    1602,
+    2169,
+    2507
+  ],
+  "corteInicio": 0,
+  "duracao": 3096,
+  "tipo": "novelas"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc5fc"
+  },
+  "programaDeTv": "novelaDasSeis",
+  "corteFinal": 2692,
+  "order": 6,
+  "cortesParaIntervalo": [
+    944,
+    1583,
+    2079
+  ],
+  "added": true,
+  "corteInicio": 0,
+  "canal": "Globo",
+  "tituloAtracao": "Novela das Seis",
+  "titulo": "Novela Barriga de Aluguel 06.mp4",
+  "duracao": 2704,
+  "tipo": "novelas"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc5fd"
+  },
+  "added": true,
+  "programaDeTv": "novelaDasSete",
+  "corteInicio": 0,
+  "order": 18,
+  "tipo": "novelas",
+  "corteFinal": 2482,
+  "tituloAtracao": "Novela das Sete",
+  "cortesParaIntervalo": [
+    680,
+    1664
+  ],
+  "canal": "Globo",
+  "duracao": 2482,
+  "titulo": "Novela Top Model - 018.mp4"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc5fe"
+  },
+  "titulo": "Novela Top Model - 063.mp4",
+  "order": 63,
+  "tipo": "novelas",
+  "canal": "Globo",
+  "added": false,
+  "programaDeTv": "novelaDasSete",
+  "duracao": 2115,
+  "tituloAtracao": "Novela das Sete",
+  "cortesParaIntervalo": [
+    830,
+    1480
+  ],
+  "corteFinal": 2115,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc600"
+  },
+  "programaDeTv": "araponga",
+  "canal": "Globo",
+  "titulo": "Araponga Capítulo 07.mp4",
+  "duracao": 1914,
+  "added": false,
+  "tipo": "novelas",
+  "order": null,
+  "tituloAtracao": "Araponga",
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc601"
+  },
+  "titulo": "Meu Bem Meu Mal Cap 03.mp4",
+  "corteInicio": 0,
+  "tipo": "novelas",
+  "programaDeTv": "novelaDasOito",
+  "cortesParaIntervalo": [
+    1016,
+    1576,
+    2001
+  ],
+  "canal": "Globo",
+  "tituloAtracao": "Novela das Oito",
+  "added": false,
+  "corteFinal": 2611,
+  "duracao": 2611
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc602"
+  },
+  "tipo": "novelas",
+  "titulo": "Desejo - Capítulo 09 (1990).mp4",
+  "duracao": 2753,
+  "canal": "Globo",
+  "added": false
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc603"
+  },
+  "duracao": 2190,
+  "tipo": "novelas",
+  "added": false,
+  "canal": "Globo",
+  "titulo": "O Sorriso Do Lagarto Capítulo 30.mp4"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc604"
+  },
+  "tituloAtracao": "Novela das Sete",
+  "added": false,
+  "titulo": "Novela Top Model - 109.mp4",
+  "tipo": "novelas",
+  "canal": "Globo",
+  "programaDeTv": "novelaDasSete",
+  "duracao": 2227,
+  "order": 109,
+  "cortesParaIntervalo": [
+    966,
+    1694
+  ],
+  "corteFinal": 2227,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc605"
+  },
+  "added": false,
+  "duracao": 2663,
+  "tipo": "novelas",
+  "titulo": "O Sorriso Do Lagarto Capítulo 52 Último Capítulo.mp4",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc606"
+  },
+  "order": 2,
+  "programaDeTv": "novelaVPVN",
+  "added": true,
+  "duracao": 2263,
+  "canal": "Globo",
+  "tipo": "novelas",
+  "corteFinal": 2263,
+  "cortesParaIntervalo": [
+    802,
+    1553
+  ],
+  "tituloAtracao": "Novela VPVN",
+  "titulo": "A Gata Comeu - 22.mp4",
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc607"
+  },
+  "tituloAtracao": "Novela das Sete",
+  "programaDeTv": "novelaDasSete",
+  "canal": "Globo",
+  "order": 76,
+  "tipo": "novelas",
+  "added": false,
+  "duracao": 2438,
+  "titulo": "Novela Top Model - 076.mp4",
+  "cortesParaIntervalo": [
+    898,
+    1688
+  ]
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc608"
+  },
+  "tipo": "novelas",
+  "canal": "Globo",
+  "tituloAtracao": "Novela das Sete",
+  "titulo": "Novela Top Model - 073.mp4",
+  "duracao": 2382,
+  "added": false,
+  "programaDeTv": "novelaDasSete",
+  "order": 73,
+  "cortesParaIntervalo": [
+    860,
+    1629
+  ]
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc609"
+  },
+  "titulo": "Desejo - Capítulo 15 (1990).mp4",
+  "canal": "Globo",
+  "added": false,
+  "duracao": 2490,
+  "tipo": "novelas"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc60a"
+  },
+  "added": false,
+  "tipo": "novelas",
+  "duracao": 2276,
+  "titulo": "O Sorriso Do Lagarto Capítulo 39.mp4",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc60b"
+  },
+  "corteFinal": 2524,
+  "added": false,
+  "tituloAtracao": "Novela das Oito",
+  "tipo": "novelas",
+  "duracao": 2524,
+  "cortesParaIntervalo": [
+    728,
+    1356,
+    1960
+  ],
+  "corteInicio": 0,
+  "programaDeTv": "novelaDasOito",
+  "titulo": "Meu Bem Meu Mal Cap 04.mp4",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc60c"
+  },
+  "tipo": "novelas",
+  "duracao": 2264,
+  "added": true,
+  "titulo": "Corpo Santo 1987 - 13.mp4",
+  "order": 4,
+  "programaDeTv": "novelaCorpoSanto",
+  "tituloAtracao": "Novela Corpo Santo",
+  "canal": "Manchete"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc60d"
+  },
+  "duracao": 2857,
+  "added": false,
+  "tipo": "novelas",
+  "canal": "Globo",
+  "titulo": "Desejo - Capítulo 05 (1990).mp4"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc60f"
+  },
+  "canal": "Globo",
+  "tipo": "novelas",
+  "duracao": 2793,
+  "added": false,
+  "programaDeTv": "novelaDasOito",
+  "titulo": "Meu Bem Meu Mal Cap 35.mp4",
+  "tituloAtracao": "Novela das Oito",
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc610"
+  },
+  "programaDeTv": "novelaVPVN",
+  "tipo": "novelas",
+  "tituloAtracao": "Novela VPVN",
+  "added": false,
+  "order": null,
+  "titulo": "A Gata Comeu - 49.mp4",
+  "duracao": 2408,
+  "canal": "Globo",
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc611"
+  },
+  "canal": "Manchete",
+  "tipo": "novelas",
+  "duracao": 2770,
+  "titulo": "Pantanal-134.mp4",
+  "order": null
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc612"
+  },
+  "duracao": 2823,
+  "titulo": "Novela Barriga de Aluguel 02.mp4",
+  "corteInicio": 5,
+  "tituloAtracao": "Novela das Seis",
+  "tipo": "novelas",
+  "programaDeTv": "novelaDasSeis",
+  "order": 2,
+  "added": true,
+  "cortesParaIntervalo": [
+    967,
+    2018
+  ],
+  "corteFinal": 2823,
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc613"
+  },
+  "added": false,
+  "order": null,
+  "duracao": 2301,
+  "canal": "Globo",
+  "programaDeTv": "novelaVPVN",
+  "tipo": "novelas",
+  "tituloAtracao": "Novela VPVN",
+  "titulo": "A Gata Comeu - 33.mp4",
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc614"
+  },
+  "titulo": "Pantanal-165.mp4",
+  "duracao": 2414,
+  "tipo": "novelas",
+  "canal": "Manchete",
+  "order": null
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc615"
+  },
+  "programaDeTv": "novelaDasSete",
+  "tituloAtracao": "Novela das Sete",
+  "duracao": 2472,
+  "order": 114,
+  "tipo": "novelas",
+  "canal": "Globo",
+  "added": false,
+  "titulo": "Novela Top Model - 114.mp4",
+  "cortesParaIntervalo": [
+    841,
+    1506
+  ],
+  "corteFinal": 2456,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc616"
+  },
+  "tituloAtracao": "Araponga",
+  "added": false,
+  "programaDeTv": "araponga",
+  "titulo": "Araponga Capítulo 08.mp4",
+  "duracao": 1932,
+  "tipo": "novelas",
+  "order": null,
+  "canal": "Globo",
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc617"
+  },
+  "order": null,
+  "tipo": "novelas",
+  "duracao": 2833,
+  "canal": "Manchete",
+  "titulo": "Pantanal-141.mp4"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc618"
+  },
+  "canal": "Globo",
+  "added": false,
+  "tipo": "novelas",
+  "titulo": "O Sorriso Do Lagarto Capítulo 11.mp4",
+  "duracao": 2537
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc619"
+  },
+  "duracao": 2303,
+  "order": null,
+  "programaDeTv": "novelaDasSete",
+  "tituloAtracao": "Novela das Sete",
+  "added": false,
+  "titulo": "Novela Top Model - 124.mp4",
+  "tipo": "novelas",
+  "canal": "Globo",
+  "cortesParaIntervalo": [
+    801,
+    1838
+  ],
+  "corteFinal": 2303,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc61b"
+  },
+  "corteFinal": 2380,
+  "tituloAtracao": "Novela das Sete",
+  "titulo": "Novela Top Model - 011.mp4",
+  "corteInicio": 0,
+  "tipo": "novelas",
+  "order": 11,
+  "added": true,
+  "cortesParaIntervalo": [
+    1000,
+    1691
+  ],
+  "canal": "Globo",
+  "programaDeTv": "novelaDasSete",
+  "duracao": 2380
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc61c"
+  },
+  "added": false,
+  "tipo": "novelas",
+  "programaDeTv": "novelaDasOito",
+  "titulo": "Meu Bem Meu Mal Cap 29.mp4",
+  "canal": "Globo",
+  "duracao": 2986,
+  "tituloAtracao": "Novela das Oito",
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc61d"
+  },
+  "programaDeTv": "novelaDasOito",
+  "added": false,
+  "canal": "Globo",
+  "tituloAtracao": "Novela das Oito",
+  "titulo": "Meu Bem Meu Mal Cap 24.mp4",
+  "tipo": "novelas",
+  "duracao": 2425,
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc61e"
+  },
+  "duracao": 1706,
+  "titulo": "Corpo Santo 1987 - 03.mp4",
+  "canal": "",
+  "tipo": "novelas"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc61f"
+  },
+  "tipo": "novelas",
+  "added": false,
+  "canal": "Globo",
+  "titulo": "O Sorriso Do Lagarto Capítulo 27.mp4",
+  "duracao": 2287
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc620"
+  },
+  "titulo": "Novela Top Model - 130.mp4",
+  "tituloAtracao": "Novela das Sete",
+  "added": false,
+  "duracao": 2276,
+  "canal": "Globo",
+  "tipo": "novelas",
+  "programaDeTv": "novelaDasSete",
+  "order": null,
+  "cortesParaIntervalo": [
+    851,
+    1595
+  ],
+  "corteFinal": 2276,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc621"
+  },
+  "programaDeTv": "novelaDasOito",
+  "corteFinal": 2688,
+  "canal": "Globo",
+  "added": false,
+  "cortesParaIntervalo": [
+    856,
+    1367,
+    1852
+  ],
+  "duracao": 2688,
+  "tipo": "novelas",
+  "corteInicio": 0,
+  "titulo": "Meu Bem Meu Mal Cap 11.mp4",
+  "tituloAtracao": "Novela das Oito"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc622"
+  },
+  "added": false,
+  "tituloAtracao": "Novela das Oito",
+  "titulo": "Meu Bem Meu Mal Cap 32.mp4",
+  "tipo": "novelas",
+  "canal": "Globo",
+  "programaDeTv": "novelaDasOito",
+  "duracao": 2892,
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc623"
+  },
+  "tipo": "novelas",
+  "titulo": "Corpo Santo 1987 - 01.mp4",
+  "canal": "",
+  "duracao": 694
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc624"
+  },
+  "titulo": "Novela - O Sexo dos Anjos - 182-183.mp4",
+  "duracao": 3018,
+  "corteFinal": 3018,
+  "corteInicio": 0,
+  "tituloAtracao": "Novela das Seis",
+  "canal": "Globo",
+  "order": null,
+  "tipo": "novelas",
+  "programaDeTv": "novelaDasSeis",
+  "cortesParaIntervalo": [
+    1520
+  ],
+  "added": false
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc625"
+  },
+  "titulo": "Pantanal-161.mp4",
+  "order": null,
+  "canal": "Manchete",
+  "duracao": 2758,
+  "tipo": "novelas"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc626"
+  },
+  "tipo": "novelas",
+  "titulo": "Novela Top Model - 197 - Último Capítulo.mp4",
+  "tituloAtracao": "Novela das Sete",
+  "canal": "Globo",
+  "added": false,
+  "duracao": 2726,
+  "programaDeTv": "novelaDasSete",
+  "order": null,
+  "cortesParaIntervalo": [
+    746,
+    1523
+  ],
+  "corteFinal": 2726,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc627"
+  },
+  "tituloAtracao": "Novela das Oito",
+  "titulo": "Meu Bem Meu Mal Cap 34.mp4",
+  "canal": "Globo",
+  "tipo": "novelas",
+  "duracao": 2345,
+  "added": false,
+  "programaDeTv": "novelaDasOito",
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc628"
+  },
+  "canal": "Globo",
+  "titulo": "O Sorriso Do Lagarto Capítulo 36.mp4",
+  "added": false,
+  "tipo": "novelas",
+  "duracao": 2146
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc629"
+  },
+  "duracao": 1433,
+  "programaDeTv": "araponga",
+  "order": null,
+  "tipo": "novelas",
+  "added": false,
+  "tituloAtracao": "Araponga",
+  "canal": "Globo",
+  "titulo": "Araponga Capítulo 10.mp4",
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc62a"
+  },
+  "canal": "Manchete",
+  "order": null,
+  "duracao": 2532,
+  "tipo": "novelas",
+  "titulo": "Pantanal-167.mp4"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc62b"
+  },
+  "programaDeTv": "novelaDasSete",
+  "order": null,
+  "added": false,
+  "tipo": "novelas",
+  "duracao": 2485,
+  "tituloAtracao": "Novela das Sete",
+  "titulo": "Novela Top Model - 168.mp4",
+  "canal": "Globo",
+  "cortesParaIntervalo": [
+    797,
+    1456
+  ],
+  "corteFinal": 2485,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc62c"
+  },
+  "canal": "Globo",
+  "order": null,
+  "added": false,
+  "programaDeTv": "novelaDasSete",
+  "tituloAtracao": "Novela das Sete",
+  "titulo": "Novela Top Model - 121.mp4",
+  "duracao": 2536,
+  "tipo": "novelas",
+  "cortesParaIntervalo": [
+    990,
+    1782
+  ],
+  "corteFinal": 2536,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc62d"
+  },
+  "canal": "",
+  "tipo": "novelas",
+  "titulo": "Corpo Santo 1987 - 07.mp4",
+  "duracao": 1309
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc62e"
+  },
+  "titulo": "Novela Barriga de Aluguel 36.mp4",
+  "canal": "Globo",
+  "programaDeTv": "novelaDasSeis",
+  "tipo": "novelas",
+  "tituloAtracao": "Novela das Seis",
+  "duracao": 2343,
+  "added": false,
+  "cortesParaIntervalo": [
+    627,
+    991,
+    1704,
+    2188
+  ],
+  "order": 36
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc62f"
+  },
+  "order": null,
+  "tipo": "novelas",
+  "programaDeTv": "novelaDasSete",
+  "titulo": "Novela Top Model - 189.mp4",
+  "tituloAtracao": "Novela das Sete",
+  "duracao": 2456,
+  "added": false,
+  "canal": "Globo",
+  "cortesParaIntervalo": [
+    976,
+    1676
+  ],
+  "corteFinal": 2456,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc630"
+  },
+  "tipo": "novelas",
+  "titulo": "O Sorriso Do Lagarto Capítulo 35.mp4",
+  "duracao": 2313,
+  "canal": "Globo",
+  "added": false
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc632"
+  },
+  "added": false,
+  "titulo": "Novela Top Model - 057.mp4",
+  "tituloAtracao": "Novela das Sete",
+  "tipo": "novelas",
+  "duracao": 2472,
+  "programaDeTv": "novelaDasSete",
+  "canal": "Globo",
+  "order": 57,
+  "cortesParaIntervalo": [
+    765,
+    1620
+  ],
+  "corteFinal": 2472,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc634"
+  },
+  "programaDeTv": "novelaCorpoSanto",
+  "tituloAtracao": "Novela Corpo Santo",
+  "duracao": 3535,
+  "canal": "Manchete",
+  "tipo": "novelas",
+  "titulo": "Corpo Santo 1987 - 31.mp4",
+  "order": 16
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc635"
+  },
+  "canal": "Globo",
+  "added": false,
+  "tipo": "novelas",
+  "duracao": 2269,
+  "titulo": "O Sorriso Do Lagarto Capítulo 2.mp4"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc636"
+  },
+  "corteFinal": 2547,
+  "corteInicio": 0,
+  "cortesParaIntervalo": [
+    1037,
+    1679
+  ],
+  "canal": "Globo",
+  "added": true,
+  "titulo": "Novela Top Model - 025.mp4",
+  "duracao": 2547,
+  "tipo": "novelas",
+  "tituloAtracao": "Novela das Sete",
+  "programaDeTv": "novelaDasSete",
+  "order": 25
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc637"
+  },
+  "programaDeTv": "novelaDasSete",
+  "tipo": "novelas",
+  "tituloAtracao": "Novela das Sete",
+  "added": false,
+  "titulo": "Novela Top Model - 099.mp4",
+  "order": 99,
+  "canal": "Globo",
+  "duracao": 2556,
+  "cortesParaIntervalo": [
+    826,
+    1914
+  ]
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc638"
+  },
+  "added": true,
+  "programaDeTv": "novelaDasSete",
+  "canal": "Globo",
+  "titulo": "Novela Top Model - 006.mp4",
+  "duracao": 2121,
+  "corteInicio": 0,
+  "tituloAtracao": "Novela das Sete",
+  "tipo": "novelas",
+  "cortesParaIntervalo": [
+    653,
+    1555
+  ],
+  "corteFinal": 2121,
+  "order": 6
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc639"
+  },
+  "tipo": "novelas",
+  "canal": "Manchete",
+  "titulo": "Pantanal-144.mp4",
+  "duracao": 2718,
+  "order": null
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc63a"
+  },
+  "tipo": "novelas",
+  "programaDeTv": "novelaDasOito",
+  "tituloAtracao": "Novela das Oito",
+  "canal": "Globo",
+  "duracao": 2793,
+  "titulo": "Meu Bem Meu Mal Cap 43.mp4",
+  "added": false,
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc63b"
+  },
+  "duracao": 2237,
+  "tipo": "novelas",
+  "titulo": "O Sorriso Do Lagarto Capítulo 37.mp4",
+  "added": false,
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc63c"
+  },
+  "added": false,
+  "canal": "Globo",
+  "duracao": 2395,
+  "tipo": "novelas",
+  "titulo": "O Sorriso Do Lagarto Capítulo 03.mp4"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc63d"
+  },
+  "tipo": "novelas",
+  "titulo": "Novela Top Model - 055.mp4",
+  "added": false,
+  "programaDeTv": "novelaDasSete",
+  "order": 55,
+  "tituloAtracao": "Novela das Sete",
+  "canal": "Globo",
+  "duracao": 2337,
+  "cortesParaIntervalo": [
+    868,
+    1589
+  ]
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc63e"
+  },
+  "duracao": 2626,
+  "canal": "Manchete",
+  "titulo": "Pantanal-136.mp4",
+  "order": null,
+  "tipo": "novelas"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc63f"
+  },
+  "titulo": "Corpo Santo 1987 - 02.mp4",
+  "tipo": "novelas",
+  "canal": "",
+  "duracao": 1560
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc640"
+  },
+  "tituloAtracao": "Novela das Sete",
+  "programaDeTv": "novelaDasSete",
+  "corteInicio": 0,
+  "corteFinal": 2283,
+  "canal": "Globo",
+  "cortesParaIntervalo": [
+    648,
+    1652
+  ],
+  "duracao": 2283,
+  "tipo": "novelas",
+  "titulo": "Novela Top Model - 016.mp4",
+  "added": true,
+  "order": 16
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc641"
+  },
+  "tipo": "novelas",
+  "order": null,
+  "added": false,
+  "canal": "Globo",
+  "programaDeTv": "novelaVPVN",
+  "duracao": 2278,
+  "titulo": "A Gata Comeu - 29.mp4",
+  "tituloAtracao": "Novela VPVN",
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc642"
+  },
+  "canal": "Globo",
+  "programaDeTv": "novelaDasSete",
+  "duracao": 2673,
+  "tituloAtracao": "Novela das Sete",
+  "order": 93,
+  "added": false,
+  "titulo": "Novela Top Model - 093.mp4",
+  "tipo": "novelas",
+  "cortesParaIntervalo": [
+    937,
+    1881
+  ]
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc643"
+  },
+  "duracao": 2476,
+  "tipo": "novelas",
+  "added": false,
+  "canal": "Globo",
+  "titulo": "Desejo - Capítulo 12 (1990).mp4"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc644"
+  },
+  "canal": "Globo",
+  "titulo": "O Sorriso Do Lagarto Capítulo 01.mp4",
+  "tipo": "novelas",
+  "added": false,
+  "duracao": 2402
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc645"
+  },
+  "duracao": 2285,
+  "added": true,
+  "programaDeTv": "novelaDasSete",
+  "corteInicio": 0,
+  "tipo": "novelas",
+  "order": 5,
+  "tituloAtracao": "Novela das Sete",
+  "corteFinal": 2285,
+  "canal": "Globo",
+  "cortesParaIntervalo": [
+    718,
+    1375
+  ],
+  "titulo": "Novela Top Model - 005.mp4"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc646"
+  },
+  "canal": "Manchete",
+  "order": null,
+  "duracao": 2899,
+  "tipo": "novelas",
+  "titulo": "Pantanal-130.mp4"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc647"
+  },
+  "duracao": 2532,
+  "tipo": "novelas",
+  "tituloAtracao": "Carrossel",
+  "titulo": "Carrossel 1991 Capitulo 07.mp4",
+  "programaDeTv": "carrossel",
+  "order": 12,
+  "canal": "Sbt"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc648"
+  },
+  "added": false,
+  "canal": "Globo",
+  "tipo": "novelas",
+  "order": 103,
+  "tituloAtracao": "Novela das Sete",
+  "programaDeTv": "novelaDasSete",
+  "titulo": "Novela Top Model - 103.mp4",
+  "duracao": 2324,
+  "cortesParaIntervalo": [
+    707,
+    1506
+  ],
+  "corteFinal": 2324,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc649"
+  },
+  "duracao": 2487,
+  "tipo": "novelas",
+  "titulo": "Novela Top Model - 092.mp4",
+  "programaDeTv": "novelaDasSete",
+  "added": false,
+  "order": 92,
+  "canal": "Globo",
+  "tituloAtracao": "Novela das Sete",
+  "cortesParaIntervalo": [
+    824,
+    1694
+  ]
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc64a"
+  },
+  "canal": "Globo",
+  "titulo": "Novela Top Model - 069.mp4",
+  "added": false,
+  "tipo": "novelas",
+  "programaDeTv": "novelaDasSete",
+  "duracao": 2523,
+  "order": 69,
+  "tituloAtracao": "Novela das Sete",
+  "cortesParaIntervalo": [
+    1092,
+    1749
+  ],
+  "corteFinal": 2523,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc64b"
+  },
+  "added": false,
+  "canal": "Globo",
+  "programaDeTv": "araponga",
+  "duracao": 1914,
+  "order": null,
+  "tipo": "novelas",
+  "titulo": "Araponga Capítulo 06.mp4",
+  "tituloAtracao": "Araponga",
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc64d"
+  },
+  "tipo": "novelas",
+  "canal": "Globo",
+  "titulo": "O Sorriso Do Lagarto Capítulo 14.mp4",
+  "added": false,
+  "duracao": 2352
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc64e"
+  },
+  "added": false,
+  "titulo": "O Sorriso Do Lagarto Capítulo 25.mp4",
+  "duracao": 2580,
+  "tipo": "novelas",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc64f"
+  },
+  "duracao": 2458,
+  "tipo": "novelas",
+  "order": null,
+  "canal": "Globo",
+  "programaDeTv": "novelaDasSete",
+  "added": false,
+  "tituloAtracao": "Novela das Sete",
+  "titulo": "Novela Top Model - 193.mp4",
+  "cortesParaIntervalo": [
+    1013,
+    1756
+  ],
+  "corteFinal": 2458,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc650"
+  },
+  "duracao": 2255,
+  "programaDeTv": "novelaDasOito",
+  "added": false,
+  "canal": "Globo",
+  "tituloAtracao": "Novela das Oito",
+  "titulo": "Meu Bem Meu Mal Cap 14.mp4",
+  "tipo": "novelas",
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc651"
+  },
+  "titulo": "Novela Barriga de Aluguel 46.mp4",
+  "duracao": 2306,
+  "tituloAtracao": "Novela das Seis",
+  "tipo": "novelas",
+  "programaDeTv": "novelaDasSeis",
+  "canal": "Globo",
+  "added": false,
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc652"
+  },
+  "tipo": "novelas",
+  "canal": "Globo",
+  "added": false,
+  "duracao": 2220,
+  "titulo": "O Sorriso Do Lagarto Capítulo 26.mp4"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc653"
+  },
+  "tipo": "novelas",
+  "titulo": "A Gata Comeu - 40.mp4",
+  "tituloAtracao": "Novela VPVN",
+  "duracao": 2215,
+  "order": null,
+  "canal": "Globo",
+  "added": false,
+  "programaDeTv": "novelaVPVN",
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc654"
+  },
+  "programaDeTv": "novelaDasSete",
+  "duracao": 2746,
+  "cortesParaIntervalo": [
+    1033,
+    1879
+  ],
+  "titulo": "Novela Top Model - 031.mp4",
+  "canal": "Globo",
+  "order": 31,
+  "tipo": "novelas",
+  "added": false,
+  "corteInicio": 0,
+  "tituloAtracao": "Novela das Sete",
+  "corteFinal": 2746
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc655"
+  },
+  "canal": "Manchete",
+  "order": null,
+  "titulo": "Pantanal-152.mp4",
+  "duracao": 3217,
+  "tipo": "novelas"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc656"
+  },
+  "programaDeTv": "novelaVPVN",
+  "titulo": "A Gata Comeu - 38.mp4",
+  "order": null,
+  "added": false,
+  "tituloAtracao": "Novela VPVN",
+  "duracao": 2288,
+  "canal": "Globo",
+  "tipo": "novelas",
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc657"
+  },
+  "titulo": "Novela Top Model - 190.mp4",
+  "order": null,
+  "added": false,
+  "programaDeTv": "novelaDasSete",
+  "duracao": 2433,
+  "tipo": "novelas",
+  "canal": "Globo",
+  "tituloAtracao": "Novela das Sete",
+  "cortesParaIntervalo": [
+    890,
+    1514
+  ],
+  "corteFinal": 2402,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc658"
+  },
+  "programaDeTv": "novelaDasSete",
+  "duracao": 2328,
+  "canal": "Globo",
+  "added": false,
+  "tipo": "novelas",
+  "tituloAtracao": "Novela das Sete",
+  "titulo": "Novela Top Model - 078.mp4",
+  "order": 78,
+  "cortesParaIntervalo": [
+    642,
+    1641
+  ]
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc659"
+  },
+  "added": false,
+  "canal": "Globo",
+  "titulo": "Meu Bem Meu Mal Cap 31.mp4",
+  "tituloAtracao": "Novela das Oito",
+  "duracao": 2602,
+  "programaDeTv": "novelaDasOito",
+  "tipo": "novelas",
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc65a"
+  },
+  "tituloAtracao": "Novela das Sete",
+  "titulo": "Novela Top Model - 064.mp4",
+  "programaDeTv": "novelaDasSete",
+  "tipo": "novelas",
+  "order": 64,
+  "canal": "Globo",
+  "duracao": 2355,
+  "added": false,
+  "cortesParaIntervalo": [
+    688,
+    1537
+  ],
+  "corteFinal": 2355,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc65b"
+  },
+  "titulo": "Pantanal-146.mp4",
+  "order": null,
+  "duracao": 2743,
+  "canal": "Manchete",
+  "tipo": "novelas"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc65c"
+  },
+  "canal": "Manchete",
+  "order": null,
+  "duracao": 3244,
+  "tipo": "novelas",
+  "titulo": "Pantanal-169.mp4"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc65d"
+  },
+  "duracao": 3060,
+  "order": 4,
+  "programaDeTv": "carrossel",
+  "canal": "Sbt",
+  "tituloAtracao": "Carrossel",
+  "added": true,
+  "titulo": "Carrossel 1991 Capitulo 10.mp4",
+  "tipo": "novelas"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc65e"
+  },
+  "tipo": "novelas",
+  "titulo": "Meu Bem Meu Mal Cap 20.mp4",
+  "programaDeTv": "novelaDasOito",
+  "canal": "Globo",
+  "added": false,
+  "duracao": 2809,
+  "tituloAtracao": "Novela das Oito",
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc65f"
+  },
+  "added": false,
+  "canal": "Globo",
+  "duracao": 2602,
+  "tituloAtracao": "Novela das Seis",
+  "titulo": "Novela Barriga de Aluguel 10.mp4",
+  "programaDeTv": "novelaDasSeis",
+  "tipo": "novelas",
+  "cortesParaIntervalo": [
+    519,
+    1003,
+    1556,
+    1936,
+    2480
+  ],
+  "order": 10
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc660"
+  },
+  "order": null,
+  "duracao": 2799,
+  "tipo": "novelas",
+  "titulo": "Pantanal-142.mp4",
+  "canal": "Manchete"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc661"
+  },
+  "duracao": 2421,
+  "tituloAtracao": "Novela das Seis",
+  "added": false,
+  "programaDeTv": "novelaDasSeis",
+  "tipo": "novelas",
+  "titulo": "Novela Barriga de Aluguel 29.mp4",
+  "canal": "Globo",
+  "cortesParaIntervalo": [
+    521,
+    1001,
+    1765,
+    2298
+  ],
+  "order": 29
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc662"
+  },
+  "programaDeTv": "novelaVPVN",
+  "corteFinal": 2385,
+  "added": true,
+  "duracao": 2385,
+  "cortesParaIntervalo": [
+    1034,
+    1671
+  ],
+  "tituloAtracao": "Novela VPVN",
+  "titulo": "A Gata Comeu - 21.mp4",
+  "tipo": "novelas",
+  "canal": "Globo",
+  "order": 1,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc663"
+  },
+  "canal": "Sbt",
+  "tituloAtracao": "Carrossel",
+  "titulo": "Carrossel 1991 Capitulo 09.mp4",
+  "programaDeTv": "carrossel",
+  "tipo": "novelas",
+  "duracao": 2257,
+  "order": 7,
+  "added": true,
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc664"
+  },
+  "duracao": 2672,
+  "order": null,
+  "titulo": "Pantanal-140.mp4",
+  "tipo": "novelas",
+  "canal": "Manchete"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc665"
+  },
+  "canal": "Globo",
+  "corteFinal": 2205,
+  "order": 22,
+  "titulo": "Novela Top Model - 022.mp4",
+  "added": true,
+  "tituloAtracao": "Novela das Sete",
+  "corteInicio": 0,
+  "programaDeTv": "novelaDasSete",
+  "duracao": 2205,
+  "tipo": "novelas",
+  "cortesParaIntervalo": [
+    711,
+    1540
+  ]
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc666"
+  },
+  "added": false,
+  "canal": "Globo",
+  "duracao": 2231,
+  "tipo": "novelas",
+  "titulo": "O Sorriso Do Lagarto Capítulo 40.mp4"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc667"
+  },
+  "programaDeTv": "novelaDasSete",
+  "titulo": "Novela Top Model - 007.mp4",
+  "cortesParaIntervalo": [
+    765,
+    1675
+  ],
+  "tipo": "novelas",
+  "corteFinal": 2382,
+  "duracao": 2382,
+  "added": true,
+  "order": 7,
+  "corteInicio": 0,
+  "tituloAtracao": "Novela das Sete",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc668"
+  },
+  "tipo": "novelas",
+  "order": null,
+  "canal": "Globo",
+  "titulo": "Novela Top Model - 191.mp4",
+  "programaDeTv": "novelaDasSete",
+  "duracao": 2365,
+  "added": false,
+  "tituloAtracao": "Novela das Sete",
+  "cortesParaIntervalo": [
+    779,
+    1561
+  ],
+  "corteFinal": 2365,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc669"
+  },
+  "titulo": "Novela Top Model - 149.mp4",
+  "canal": "Globo",
+  "tituloAtracao": "Novela das Sete",
+  "tipo": "novelas",
+  "duracao": 2329,
+  "programaDeTv": "novelaDasSete",
+  "order": null,
+  "added": false,
+  "cortesParaIntervalo": [
+    992,
+    1669
+  ],
+  "corteFinal": 2329,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc66a"
+  },
+  "tipo": "novelas",
+  "duracao": 2200,
+  "added": false,
+  "canal": "Globo",
+  "titulo": "O Sorriso Do Lagarto Capítulo 28.mp4"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc66c"
+  },
+  "programaDeTv": "novelaDasSete",
+  "tituloAtracao": "Novela das Sete",
+  "duracao": 2109,
+  "titulo": "Novela Top Model - 147.mp4",
+  "canal": "Globo",
+  "tipo": "novelas",
+  "order": null,
+  "added": false,
+  "cortesParaIntervalo": [
+    1004,
+    1518,
+    1966
+  ],
+  "corteFinal": 2109,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc66d"
+  },
+  "duracao": 2628,
+  "added": false,
+  "canal": "Globo",
+  "tipo": "novelas",
+  "tituloAtracao": "Novela das Sete",
+  "programaDeTv": "novelaDasSete",
+  "order": 100,
+  "titulo": "Novela Top Model - 100.mp4",
+  "cortesParaIntervalo": [
+    854,
+    1970
+  ],
+  "corteFinal": 2628,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc66e"
+  },
+  "titulo": "Meu Bem Meu Mal Cap 50.mp4",
+  "tipo": "novelas",
+  "tituloAtracao": "Novela das Oito",
+  "programaDeTv": "novelaDasOito",
+  "added": false,
+  "duracao": 2659,
+  "canal": "Globo",
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc670"
+  },
+  "order": 48,
+  "added": false,
+  "duracao": 2321,
+  "tituloAtracao": "Novela das Sete",
+  "canal": "Globo",
+  "titulo": "Novela Top Model - 048.mp4",
+  "programaDeTv": "novelaDasSete",
+  "tipo": "novelas",
+  "cortesParaIntervalo": [
+    1046,
+    1482
+  ]
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc671"
+  },
+  "order": 4,
+  "canal": "Globo",
+  "cortesParaIntervalo": [
+    645,
+    1479
+  ],
+  "corteInicio": 0,
+  "corteFinal": 2301,
+  "tituloAtracao": "Novela VPVN",
+  "titulo": "A Gata Comeu - 24.mp4",
+  "programaDeTv": "novelaVPVN",
+  "tipo": "novelas",
+  "duracao": 2301,
+  "added": true
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc672"
+  },
+  "programaDeTv": "novelaDasSete",
+  "corteFinal": 2311,
+  "canal": "Globo",
+  "added": true,
+  "duracao": 2311,
+  "order": 12,
+  "tipo": "novelas",
+  "tituloAtracao": "Novela das Sete",
+  "cortesParaIntervalo": [
+    772,
+    1497
+  ],
+  "corteInicio": 0,
+  "titulo": "Novela Top Model - 012.mp4"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc673"
+  },
+  "order": null,
+  "canal": "Manchete",
+  "tipo": "novelas",
+  "titulo": "Pantanal-159.mp4",
+  "duracao": 2733
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc674"
+  },
+  "tipo": "novelas",
+  "canal": "Globo",
+  "order": 13,
+  "duracao": 2928,
+  "added": false,
+  "titulo": "As Noivas De Copacabana - Episódio 13.mp4",
+  "tituloAtracao": "Int noivasDeCopacabana",
+  "programaDeTv": "noivasDeCopacabana",
+  "corteFinal": 2928,
+  "corteInicio": 0,
+  "cortesParaIntervalo": [
+    798,
+    1463,
+    2161
+  ]
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc676"
+  },
+  "added": false,
+  "duracao": 2229,
+  "tipo": "novelas",
+  "order": null,
+  "canal": "Globo",
+  "tituloAtracao": "Novela VPVN",
+  "titulo": "A Gata Comeu - 39.mp4",
+  "programaDeTv": "novelaVPVN",
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc677"
+  },
+  "order": 23,
+  "tituloAtracao": "Novela das Sete",
+  "cortesParaIntervalo": [
+    757,
+    1459
+  ],
+  "titulo": "Novela Top Model - 023.mp4",
+  "corteFinal": 2374,
+  "canal": "Globo",
+  "tipo": "novelas",
+  "programaDeTv": "novelaDasSete",
+  "corteInicio": 0,
+  "duracao": 2374,
+  "added": true
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc678"
+  },
+  "canal": "Globo",
+  "programaDeTv": "novelaDasOito",
+  "duracao": 2990,
+  "titulo": "Meu Bem Meu Mal Cap 37.mp4",
+  "tipo": "novelas",
+  "added": false,
+  "tituloAtracao": "Novela das Oito",
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc679"
+  },
+  "programaDeTv": "novelaCorpoSanto",
+  "tituloAtracao": "Novela Corpo Santo",
+  "added": true,
+  "duracao": 2122,
+  "order": 2,
+  "tipo": "novelas",
+  "titulo": "Corpo Santo 1987 - 11.mp4",
+  "canal": "Manchete"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc67a"
+  },
+  "canal": "Globo",
+  "tituloAtracao": "Novela das Sete",
+  "programaDeTv": "novelaDasSete",
+  "duracao": 2467,
+  "titulo": "Novela Top Model - 128.mp4",
+  "tipo": "novelas",
+  "added": false,
+  "order": null,
+  "cortesParaIntervalo": [
+    726,
+    1391
+  ],
+  "corteFinal": 2469,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc67b"
+  },
+  "corteInicio": 0,
+  "added": true,
+  "titulo": "Novela Top Model - 010.mp4",
+  "corteFinal": 2162,
+  "programaDeTv": "novelaDasSete",
+  "duracao": 2162,
+  "order": 10,
+  "tipo": "novelas",
+  "canal": "Globo",
+  "cortesParaIntervalo": [
+    898,
+    1428
+  ],
+  "tituloAtracao": "Novela das Sete"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc67c"
+  },
+  "tituloAtracao": "Novela das Seis",
+  "canal": "Globo",
+  "tipo": "novelas",
+  "programaDeTv": "novelaDasSeis",
+  "duracao": 2299,
+  "added": false,
+  "titulo": "Novela Barriga de Aluguel 42.mp4",
+  "cortesParaIntervalo": [
+    495,
+    984,
+    1693,
+    1801
+  ],
+  "order": 42
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc67d"
+  },
+  "canal": "Globo",
+  "titulo": "Araponga Capítulo 12.mp4",
+  "programaDeTv": "araponga",
+  "duracao": 1649,
+  "order": null,
+  "tituloAtracao": "Araponga",
+  "tipo": "novelas",
+  "added": false,
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc67f"
+  },
+  "order": 6,
+  "tipo": "novelas",
+  "duracao": 3130,
+  "tituloAtracao": "Novela das Oito",
+  "titulo": "Novela O Dono Do Mundo - 007.mp4",
+  "cortesParaIntervalo": [
+    977,
+    1741,
+    2635
+  ],
+  "added": true,
+  "corteInicio": 11,
+  "programaDeTv": "novelaDasOito",
+  "corteFinal": 3121,
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc680"
+  },
+  "added": false,
+  "tipo": "novelas",
+  "programaDeTv": "novelaDasSete",
+  "tituloAtracao": "Novela das Sete",
+  "order": null,
+  "duracao": 2309,
+  "titulo": "Novela Top Model - 137.mp4",
+  "canal": "Globo",
+  "cortesParaIntervalo": [
+    733,
+    1672
+  ],
+  "corteFinal": 2309,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc682"
+  },
+  "duracao": 3368,
+  "titulo": "De Corpo e Alma - Cap.086 (FIM).mp4",
+  "added": false,
+  "tipo": "novelas",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc683"
+  },
+  "programaDeTv": "novelaDasOito",
+  "tituloAtracao": "Novela das Oito",
+  "canal": "Globo",
+  "added": false,
+  "duracao": 2361,
+  "titulo": "Meu Bem Meu Mal Cap 13.mp4",
+  "tipo": "novelas",
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc685"
+  },
+  "tituloAtracao": "Novela das Sete",
+  "tipo": "novelas",
+  "order": 97,
+  "duracao": 2644,
+  "programaDeTv": "novelaDasSete",
+  "added": false,
+  "canal": "Globo",
+  "titulo": "Novela Top Model - 097.mp4",
+  "cortesParaIntervalo": [
+    979,
+    1753
+  ]
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc686"
+  },
+  "tipo": "novelas",
+  "titulo": "Pantanal-131.mp4",
+  "duracao": 2785,
+  "order": null,
+  "canal": "Manchete"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc687"
+  },
+  "programaDeTv": "noivasDeCopacabana",
+  "tituloAtracao": "Int noivasDeCopacabana",
+  "canal": "Globo",
+  "tipo": "novelas",
+  "order": 8,
+  "titulo": "As Noivas De Copacabana - Episódio 08.mp4",
+  "added": false,
+  "duracao": 2761,
+  "corteFinal": 2761,
+  "corteInicio": 0,
+  "cortesParaIntervalo": [
+    501,
+    1147,
+    2140
+  ]
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc688"
+  },
+  "tipo": "novelas",
+  "titulo": "Novela Top Model - 085.mp4",
+  "canal": "Globo",
+  "programaDeTv": "novelaDasSete",
+  "order": 85,
+  "tituloAtracao": "Novela das Sete",
+  "added": false,
+  "duracao": 2289,
+  "cortesParaIntervalo": [
+    769,
+    1586
+  ]
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc689"
+  },
+  "added": false,
+  "programaDeTv": "noivasDeCopacabana",
+  "canal": "Globo",
+  "titulo": "As Noivas De Copacabana - Episódio 07.mp4",
+  "tituloAtracao": "Int noivasDeCopacabana",
+  "duracao": 2540,
+  "order": 7,
+  "tipo": "novelas",
+  "corteFinal": 2540,
+  "corteInicio": 0,
+  "cortesParaIntervalo": [
+    437,
+    1422,
+    2004
+  ]
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc68a"
+  },
+  "added": false,
+  "tituloAtracao": "Novela das Seis",
+  "duracao": 2530,
+  "canal": "Globo",
+  "titulo": "Novela Barriga de Aluguel 17.mp4",
+  "tipo": "novelas",
+  "programaDeTv": "novelaDasSeis",
+  "cortesParaIntervalo": [
+    523,
+    1121,
+    1858,
+    2390
+  ],
+  "order": 17
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc68b"
+  },
+  "added": true,
+  "programaDeTv": "novelaDasSeis",
+  "canal": "Globo",
+  "tituloAtracao": "Novela das Seis",
+  "tipo": "novelas",
+  "titulo": "Novela Barriga de Aluguel 08.mp4",
+  "duracao": 2431,
+  "cortesParaIntervalo": [
+    809,
+    1591
+  ],
+  "order": 8
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc68c"
+  },
+  "programaDeTv": "novelaDasSete",
+  "order": 17,
+  "tipo": "novelas",
+  "duracao": 2410,
+  "canal": "Globo",
+  "added": true,
+  "tituloAtracao": "Novela das Sete",
+  "corteFinal": 2410,
+  "cortesParaIntervalo": [
+    734,
+    1685
+  ],
+  "corteInicio": 0,
+  "titulo": "Novela Top Model - 017.mp4"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc68e"
+  },
+  "tituloAtracao": "Novela VPVN",
+  "duracao": 2472,
+  "tipo": "novelas",
+  "canal": "Globo",
+  "programaDeTv": "novelaVPVN",
+  "titulo": "A Gata Comeu - 45.mp4",
+  "added": false,
+  "order": null,
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc68f"
+  },
+  "tipo": "novelas",
+  "duracao": 3109,
+  "titulo": "Pantanal-168.mp4",
+  "canal": "Manchete",
+  "order": null
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc690"
+  },
+  "duracao": 2406,
+  "cortesParaIntervalo": [
+    953,
+    1821
+  ],
+  "tipo": "novelas",
+  "added": true,
+  "canal": "Globo",
+  "corteInicio": 2,
+  "tituloAtracao": "Novela das Sete",
+  "order": 13,
+  "corteFinal": 2412,
+  "titulo": "Novela Top Model - 013.mp4",
+  "programaDeTv": "novelaDasSete"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc691"
+  },
+  "tituloAtracao": "Novela das Sete",
+  "added": false,
+  "duracao": 2583,
+  "canal": "Globo",
+  "order": null,
+  "tipo": "novelas",
+  "programaDeTv": "novelaDasSete",
+  "titulo": "Novela Top Model - 174.mp4",
+  "cortesParaIntervalo": [
+    990,
+    1992
+  ],
+  "corteFinal": 2583,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc692"
+  },
+  "tipo": "novelas",
+  "duracao": 2476,
+  "canal": "Globo",
+  "programaDeTv": "novelaDasSeis",
+  "titulo": "Novela Barriga de Aluguel 45.mp4",
+  "tituloAtracao": "Novela das Seis",
+  "added": false,
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc693"
+  },
+  "programaDeTv": "novelaDasSete",
+  "added": false,
+  "canal": "Globo",
+  "duracao": 2368,
+  "tipo": "novelas",
+  "tituloAtracao": "Novela das Sete",
+  "order": 89,
+  "titulo": "Novela Top Model - 089.mp4",
+  "cortesParaIntervalo": [
+    1061,
+    1723
+  ]
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc694"
+  },
+  "order": null,
+  "canal": "Manchete",
+  "titulo": "Pantanal-139.mp4",
+  "duracao": 2813,
+  "tipo": "novelas"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc695"
+  },
+  "duracao": 2504,
+  "added": false,
+  "programaDeTv": "novelaDasSete",
+  "tituloAtracao": "Novela das Sete",
+  "canal": "Globo",
+  "order": null,
+  "tipo": "novelas",
+  "titulo": "Novela Top Model - 142.mp4",
+  "cortesParaIntervalo": [
+    901,
+    1990
+  ],
+  "corteFinal": 2504,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc696"
+  },
+  "duracao": 2682,
+  "order": 5,
+  "added": true,
+  "canal": "Sbt",
+  "tituloAtracao": "Carrossel",
+  "tipo": "novelas",
+  "programaDeTv": "carrossel",
+  "titulo": "Carrossel 1991 Capitulo 08.mp4"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc697"
+  },
+  "tituloAtracao": "Novela das Oito",
+  "programaDeTv": "novelaDasOito",
+  "duracao": 2591,
+  "canal": "Globo",
+  "titulo": "Meu Bem Meu Mal Cap 45.mp4",
+  "added": false,
+  "tipo": "novelas",
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc698"
+  },
+  "canal": "Globo",
+  "programaDeTv": "novelaDasOito",
+  "titulo": "Novela O Dono Do Mundo - 009 - 011.mp4",
+  "cortesParaIntervalo": [
+    1014,
+    1885,
+    2470
+  ],
+  "added": true,
+  "order": 8,
+  "duracao": 3127,
+  "tituloAtracao": "Novela das Oito",
+  "tipo": "novelas",
+  "corteFinal": 3116,
+  "corteInicio": 11
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc699"
+  },
+  "order": 115,
+  "tituloAtracao": "Novela das Sete",
+  "tipo": "novelas",
+  "added": false,
+  "programaDeTv": "novelaDasSete",
+  "canal": "Globo",
+  "titulo": "Novela Top Model - 115.mp4",
+  "duracao": 2400,
+  "cortesParaIntervalo": [
+    722,
+    1379
+  ],
+  "corteFinal": 2379,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc69a"
+  },
+  "corteInicio": 0,
+  "titulo": "Novela Barriga de Aluguel 04.mp4",
+  "tituloAtracao": "Novela das Seis",
+  "tipo": "novelas",
+  "added": true,
+  "programaDeTv": "novelaDasSeis",
+  "cortesParaIntervalo": [
+    698,
+    1248,
+    1773
+  ],
+  "canal": "Globo",
+  "corteFinal": 2635,
+  "duracao": 2648,
+  "order": 4
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc69b"
+  },
+  "tipo": "novelas",
+  "canal": "Globo",
+  "added": false,
+  "titulo": "O Sorriso Do Lagarto Capítulo 18.mp4",
+  "duracao": 2135
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc69c"
+  },
+  "added": false,
+  "order": 112,
+  "titulo": "Novela Top Model - 112.mp4",
+  "canal": "Globo",
+  "duracao": 2107,
+  "tituloAtracao": "Novela das Sete",
+  "programaDeTv": "novelaDasSete",
+  "tipo": "novelas",
+  "cortesParaIntervalo": [
+    733,
+    1364
+  ],
+  "corteFinal": 2095,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc69d"
+  },
+  "programaDeTv": "novelaDasSete",
+  "tipo": "novelas",
+  "tituloAtracao": "Novela das Sete",
+  "titulo": "Novela Top Model - 090.mp4",
+  "duracao": 2171,
+  "added": false,
+  "order": 90,
+  "canal": "Globo",
+  "cortesParaIntervalo": [
+    755,
+    1735
+  ],
+  "corteFinal": 2171,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc69e"
+  },
+  "added": false,
+  "tipo": "novelas",
+  "order": null,
+  "duracao": 2505,
+  "programaDeTv": "novelaDasSete",
+  "tituloAtracao": "Novela das Sete",
+  "canal": "Globo",
+  "titulo": "Novela Top Model - 195.mp4",
+  "cortesParaIntervalo": [
+    1011,
+    1804
+  ],
+  "corteFinal": 2505,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc69f"
+  },
+  "order": 1,
+  "titulo": "Araponga Capítulo 01.mp4",
+  "tituloAtracao": "Araponga",
+  "programaDeTv": "araponga",
+  "duracao": 1905,
+  "added": true,
+  "tipo": "novelas",
+  "cortesParaIntervalo": [
+    761,
+    1393
+  ],
+  "canal": "Globo",
+  "corteInicio": 0,
+  "corteFinal": 1905
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc6a0"
+  },
+  "duracao": 2452,
+  "canal": "Globo",
+  "added": false,
+  "titulo": "A Gata Comeu - 28.mp4",
+  "tipo": "novelas",
+  "order": null,
+  "programaDeTv": "novelaVPVN",
+  "tituloAtracao": "Novela VPVN",
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc6a1"
+  },
+  "duracao": 2472,
+  "added": false,
+  "programaDeTv": "novelaDasSete",
+  "tipo": "novelas",
+  "order": 51,
+  "tituloAtracao": "Novela das Sete",
+  "titulo": "Novela Top Model - 051.mp4",
+  "canal": "Globo",
+  "cortesParaIntervalo": [
+    765,
+    1619
+  ]
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc6a2"
+  },
+  "added": false,
+  "canal": "Globo",
+  "duracao": 2472,
+  "tituloAtracao": "Novela das Sete",
+  "order": null,
+  "titulo": "Novela Top Model - 194.mp4",
+  "tipo": "novelas",
+  "programaDeTv": "novelaDasSete",
+  "cortesParaIntervalo": [
+    774,
+    1512
+  ],
+  "corteFinal": 2472,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc6a3"
+  },
+  "programaDeTv": "novelaDasSete",
+  "titulo": "Novela Top Model - 179.mp4",
+  "duracao": 2226,
+  "tipo": "novelas",
+  "canal": "Globo",
+  "tituloAtracao": "Novela das Sete",
+  "order": null,
+  "added": false,
+  "cortesParaIntervalo": [
+    895,
+    1538
+  ],
+  "corteFinal": 2226,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc6a5"
+  },
+  "titulo": "O Sorriso Do Lagarto Capítulo 02.mp4",
+  "tipo": "novelas",
+  "canal": "Globo",
+  "duracao": 2269,
+  "added": false
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc6a6"
+  },
+  "corteInicio": 0,
+  "titulo": "Novela Top Model - 028.mp4",
+  "duracao": 2366,
+  "cortesParaIntervalo": [
+    1060,
+    1802
+  ],
+  "corteFinal": 2366,
+  "tituloAtracao": "Novela das Sete",
+  "order": 28,
+  "canal": "Globo",
+  "programaDeTv": "novelaDasSete",
+  "tipo": "novelas",
+  "added": true
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc6a7"
+  },
+  "duracao": 3272,
+  "order": 15,
+  "tipo": "novelas",
+  "added": false,
+  "titulo": "As Noivas De Copacabana - Episódio 15.mp4",
+  "tituloAtracao": "Int noivasDeCopacabana",
+  "canal": "Globo",
+  "programaDeTv": "noivasDeCopacabana",
+  "corteFinal": 3230,
+  "corteInicio": 0,
+  "cortesParaIntervalo": [
+    869,
+    1412,
+    1949
+  ]
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc6a8"
+  },
+  "added": true,
+  "tituloAtracao": "Novela das Sete",
+  "tipo": "novelas",
+  "programaDeTv": "novelaDasSete",
+  "order": 26,
+  "cortesParaIntervalo": [
+    682,
+    1427
+  ],
+  "canal": "Globo",
+  "titulo": "Novela Top Model - 026.mp4",
+  "corteFinal": 2151,
+  "duracao": 2151,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc6a9"
+  },
+  "programaDeTv": "novelaDasOito",
+  "tituloAtracao": "Novela das Oito",
+  "added": false,
+  "canal": "Globo",
+  "titulo": "Meu Bem Meu Mal Cap 33.mp4",
+  "duracao": 2556,
+  "tipo": "novelas",
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc6aa"
+  },
+  "added": false,
+  "titulo": "Despedida De Solteiro - Capítulo 192 Completo.mp4",
+  "canal": "Globo",
+  "duracao": 2270,
+  "tipo": "novelas"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc6ab"
+  },
+  "order": null,
+  "tipo": "novelas",
+  "added": false,
+  "tituloAtracao": "Novela das Sete",
+  "programaDeTv": "novelaDasSete",
+  "canal": "Globo",
+  "titulo": "Novela Top Model - 182.mp4",
+  "duracao": 2283,
+  "cortesParaIntervalo": [
+    896,
+    1620
+  ],
+  "corteFinal": 2283,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc6ac"
+  },
+  "titulo": "Novela Top Model - 176.mp4",
+  "duracao": 2555,
+  "tipo": "novelas",
+  "canal": "Globo",
+  "order": null,
+  "tituloAtracao": "Novela das Sete",
+  "programaDeTv": "novelaDasSete",
+  "added": false,
+  "cortesParaIntervalo": [
+    743,
+    1677
+  ],
+  "corteFinal": 2555,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc6ad"
+  },
+  "tipo": "novelas",
+  "canal": "Globo",
+  "titulo": "Novela Barriga de Aluguel 14.mp4",
+  "duracao": 2300,
+  "added": false,
+  "programaDeTv": "novelaDasSeis",
+  "tituloAtracao": "Novela das Seis",
+  "cortesParaIntervalo": [
+    692,
+    1351,
+    2159
+  ],
+  "order": 14
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc6ae"
+  },
+  "canal": "Globo",
+  "tituloAtracao": "Novela das Sete",
+  "tipo": "novelas",
+  "duracao": 2398,
+  "programaDeTv": "novelaDasSete",
+  "titulo": "Novela Top Model - 134.mp4",
+  "added": false,
+  "order": null,
+  "cortesParaIntervalo": [
+    986,
+    1628
+  ],
+  "corteFinal": 2398,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc6af"
+  },
+  "tituloAtracao": "Novela das Oito",
+  "tipo": "novelas",
+  "added": false,
+  "corteInicio": 0,
+  "titulo": "Meu Bem Meu Mal Cap 12.mp4",
+  "cortesParaIntervalo": [
+    925,
+    1451,
+    2455
+  ],
+  "duracao": 2911,
+  "corteFinal": 2911,
+  "programaDeTv": "novelaDasOito",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc6b0"
+  },
+  "canal": "Manchete",
+  "titulo": "Corpo Santo 1987 - 18.mp4",
+  "programaDeTv": "novelaCorpoSanto",
+  "tituloAtracao": "Novela Corpo Santo",
+  "duracao": 2548,
+  "tipo": "novelas",
+  "added": true,
+  "order": 8
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc6b1"
+  },
+  "titulo": "Carrossel 1991 Capitulo 01.mp4",
+  "tipo": "novelas",
+  "tituloAtracao": "Carrossel",
+  "added": true,
+  "canal": "Sbt",
+  "order": 2,
+  "duracao": 3167,
+  "programaDeTv": "carrossel"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc6b2"
+  },
+  "canal": "Manchete",
+  "order": null,
+  "titulo": "Pantanal-145.mp4",
+  "duracao": 2790,
+  "tipo": "novelas"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc6b3"
+  },
+  "duracao": 2791,
+  "tipo": "novelas",
+  "canal": "Manchete",
+  "order": null,
+  "titulo": "Pantanal-129.mp4"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc6b4"
+  },
+  "tituloAtracao": "Novela das Sete",
+  "order": 84,
+  "programaDeTv": "novelaDasSete",
+  "added": false,
+  "titulo": "Novela Top Model - 084.mp4",
+  "canal": "Globo",
+  "duracao": 2285,
+  "tipo": "novelas",
+  "cortesParaIntervalo": [
+    821,
+    1402
+  ],
+  "corteFinal": 2285,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc6b5"
+  },
+  "tipo": "novelas",
+  "titulo": "O Sorriso Do Lagarto Capítulo 51.mp4",
+  "added": false,
+  "canal": "Globo",
+  "duracao": 2597
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc6b6"
+  },
+  "titulo": "Pantanal-157.mp4",
+  "canal": "Manchete",
+  "duracao": 2610,
+  "order": null,
+  "tipo": "novelas"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc6b7"
+  },
+  "order": null,
+  "tipo": "novelas",
+  "duracao": 2884,
+  "titulo": "Pantanal-158.mp4",
+  "canal": "Manchete"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc6b8"
+  },
+  "canal": "Globo",
+  "added": false,
+  "duracao": 2433,
+  "tipo": "novelas",
+  "titulo": "Desejo - Capítulo 14 (1990).mp4"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc6b9"
+  },
+  "duracao": 2252,
+  "programaDeTv": "novelaDasSeis",
+  "tituloAtracao": "Novela das Seis",
+  "tipo": "novelas",
+  "canal": "Globo",
+  "titulo": "Novela Barriga de Aluguel 24.mp4",
+  "added": false,
+  "cortesParaIntervalo": [
+    942,
+    1714,
+    2103
+  ],
+  "order": 24
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc6ba"
+  },
+  "titulo": "A Gata Comeu - 42.mp4",
+  "programaDeTv": "novelaVPVN",
+  "duracao": 2215,
+  "added": false,
+  "tipo": "novelas",
+  "tituloAtracao": "Novela VPVN",
+  "order": null,
+  "canal": "Globo",
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc6bb"
+  },
+  "programaDeTv": "novelaDasSeis",
+  "tituloAtracao": "Novela das Seis",
+  "duracao": 2398,
+  "titulo": "Novela Barriga de Aluguel 34.mp4",
+  "added": false,
+  "canal": "Globo",
+  "tipo": "novelas",
+  "cortesParaIntervalo": [
+    910,
+    1683,
+    2257,
+    2258
+  ],
+  "order": 34
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc6bc"
+  },
+  "added": false,
+  "programaDeTv": "novelaDasOito",
+  "duracao": 2739,
+  "tituloAtracao": "Novela das Oito",
+  "canal": "Globo",
+  "tipo": "novelas",
+  "titulo": "Meu Bem Meu Mal Cap 40.mp4",
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc6bd"
+  },
+  "canal": "Globo",
+  "duracao": 2630,
+  "cortesParaIntervalo": [
+    1342
+  ],
+  "added": false,
+  "titulo": "Novela - O Sexo dos Anjos - 188.mp4",
+  "tipo": "novelas",
+  "tituloAtracao": "Novela das Seis",
+  "corteInicio": 0,
+  "corteFinal": 2630,
+  "programaDeTv": "novelaDasSeis",
+  "order": null
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc6be"
+  },
+  "tipo": "novelas",
+  "duracao": 2381,
+  "added": false,
+  "canal": "Globo",
+  "titulo": "O Sorriso Do Lagarto Capítulo 12.mp4"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc6bf"
+  },
+  "titulo": "Novela Barriga de Aluguel 38.mp4",
+  "tituloAtracao": "Novela das Seis",
+  "added": false,
+  "programaDeTv": "novelaDasSeis",
+  "duracao": 2285,
+  "tipo": "novelas",
+  "canal": "Globo",
+  "cortesParaIntervalo": [
+    452,
+    1007,
+    1494,
+    2128
+  ],
+  "order": 38
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc6c0"
+  },
+  "order": 14,
+  "canal": "Globo",
+  "corteFinal": 2310,
+  "tipo": "novelas",
+  "added": true,
+  "titulo": "Novela Top Model - 014.mp4",
+  "tituloAtracao": "Novela das Sete",
+  "cortesParaIntervalo": [
+    780,
+    1454
+  ],
+  "corteInicio": 0,
+  "duracao": 2310,
+  "programaDeTv": "novelaDasSete"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc6c1"
+  },
+  "titulo": "Novela Top Model - 177.mp4",
+  "added": false,
+  "tipo": "novelas",
+  "duracao": 2464,
+  "canal": "Globo",
+  "order": null,
+  "programaDeTv": "novelaDasSete",
+  "tituloAtracao": "Novela das Sete",
+  "cortesParaIntervalo": [
+    856,
+    1652
+  ],
+  "corteFinal": 2464,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc6c2"
+  },
+  "cortesParaIntervalo": [
+    513,
+    1359
+  ],
+  "tituloAtracao": "Novela VPVN",
+  "order": 7,
+  "duracao": 2259,
+  "corteInicio": 0,
+  "corteFinal": 2259,
+  "canal": "Globo",
+  "titulo": "A Gata Comeu - 27.mp4",
+  "tipo": "novelas",
+  "programaDeTv": "novelaVPVN",
+  "added": false
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc6c3"
+  },
+  "duracao": 2360,
+  "titulo": "Novela Top Model - 161.mp4",
+  "canal": "Globo",
+  "order": null,
+  "programaDeTv": "novelaDasSete",
+  "tituloAtracao": "Novela das Sete",
+  "added": false,
+  "tipo": "novelas",
+  "cortesParaIntervalo": [
+    1095,
+    1747
+  ],
+  "corteFinal": 2360,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc6c4"
+  },
+  "duracao": 2716,
+  "titulo": "Meu Bem Meu Mal Cap 48.mp4",
+  "programaDeTv": "novelaDasOito",
+  "tituloAtracao": "Novela das Oito",
+  "canal": "Globo",
+  "added": false,
+  "tipo": "novelas",
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc6c5"
+  },
+  "canal": "Globo",
+  "added": false,
+  "duracao": 2311,
+  "order": null,
+  "titulo": "Novela Top Model - 166.mp4",
+  "programaDeTv": "novelaDasSete",
+  "tituloAtracao": "Novela das Sete",
+  "tipo": "novelas",
+  "cortesParaIntervalo": [
+    776,
+    1582
+  ],
+  "corteFinal": 2311,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc6c7"
+  },
+  "titulo": "Meu Bem Meu Mal Cap 06.mp4",
+  "corteInicio": 0,
+  "canal": "Globo",
+  "cortesParaIntervalo": [
+    696,
+    1297,
+    1661
+  ],
+  "tituloAtracao": "Novela das Oito",
+  "duracao": 2169,
+  "tipo": "novelas",
+  "programaDeTv": "novelaDasOito",
+  "corteFinal": 2169,
+  "added": false
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc6c8"
+  },
+  "duracao": 2458,
+  "tipo": "novelas",
+  "added": false,
+  "titulo": "O Sorriso Do Lagarto Capítulo 07.mp4",
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc6c9"
+  },
+  "titulo": "Pantanal-173.mp4",
+  "canal": "Manchete",
+  "duracao": 2541,
+  "order": null,
+  "tipo": "novelas"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc6ca"
+  },
+  "duracao": 2457,
+  "titulo": "Novela Top Model - 111.mp4",
+  "programaDeTv": "novelaDasSete",
+  "canal": "Globo",
+  "added": false,
+  "tipo": "novelas",
+  "order": 111,
+  "tituloAtracao": "Novela das Sete",
+  "cortesParaIntervalo": [
+    1099,
+    1832
+  ],
+  "corteFinal": 2457,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc6cb"
+  },
+  "canal": "Globo",
+  "duracao": 2216,
+  "cortesParaIntervalo": [
+    745,
+    1388
+  ],
+  "order": 5,
+  "tipo": "novelas",
+  "added": true,
+  "corteInicio": 0,
+  "tituloAtracao": "Novela VPVN",
+  "programaDeTv": "novelaVPVN",
+  "titulo": "A Gata Comeu - 25.mp4",
+  "corteFinal": 2216
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc6cc"
+  },
+  "titulo": "Desejo - Capítulo 06 (1990).mp4",
+  "duracao": 2499,
+  "tipo": "novelas",
+  "added": false,
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc6cd"
+  },
+  "canal": "Globo",
+  "programaDeTv": "novelaDasSete",
+  "tipo": "novelas",
+  "order": 94,
+  "added": false,
+  "tituloAtracao": "Novela das Sete",
+  "titulo": "Novela Top Model - 094.mp4",
+  "duracao": 2395,
+  "cortesParaIntervalo": [
+    862,
+    1736
+  ]
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc6ce"
+  },
+  "added": false,
+  "tipo": "novelas",
+  "order": 60,
+  "tituloAtracao": "Novela das Sete",
+  "programaDeTv": "novelaDasSete",
+  "titulo": "Novela Top Model - 060.mp4",
+  "canal": "Globo",
+  "duracao": 2492,
+  "cortesParaIntervalo": [
+    1009,
+    1805
+  ],
+  "corteFinal": 2492,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc6cf"
+  },
+  "duracao": 3066,
+  "order": null,
+  "titulo": "Pantanal-133.mp4",
+  "tipo": "novelas",
+  "canal": "Manchete"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc6d0"
+  },
+  "added": false,
+  "programaDeTv": "novelaDasSeis",
+  "duracao": 2449,
+  "titulo": "Novela Barriga de Aluguel 32.mp4",
+  "tituloAtracao": "Novela das Seis",
+  "tipo": "novelas",
+  "canal": "Globo",
+  "cortesParaIntervalo": [
+    894,
+    1722,
+    2314
+  ],
+  "order": 32
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc6d1"
+  },
+  "tituloAtracao": "Novela das Sete",
+  "duracao": 2395,
+  "tipo": "novelas",
+  "canal": "Globo",
+  "order": null,
+  "programaDeTv": "novelaDasSete",
+  "titulo": "Novela Top Model - 132.mp4",
+  "added": false,
+  "cortesParaIntervalo": [
+    857,
+    1597
+  ],
+  "corteFinal": 2395,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc6d2"
+  },
+  "programaDeTv": "novelaDasSeis",
+  "added": false,
+  "duracao": 2274,
+  "tipo": "novelas",
+  "titulo": "Novela Barriga de Aluguel 18.mp4",
+  "tituloAtracao": "Novela das Seis",
+  "canal": "Globo",
+  "cortesParaIntervalo": [
+    719,
+    1450,
+    2120
+  ],
+  "order": 18
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc6d3"
+  },
+  "canal": "Manchete",
+  "tipo": "novelas",
+  "order": null,
+  "duracao": 3126,
+  "titulo": "Pantanal-174-final.mp4"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc6d4"
+  },
+  "tituloAtracao": "Novela das Sete",
+  "added": false,
+  "duracao": 2420,
+  "tipo": "novelas",
+  "canal": "Globo",
+  "titulo": "Novela Top Model - 070.mp4",
+  "order": 70,
+  "programaDeTv": "novelaDasSete",
+  "cortesParaIntervalo": [
+    825,
+    1619
+  ],
+  "corteFinal": 2420,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc6d5"
+  },
+  "added": true,
+  "tipo": "novelas",
+  "programaDeTv": "novelaDasSete",
+  "canal": "Globo",
+  "order": 27,
+  "titulo": "Novela Top Model - 027.mp4",
+  "duracao": 2375,
+  "corteFinal": 2375,
+  "cortesParaIntervalo": [
+    869,
+    1690
+  ],
+  "corteInicio": 0,
+  "tituloAtracao": "Novela das Sete"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc6d6"
+  },
+  "added": false,
+  "titulo": "O Sorriso Do Lagarto Capítulo 46.mp4",
+  "tipo": "novelas",
+  "canal": "Globo",
+  "duracao": 2428
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc6d7"
+  },
+  "titulo": "Desejo - Capítulo 10 (1990).mp4",
+  "added": false,
+  "duracao": 2707,
+  "canal": "Globo",
+  "tipo": "novelas"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc6d8"
+  },
+  "duracao": 2715,
+  "canal": "Sbt",
+  "programaDeTv": "carrossel",
+  "tituloAtracao": "Carrossel",
+  "order": 1,
+  "added": true,
+  "tipo": "novelas",
+  "titulo": "Carrossel 1991 Capitulo 04.mp4"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc6d9"
+  },
+  "tipo": "novelas",
+  "added": false,
+  "canal": "Globo",
+  "programaDeTv": "novelaDasSete",
+  "tituloAtracao": "Novela das Sete",
+  "duracao": 2528,
+  "order": 44,
+  "titulo": "Novela Top Model - 044.mp4",
+  "cortesParaIntervalo": [
+    1008,
+    1762
+  ],
+  "corteFinal": 2528,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc6da"
+  },
+  "tipo": "novelas",
+  "programaDeTv": "novelaDasSete",
+  "added": false,
+  "duracao": 2464,
+  "titulo": "Novela Top Model - 038.mp4",
+  "canal": "Globo",
+  "order": 38,
+  "tituloAtracao": "Novela das Sete",
+  "cortesParaIntervalo": [
+    944,
+    1665
+  ],
+  "corteFinal": 2598,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc6db"
+  },
+  "duracao": 2214,
+  "titulo": "O Sorriso Do Lagarto Capítulo 31.mp4",
+  "tipo": "novelas",
+  "added": false,
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc6dc"
+  },
+  "added": true,
+  "canal": "Globo",
+  "cortesParaIntervalo": [
+    932,
+    1620
+  ],
+  "tipo": "novelas",
+  "corteInicio": 0,
+  "duracao": 2393,
+  "tituloAtracao": "Novela VPVN",
+  "order": 3,
+  "programaDeTv": "novelaVPVN",
+  "titulo": "A Gata Comeu - 23.mp4",
+  "corteFinal": 2393
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc6dd"
+  },
+  "added": false,
+  "duracao": 2301,
+  "tipo": "novelas",
+  "order": 2,
+  "tituloAtracao": "Int noivasDeCopacabana",
+  "canal": "Globo",
+  "titulo": "As Noivas De Copacabana - Episódio 02.mp4",
+  "programaDeTv": "noivasDeCopacabana",
+  "corteFinal": 2301,
+  "corteInicio": 0,
+  "cortesParaIntervalo": [
+    550,
+    912,
+    1521
+  ]
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc6de"
+  },
+  "canal": "Manchete",
+  "titulo": "Pantanal-137.mp4",
+  "tipo": "novelas",
+  "order": null,
+  "duracao": 2613
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc6df"
+  },
+  "added": false,
+  "titulo": "O Sorriso Do Lagarto Cap 16.mp4",
+  "duracao": 2571,
+  "canal": "Globo",
+  "tipo": "novelas"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc6e0"
+  },
+  "tipo": "novelas",
+  "tituloAtracao": "Novela das Sete",
+  "duracao": 2200,
+  "programaDeTv": "novelaDasSete",
+  "order": null,
+  "added": false,
+  "titulo": "Novela Top Model - 140.mp4",
+  "canal": "Globo",
+  "cortesParaIntervalo": [
+    827,
+    1574
+  ],
+  "corteFinal": 2200,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc6e1"
+  },
+  "corteInicio": 0,
+  "programaDeTv": "novelaDasSeis",
+  "titulo": "Novela - O Sexo dos Anjos - 184-185.mp4",
+  "cortesParaIntervalo": [
+    1465
+  ],
+  "added": false,
+  "tituloAtracao": "Novela das Seis",
+  "order": null,
+  "corteFinal": 3120,
+  "tipo": "novelas",
+  "canal": "Globo",
+  "duracao": 3120
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc6e2"
+  },
+  "programaDeTv": "araponga",
+  "tipo": "novelas",
+  "titulo": "Araponga Capítulo 09.mp4",
+  "duracao": 1722,
+  "canal": "Globo",
+  "order": null,
+  "added": false,
+  "tituloAtracao": "Araponga",
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc6e3"
+  },
+  "tipo": "novelas",
+  "order": 21,
+  "tituloAtracao": "Novela das Sete",
+  "duracao": 2469,
+  "corteInicio": 0,
+  "corteFinal": 2469,
+  "added": true,
+  "programaDeTv": "novelaDasSete",
+  "canal": "Globo",
+  "titulo": "Novela Top Model - 021.mp4",
+  "cortesParaIntervalo": [
+    745,
+    1473
+  ]
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc6e4"
+  },
+  "tipo": "novelas",
+  "order": null,
+  "programaDeTv": "novelaDasSete",
+  "added": false,
+  "titulo": "Novela Top Model - 184.mp4",
+  "canal": "Globo",
+  "duracao": 2446,
+  "tituloAtracao": "Novela das Sete",
+  "cortesParaIntervalo": [
+    847,
+    1796
+  ],
+  "corteFinal": 2446,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc6e5"
+  },
+  "canal": "Globo",
+  "programaDeTv": "novelaDasOito",
+  "added": false,
+  "duracao": 2937,
+  "tituloAtracao": "Novela das Oito",
+  "tipo": "novelas",
+  "titulo": "Meu Bem Meu Mal Cap 36.mp4",
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc6e6"
+  },
+  "order": 67,
+  "programaDeTv": "novelaDasSete",
+  "added": false,
+  "tituloAtracao": "Novela das Sete",
+  "canal": "Globo",
+  "duracao": 2413,
+  "tipo": "novelas",
+  "titulo": "Novela Top Model - 067.mp4",
+  "cortesParaIntervalo": [
+    894,
+    1772
+  ]
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc6e7"
+  },
+  "duracao": 2429,
+  "canal": "Sbt",
+  "programaDeTv": "carrossel",
+  "tituloAtracao": "Carrossel",
+  "titulo": "Carrossel 1991 Capitulo 03.mp4",
+  "order": 10,
+  "tipo": "novelas",
+  "added": true,
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc6e8"
+  },
+  "tipo": "novelas",
+  "duracao": 2331,
+  "titulo": "Novela Top Model - 151.mp4",
+  "canal": "Globo",
+  "order": null,
+  "programaDeTv": "novelaDasSete",
+  "tituloAtracao": "Novela das Sete",
+  "added": false,
+  "cortesParaIntervalo": [
+    769,
+    1613
+  ],
+  "corteFinal": 2331,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc6e9"
+  },
+  "duracao": 2407,
+  "titulo": "Novela Top Model - 172.mp4",
+  "order": null,
+  "tituloAtracao": "Novela das Sete",
+  "programaDeTv": "novelaDasSete",
+  "canal": "Globo",
+  "added": false,
+  "tipo": "novelas",
+  "cortesParaIntervalo": [
+    690,
+    1744
+  ],
+  "corteFinal": 2407,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc6ea"
+  },
+  "programaDeTv": "novelaVPVN",
+  "tipo": "novelas",
+  "added": false,
+  "titulo": "A Gata Comeu - 30.mp4",
+  "canal": "Globo",
+  "order": null,
+  "tituloAtracao": "Novela VPVN",
+  "duracao": 2302,
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc6eb"
+  },
+  "tituloAtracao": "Novela das Seis",
+  "canal": "Globo",
+  "tipo": "novelas",
+  "titulo": "Novela Barriga de Aluguel 35.mp4",
+  "programaDeTv": "novelaDasSeis",
+  "duracao": 2159,
+  "added": false,
+  "cortesParaIntervalo": [
+    646,
+    1241,
+    1991
+  ],
+  "order": 35
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc6ec"
+  },
+  "added": false,
+  "order": null,
+  "programaDeTv": "novelaDasSete",
+  "duracao": 2451,
+  "tipo": "novelas",
+  "canal": "Globo",
+  "tituloAtracao": "Novela das Sete",
+  "titulo": "Novela Top Model - 196.mp4",
+  "cortesParaIntervalo": [
+    890,
+    1378
+  ],
+  "corteFinal": 2410,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc6ed"
+  },
+  "canal": "Globo",
+  "added": true,
+  "corteInicio": 0,
+  "corteFinal": 2963,
+  "cortesParaIntervalo": [
+    780,
+    1180,
+    1647,
+    2238
+  ],
+  "titulo": "Novela Barriga de Aluguel 03.mp4",
+  "tipo": "novelas",
+  "order": 3,
+  "tituloAtracao": "Novela das Seis",
+  "programaDeTv": "novelaDasSeis",
+  "duracao": 2975
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc6ee"
+  },
+  "tipo": "novelas",
+  "duracao": 2191,
+  "canal": "Globo",
+  "added": false,
+  "titulo": "O Sorriso Do Lagarto Capítulo 21.mp4"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc6f0"
+  },
+  "programaDeTv": "novelaDasSete",
+  "duracao": 2696,
+  "titulo": "Novela Top Model - 077.mp4",
+  "tituloAtracao": "Novela das Sete",
+  "order": 77,
+  "added": false,
+  "tipo": "novelas",
+  "canal": "Globo",
+  "cortesParaIntervalo": [
+    1017,
+    1904
+  ]
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc6f1"
+  },
+  "added": false,
+  "programaDeTv": "novelaDasSete",
+  "titulo": "Novela Top Model - 144.mp4",
+  "order": null,
+  "canal": "Globo",
+  "duracao": 2450,
+  "tipo": "novelas",
+  "tituloAtracao": "Novela das Sete",
+  "cortesParaIntervalo": [
+    790,
+    1860
+  ],
+  "corteFinal": 2450,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc6f2"
+  },
+  "duracao": 2556,
+  "titulo": "Novela Top Model - 053.mp4",
+  "tipo": "novelas",
+  "order": 53,
+  "tituloAtracao": "Novela das Sete",
+  "added": false,
+  "programaDeTv": "novelaDasSete",
+  "canal": "Globo",
+  "cortesParaIntervalo": [
+    912,
+    1751
+  ]
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc6f3"
+  },
+  "tipo": "novelas",
+  "tituloAtracao": "Novela das Oito",
+  "duracao": 2776,
+  "canal": "Globo",
+  "added": false,
+  "titulo": "Meu Bem Meu Mal Cap 22.mp4",
+  "programaDeTv": "novelaDasOito",
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc6f4"
+  },
+  "programaDeTv": "novelaVPVN",
+  "added": false,
+  "tituloAtracao": "Novela VPVN",
+  "titulo": "A Gata Comeu - 44.mp4",
+  "duracao": 2259,
+  "tipo": "novelas",
+  "order": null,
+  "canal": "Globo",
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc6f5"
+  },
+  "canal": "Globo",
+  "programaDeTv": "novelaDasSete",
+  "added": false,
+  "order": 98,
+  "tituloAtracao": "Novela das Sete",
+  "tipo": "novelas",
+  "titulo": "Novela Top Model - 098.mp4",
+  "duracao": 2304,
+  "cortesParaIntervalo": [
+    826,
+    1617
+  ]
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc6f6"
+  },
+  "tipo": "novelas",
+  "duracao": 3347,
+  "programaDeTv": "noivasDeCopacabana",
+  "canal": "Globo",
+  "titulo": "As Noivas De Copacabana - Episódio 11.mp4",
+  "order": 11,
+  "tituloAtracao": "Int noivasDeCopacabana",
+  "added": false,
+  "corteFinal": 3347,
+  "corteInicio": 0,
+  "cortesParaIntervalo": [
+    1042,
+    1770,
+    2842
+  ]
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc6f7"
+  },
+  "added": false,
+  "duracao": 2753,
+  "tipo": "novelas",
+  "canal": "Globo",
+  "titulo": "Desejo - Capítulo 03 (1990).mp4"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc6f8"
+  },
+  "order": 65,
+  "tituloAtracao": "Novela das Sete",
+  "canal": "Globo",
+  "added": false,
+  "titulo": "Novela Top Model - 065.mp4",
+  "programaDeTv": "novelaDasSete",
+  "tipo": "novelas",
+  "duracao": 2507,
+  "cortesParaIntervalo": [
+    800,
+    1572
+  ],
+  "corteFinal": 2507,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc6fa"
+  },
+  "programaDeTv": "novelaDasSete",
+  "order": 61,
+  "tipo": "novelas",
+  "duracao": 2446,
+  "added": false,
+  "titulo": "Novela Top Model - 061.mp4",
+  "tituloAtracao": "Novela das Sete",
+  "canal": "Globo",
+  "cortesParaIntervalo": [
+    900,
+    1745
+  ],
+  "corteFinal": 2446,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc6fb"
+  },
+  "programaDeTv": "novelaDasOito",
+  "canal": "Globo",
+  "tipo": "novelas",
+  "duracao": 2410,
+  "tituloAtracao": "Novela das Oito",
+  "added": false,
+  "titulo": "Meu Bem Meu Mal Cap 28.mp4",
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc6fc"
+  },
+  "tituloAtracao": "Int noivasDeCopacabana",
+  "order": 12,
+  "canal": "Globo",
+  "programaDeTv": "noivasDeCopacabana",
+  "duracao": 3441,
+  "added": false,
+  "tipo": "novelas",
+  "titulo": "As Noivas De Copacabana - Episódio 12.mp4",
+  "corteFinal": 3441,
+  "corteInicio": 0,
+  "cortesParaIntervalo": [
+    899,
+    1775,
+    2417
+  ]
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc6fd"
+  },
+  "programaDeTv": "novelaDasSeis",
+  "duracao": 2570,
+  "added": false,
+  "titulo": "Novela Barriga de Aluguel 31.mp4",
+  "tipo": "novelas",
+  "canal": "Globo",
+  "tituloAtracao": "Novela das Seis",
+  "cortesParaIntervalo": [
+    510,
+    982,
+    1917,
+    2432
+  ],
+  "order": 31
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc6fe"
+  },
+  "duracao": 2307,
+  "order": null,
+  "titulo": "Novela Top Model - 158.mp4",
+  "tipo": "novelas",
+  "tituloAtracao": "Novela das Sete",
+  "canal": "Globo",
+  "programaDeTv": "novelaDasSete",
+  "added": false,
+  "cortesParaIntervalo": [
+    917,
+    1459
+  ],
+  "corteFinal": 2307,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc6ff"
+  },
+  "tipo": "novelas",
+  "corteFinal": 2977,
+  "corteInicio": 0,
+  "duracao": 2977,
+  "titulo": "Meu Bem Meu Mal Cap 01.mp4",
+  "cortesParaIntervalo": [
+    1397
+  ],
+  "canal": "Globo",
+  "added": false,
+  "tituloAtracao": "Novela das Oito",
+  "programaDeTv": "novelaDasOito"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc700"
+  },
+  "order": null,
+  "tipo": "novelas",
+  "titulo": "Pantanal-143.mp4",
+  "duracao": 2790,
+  "canal": "Manchete"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc701"
+  },
+  "order": null,
+  "duracao": 2423,
+  "tipo": "novelas",
+  "titulo": "A Gata Comeu - 48.mp4",
+  "canal": "Globo",
+  "tituloAtracao": "Novela VPVN",
+  "added": false,
+  "programaDeTv": "novelaVPVN",
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc702"
+  },
+  "titulo": "Novela Top Model - 188.mp4",
+  "added": false,
+  "order": null,
+  "programaDeTv": "novelaDasSete",
+  "tipo": "novelas",
+  "tituloAtracao": "Novela das Sete",
+  "canal": "Globo",
+  "duracao": 2423,
+  "cortesParaIntervalo": [
+    851,
+    1702
+  ],
+  "corteFinal": 2423,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc703"
+  },
+  "duracao": 2332,
+  "tipo": "novelas",
+  "canal": "Globo",
+  "added": false,
+  "titulo": "O Sorriso Do Lagarto Capítulo 45.mp4"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc705"
+  },
+  "duracao": 3365,
+  "titulo": "As Noivas De Copacabana - Episódio 10.mp4",
+  "order": 10,
+  "tipo": "novelas",
+  "added": false,
+  "canal": "Globo",
+  "tituloAtracao": "Int noivasDeCopacabana",
+  "programaDeTv": "noivasDeCopacabana",
+  "corteFinal": 3365,
+  "corteInicio": 0,
+  "cortesParaIntervalo": [
+    938,
+    1650,
+    2331
+  ]
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc706"
+  },
+  "titulo": "O Sorriso Do Lagarto Capítulo 33.mp4",
+  "canal": "Globo",
+  "tipo": "novelas",
+  "duracao": 2090,
+  "added": false
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc707"
+  },
+  "tituloAtracao": "Araponga",
+  "duracao": 1908,
+  "programaDeTv": "araponga",
+  "added": false,
+  "tipo": "novelas",
+  "canal": "Globo",
+  "titulo": "Araponga Capítulo 05.mp4",
+  "order": null,
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc708"
+  },
+  "canal": "Globo",
+  "added": false,
+  "titulo": "O Sorriso Do Lagarto Capítulo 38.mp4",
+  "duracao": 2291,
+  "tipo": "novelas"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc709"
+  },
+  "added": false,
+  "canal": "Globo",
+  "titulo": "O Sorriso Do Lagarto Capítulo 41.mp4",
+  "duracao": 2367,
+  "tipo": "novelas"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc70a"
+  },
+  "tipo": "novelas",
+  "duracao": 2630,
+  "tituloAtracao": "Novela das Sete",
+  "programaDeTv": "novelaDasSete",
+  "added": false,
+  "canal": "Globo",
+  "order": null,
+  "titulo": "Novela Top Model - 129.mp4",
+  "cortesParaIntervalo": [
+    772,
+    1967
+  ],
+  "corteFinal": 2630,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc70b"
+  },
+  "duracao": 2326,
+  "canal": "Globo",
+  "tipo": "novelas",
+  "titulo": "O Sorriso Do Lagarto Capítulo 43.mp4",
+  "added": false
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc70c"
+  },
+  "canal": "Globo",
+  "order": 3,
+  "duracao": 2904,
+  "titulo": "As Noivas De Copacabana - Episódio 03.mp4",
+  "tipo": "novelas",
+  "programaDeTv": "noivasDeCopacabana",
+  "added": false,
+  "tituloAtracao": "Int noivasDeCopacabana",
+  "corteFinal": 2904,
+  "corteInicio": 0,
+  "cortesParaIntervalo": [
+    741,
+    1244,
+    1959
+  ]
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc70d"
+  },
+  "added": false,
+  "programaDeTv": "novelaDasSete",
+  "order": null,
+  "tipo": "novelas",
+  "titulo": "Novela Top Model - 123.mp4",
+  "tituloAtracao": "Novela das Sete",
+  "canal": "Globo",
+  "duracao": 2254,
+  "cortesParaIntervalo": [
+    842,
+    1584
+  ],
+  "corteFinal": 2254,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc70e"
+  },
+  "added": false,
+  "tituloAtracao": "Novela VPVN",
+  "duracao": 2336,
+  "titulo": "A Gata Comeu - 50.mp4",
+  "tipo": "novelas",
+  "programaDeTv": "novelaVPVN",
+  "canal": "Globo",
+  "order": null,
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc70f"
+  },
+  "titulo": "Desejo - Capítulo 16 (1990) Fin.mp4",
+  "tipo": "novelas",
+  "canal": "Globo",
+  "duracao": 2611,
+  "added": false
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc710"
+  },
+  "tipo": "novelas",
+  "titulo": "O Sorriso Do Lagarto Capítulo 05.mp4",
+  "duracao": 2853,
+  "added": false,
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc711"
+  },
+  "cortesParaIntervalo": [
+    917,
+    1668,
+    2161
+  ],
+  "tipo": "novelas",
+  "corteFinal": 2415,
+  "added": false,
+  "duracao": 2415,
+  "tituloAtracao": "Novela das Oito",
+  "programaDeTv": "novelaDasOito",
+  "canal": "Globo",
+  "corteInicio": 0,
+  "titulo": "Meu Bem Meu Mal Cap 07.mp4"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc712"
+  },
+  "duracao": 2729,
+  "titulo": "Meu Bem Meu Mal Cap 21.mp4",
+  "canal": "Globo",
+  "added": false,
+  "tipo": "novelas",
+  "programaDeTv": "novelaDasOito",
+  "tituloAtracao": "Novela das Oito",
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc713"
+  },
+  "duracao": 2812,
+  "canal": "Manchete",
+  "titulo": "Pantanal-138.mp4",
+  "tipo": "novelas",
+  "order": null
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc714"
+  },
+  "added": false,
+  "tituloAtracao": "Novela das Seis",
+  "duracao": 2381,
+  "canal": "Globo",
+  "programaDeTv": "novelaDasSeis",
+  "tipo": "novelas",
+  "titulo": "Novela Barriga de Aluguel 39.mp4",
+  "cortesParaIntervalo": [
+    469,
+    927,
+    1559,
+    2226
+  ],
+  "order": 39
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc715"
+  },
+  "canal": "Globo",
+  "added": false,
+  "tituloAtracao": "Novela das Sete",
+  "duracao": 2107,
+  "order": null,
+  "programaDeTv": "novelaDasSete",
+  "tipo": "novelas",
+  "titulo": "Novela Top Model - 163.mp4",
+  "cortesParaIntervalo": [
+    792,
+    1430
+  ],
+  "corteFinal": 2107,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc716"
+  },
+  "duracao": 2339,
+  "programaDeTv": "novelaDasSeis",
+  "canal": "Globo",
+  "titulo": "Novela Barriga de Aluguel 21.mp4",
+  "added": false,
+  "tipo": "novelas",
+  "tituloAtracao": "Novela das Seis",
+  "cortesParaIntervalo": [
+    766,
+    1270,
+    2201
+  ],
+  "order": 21
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc717"
+  },
+  "added": false,
+  "duracao": 2375,
+  "canal": "Globo",
+  "titulo": "O Sorriso Do Lagarto Capítulo 19.mp4",
+  "tipo": "novelas"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc718"
+  },
+  "added": false,
+  "canal": "Globo",
+  "tipo": "novelas",
+  "programaDeTv": "novelaDasOito",
+  "duracao": 2737,
+  "tituloAtracao": "Novela das Oito",
+  "titulo": "Meu Bem Meu Mal Cap 47.mp4",
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc719"
+  },
+  "canal": "Globo",
+  "tituloAtracao": "Novela das Sete",
+  "duracao": 2186,
+  "programaDeTv": "novelaDasSete",
+  "order": null,
+  "titulo": "Novela Top Model - 117.mp4",
+  "added": false,
+  "tipo": "novelas",
+  "cortesParaIntervalo": [
+    805,
+    1477
+  ],
+  "corteFinal": 2155,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc71b"
+  },
+  "corteInicio": 0,
+  "order": null,
+  "tituloAtracao": "Novela das Seis",
+  "added": false,
+  "cortesParaIntervalo": [
+    1412
+  ],
+  "corteFinal": 2887,
+  "canal": "Globo",
+  "programaDeTv": "novelaDasSeis",
+  "titulo": "Novela - O Sexo dos Anjos - 181-182.mp4",
+  "duracao": 2887,
+  "tipo": "novelas"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc71c"
+  },
+  "added": false,
+  "duracao": 2315,
+  "programaDeTv": "novelaDasSete",
+  "tituloAtracao": "Novela das Sete",
+  "canal": "Globo",
+  "titulo": "Novela Top Model - 041.mp4",
+  "tipo": "novelas",
+  "order": 41,
+  "cortesParaIntervalo": [
+    804,
+    1698
+  ],
+  "corteFinal": 2503,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc71d"
+  },
+  "order": 56,
+  "programaDeTv": "novelaDasSete",
+  "added": false,
+  "duracao": 2423,
+  "titulo": "Novela Top Model - 056.mp4",
+  "tipo": "novelas",
+  "canal": "Globo",
+  "tituloAtracao": "Novela das Sete",
+  "cortesParaIntervalo": [
+    871,
+    1724
+  ],
+  "corteFinal": 2423,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc71e"
+  },
+  "order": null,
+  "titulo": "Novela Top Model - 138.mp4",
+  "tipo": "novelas",
+  "canal": "Globo",
+  "duracao": 2182,
+  "tituloAtracao": "Novela das Sete",
+  "programaDeTv": "novelaDasSete",
+  "added": false,
+  "cortesParaIntervalo": [
+    757,
+    1365
+  ],
+  "corteFinal": 2182,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc71f"
+  },
+  "canal": "Globo",
+  "programaDeTv": "novelaDasOito",
+  "added": false,
+  "titulo": "Meu Bem Meu Mal Cap 09.mp4",
+  "tituloAtracao": "Novela das Oito",
+  "corteInicio": 0,
+  "tipo": "novelas",
+  "duracao": 2330,
+  "corteFinal": 2330,
+  "cortesParaIntervalo": [
+    728,
+    1404,
+    1835
+  ]
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc720"
+  },
+  "added": false,
+  "canal": "Globo",
+  "tipo": "novelas",
+  "titulo": "De Corpo e Alma - Cap 3.mp4",
+  "duracao": 2962
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc721"
+  },
+  "cortesParaIntervalo": [
+    675,
+    1243,
+    1971
+  ],
+  "tipo": "novelas",
+  "tituloAtracao": "Novela das Seis",
+  "added": true,
+  "canal": "Globo",
+  "duracao": 2629,
+  "corteFinal": 2618,
+  "corteInicio": 0,
+  "titulo": "Novela Barriga de Aluguel 05.mp4",
+  "order": 5,
+  "programaDeTv": "novelaDasSeis"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc722"
+  },
+  "order": 35,
+  "tituloAtracao": "Novela das Sete",
+  "programaDeTv": "novelaDasSete",
+  "added": false,
+  "duracao": 2560,
+  "titulo": "Novela Top Model - 035.mp4",
+  "tipo": "novelas",
+  "canal": "Globo",
+  "cortesParaIntervalo": [
+    1161,
+    1864
+  ],
+  "corteFinal": 2560,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc723"
+  },
+  "canal": "Globo",
+  "added": false,
+  "programaDeTv": "novelaDasSete",
+  "tipo": "novelas",
+  "tituloAtracao": "Novela das Sete",
+  "duracao": 2378,
+  "titulo": "Novela Top Model - 169.mp4",
+  "order": null,
+  "cortesParaIntervalo": [
+    965,
+    1715
+  ],
+  "corteFinal": 2378,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc724"
+  },
+  "titulo": "Corpo Santo 1987 - 12.mp4",
+  "order": 3,
+  "duracao": 2713,
+  "tipo": "novelas",
+  "canal": "Manchete",
+  "tituloAtracao": "Novela Corpo Santo",
+  "programaDeTv": "novelaCorpoSanto",
+  "added": true
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc725"
+  },
+  "titulo": "Novela Barriga de Aluguel 23.mp4",
+  "tituloAtracao": "Novela das Seis",
+  "canal": "Globo",
+  "added": false,
+  "tipo": "novelas",
+  "duracao": 2285,
+  "programaDeTv": "novelaDasSeis",
+  "cortesParaIntervalo": [
+    1092,
+    1684
+  ],
+  "order": 23
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc726"
+  },
+  "duracao": 2338,
+  "added": false,
+  "order": null,
+  "tituloAtracao": "Novela VPVN",
+  "programaDeTv": "novelaVPVN",
+  "titulo": "A Gata Comeu - 35.mp4",
+  "canal": "Globo",
+  "tipo": "novelas",
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc728"
+  },
+  "canal": "Globo",
+  "added": false,
+  "tipo": "novelas",
+  "programaDeTv": "novelaDasSete",
+  "duracao": 2344,
+  "order": null,
+  "tituloAtracao": "Novela das Sete",
+  "titulo": "Novela Top Model - 171.mp4",
+  "cortesParaIntervalo": [
+    815,
+    1535
+  ],
+  "corteFinal": 2344,
+  "corteInicio": 0
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc729"
+  },
+  "duracao": 2679,
+  "canal": "Manchete",
+  "order": null,
+  "tipo": "novelas",
+  "titulo": "Pantanal-155.mp4"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc72a"
+  },
+  "order": 4,
+  "tipo": "novelas",
+  "programaDeTv": "novelaDasOito",
+  "titulo": "Novela O Dono Do Mundo - 004.mp4",
+  "corteFinal": 3088,
+  "cortesParaIntervalo": [
+    998,
+    1638,
+    2246
+  ],
+  "tituloAtracao": "Novela das Oito",
+  "added": true,
+  "duracao": 3097,
+  "corteInicio": 11,
+  "canal": "Globo"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc72b"
+  },
+  "order": null,
+  "canal": "Manchete",
+  "duracao": 2653,
+  "tipo": "novelas",
+  "titulo": "Pantanal-156.mp4"
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc72c"
+  },
+  "titulo": "Corpo Santo 1987 - 29.mp4",
+  "canal": "Manchete",
+  "duracao": 3164,
+  "order": 14,
+  "tituloAtracao": "Novela Corpo Santo",
+  "programaDeTv": "novelaCorpoSanto",
+  "tipo": "novelas",
+  "added": true,
+  "cortesParaIntervalo": []
+},
+{
+  "_id": {
+    "$oid": "638fafcb03929e6d18dcc72d"
+  },
+  "tipo": "novelas",
+  "duracao": 946,
+  "titulo": "Corpo Santo 1987 - 05.mp4",
+  "canal": ""
+},
+{
+  "_id": {
+    "$oid": "6466f73454cb0a98a2396530"
+  },
+  "cortesParaIntervalo": [],
+  "canal": "Manchete",
+  "titulo": "Kananga do Japão 01.mp4",
+  "duracao": 3109,
+  "programaDeTv": "kanangaDoJapao",
+  "tipo": "novelas",
+  "tituloAtracao": "Kananga do Japão",
+  "order": 1,
+  "added": true
+},
+{
+  "_id": {
+    "$oid": "6466f73954cb0a98a2396533"
+  },
+  "cortesParaIntervalo": [],
+  "canal": "Manchete",
+  "titulo": "Kananga do Japão 02.mp4",
+  "duracao": 1820,
+  "programaDeTv": "kanangaDoJapao",
+  "tipo": "novelas",
+  "tituloAtracao": "Kananga do Japão",
+  "order": 2,
+  "added": false
+},
+{
+  "_id": {
+    "$oid": "6466f74054cb0a98a2396536"
+  },
+  "cortesParaIntervalo": [],
+  "canal": "Manchete",
+  "titulo": "Kananga do Japão 03.mp4",
+  "duracao": 2558,
+  "programaDeTv": "kanangaDoJapao",
+  "tipo": "novelas",
+  "tituloAtracao": "Kananga do Japão",
+  "order": 3,
+  "added": false
+},
+{
+  "_id": {
+    "$oid": "6466f74654cb0a98a2396539"
+  },
+  "cortesParaIntervalo": [],
+  "canal": "Manchete",
+  "titulo": "Kananga do Japão 04.mp4",
+  "duracao": 1810,
+  "programaDeTv": "kanangaDoJapao",
+  "tipo": "novelas",
+  "tituloAtracao": "Kananga do Japão",
+  "order": 4,
+  "added": false
+},
+{
+  "_id": {
+    "$oid": "6466f74e54cb0a98a239653c"
+  },
+  "cortesParaIntervalo": [],
+  "canal": "Manchete",
+  "titulo": "Kananga do Japão 05.mp4",
+  "duracao": 1982,
+  "programaDeTv": "kanangaDoJapao",
+  "tipo": "novelas",
+  "tituloAtracao": "Kananga do Japão",
+  "order": 5,
+  "added": false
+},
+{
+  "_id": {
+    "$oid": "6482b88f3b312e55264795b5"
+  },
+  "cortesParaIntervalo": [
+    996,
+    1879
+  ],
+  "canal": "Globo",
+  "titulo": "Boca do Lixo ep 1.mp4",
+  "duracao": 2814,
+  "programaDeTv": "bocaDoLixo",
+  "tipo": "novelas",
+  "tituloAtracao": "Boca do Lixo",
+  "order": 1,
+  "corteFinal": 2814,
+  "corteInicio": 0,
+  "added": true
+},
+{
+  "_id": {
+    "$oid": "6482b8983b312e55264795b8"
+  },
+  "cortesParaIntervalo": [
+    844,
+    1798
+  ],
+  "canal": "Globo",
+  "titulo": "Boca do Lixo ep 2.mp4",
+  "duracao": 2642,
+  "programaDeTv": "bocaDoLixo",
+  "tipo": "novelas",
+  "tituloAtracao": "Boca do Lixo",
+  "order": 2,
+  "corteFinal": 2642,
+  "corteInicio": 0,
+  "added": true
+},
+{
+  "_id": {
+    "$oid": "6482b8a03b312e55264795bb"
+  },
+  "cortesParaIntervalo": [
+    949,
+    1881
+  ],
+  "canal": "Globo",
+  "titulo": "Boca do Lixo ep 3.mp4",
+  "duracao": 2857,
+  "programaDeTv": "bocaDoLixo",
+  "tipo": "novelas",
+  "tituloAtracao": "Boca do Lixo",
+  "order": 3,
+  "corteFinal": 2857,
+  "corteInicio": 0,
+  "added": true
+},
+{
+  "_id": {
+    "$oid": "6482b8a93b312e55264795be"
+  },
+  "cortesParaIntervalo": [
+    959,
+    1936
+  ],
+  "canal": "Globo",
+  "titulo": "Boca do Lixo ep 4.mp4",
+  "duracao": 2934,
+  "programaDeTv": "bocaDoLixo",
+  "tipo": "novelas",
+  "tituloAtracao": "Boca do Lixo",
+  "order": 4,
+  "corteFinal": 2934,
+  "corteInicio": 0,
+  "added": false
+},
+{
+  "_id": {
+    "$oid": "6482b8b33b312e55264795c1"
+  },
+  "cortesParaIntervalo": [
+    992,
+    1926
+  ],
+  "canal": "Globo",
+  "titulo": "Boca do Lixo ep 5.mp4",
+  "duracao": 2859,
+  "programaDeTv": "bocaDoLixo",
+  "tipo": "novelas",
+  "tituloAtracao": "Boca do Lixo",
+  "order": 5,
+  "corteFinal": 2859,
+  "corteInicio": 0,
+  "added": false
+},
+{
+  "_id": {
+    "$oid": "6482b8be3b312e55264795c4"
+  },
+  "cortesParaIntervalo": [
+    976,
+    1917
+  ],
+  "canal": "Globo",
+  "titulo": "Boca do Lixo ep 6.mp4",
+  "duracao": 2929,
+  "programaDeTv": "bocaDoLixo",
+  "tipo": "novelas",
+  "tituloAtracao": "Boca do Lixo",
+  "order": 6,
+  "corteFinal": 2929,
+  "corteInicio": 0,
+  "added": false
+},
+{
+  "_id": {
+    "$oid": "6482b8c63b312e55264795c7"
+  },
+  "cortesParaIntervalo": [
+    898,
+    1847
+  ],
+  "canal": "Globo",
+  "titulo": "Boca do Lixo ep 7.mp4",
+  "duracao": 2880,
+  "programaDeTv": "bocaDoLixo",
+  "tipo": "novelas",
+  "tituloAtracao": "Boca do Lixo",
+  "order": 7,
+  "corteFinal": 2880,
+  "corteInicio": 0,
+  "added": false
+},
+{
+  "_id": {
+    "$oid": "6482b8d13b312e55264795ca"
+  },
+  "cortesParaIntervalo": [
+    1048,
+    1991,
+    2944
+  ],
+  "canal": "Globo",
+  "titulo": "Boca do Lixo ep 8.mp4",
+  "duracao": 3911,
+  "programaDeTv": "bocaDoLixo",
+  "tipo": "novelas",
+  "tituloAtracao": "Boca do Lixo",
+  "order": 8,
+  "corteFinal": 3911,
+  "corteInicio": 0,
+  "added": false
+},
+{
+  "_id": {
+    "$oid": "649f8ee1277e90d590c73b4c"
+  },
+  "cortesParaIntervalo": [
+    969,
+    1531
+  ],
+  "canal": "Globo",
+  "titulo": "Novela O Dono Do Mundo - 012.mp4",
+  "duracao": 2680,
+  "programaDeTv": "novelaDasOito",
+  "tipo": "novelas",
+  "tituloAtracao": "Novela das Oito",
+  "corteInicio": 7,
+  "corteFinal": 2667,
+  "order": 9,
+  "added": true
+},
+{
+  "_id": {
+    "$oid": "649f8eec277e90d590c73b4f"
+  },
+  "cortesParaIntervalo": [
+    970,
+    1531
+  ],
+  "canal": "Globo",
+  "titulo": "Novela O Dono Do Mundo - 013.mp4",
+  "duracao": 2680,
+  "programaDeTv": "novelaDasOito",
+  "tipo": "novelas",
+  "tituloAtracao": "Novela das Oito",
+  "corteInicio": 17,
+  "corteFinal": 2667,
+  "order": 10,
+  "added": true
+},
+{
+  "_id": {
+    "$oid": "649f8ef6277e90d590c73b52"
+  },
+  "cortesParaIntervalo": [
+    939,
+    1558,
+    2160
+  ],
+  "canal": "Globo",
+  "titulo": "Novela O Dono Do Mundo - 014.mp4",
+  "duracao": 2701,
+  "programaDeTv": "novelaDasOito",
+  "tipo": "novelas",
+  "tituloAtracao": "Novela das Oito",
+  "corteInicio": 8,
+  "corteFinal": 2653,
+  "order": 11,
+  "added": true
+},
+{
+  "_id": {
+    "$oid": "649f8f03277e90d590c73b55"
+  },
+  "cortesParaIntervalo": [
+    1084,
+    1547,
+    2018
+  ],
+  "canal": "Globo",
+  "titulo": "Novela O Dono Do Mundo - 017.mp4",
+  "duracao": 2564,
+  "programaDeTv": "novelaDasOito",
+  "tipo": "novelas",
+  "tituloAtracao": "Novela das Oito",
+  "corteInicio": 17,
+  "corteFinal": 2521,
+  "order": 14,
+  "added": true
+},
+{
+  "_id": {
+    "$oid": "649f8f12277e90d590c73b58"
+  },
+  "cortesParaIntervalo": [
+    625,
+    1107,
+    1822
+  ],
+  "canal": "Globo",
+  "titulo": "Novela O Dono Do Mundo - 019.mp4",
+  "duracao": 2522,
+  "programaDeTv": "novelaDasOito",
+  "tipo": "novelas",
+  "tituloAtracao": "Novela das Oito",
+  "corteInicio": 18,
+  "corteFinal": 2509,
+  "order": 15,
+  "added": true
+},
+{
+  "_id": {
+    "$oid": "649f8f1f277e90d590c73b5b"
+  },
+  "cortesParaIntervalo": [
+    527,
+    1179,
+    1729
+  ],
+  "canal": "Globo",
+  "titulo": "Novela O Dono Do Mundo - 020.mp4",
+  "duracao": 2480,
+  "programaDeTv": "novelaDasOito",
+  "tipo": "novelas",
+  "tituloAtracao": "Novela das Oito",
+  "corteInicio": 17,
+  "corteFinal": 2467,
+  "order": 16,
+  "added": true
+},
+{
+  "_id": {
+    "$oid": "649f8f2b277e90d590c73b5e"
+  },
+  "cortesParaIntervalo": [
+    782,
+    1431
+  ],
+  "canal": "Globo",
+  "titulo": "Novela O Dono Do Mundo - 021.mp4",
+  "duracao": 2853,
+  "programaDeTv": "novelaDasOito",
+  "tipo": "novelas",
+  "tituloAtracao": "Novela das Oito",
+  "corteInicio": 23,
+  "corteFinal": 2840,
+  "order": 17,
+  "added": true
+},
+{
+  "_id": {
+    "$oid": "649f8f36277e90d590c73b61"
+  },
+  "cortesParaIntervalo": [
+    685,
+    1331,
+    1760
+  ],
+  "canal": "Globo",
+  "titulo": "Novela O Dono Do Mundo - 022.mp4",
+  "duracao": 3014,
+  "programaDeTv": "novelaDasOito",
+  "tipo": "novelas",
+  "tituloAtracao": "Novela das Oito",
+  "corteInicio": 31,
+  "corteFinal": 2298,
+  "order": 18,
+  "added": true
+},
+{
+  "_id": {
+    "$oid": "649f8f42277e90d590c73b64"
+  },
+  "cortesParaIntervalo": [
+    624,
+    1221,
+    1840
+  ],
+  "canal": "Globo",
+  "titulo": "Novela O Dono Do Mundo - 023.mp4",
+  "duracao": 2542,
+  "programaDeTv": "novelaDasOito",
+  "tipo": "novelas",
+  "tituloAtracao": "Novela das Oito",
+  "corteInicio": 1,
+  "corteFinal": 2528,
+  "order": 19,
+  "added": true
+},
+{
+  "_id": {
+    "$oid": "649f8f4b277e90d590c73b67"
+  },
+  "cortesParaIntervalo": [
+    539,
+    1047,
+    1624
+  ],
+  "canal": "Globo",
+  "titulo": "Novela O Dono Do Mundo - 024.mp4",
+  "duracao": 2353,
+  "programaDeTv": "novelaDasOito",
+  "tipo": "novelas",
+  "tituloAtracao": "Novela das Oito",
+  "corteInicio": 1,
+  "corteFinal": 2340,
+  "order": 20,
+  "added": true
+},
+{
+  "_id": {
+    "$oid": "649f8f56277e90d590c73b6a"
+  },
+  "cortesParaIntervalo": [
+    582,
+    954,
+    1469,
+    1957
+  ],
+  "canal": "Globo",
+  "titulo": "Novela O Dono Do Mundo - 025.mp4",
+  "duracao": 2372,
+  "programaDeTv": "novelaDasOito",
+  "tipo": "novelas",
+  "tituloAtracao": "Novela das Oito",
+  "corteInicio": 1,
+  "corteFinal": 2358,
+  "order": 21,
+  "added": true
+},
+{
+  "_id": {
+    "$oid": "649f8f61277e90d590c73b6d"
+  },
+  "cortesParaIntervalo": [
+    777,
+    1313,
+    1861
+  ],
+  "canal": "Globo",
+  "titulo": "Novela O Dono Do Mundo - 026.mp4",
+  "duracao": 2574,
+  "programaDeTv": "novelaDasOito",
+  "tipo": "novelas",
+  "tituloAtracao": "Novela das Oito",
+  "corteInicio": 3,
+  "corteFinal": 2561,
+  "order": 22,
+  "added": true
+},
+{
+  "_id": {
+    "$oid": "649f8f6b277e90d590c73b70"
+  },
+  "cortesParaIntervalo": [
+    836,
+    1214,
+    1837
+  ],
+  "canal": "Globo",
+  "titulo": "Novela O Dono Do Mundo - 027.mp4",
+  "duracao": 2314,
+  "programaDeTv": "novelaDasOito",
+  "tipo": "novelas",
+  "tituloAtracao": "Novela das Oito",
+  "corteInicio": 1,
+  "corteFinal": 2301,
+  "order": 23
+},
+{
+  "_id": {
+    "$oid": "649f8f77277e90d590c73b73"
+  },
+  "cortesParaIntervalo": [
+    786,
+    1337,
+    1918
+  ],
+  "canal": "Globo",
+  "titulo": "Novela O Dono Do Mundo - 028.mp4",
+  "duracao": 2505,
+  "programaDeTv": "novelaDasOito",
+  "tipo": "novelas",
+  "tituloAtracao": "Novela das Oito",
+  "corteInicio": 5,
+  "corteFinal": 2492,
+  "order": 24
+},
+{
+  "_id": {
+    "$oid": "649f8f83277e90d590c73b76"
+  },
+  "cortesParaIntervalo": [
+    786,
+    1339,
+    2096
+  ],
+  "canal": "Globo",
+  "titulo": "Novela O Dono Do Mundo - 029.mp4",
+  "duracao": 2642,
+  "programaDeTv": "novelaDasOito",
+  "tipo": "novelas",
+  "tituloAtracao": "Novela das Oito",
+  "corteFinal": 2627,
+  "corteInicio": 0,
+  "order": 25
+},
+{
+  "_id": {
+    "$oid": "649f8f90277e90d590c73b79"
+  },
+  "cortesParaIntervalo": [
+    720,
+    1145,
+    1805
+  ],
+  "canal": "Globo",
+  "titulo": "Novela O Dono Do Mundo - 030.mp4",
+  "duracao": 2274,
+  "programaDeTv": "novelaDasOito",
+  "tipo": "novelas",
+  "tituloAtracao": "Novela das Oito",
+  "corteFinal": 2259,
+  "corteInicio": 0,
+  "order": 26
+},
+{
+  "_id": {
+    "$oid": "649f8f9e277e90d590c73b7c"
+  },
+  "cortesParaIntervalo": [
+    719,
+    1116,
+    1488
+  ],
+  "canal": "Globo",
+  "titulo": "Novela O Dono Do Mundo - 031.mp4",
+  "duracao": 2382,
+  "programaDeTv": "novelaDasOito",
+  "tipo": "novelas",
+  "tituloAtracao": "Novela das Oito",
+  "corteFinal": 2367,
+  "corteInicio": 15,
+  "order": 27
+},
+{
+  "_id": {
+    "$oid": "649f8fad277e90d590c73b7f"
+  },
+  "cortesParaIntervalo": [
+    815,
+    1211,
+    1738
+  ],
+  "canal": "Globo",
+  "titulo": "Novela O Dono Do Mundo - 032.mp4",
+  "duracao": 2426,
+  "programaDeTv": "novelaDasOito",
+  "tipo": "novelas",
+  "tituloAtracao": "Novela das Oito",
+  "corteFinal": 2411,
+  "corteInicio": 15,
+  "order": 28
+},
+{
+  "_id": {
+    "$oid": "64a3496d06fd0500dd1ee54e"
+  },
+  "cortesParaIntervalo": [
+    728,
+    1194,
+    2002
+  ],
+  "canal": "Globo",
+  "titulo": "Novela O Dono Do Mundo - 016.mp4",
+  "duracao": 2504,
+  "programaDeTv": "novelaDasOito",
+  "tipo": "novelas",
+  "tituloAtracao": "Novela das Oito",
+  "corteFinal": 2459,
+  "corteInicio": 15,
+  "order": 13,
+  "added": true
+},
+{
+  "_id": {
+    "$oid": "64a3497b06fd0500dd1ee551"
+  },
+  "cortesParaIntervalo": [
+    798,
+    1290,
+    1927
+  ],
+  "canal": "Globo",
+  "titulo": "Novela O Dono Do Mundo - 015.mp4",
+  "duracao": 2446,
+  "programaDeTv": "novelaDasOito",
+  "tipo": "novelas",
+  "tituloAtracao": "Novela das Oito",
+  "corteFinal": 2396,
+  "corteInicio": 14,
+  "order": 12,
+  "added": true
+},
+{
+  "_id": {
+    "$oid": "64adc2a713a15fd998ccd53a"
+  },
+  "cortesParaIntervalo": [
+    115,
+    1002,
+    1670
+  ],
+  "canal": "Globo",
+  "titulo": "Novela Barriga de Aluguel 26.mp4",
+  "duracao": 2214,
+  "programaDeTv": "novelaDasSeis",
+  "tipo": "novelas",
+  "tituloAtracao": "Novela das Seis",
+  "order": 26,
+  "corteFinal": 2214,
+  "corteInicio": 0
+}]
