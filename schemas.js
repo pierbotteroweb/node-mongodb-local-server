@@ -42,7 +42,8 @@ var videoSchema = new Schema({
     tituloAtracao: { type: String },
     titulo: { type: String },
     order: { type: Number },
-    duracao: { type: Number }
+    duracao: { type: Number },
+    pontoDePartida: { type: Number }
 },{ versionKey: false })
 
 var CanaisSchema = new Schema({

@@ -12,7 +12,7 @@ const db = mongo.connect("mongodb://localhost:27017/shufleTV", function (err, re
 })
 
 const app = express()
-const PORT = process.env.PORT || 9000
+const PORT = process.env.PORT || 9091
 
 const corsOptions = {
     origin: '*',
@@ -223,11 +223,12 @@ app.post("/api/createProgramaDeTv", function (req, res) {
 app.post("/api/updateProgramaDeTv", function (req, res) {
     // console.log(req.body.id)
     // console.log(req.body.content)
-    programaDeTvModel.findByIdAndUpdate(req.body.id, req.body.content,
+    programaDeTvModel.findByIdAndUpdate(req.body.id, req.body.content, { new: true },
         function (err, data) {
             if (err) {
                 res.send(err)
             } else {
+                console.log(data)
                 res.send(data)
             }
     })
