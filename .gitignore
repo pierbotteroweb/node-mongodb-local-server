@@ -6,6 +6,11 @@
 # Node artifact files
 node_modules/
 dist/
+data/
+datax/
+mongodb-backups/
+folderOnWindows/
+
 
 # Compiled Java class files
 *.class
