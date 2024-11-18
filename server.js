@@ -3,6 +3,8 @@ const path = require("path")
 const bodyParser = require('body-parser')
 const mongo = require("mongoose")
 var cors = require('cors');
+const { WebSocketServer } = require('ws')
+const { MongoClient } = require('mongodb');
 
 const db = mongo.connect("mongodb://localhost:27017/shufleTV", function (err, res) {
     if (err) { console.log(err) }
@@ -24,7 +26,7 @@ app.use(bodyParser.json({ limit: '50mb' }))
 app.use(bodyParser.urlencoded({ limit: '50mb', extended: true }))
 
 app.use(function (req, res, next) {
-    res.setHeader('Access-Control-Allow', 'http://localhost:1984')
+    res.setHeader('Access-Control-Allow', 'http://thisisshuffletv.zapto.org:9091')
     res.setHeader('Access-Control-Allow-Methods', 'GET, POST, OPTIONS, PATCH, DELETE')
     res.setHeader('Access-Control-Allow-Headers', 'X-Requested-With,content-type')
     res.setHeader('Access-Control-Allow-Credentials', true)
@@ -289,26 +291,34 @@ app.post("/api/deleteUser", function (req, res) {
     })
 })
 
-app.listen(PORT, function () {
+const server = app.listen(PORT, function () {
     console.log(`Express server listening on port ${PORT}`)
 })
 
-let objfakeId = "638ebcd303929e6d18dcaa3c"
-let objFake = {
-    "sabado": [],
-    "quarta": [],
-    "segundaBloco": [],
-    "quintaBloco": [],
-    "quartaBloco": [],
-    "sextaBloco": [],
-    "sabadoBloco": [],
-    "sexta": [],
-    "domingo": [],
-    "canal": "2",
-    "emissora": "Culturaxxxxx",
-    "domingoBloco": [],
-    "segunda": [],
-    "quinta": [],
-    "terca": [],
-    "tercaBloco": []
-}
+
+// Attach the WebSocket server to the existing HTTP server
+const wss = new WebSocketServer({ server });
+
+wss.on('connection', (ws) => {
+  console.log('WebSocket connection established');
+
+
+  async function watchChanges() {
+    console.log('Watching for changes...');
+    const client = new MongoClient("mongodb://localhost:27017/shufleTV");
+    await client.connect();
+
+    const db = client.db('shufleTV');
+    const collection = db.collection('movies');
+
+    // Watch for changes on the collection
+    const changeStream = collection.watch();
+
+    changeStream.on('change', (change) => {
+      console.log('Change detected:', change.updateDescription);
+      ws.send(JSON.stringify(change));
+    });
+  }
+
+  watchChanges().catch(console.error);
+});
