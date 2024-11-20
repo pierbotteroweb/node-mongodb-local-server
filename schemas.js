@@ -26,7 +26,8 @@ var pontoDePartidaSchema = new Schema({
     corteInicio: { type: Number },
     corteFinal: { type: Number },
     volume: { type: Number },
-    boost: { type: Number }
+    boost: { type: Number },
+    play: { type: Boolean }
 },{ versionKey: false })
 
 var videoSchema = new Schema({

@@ -4,7 +4,7 @@ const bodyParser = require('body-parser')
 const mongo = require("mongoose")
 var cors = require('cors');
 const { WebSocketServer } = require('ws')
-const { MongoClient } = require('mongodb');
+const { MongoClient, ObjectId } = require("mongodb")
 
 const db = mongo.connect("mongodb://localhost:27017/shufleTV", function (err, res) {
     if (err) { console.log(err) }
@@ -116,7 +116,6 @@ collections.map(col => {
     })
 
     app.post("/api/update" + col.col, function (req, res) {
-        console.log(req.body)
 
         col.model.findByIdAndUpdate(req.body.id, req.body.content, (err, data) => {
             if (err) {
@@ -309,13 +308,20 @@ wss.on('connection', (ws) => {
     await client.connect();
 
     const db = client.db('shufleTV');
-    const collection = db.collection('movies');
+    const collection = db.collection('pontoDePartida');
+    const pipeline = [
+        {
+          $match: {
+            "updateDescription.updatedFields.play":  { $eq: true }
+          },
+        },
+      ];
 
     // Watch for changes on the collection
-    const changeStream = collection.watch();
+    const changeStream = collection.watch(pipeline);
 
     changeStream.on('change', (change) => {
-      console.log('Change detected:', change.updateDescription);
+
       ws.send(JSON.stringify(change));
     });
   }
