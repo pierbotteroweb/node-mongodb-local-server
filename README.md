@@ -23,19 +23,15 @@ docker exec -it mongo1 mongosh
 rs.initiate({
   _id: "rs0",
   members: [
-    { _id: 0, host: "mongo1:27017" },
-    { _id: 1, host: "mongo2:27017" },
-    { _id: 2, host: "mongo3:27017" }
+    { _id: 0, host: "mongo1:27017" }
   ]
 })
 
 
 Modify /etc/hosts (Linux/macOS) or Windows Hosts File
-If you need to resolve mongo1, mongo2, and mongo3 from your local machine (outside Docker), you can manually add entries to your /etc/hosts file (for Linux/macOS) or C:\Windows\System32\drivers\etc\hosts file (for Windows).
+If you need to resolve mongo1 from your local machine (outside Docker), you can manually add entries to your /etc/hosts file (for Linux/macOS) or C:\Windows\System32\drivers\etc\hosts file (for Windows).
 
 127.0.0.1 mongo1
-127.0.0.1 mongo2
-127.0.0.1 mongo3
 
 docker exec mongo1 mongodump --archive=/backups/mongodb_backup.archive
 docker exec -i mongo1 mongorestore --archive=/backups/mongodb_backup.archive
