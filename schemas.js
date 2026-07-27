@@ -17,16 +17,7 @@ var programaDeTvSchema = new Schema({
 
 var pontoDePartidaSchema = new Schema({
     idDoFilme: { type: String },
-    filme: { type: String },
     horario: { type: String },
-    duracao: { type: Number },
-    horaInicio: { type: Number },
-    cortesParaIntervalo: { type: Array },
-    id: { type: Number },
-    corteInicio: { type: Number },
-    corteFinal: { type: Number },
-    volume: { type: Number },
-    boost: { type: Number },
     play: { type: Boolean }
 },{ versionKey: false })
 
@@ -34,6 +25,7 @@ var videoSchema = new Schema({
     sub: { type: Boolean },
     comComerciais: {type: Boolean},
     added: { type: Boolean },
+    emUso: { type: Boolean },
     cortesParaIntervalo: { type: Array },
     corteInicio: { type: Number },
     corteFinal: { type: Number },
@@ -50,24 +42,38 @@ var videoSchema = new Schema({
 var CanaisSchema = new Schema({
     sabado: { type: Array },
     quarta: { type: Array },
-    segundaBloco: { type: Array },
-    quintaBloco: { type: Array },
-    quartaBloco: { type: Array },
-    sextaBloco: { type: Array },
-    sabadoBloco: { type: Array },
+    segundaProgramaMontado: { type: Array },
+    quintaProgramaMontado: { type: Array },
+    quartaProgramaMontado: { type: Array },
+    sextaProgramaMontado: { type: Array },
+    sabadoProgramaMontado: { type: Array },
     sexta: { type: Array },
     domingo: { type: Array },
     canal: { type: String },
     emissora: { type: String },
-    domingoBloco: { type: Array },
+    domingoProgramaMontado: { type: Array },
     segunda: { type: Array },
     quinta: { type: Array },
     terca: { type: Array },
-    tercaBloco: { type: Array }
+    tercaProgramaMontado: { type: Array }
 },{ versionKey: false })
 
 var SelectedCanalSchema = new Schema({
     canal: { type: Number }
 },{ versionKey: false })
 
-module.exports = { SelectedCanalSchema, CanaisSchema, videoSchema, programaDeTvSchema, testSchema, pontoDePartidaSchema }
+var ProgramaMontadoSchema = new Schema({
+    atracao: { type: String },
+    idProgMontado: { type: String },
+    horarioDeExibicao: { type: String },
+    cortes: { type: Array },
+    arquivo: { type: String },
+    tituloAtracao: { type: String },
+    tempoTotalEmSegundos: { type: Number },
+    tempoTotal: { type: String },
+    diaDaSemana: { type: String },
+    canal: { type: String },
+    gradeOrder: { type: Number }
+},{ versionKey: false })
+
+module.exports = { SelectedCanalSchema, CanaisSchema, videoSchema, programaDeTvSchema, testSchema, pontoDePartidaSchema, ProgramaMontadoSchema }
