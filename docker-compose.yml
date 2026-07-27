@@ -1,8 +1,0 @@
-services:
-  mongodb:
-    image: mongo:6.0
-    container_name: mongodb-container
-    volumes:
-      - G:/node-mongodb-local-server/mongodb-backups:/backups
-    ports:
-      - "27017:27017"
