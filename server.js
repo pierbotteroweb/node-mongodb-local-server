@@ -5,8 +5,10 @@ const mongo = require("mongoose")
 var cors = require('cors');
 const { WebSocketServer } = require('ws')
 const { MongoClient, ObjectId } = require("mongodb")
+const { exec } = require('child_process');
 
-const db = mongo.connect("mongodb://localhost:27017/shufleTV", function (err, res) {
+
+const db = mongo.connect("mongodb://mongo1:27017/shufleTV", function (err, res) {
     if (err) { console.log(err) }
     else {
         // console.log('Connected to ' + db, ' + ', res)
@@ -26,7 +28,7 @@ app.use(bodyParser.json({ limit: '50mb' }))
 app.use(bodyParser.urlencoded({ limit: '50mb', extended: true }))
 
 app.use(function (req, res, next) {
-    res.setHeader('Access-Control-Allow', 'http://thisisshuffletv.zapto.org:9091')
+    res.setHeader('Access-Control-Allow', 'http://thisisshuffletv.:9091')
     res.setHeader('Access-Control-Allow-Methods', 'GET, POST, OPTIONS, PATCH, DELETE')
     res.setHeader('Access-Control-Allow-Headers', 'X-Requested-With,content-type')
     res.setHeader('Access-Control-Allow-Credentials', true)
@@ -38,6 +40,7 @@ var SelectedCanalSchema = require('./schemas').SelectedCanalSchema
 var CanaisSchema = require('./schemas').CanaisSchema
 var programaDeTvSchema = require('./schemas').programaDeTvSchema
 var pontoDePartidaSchema = require('./schemas').pontoDePartidaSchema
+const { ProgramaMontadoSchema } = require("./schemas");
 
 var dubladoModel = mongo.model('dublado', videoSchema, 'dublado')
 var noiteModel = mongo.model('noite', videoSchema, 'noite')
@@ -50,6 +53,8 @@ var dvdModel = mongo.model('dvds', videoSchema, 'dvds')
 
 var canaisModel = mongo.model('canais', CanaisSchema, 'canais')
 var selectedCanalModel = mongo.model('seletorDeCanais', SelectedCanalSchema, 'seletorDeCanais')
+
+var programasMontadosModel = mongo.model('programasMontados', ProgramaMontadoSchema, 'programasMontados')
 
 var pontoDePartidaModel = mongo.model('pontoDePartida', pontoDePartidaSchema, 'pontoDePartida')
 
@@ -111,9 +116,39 @@ collections.map(col => {
                 res.send(err)
             } else {
                 res.send({ data: "Record has been Deleted..!!" })
+                backup("1")
             }
         })
     })
+
+    app.post("/api/getVideoById/" + col.col, function (req, res) {
+        col.model.findById({ _id: req.body.id }, (err, data) => {
+            if (err) {
+                console.log("err", err)
+                res.send(err)
+            } else {
+                res.send(data)
+            }
+        })
+    })
+
+    app.post("/api/updateMany" + col.col, async function (req, res) {
+        try {
+            const { arquivosIds, content } = req.body;
+
+            const result = await col.model.updateMany(
+            { _id: { $in: arquivosIds.map(id => new ObjectId(id)) } },
+            { $set: content }
+            );
+
+            console.log("updateMany result:", result);
+
+            res.send(result);
+        } catch (err) {
+            console.error("updateMany error:", err);
+            res.status(500).send(err);
+        }
+    });
 
     app.post("/api/update" + col.col, function (req, res) {
 
@@ -133,6 +168,7 @@ collections.map(col => {
                 res.send(err)
             } else {
                 res.send(data)
+                backup("3")
             }
         })
     })
@@ -151,8 +187,6 @@ app.get("/api/getPontoDePartida", function (req, res) {
 })
 
 app.post("/api/updatePontoDePartida", function (req, res) {
-    // console.log(req.body.id)
-    // console.log(req.body.content)
     pontoDePartidaModel.findByIdAndUpdate('63e70a49f18161f7457be722', req.body.content,
         function (err, data) {
             if (err) {
@@ -178,27 +212,63 @@ app.get("/api/getSelectedCanal", function (req, res) {
 
 
 app.get("/api/getCanais", function (req, res) {
+    console.log("Received request for /api/getCanais");
     canaisModel.find({}, function (err, data) {
         if (err) {
-            console.log("err", err)
-            res.send(err)
+            console.error("Error fetching canais:", err);
+            res.status(500).send(err);
         } else {
-            res.send(data)
+            console.log(`Successfully fetched ${data.length} canais.`);
+            res.send(data);
         }
-    })
-})
+    });
+});
+
+app.post("/api/getGrade", function (req, res) {
+    let searchObj = {
+        canal: { $eq: req.body.canal },
+        diaDaSemana: { $eq: req.body.diaDaSemana }
+    }
+    programasMontadosModel.find(searchObj, function (err, data) {
+        if (err) {
+            console.error("Error fetching programas montados:", err);
+            res.status(500).send(err);
+        } else {
+            let cortesTotais = []
+            data.forEach(prog=>{
+                cortesTotais = [...cortesTotais,...prog.cortes]
+            })
+            res.send(cortesTotais);
+        }
+    }).sort({ gradeOrder: 1 });
+});
+
+app.post("/api/getListaDeProgramasPorCanalDeTv", function (req, res) {
+    let searchObj = {
+        canal: { $eq: req.body.canal }
+    }
+    programaDeTvModel.find(searchObj, function (err, data) {
+            if (err) {
+                res.send(err)
+            } else {
+                res.send(data)
+            }
+    });
+});
 
 
 app.get("/api/getListaDeProgramasDeTv", function (req, res) {
+    console.log("Received request for /api/getListaDeProgramasDeTv");
     programaDeTvModel.find({}, function (err, data) {
         if (err) {
-            console.log("err", err)
-            res.send(err)
+            console.error("Error fetching listaDeProgramasDeTv:", err);
+            res.status(500).send(err);
         } else {
-            res.send(data)
+            console.log(`Successfully fetched ${data.length} programasDeTv.`);
+            res.send(data);
         }
-    })
-})
+    });
+});
 
 app.post("/api/findProgramaById", (req, res) => {
     collections.map(col => {
@@ -217,6 +287,7 @@ app.post("/api/createProgramaDeTv", function (req, res) {
             res.send(err)
         } else {
             res.send(data)
+            backup("4")
         }
     })
 })
@@ -231,6 +302,22 @@ app.post("/api/updateProgramaDeTv", function (req, res) {
             } else {
                 console.log(data)
                 res.send(data)
+                backup("5")
+            }
+    })
+})
+
+app.post("/api/deleteProgramaDeTv", function (req, res) {
+    console.log("=============")
+    console.log(req)
+    console.log("=============")
+    programaDeTvModel.remove({ _id: req.body.content._id },
+        function (err) {
+            if (err) {
+                res.send(err)
+            } else {
+                res.send({ data: "Record has been Deleted..!!" })
+                backup("7")
             }
     })
 })
@@ -242,6 +329,7 @@ app.post("/api/updateCanais", function (req, res) {
                 res.send(err)
             } else {
                 res.send(data)
+                backup("6")
             }
     })
 })
@@ -253,6 +341,7 @@ app.post("/api/updateSelectedCanal", function (req, res) {
                 res.send(err)
             } else {
                 res.send(data)
+                backup("7")
             }
     })
 })
@@ -265,6 +354,7 @@ app.post("/api/saveUser", function (req, res) {
                 res.send(err)
             } else {
                 res.send({ data: "Record has been Inserted..!!" })
+                backup("8")
             }
         })
     } else {
@@ -274,6 +364,7 @@ app.post("/api/saveUser", function (req, res) {
                     res.send(err)
                 } else {
                     res.send({ data: "Record has been Updated..!" })
+                    backup("9")
                 }
             }
         )
@@ -286,6 +377,7 @@ app.post("/api/deleteUser", function (req, res) {
             res.send(err)
         } else {
             res.send({ data: "Record has been Deleted..!!" })
+            backup("10")
         }
     })
 })
@@ -304,7 +396,7 @@ wss.on('connection', (ws) => {
 
   async function watchChanges() {
     console.log('Watching for changes...');
-    const client = new MongoClient("mongodb://localhost:27017/shufleTV");
+    const client = new MongoClient("mongodb://mongo1:27017/shufleTV");
     await client.connect();
 
     const db = client.db('shufleTV');
@@ -312,7 +404,7 @@ wss.on('connection', (ws) => {
     const pipeline = [
         {
           $match: {
-            "updateDescription.updatedFields.play":  { $eq: true }
+            "updateDescription.updatedFields.idDoFilme": { $exists: true }
           },
         },
       ];
@@ -328,3 +420,18 @@ wss.on('connection', (ws) => {
 
   watchChanges().catch(console.error);
 });
+
+function backup (point) {
+    console.log(point)
+    exec('docker exec mongo1 mongodump --archive=/backups/mongodb_backup.archive', (error, stdout, stderr) => {
+        if (error) {
+          console.error(`exec error: ${error}`);
+          return;
+        }
+        if (stderr) {
+          console.error(`stderr: ${stderr}`);
+          return;
+        }
+        console.log(`stdout: ${stdout}`);
+      });    
+}   
