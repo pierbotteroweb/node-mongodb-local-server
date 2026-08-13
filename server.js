@@ -7,8 +7,11 @@ const { WebSocketServer } = require('ws')
 const { MongoClient, ObjectId } = require("mongodb")
 const { exec } = require('child_process');
 
+const DEFAULT_MONGO_URL = "mongodb://mongo1:27017/shufleTV?replicaSet=rs0"
+const MONGO_URL = process.env.MONGO_URL || DEFAULT_MONGO_URL
+const MONGO_DB_NAME = process.env.MONGO_DB_NAME || 'shufleTV'
 
-const db = mongo.connect("mongodb://mongo1:27017/shufleTV", function (err, res) {
+const db = mongo.connect(MONGO_URL, function (err, res) {
     if (err) { console.log(err) }
     else {
         // console.log('Connected to ' + db, ' + ', res)
@@ -23,7 +26,7 @@ const corsOptions = {
     optionsSccessStatus: 200
 }
 
-app.use(cors(corsOptions))
+// app.use(cors(corsOptions))
 app.use(bodyParser.json({ limit: '50mb' }))
 app.use(bodyParser.urlencoded({ limit: '50mb', extended: true }))
 
@@ -396,10 +399,10 @@ wss.on('connection', (ws) => {
 
   async function watchChanges() {
     console.log('Watching for changes...');
-    const client = new MongoClient("mongodb://mongo1:27017/shufleTV");
+    const client = new MongoClient(MONGO_URL);
     await client.connect();
 
-    const db = client.db('shufleTV');
+    const db = client.db(MONGO_DB_NAME);
     const collection = db.collection('pontoDePartida');
     const pipeline = [
         {
