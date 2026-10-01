@@ -3,9 +3,9 @@ const path = require("path")
 const bodyParser = require('body-parser')
 const mongo = require("mongoose")
 var cors = require('cors');
-const { WebSocketServer } = require('ws')
-const { MongoClient, ObjectId } = require("mongodb")
+const { ObjectId } = require("mongodb")
 const { exec } = require('child_process');
+const watchChanges = require('./watchChanges')
 
 const DEFAULT_MONGO_URL = "mongodb://mongo1:27017/shufleTV?replicaSet=rs0"
 const MONGO_URL = process.env.MONGO_URL || DEFAULT_MONGO_URL
@@ -389,40 +389,28 @@ const server = app.listen(PORT, function () {
     console.log(`Express server listening on port ${PORT}`)
 })
 
+const watchers = [
+    {
+        collectionName: 'pontoDePartida',
+        matchObject: {
+            'updateDescription.updatedFields.idDoFilme': { $exists: true }
+        }
+    },
+    {
+        collectionName: 'seletorDeCanais',
+        matchObject: {
+            'updateDescription.updatedFields.canal': { $exists: true }
+        }
+    }
+]
 
-// Attach the WebSocket server to the existing HTTP server
-const wss = new WebSocketServer({ server });
+watchChanges(
+    MONGO_URL,
+    MONGO_DB_NAME,
+    watchers,
+    server
+)
 
-wss.on('connection', (ws) => {
-  console.log('WebSocket connection established');
-
-
-  async function watchChanges() {
-    console.log('Watching for changes...');
-    const client = new MongoClient(MONGO_URL);
-    await client.connect();
-
-    const db = client.db(MONGO_DB_NAME);
-    const collection = db.collection('pontoDePartida');
-    const pipeline = [
-        {
-          $match: {
-            "updateDescription.updatedFields.idDoFilme": { $exists: true }
-          },
-        },
-      ];
-
-    // Watch for changes on the collection
-    const changeStream = collection.watch(pipeline);
-
-    changeStream.on('change', (change) => {
-
-      ws.send(JSON.stringify(change));
-    });
-  }
-
-  watchChanges().catch(console.error);
-});
 
 function backup (point) {
     console.log(point)
